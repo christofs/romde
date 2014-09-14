@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+Colloque international : Yves Ravey, une écriture de l’exigence
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Wien
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2014-06-03
+</p>
+<p class='bottom'>
+<b>
+Ende:
+</b>
+2014-06-05
+</p>
+</div>
+<p>Colloque international à Vienne: Yves Ravey, une écriture de l’exigence
+<br />3, 4 et 5 juin 2014, en présence d’Yves Ravey
+<br />Unterstützt durch Wissenschafts- und Forschungsförderung der Kulturabteilung/Stadt Wien</p>
+
+<p>Mardi 3 juin 2014</p>
+
+<p>18h, Otto-Wagner-Kirche, Steinhof
+<br />Lecture en français par Yves Ravey du texte inédit : « Ce qui manque au lexique ne peut être compté ».
+<br />Lecture de ce texte en allemand par Jutta Fortin.</p>
+
+<p>Mercredi 4 juin 2014 Institut français de Vienne</p>
+
+<p>9h30 : Ouverture du colloque</p>
+
+<p>10h-11h : Inscriptions d’un imaginaire : histoire et géographie</p>
+
+<p>Wolfgang Asholt (Berlin et Osnabrück) : 
+<br />« Art, Littérature, Histoire : les essais d’Yves Ravey »</p>
+
+<p>Martina Stemberger (Vienne) : 
+<br />« Voyage au cœur sombre de l’Autriche : l’inscription de l’histoire culturelle autrichienne dans l’imaginaire littéraire d’Yves Ravey »</p>
+
+<p>Pause café</p>
+
+<p>11h30-12h30 : Filiations et fantômes</p>
+
+<p>Jutta Fortin (Vienne) : « L’écriture fantomatique et la ‘mère morte’ » </p>
+
+<p>Dominique Viart (Paris) : « Malaises dans la filiation »</p>
+
+<p>Pause repas</p>
+
+<p>14h30-16h : Poétique du récit 1 : narrativité, genres, description</p>
+
+<p>Isabelle Dangy (CIEREC, Saint-Étienne) : « Témoignage et déposition : formes du récit chez Yves Ravey »</p>
+
+<p>Fabien Gris (CIEREC, Saint-Étienne) : « Les objets dans l’œuvre d’Yves Ravey » </p>
+
+<p>Jean Kaempfer (Lausanne) : « Genres en résidence. Polar et mélodrame chez Yves Ravey »</p>
+
+<p>Pause café</p>
+
+<p>16h30-17h30 : Poétique du récit 2 : réception</p>
+
+<p>Pierre Schoentjes (Gand): «Pour dire ‘un certain malaise’ : un roman peu ordinaire »</p>
+
+<p>Lydia Bauer (Potsdam) : « Piège à regard. Mode d’emploi pour se méfier de la première impression »</p>
+
+<p>19h : Soirée consacrée à Yves Ravey</p>
+
+<p>Entretien avec Yves Ravey, mené par Jutta Fortin et Jean-Bernard Vray ; lectures par l’écrivain d’extraits de romans ; discussion entre l’écrivain et la salle.</p>
+
+<p>Jeudi 5 juin 2014
+<br />Institut des langues et littératures romanes, Université de Vienne</p>
+
+<p>9h-10h : Ravissements</p>
+
+<p>Jean-Bernard Vray (Saint-Étienne) : « La photo-graphie et les photographies » </p>
+
+<p>Jean-Baptiste Harang, journaliste : « Yves Ravey, Eve ravie »</p>
+
+<p>Pause café</p>
+
+<p>10h30 : Table ronde : « Yves Ravey et le théâtre »</p>
+
+<p>Avec Yves Ravey, Jean-Baptiste Harang et Wolfgang Asholt; modérée par Dominique Viart.</p>
+
+<p>12h : Lecture par Yves Ravey de son texte théâtral inédit : Devant la chambre.</p>
+
+<p>Pause repas</p>
+
+<p>14h30-15h30 : La famille, sa mécanique et ses fantômes</p>
+
+<p>Christine Jérusalem (Lyon) : « Pères, mères, oncles, cousins, frères et sœurs : une mécanique familiale peu ordinaire »</p>
+
+<p>Andréa Lauterwein (Paris) : « Membres fantôme, ordre familial et filiation chez Yves Ravey »</p>
+
+<p>Clôture du colloque</p>
+
+<p>Comité scientifique du colloque :
+<br />Prof. Wolfgang Asholt (Berlin et Osnabrück) 
+<br />Dr. Jutta Fortin (Vienne)
+<br />Prof. Pierre Schoentjes (Gand)
+<br />Prof. Dominique Viart (Paris)
+<br />Prof. Jean-Bernard Vray (Saint-Étienne)</p>
+
+<p>Responsables du colloque :
+<br />Wolfgang Asholt (washolt@gmx.de) 
+<br />Jutta Fortin (jutta.fortin@univie.ac.at) 
+<br />Jean-Bernard Vray (jean-vray@bbox.fr)</p>
+
+<p>Comité d’organisation : 
+<br />Judith Aistleitner
+<br />Jutta Fortin
+<br />Universität Wien
+<br />Institut für Romanistik
+<br />Spitalgasse 2 Hof 9
+<br />1090 Wien</p>
+
+<p>@ Tram 40, 41, 42, 37, 38. Station « Schwarzspanierstraße ».
+<br />Institut français de Vienne Palais Clam-Gallam Währingerstrasse 30 1090 Wien
+<br />@ Tram 40, 41, 42, 37, 38. Station « Schwarzspanierstraße ».
+<br />Otto-Wagner-Kirche
+<br />Baumgartner Höhe 1
+<br />1140 Wien
+<br />@ Bus 48A. Station « Baumgartner Höhe ».</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/4-Lars_Schneider">Lars Schneider</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/4-Lars_Schneider">Lars Schneider</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

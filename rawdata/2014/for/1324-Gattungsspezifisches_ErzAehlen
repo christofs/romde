@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Gattungsspezifisches Erzählen (Veranstaltungsprojekt)</h2>
+<h3>Formen und Formwandel</h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Samstag, 21. April 2012</dd>
+<dt>Projektende</dt>
+<dd>Sonntag, 22. April 2012</dd>
+<dt>Status</dt>
+<dd>abgeschlossen</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.zef.uni-wuppertal.de/aktuelles/ansicht/detail/19/maerz/2012/artikel/workshop-gattungsspezifisches-erzaehlen-formen-und-formwandel-1.html" target="_blank">http://www.zef.uni-wuppertal.de/aktuelles/ansicht/detail/19/maerz/2012/artikel/workshop-gattungsspezifisches-erzaehlen-formen-und-formwandel-1.html</a></dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Germanistik, Anglistik
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Narratologie, Gattungsforschung, Faktualität/Fiktionalität
+</dd>
+</dl>
+<h4>Aktiv beteiligte Person(en)</h4>
+<p>(z.B. Kooperation, Mitarbeiter, Fellows)</p>
+<a href="/pers/2163-Julia_Ilgner" class="tag multiline" popup="true">Julia Ilgner</a>
+<span class='tag multiline'>Simon Maria Hassemer</span>
+<span class='tag multiline'>Stefanie Roggenbuck</span>
+<span class='tag multiline'>Lukas Werner</span>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><p>Oberflächlich betrachtet, scheinen Erzähl- und Gattungsforschung zwei wissenschaftliche Disziplinen zu sein, die divergenter kaum sein könnten: Geht es der klassischen Erzähltheorie vor allem darum, die Struktur einzelner Texte zu erfassen, ist die Gattungstheorie vornehmlich darum bemüht, das Gemeinsame bestimmter Textgruppen zu bestimmen. Steht im ersten Fall also die Erzählform im Vordergrund, geht es im zweiten darum, in synchroner wie diachroner Perspektive den Formwandel zu erfassen. Wirft man aber einen genaueren Blick auf die jeweils verschiedenen Erkenntnisinteressen, so wird schnell deutlich, dass diese nicht einen diametralen Gegensatz bilden (müssen), sondern gerade vor dem Hintergrund der Dynamisierung der Narratologie im Rahmen der new narratologies in ein fruchtbares Verhältnis zueinander gesetzt werden können. Zwei Anknüpfungspunkte bieten die new narratologies: zum einen das wachsende Interesse an kontextuellen Bezügen und zum anderen dasjenige an transgenerischen Fragen. Daraus ergibt sich ein breites Spektrum von Themen; in den Fokus rücken Fragen der sozialen Praxis im Umgang mit Texten (die Differenz zwischen Fiktionalität und Faktualität), gattungsspezifische Formen des Erzählens und u.a. die Narrativität genuin nicht-narrativer Gattungen (Lyrik, Drama). Diesen Fragen aus den Perspektiven der Gattungsforschung und der Narratologie nachzugehen, und somit das vielversprechende heuristische Potenzial einer Zusammenführung der Ansätze auszuschöpfen, ist das Ziel des Workshops.</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>2. Workshop der AG &#8220;Erzählforschung&#8221; im Rahmen der Kooperation des Zentrums für Graduiertenstudien (<span class="caps">BUW</span>) und der AG &#8220;Rezeption und Intertextualität&#8221; der Graduiertenschule Kultur- und Sozialwissenschaften (Albert-Ludwigs-Universität Freiburg i. Br.)</p></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/2163-Julia_Ilgner" class="tag multiline" popup="true">Julia Ilgner</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Mittwoch, 21. März 2012, 17:16 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 21. März 2012, 17:16 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

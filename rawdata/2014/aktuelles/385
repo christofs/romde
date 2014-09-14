@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfP: Sektion 2.1 des Deutschen Hispanistentags 2015: Umweltdiskurse in Lateinamerika. Historische und gegenwärtige Perspektiven zwischen Lokalität und Globalität
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Heidelberg
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-11-01
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2015-03-18
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2015-03-22
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/iaz/20ht/sektionen/21_de.html" target="_blank">http://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/iaz/20ht/sektionen/21_de.html</a>
+</p>
+</div>
+<p>Sektionsleitung: Dr. des. Elmar Schmidt (Universität Bonn), Dr. Monika Wehrheim (Universität Bonn)</p>
+
+<p>Ökologische Transformationen - Konsequenzen des Klimawandels, Kontaminationen des  Lebensraums, Risiken industrieller Rohstoffextraktion, Auswirkungen der Gentechnik, ökologische Folgeschäden neoliberaler Wirtschaftspolitiken – sind schon seit geraumer Zeit auf breiter Basis und in regional unterschiedlichen Ausformungen bestimmende Themen der öffentlichen Debatten Lateinamerikas. Das Problemfeld produziert gesellschaftliche Spannungen – die Suche nach Lösungswegen erscheint als eine der dringlichsten Herausforderungen für die Zukunft des Kontinents. Lateinamerikanische Umweltdiskurse entstehen hierbei keineswegs im luftleeren Raum. Sie vernetzen sich einerseits mit globalen Wahrnehmungen der ökologischen Krise, greifen aber andererseits auf eine starke, genuin lateinamerikanische Tradition der Diskursivierung natürlicher Umwelt zurück. Seit der conquista kam der steten Neuformulierung und Aushandlung von Naturwahrnehmungen zentrale Bedeutung in Politik, Gesellschaft und Kultur zu. Die natürliche Umwelt der ‚Neuen Welt‘ wurde durch die Jahrhunderte zur Projektionsfläche von Utopien und Dystopien, zum Ort des ‚barbarischen‘ Anderen, zur ‚grünen Hölle‘, zum Kristallisationspunkt der Suche nach Identität oder zum unberührten aber bedrohten (Gegen-)Raum ökologischer Ausgewogenheit.
+<br />Die Sektion wird in diesem Kontext theoretische Ansätze des im anglophonen Raum entwickelten und sich aktuell auch in Europa weiter diversifizierenden, kultur- und literaturwissenschaftlichen Konzepts des Ecocriticism für die deutschsprachige Hispanistik fruchtbar machen. Hierbei gilt es, insbesondere die historischen wie gegenwärtigen Besonderheiten lateinamerikanischer Umweltdiskurse zu entschlüsseln und zu berücksichtigen. Die auch im globalen Kontext zentralen Risiko- und Katastrophennarrative werden in Lateinamerika zumeist unter Verweis auf die Verwurzelung der Krise in der kolonialen Vergangenheit und in neoimperialen Dependenzen konstruiert. Mehr als in den westlichen Industrienationen werden ökologische Paradigmen hier im Zusammenhang mit sozialen Aspekten verhandelt. Umweltgerechtigkeit wird zum zentralen Nenner einer Realität, in der ökologische Risiken vor allem marginalisierte Bevölkerungsteile bedrohen. Biodiversität wird häufig im Zusammenhang mit kultureller Diversität thematisiert. Der indigenen Bevölkerung erschließen sich einerseits neue Handlungsspielräume als soziale Akteure, andererseits werden überregional historische Stereotype der ‚Edlen Wilden‘ unter ökologischen Vorzeichen aktualisiert. Zudem sind Umweltdiskurse in Lateinamerika von transarealen Wechselwirkungen zwischen lokalen und globalen Problemstellungen geprägt. 
+<br />Fiktionale und faktuale Texte, Prosaliteratur, Essayistik, Lyrik, Theater, historiographische Texte, Chroniken und Naturgeschichten, Spiel- und Dokumentarfilme, Comics und neue Medien sollen dazu dienen, die historischen und – hieraus resultierend – gegenwärtigen Tiefenschichten der lateinamerikanischen environmentality (Buell) in ihren komplexen Facetten zu bestimmen. </p>
+
+<p>Mögliche Arbeitsfelder:
+<br />•	Umweltdiskurse in historischer Perspektive:
+<br />Diskursivierung und Funktionalisierung von natürlicher Umwelt in Lateinamerika seit der Eroberung; Naturdiskurse, conquista und nation-building; Natur, Identität und Alterität
+<br />•	Umweltdiskurse und ihr Imaginäres
+<br />Bilder, Symbole und Erzählmuster der Verhandlung und imaginären Konstruktion von Umwelt (z.B. toxic discourse, ‚Grüne Wilde‘, öko-apokalyptische Szenarien, Utopien und Dystopien); literarische Risiko-, Krisen- und Katastrophennarrative; Konstruktion und diskursive Besetzung von Räumen und Gegenräumen (z.B. Stadt vs. selva); literarische Gattungsreflektionen und -modifikationen (z.B. neuer ‚ökologischer Realismus‘, Ökothriller, ökologische Science Fiction, climate change novel)
+<br />•	Besonderheiten lateinamerikanischer Umweltdiskurse:
+<br />Diskursivierung der Umweltthematik in der Essayistik (z.B. Entwicklung spezifisch lateinamerikanischer (proto-)ökologischer Konzepte, Intellektuellen-  und Wissenschaftsgeschichte); lateinamerikanische Alternativen und ihre kulturellen Ausdrucksformen (z.B. neue soziale Bewegungen, neue solidarische Wirtschaftsformen und ihre Symbolik); Diskursstrukturen des Konzepts des Buen Vivir 
+<br />•	Lateinamerikanische Umweltdiskurse und ihre globalen Kontexte
+<br />Verhandlungen und Funktionen von Lokalität, Globalität und ‚Glokalität‘; regionale Umweltkonflikte und ihre mediale Inszenierungen im translokalen und globalen Kontext; Kosmopolität, Deterritorialisierung und Reterritorialisierung; kulturelle Landschaften des Anthropozän 
+<br />•	Umweltdiskurse und Genderaspekte
+<br />Ökologische Lektüren von Weiblichkeits- und Männlichkeitsentwürfen 
+<br />•	Post-humanistische Perspektiven und Körperlichkeit 
+<br />Verhandlungen anthropozentristischer Konzepte in Lateinamerika; Animal Studies;  Wechselwirkungen von Kultur und materieller Realität; nichtmenschliche Umwelt als (extra- und intratextueller) Akteur; post-humanistische Ansätze und literarische Repräsentation; Körperlichkeit und die poröse Durchlässigkeit von körperlichen Oberflächen (z.B. im Kontext von Ernährung, Umweltgiften, Kontamination) </p>
+
+<p>Die Sektion findet in spanischer Sprache statt. Vortragsvorschläge mit Abstract (200-300 Wörter) können bis zum 1. November 2014 geschickt werden an:
+<br />Dr. des. Elmar Schmidt (eschmidt@uni-bonn.de), Dr. Monika Wehrheim (m.wehrheim@uni-bonn.de)</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/4062-Elmar_Schmidt">Elmar Schmidt</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/3740-Reto_ZOellner">Reto Zöllner</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

@@ -1,0 +1,1032 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href="/aktuelles.atom" rel="alternate" title="ATOM" type="application/atom+xml" />
+
+</head>
+<body class='dashboard index'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='space'></div>
+<div class='alert alert-error'>
+<div id="flash_alert">You are not authorized to access this page.</div>
+</div>
+<div class='row-fluid' id='dashboard'>
+<div class='span4'>
+<div class='space'></div>
+<div class='well'>
+<h4>Noch nicht eingetragen?</h4>
+<p><a href="/register" class="btn "><i class="icon-user "> </i> Eigenes Profil registrieren</a></p>
+<p>Angemeldete Nutzer können ein persönliches Profil anlegen, Meldungen eintragen und Projekte oder Publikationen der Fachgemeinschaft präsentieren.</p>
+<p>
+<a href="/login">Sie haben bereits einen Account?</a>
+</p>
+</div>
+<div class='well'>
+<h4>Rundbrief abonnieren</h4>
+<div class='row-fluid'>
+<form accept-charset="UTF-8" action="/newsletter_subscriptions" class="simple_form bottom" id="new_newsletter_subscription" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" /></div><div class="control-group email optional newsletter_subscription_email"><label class="email optional control-label" for="newsletter_subscription_email">E-Mail</label><div class="controls"><input class="string email optional" id="newsletter_subscription_email" name="newsletter_subscription[email]" size="50" type="email" /></div></div>
+<input class="btn bottom" name="commit" type="submit" value="abonnieren" />
+</form>
+
+</div>
+</div>
+<div class='well space'><div class='content_items'>
+</div>
+</div>
+<h4>Neueste laufende Projekte</h4>
+<ul class='space'>
+<li class='space'><a href="/for/2202-Les_interfaces_num_riques_dans_la_recherche_d_aujourd_hui">Christof Schöch, Elisabeth Burr: Les &quot;interfaces numériques&quot; dans la recherche d&#x27;aujourd&#x27;hui. Sektion beim Frankoromanistentag 2014 in Münster. (Veranstaltungsprojekt)</a></li>
+<li class='space'><a href="/for/2524-Fachdidaktik_Italienisch_Eine_EinfUehrung">Christine Michler, Daniel Reimann, Susanne Zieglmeier: Fachdidaktik Italienisch. Eine Einführung. (Sonstiges Projekt)</a></li>
+<li class='space'><a href="/for/2537-Gegenargumentieren_in_der_Digitalkultur_FranzOesische_InternetforenbeitrAege_zu_europapolitischen_Fragen">Claudia Sofie Schmitz: Gegenargumentieren in der Digitalkultur: Französische Internetforenbeiträge zu europapolitischen Fragen. (Promotionsprojekt)</a></li>
+<li class='space'><a href="/for/2530-_Ajouter_l_art_le_mouvement_Guillaume_Apollinaire_als_Dichter_der_Bewegung">Fanny Romoth: ‚Ajouter à l&#x27;art le mouvement&#x27; – Guillaume Apollinaire als Dichter der Bewegung. (Promotionsprojekt)</a></li>
+<li class='space'><a href="/for/2515-Deutsch_franzOesisches_Doktorandenkolleg_TUebingen_Aix_Konfliktkulturen_Kulturkonflikte">Christoph Maria Sanders: Deutsch-französisches Doktorandenkolleg Tübingen-Aix &quot;Konfliktkulturen / Kulturkonflikte. (Promotionsprojekt)</a></li>
+<li class='space'><a href="/for/2523-Eine_Aufgabe_zwei_Fremdsprachen_FranzOesisch_oder_Deutsch_nach_Englisch_">Eine Aufgabe, zwei Fremdsprachen: Französisch oder Deutsch nach Englisch . Gebrauch und Verbalisierung von Interaktionsstrategien bei jugendlichen Lernern. (Promotionsprojekt)</a></li>
+<li class='space'><a href="/for/2505-Pierre_Klossowskis_erzAehlerisches_Werk">Jonas Hock: Pierre Klossowskis erzählerisches Werk. (Arbeitstitel). (Promotionsprojekt)</a></li>
+<li class='space'><a href="/for/2490-Zur_Nutzung_interlingualer_Lernstrategien_im_romanischen_FSU_am_Beispiel_von_Lernenden_mit_der_Herkunftssprache_Italienisch">Amina  Kropp: Zur Nutzung interlingualer Lernstrategien im (romanischen) FSU am Beispiel von Lernenden mit der Herkunftssprache Italienisch. (Habilitationsprojekt)</a></li>
+<li class='space'><a href="/for/2487-Corneilles_FamilientragOedien">Fabienne Detoc: Corneilles Familientragödien. Le Cid (1637, 1648, 1660), Horace (1640), Nicomède (1658) und Agésilas (1666). (Promotionsprojekt)</a></li>
+<li class='space'><a href="/for/2486-TragOedien_der_MAennlichkeit_Die_Herausbildung_einer_modernen_Geschlechter_und_Gesellschaftskonzeption_im_Theater_der_franzOesischen_Klassik_1633_1677">Hendrik Schlieper: Tragödien der Männlichkeit. Die Herausbildung einer &#x27;modernen&#x27; Geschlechter- und Gesellschaftskonzeption im Theater der französischen Klassik, 1633-1677. (Habilitationsprojekt)</a></li>
+</ul>
+<h4>Neueste Publikationen</h4>
+<ul class='space'>
+<li class='space'><a href="/pub/2564-Romanistik_als_Passion_Sternstunden_der_neueren_Fachgeschichte_III">Klaus-Dieter Ertler (Hg.): Romanistik als Passion. Sternstunden der neueren Fachgeschichte III.  Münster 2014. </a></li>
+<li class='space'><a href="/pub/2563-Entre_el_olvido_y_el_recuerdo_Iconos_lugares_de_memoria_y_c_nones_de_la_historia_y_la_literatura_en_Colombia">Carlos Rincón, Sarah de Mojica, Liliana Gómez-Popescu (Hg.): Entre el olvido y el recuerdo. Iconos, lugares de memoria y cánones de la historia y la literatura en Colombia.  Bogotá D.C. 2010. </a></li>
+<li class='space'><a href="/pub/2562-Lo_urbano_Teor_as_culturales_y_pol_ticas_de_la_ciudad_en_Am_rica_Latina">Liliana Gómez-Popescu: Lo urbano. Teorías culturales y políticas de la ciudad en América Latina.  Pittsburgh 2014.</a></li>
+<li class='space'><a href="/pub/2558-La_esfera_de_las_rutas"> Álvaro Ruiz Abreu: La esfera de las rutas. El viaje poético de Pellicer.  Madrid, Frankfurt 2014.</a></li>
+<li class='space'><a href="/pub/1190-Ehre_und_Un_Ehre">Sonja Kral: Ehre und Un-Ehre. Ein komparativer Essai über zwei Dramas de Honor von Félix Lope de Vega Carpio und Pedro Calderón de la Barca.   2000.</a></li>
+<li class='space'><a href="/pub/1189-Semiotik_des_Europabegriffs">Sonja Kral: Semiotik des Europabegriffs.   2001.</a></li>
+<li class='space'><a href="/pub/1188-Semiotische_Berichte">Semiotische Berichte. Geld, Geist, Bedeutung.  2001/1-4 (2001)</a></li>
+<li class='space'><a href="/pub/1185-Trans_Internet_Zeitschrift_fUer_Kulturwissenschaften">Trans. Internet-Zeitschrift für Kulturwissenschaften. Innovationen und Reproduktionen in Kulturen und Gesellschaften.  2006/16 (2006)</a></li>
+<li class='space'><a href="/pub/1184-Gram_tica_explicativa_de_le_lengua_castellana">Gramática explicativa de le lengua castellana. Sachregister.   2009.</a></li>
+<li class='space'><a href="/pub/1183-Diskurs_Text_Sprache">Francesco Gardani, Sonja Kral: Diskurs - Text - Sprache. Sachregister.   2006.</a></li>
+</ul>
+<div class='content_items'>
+</div>
+
+<div class='space'>&nbsp;</div>
+</div>
+<div class='span8'>
+<div class='space'><div class='content_items'>
+<div class='content_item' id='content_item_12'>
+<div class='row-fluid'>
+<div class='span12'>
+<h3>Willkommen bei romanistik.de</h3>
+<div class='pull-right content_image-right'><img alt="Romde-logo" src="/system/content_items/images/000/000/012/half/romde-logo.png?1393839189" /></div>
+<p>Seit Februar 1999 finden Sie hier eine offene, moderierte Plattform aus der deutschsprachigen Romanistik für die Fachgemeinschaft. Im Bereich <b><a href="https://romanistik.de/aktuelles">Aktuelles</a></b> finden Sie Mitteilungen über Stellen, Tagungen und sonstige Neuigkeiten; im Bereich <b><a href="https:/romanistik.de/for">Forschung</a></b> finden Sie Informationen über Personen, Projekte und Publikationen.</p>
+<p>Sie können diese Informationen auch als Rundbrief abonnieren oder nach einer einfachen Registrierung selbst Mitteilungen und Forschungsinformationen beitragen. Weitere Bereiche der Plattform behandeln die Belange des Mittelbaus sowie Verbandsangelegenheiten.</p>
+</div>
+</div>
+</div>
+<div class='content_item' id='content_item_11'>
+<div class='row-fluid'>
+<div class='span12'>
+<p>Willkommen! <a href="/romanistikde">Einige weitere Informationen über die Plattform</a>.<br />
+Bienvenue ! <a href="/romanistikde/bienvenue">Informations sur la plateforme</a>.<br />
+¡Bienvenid@! <a href="/romanistikde/bienvenida">Informaciones sobre la plataforma</a>.<br />
+Benvenuto! <a href="/romanistikde/benvenuto">Informazioni relative alla piattaforma</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<h3>
+Aktuelle Meldungen
+</h3>
+<ul class='unstyled'>
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+12. September, 09:15 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Tagungsausschreibungen
+</small>
+</p>
+<h4>
+<a href="/aktuelles/415">CfP: ALA Conference 2015, &quot;African Futures and Beyond. Visions in Transition&quot;</a>
+</h4>
+<p>
+ALA Conference 2015 | Call for Papers/Call for Panels
+
+41st Annual Conference of the African Literature Association 
+&quot;African Futures and Beyond. Visions in Transition&quot;. 
+
+Colonial fantasies h...
+<strong><a href="/aktuelles/415">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Bayreuth | <strong>Disziplinen:</strong> Literaturwissenschaft, Medien-/Kulturwissenschaft | <strong>Sprachen:</strong> Französisch
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/4088-Maroua_El_Naggare">Maroua El Naggare</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+12. September, 09:11 Uhr
+</small>
+<small>
+Stellen &gt; Stipendien
+</small>
+</p>
+<h4>
+<a href="/aktuelles/417">11 Promotionsstipendien: „Vergegenwärtigungen. Repräsentationen der Shoah in komparatistischer Perspektive“</a>
+</h4>
+<p>
+Im von der Landesforschungsförderung Hamburg geförderten Graduiertenkolleg „Vergegenwärtigungen. Repräsentationen der Shoah in komparatistischer Perspektive“ der Fakultät für Geisteswissenschaften ...
+<strong><a href="/aktuelles/417">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Hamburg | <strong>Disziplinen:</strong> Literaturwissenschaft, Medien-/Kulturwissenschaft | <strong>Sprachen:</strong> Französisch, Italienisch, Spanisch, Sprachübergreifend
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/3777-Academics_de_www_academics_de">Academics.de www.academics.de</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+12. September, 08:59 Uhr
+</small>
+<small>
+Stellen &gt; Professuren
+</small>
+</p>
+<h4>
+<a href="/aktuelles/416">Universitätsprofessor/in für spanisch- und französischsprachige Literaturen und Kulturen</a>
+</h4>
+<p>
+Am Institut für Romanistik der Philologisch-Kultur­wissen­schaft­lichen Fakultät der Leopold-Franzens-Universität Innsbruck ist die Stelle einer/ eines
+
+Universitätsprofessorin/ Universitätsprofe...
+<strong><a href="/aktuelles/416">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Innsbruck, Österreich | <strong>Disziplinen:</strong> Literaturwissenschaft, Medien-/Kulturwissenschaft | <strong>Sprachen:</strong> Französisch, Spanisch
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/3777-Academics_de_www_academics_de">Academics.de www.academics.de</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+11. September, 09:35 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Sonstige Veranstaltungen
+</small>
+</p>
+<h4>
+<a href="/aktuelles/413">2. Siegener Spanischlehrertag 2014 „¡Cuéntame, Argentina!“</a>
+</h4>
+<p>
+Die Länder Lateinamerikas bieten für den schulischen Spanischunterricht vielfältige und motivierende Möglichkeiten zur Beschäftigung mit kultureller, gesellschaftlicher und sprachlicher Pluralität....
+<strong><a href="/aktuelles/413">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Siegen | <strong>Disziplinen:</strong> Fachdidaktik | <strong>Sprachen:</strong> Spanisch
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/1303-Christian_von_Tschilschke">Christian  von Tschilschke</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+11. September, 09:34 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Tagungsausschreibungen
+</small>
+</p>
+<h4>
+<a href="/aktuelles/412">CfP: Sektion des 20. Hispanistentags: &quot;Spaltsätze in der hispanophonen Welt: strukturelle und variationelle Probleme&quot;</a>
+</h4>
+<p>
+Die sog. Spaltsätze (eng. &quot;clefts&quot;; sp. &quot;oraciones hendidas&quot; oder &quot;escindidas&quot;) sind in den letzten Jahrzenten nach dem Aufschwung syntaktisch orientierter Studien über Informationsstruktur — welch...
+<strong><a href="/aktuelles/412">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Heidelberg | <strong>Disziplinen:</strong> Sprachwissenschaft | <strong>Sprachen:</strong> Spanisch
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/4083-Miguel_Guti_rrez_Mat_">Miguel Gutiérrez Maté</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+11. September, 09:17 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Tagungsprogramme
+</small>
+</p>
+<h4>
+<a href="/aktuelles/414">Ästhetik des Tabuisierten in der Literatur- und Kulturgeschichte</a>
+</h4>
+<p>
+Veranstaltungsort:
+Universität Paderborn 17.9.-18.9.2014, Raum P1.301
+ 
+ 
+PROGRAMM
+ 
+Mi, 17.9.14
+9.30-9.45h Begrüßung
+Prof. Dr. Jörn Steigerwald
+Prof. Dr. Claudia Öhlschläger
+
+9.45-10h E...
+<strong><a href="/aktuelles/414">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Paderborn | <strong>Disziplinen:</strong> Literaturwissenschaft, Medien-/Kulturwissenschaft | <strong>Sprachen:</strong> Französisch, Sprachübergreifend
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+10. September, 12:12 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Tagungsprogramme
+</small>
+</p>
+<h4>
+<a href="/aktuelles/411">Populärkultur transnational – Lesen, Hören, Sehen, Erleben in (west-)europäischen Nachkriegsgesellschaften der langen 1960er Jahre</a>
+</h4>
+<p>
+Populärkultur transnational – Lesen, Hören, Sehen, Erleben in (west-)europäischen Nachkriegsgesellschaften der langen 1960er Jahre
+06.10.2014-08.10.2014, Saarbrücken, Stiftung Demokratie Saarland,...
+<strong><a href="/aktuelles/411">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Saarbrücken | <strong>Disziplinen:</strong> Medien-/Kulturwissenschaft | <strong>Sprachen:</strong> Sprachübergreifend
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/4082-Lukas_Schaefer">Lukas Schaefer</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/3740-Reto_ZOellner">Reto Zöllner</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+09. September, 19:50 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Tagungsprogramme
+</small>
+</p>
+<h4>
+<a href="/aktuelles/410">Transkulturalität nationaler Räume / La transculturalité des espaces nationaux</a>
+</h4>
+<p>
+Transkulturalität nationaler Räume / La transculturalité des espaces nationaux. Übersetzungen, Kulturtransfer und Vermittlungsinstanzen im deutsch-französischen Kontext / Traductions, transfert cul...
+<strong><a href="/aktuelles/410">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Marburg | <strong>Disziplinen:</strong> Literaturwissenschaft, Medien-/Kulturwissenschaft, Weitere Teilbereiche | <strong>Sprachen:</strong> Französisch, Sprachübergreifend
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+08. September, 15:35 Uhr
+</small>
+<small>
+Mitteilungen &gt; Allgemeine Mitteilungen
+</small>
+</p>
+<h4>
+<a href="/aktuelles/409">Nachruf auf Manfred Naumann (1925 – 2014) von Wolfgang Klein</a>
+</h4>
+<p>
+Manfred Naumann (1925 – 2014)
+
+Rede auf der Trauerfeier in Wandlitz, 6. September 2014
+
+Bei seiner Beisetzung zu sprechen, hat mein Lehrer, langjähriger Chef und Nachbar mich schon vor einiger ...
+<strong><a href="/aktuelles/409">mehr</a></strong>
+</p>
+<p>
+<small>
+
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/4-Lars_Schneider">Lars Schneider</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/4-Lars_Schneider">Lars Schneider</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+08. September, 15:32 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Tagungsprogramme
+</small>
+</p>
+<h4>
+<a href="/aktuelles/408">Artificios - Technik und Erfindungsgeist in der spanischen Literatur und Kultur der frühen Neuzeit</a>
+</h4>
+<p>
+Hispanistisches Kolloquium 5 - ARTIFICIOS:
+Auf der fünften Tagung der 1998 begründeten Reihe «Hispanistisches Kolloquium» soll untersucht werden, in welcher Weise die Begriffe  der Technik, der Er...
+<strong><a href="/aktuelles/408">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Köln, Schloss Wahn (Gartensaal) | <strong>Disziplinen:</strong> Literaturwissenschaft, Medien-/Kulturwissenschaft | <strong>Sprachen:</strong> Spanisch
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/4081-Martina_Mohr">Martina Mohr</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/4-Lars_Schneider">Lars Schneider</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+05. September, 09:13 Uhr
+</small>
+<small>
+Stellen &gt; Wissenschaftliche Stellen
+</small>
+</p>
+<h4>
+<a href="/aktuelles/407">Wiss. Mitarbeiter/in (Postdoc)</a>
+</h4>
+<p>
+An der Graduiertenschule für Geisteswissenschaften Göttingen (GSGG) der Georg-August-Universität Göttingen ist zum nächstmöglichen Zeitpunkt die Stelle einer/eines
+
+wissenschaftlichen Mitarbeiter...
+<strong><a href="/aktuelles/407">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Göttingen | <strong>Disziplinen:</strong> Literaturwissenschaft, Medien-/Kulturwissenschaft, Weitere Teilbereiche | <strong>Sprachen:</strong> Sprachübergreifend
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/3777-Academics_de_www_academics_de">Academics.de www.academics.de</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+04. September, 12:05 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Tagungsprogramme
+</small>
+</p>
+<h4>
+<a href="/aktuelles/396">Comic-Tagung Comfor 2014: &quot;Grenzen ziehen, Grenzen überschreiten&quot; </a>
+</h4>
+<p>
+Liebe Kolleginnen, liebe Kollegen, 
+wir möchten Sie herzlich dazu einladen, an der 9.  Wissenschaftstagung der Gesellschaft für Comicforschung (ComFor) teilzunehmen, die von 25. bis 28. September ...
+<strong><a href="/aktuelles/396">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Berlin | <strong>Disziplinen:</strong> Medien-/Kulturwissenschaft | <strong>Sprachen:</strong> Sprachübergreifend
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/4078-Marie_SchrOeer">Marie Schröer</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/3740-Reto_ZOellner">Reto Zöllner</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+04. September, 11:15 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Tagungsprogramme
+</small>
+</p>
+<h4>
+<a href="/aktuelles/403">Auftaktworkshop der Nachwuchsgruppe “Computergestützte literarische Gattungsstilistik”</a>
+</h4>
+<p>
+Am 29. September 2014 findet der Auftaktworkshop der Nachwuchsgruppe &quot;Computergestützte literarische Gattungsstilistik&quot; an der Universität Würzburg statt. Interessierte KollegInnen und Studierende ...
+<strong><a href="/aktuelles/403">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Würzburg | <strong>Disziplinen:</strong> Literaturwissenschaft | <strong>Sprachen:</strong> Französisch, Spanisch
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+04. September, 10:53 Uhr
+</small>
+<small>
+Stellen &gt; Professuren
+</small>
+</p>
+<h4>
+<a href="/aktuelles/402">Universitätsprofessur für Spanisch- und Französischsprachige Literaturen und Kulturen</a>
+</h4>
+<p>
+Am Institut für Romanistik der Philologisch-Kulturwissenschaftlichen Fakultät der Leopold-Franzens-Universität Innsbruck ist die Stelle einer/eines
+
+UNIVERSITÄTSPROFESSORIN/UNIVERSITÄTSPROFESSORS...
+<strong><a href="/aktuelles/402">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Innsbruck, Österreich | <strong>Disziplinen:</strong> Literaturwissenschaft | <strong>Sprachen:</strong> Spanisch, Französisch
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/2330-Birgit_Mertz_Baumgartner">Birgit Mertz-Baumgartner</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+04. September, 10:52 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Sonstige Veranstaltungen
+</small>
+</p>
+<h4>
+<a href="/aktuelles/401">Lehrerfortbildung &quot;Enrichir le cours de FLE avec le web francophone et pratiquer l’oral et l’écrit avec le web 2.0&quot;</a>
+</h4>
+<p>
+FORMATION Enrichir le cours de FLE avec le web francophone et pratiquer l’oral et l’écrit avec le web 2.0. 
+De la documentation et retouche numérique à la didactisation, vers des activités de prod...
+<strong><a href="/aktuelles/401">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Bonn | <strong>Disziplinen:</strong> Sprachpraxis, Sprachwissenschaft | <strong>Sprachen:</strong> Französisch
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/3467-Sevrine_Ketterer">Sevrine Ketterer</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+04. September, 10:49 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Tagungsprogramme
+</small>
+</p>
+<h4>
+<a href="/aktuelles/400">Das Tragische: Dichten als Denken</a>
+</h4>
+<p>
+Kolloquium an der Universität Bonn, 2.-4. Oktober 2014
+ 
+ 
+PROGRAMM 
+ 
+Donnerstag, 2. Oktober (Moderator: Paul Geyer)
+ 
+17.00: Eröffnung der Tagung; Grußwort des Dekans der Philosophischen F...
+<strong><a href="/aktuelles/400">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Bonn | <strong>Disziplinen:</strong> Literaturwissenschaft, Philosophie | <strong>Sprachen:</strong> Italienisch, Französisch, Deutsch
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/2878-Marco_Menicacci">Marco Menicacci</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+04. September, 10:46 Uhr
+</small>
+<small>
+Stellen &gt; Wissenschaftliche Stellen
+</small>
+</p>
+<h4>
+<a href="/aktuelles/399">Wissenschaftliche/r Mitarbeiter/in Sprachwissenschaft</a>
+</h4>
+<p>
+An der Professur für Romanische Sprach- und Kulturwissenschaft der Universität Passau ist demnächst (ab dem 1.11.2014 und 1.4.2015) die befristete Stelle 
+
+einer wissenschaftlichen Mitarbeiterin ...
+<strong><a href="/aktuelles/399">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Passau | <strong>Disziplinen:</strong> Sprachwissenschaft | <strong>Sprachen:</strong> Italienisch, Französisch, Spanisch
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/4079-Gabi_Guadamillas">Gabi Guadamillas</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+04. September, 10:42 Uhr
+</small>
+<small>
+Stellen &gt; Stipendien
+</small>
+</p>
+<h4>
+<a href="/aktuelles/398">Lehrassistenzen an brasilianischen Hochschulen (DAAD)</a>
+</h4>
+<p>
+Sprachassistenzen
+Der DAAD und die brasilianische Partnerinstitution CAPES vergeben für das Studienjahr 2015 Jahresstipendien für Lehrassistentinnen und Lehrassistenten an Hochschulen in BRASILIEN...
+<strong><a href="/aktuelles/398">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Brasilien | <strong>Sprachen:</strong> Portugiesisch, Sprachübergreifend
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/341-Norbert_Ankenbauer">Norbert Ankenbauer</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+01. September, 12:13 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Tagungsausschreibungen
+</small>
+</p>
+<h4>
+<a href="/aktuelles/395"> Journée ConSciLa: &quot;Grammaire des genres et des styles : quelles approches privilégier ?&quot;</a>
+</h4>
+<p>
+Organisateurs : Thierry Charnois (Université de Paris 13, LIPN), Sascha Diwersy (Université de Cologne), Meri Larjavaara (Åbo Akademi), Dominique Legallois (Université de Caen, Crisco)
+
+Journée C...
+<strong><a href="/aktuelles/395">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Paris, Frankreich | <strong>Disziplinen:</strong> Sprachwissenschaft | <strong>Sprachen:</strong> Französisch, Sprachübergreifend
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/3594-Sascha_Diwersy">Sascha Diwersy</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+28. August, 21:16 Uhr
+</small>
+<small>
+Stellen &gt; Professuren
+</small>
+</p>
+<h4>
+<a href="/aktuelles/394">W2-Professur für italienische und französische Sprachwissenschaft</a>
+</h4>
+<p>
+Im Fachbereich 05 – Philosophie und Philologie – Romanisches Seminar, ist zum nächstmöglichen Zeitpunkt die Stelle
+
+einer Universitätsprofessorin oder eines Universitätsprofessors
+für italienisc...
+<strong><a href="/aktuelles/394">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Mainz | <strong>Disziplinen:</strong> Sprachwissenschaft | <strong>Sprachen:</strong> Französisch, Italienisch
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/3972-Benjamin_Lucas_Meisnitzer">Benjamin Lucas Meisnitzer</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+28. August, 21:15 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Tagungsausschreibungen
+</small>
+</p>
+<h4>
+<a href="/aktuelles/393">CfP: Panel/ Sektion: Face Revisited: A Valid Concept for Cultural and Linguistic Diversity (IPRA 2015)</a>
+</h4>
+<p>
+14th IPRA conference 2015 (Antwerp, Belgium, July, 26th – 31st, 2015)
+
+FACE REVISITED: A VALID CONCEPT FOR CULTURAL AND LINGUISTIC DIVERSITY?
+(María Bernal, Thomas Johnen, Bernd Meyer &amp; Ulrike S...
+<strong><a href="/aktuelles/393">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Antwerpen | <strong>Disziplinen:</strong> Sprachwissenschaft | <strong>Sprachen:</strong> Sprachübergreifend
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/42-Thomas_Johnen">Thomas Johnen</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+26. August, 21:41 Uhr
+</small>
+<small>
+Stellen &gt; Stipendien
+</small>
+</p>
+<h4>
+<a href="/aktuelles/392">Forschungsstipendien an der Maison des Sciences de l´Homme (MSH) für promovierte Geistes- und Sozialwissenschaftler</a>
+</h4>
+<p>
+Der Deutsche Akademische Austauschdienst vergibt in Verbindung mit der Stiftung Maison des Sciences de l'Homme (MSH) Auslandsstipendien für promovierte deutsche Geistes- und Sozialwissenschaftler u...
+<strong><a href="/aktuelles/392">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Paris, Frankreich | <strong>Disziplinen:</strong> Medien-/Kulturwissenschaft | <strong>Sprachen:</strong> Französisch
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+22. August, 16:46 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Tagungsausschreibungen
+</small>
+</p>
+<h4>
+<a href="/aktuelles/391">LIMES XI - Kolloquium für Promovierende und Promovierte der Romanischen Sprachwissenschaft</a>
+</h4>
+<p>
+In der zum 11. Mal stattfindenden LIMES-Tagung werden NachwuchswissenschaftlerInnen der Romanischen Sprachwissenschaft eingeladen, ihre laufenden oder bereits abgeschlossenen Projekte vorzustellen ...
+<strong><a href="/aktuelles/391">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Johannes Gutenberg-Universität Mainz | <strong>Disziplinen:</strong> Sprachwissenschaft | <strong>Sprachen:</strong> Französisch, Italienisch, Portugiesisch, Spanisch, Rumänisch, Katalanisch, Okzitanisch
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/3972-Benjamin_Lucas_Meisnitzer">Benjamin Lucas Meisnitzer</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/4-Lars_Schneider">Lars Schneider</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+22. August, 16:46 Uhr
+</small>
+<small>
+Veranstaltungen &gt; Tagungsprogramme
+</small>
+</p>
+<h4>
+<a href="/aktuelles/390">Interdisziplinäre Dr. Franz J. Vogel Sommerschule in Zusammenarbeit mit dem DRV: &quot;Der Konflikt in Literatur und Recht der frühmodernen Romania.  Zugriffe der romanistischen Literaturwissenschaft und der europäischen Rechtsgeschichte&quot;</a>
+</h4>
+<p>
+Vom 25.8.-28.8. findet an der Universität Frankfurt die erste interdisziplinäre Dr. Franz J. Vogel Sommerschule in Zusammenarbeit mit dem Deutschen Romanistenverband statt. Diese vom Frankfurter An...
+<strong><a href="/aktuelles/390">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Frankfurt am Main | <strong>Disziplinen:</strong> Literaturwissenschaft | <strong>Sprachen:</strong> Sprachübergreifend
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/764-Robert_Hesselbach">Robert  Hesselbach</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/4-Lars_Schneider">Lars Schneider</a></strong>
+</small>
+</p>
+</li>
+
+<li class='news_article'>
+<p>
+<small class='pull-right'>
+21. August, 23:36 Uhr
+</small>
+<small>
+Stellen &gt; Wissenschaftliche Stellen
+</small>
+</p>
+<h4>
+<a href="/aktuelles/389">Wiss. Mitarbeiter(in) Sprachpraxis Brasilianisches Portugiesisch</a>
+</h4>
+<p>
+Fakultät: Fakultät für Geisteswissenschaften
+Fachbereich: SLM II
+Seminar/Institut: Institut für Romanistik
+
+Ab 01.10.2014 ist die 0,5 Stelle eines Wissenschaftlichen Mitarbeiters / einer Wissen...
+<strong><a href="/aktuelles/389">mehr</a></strong>
+</p>
+<p>
+<small>
+<strong>Ort:</strong> Hamburg | <strong>Disziplinen:</strong> Sprachpraxis | <strong>Sprachen:</strong> Portugiesisch
+</small>
+</p>
+<p class='bottom'>
+<small>
+Beitrag von:
+<strong><a href="/pers/418-Christoph_Gabriel">Christoph Gabriel</a></strong>
+|
+Redaktion:
+<strong><a href="/pers/13-Christof_SchOech">Christof Schöch</a></strong>
+</small>
+</p>
+</li>
+
+<li>
+<hr>
+<a href="/aktuelles">Alle Meldungen anzeigen</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

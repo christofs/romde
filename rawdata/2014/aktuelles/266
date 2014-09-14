@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfP: Congrès du Réseau Francophone de Sociolinguistique (RFS): Hétérogénéité et changements : perspectives sociolinguistiques
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Grenoble, Frankreich
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-11-30
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2015-06-10
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2015-06-12
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://rfs2015.u-grenoble3.fr" target="_blank">http://rfs2015.u-grenoble3.fr</a>
+</p>
+</div>
+<p>Le Réseau francophone de sociolinguistique rassemble des chercheurs autour de différents objets d’étude, et qui adoptent des perspectives théoriques et méthodologiques également diverses, reflétant les ancrages épistémologiques contrastés qui ont peu à peu structuré le champ de la sociolinguistique. La volonté collective d’appréhender le langage en société a en effet ouvert un large éventail de positionnements et de programmes de recherche. Au-delà des divergences de vues, c’est cette volonté commune de concevoir et pratiquer la linguistique comme une science humaine et sociale qui a donné lieu aux travaux sur la communication verbale in vivo, sur les interactions interpersonnelles, ainsi qu’à l’étude de la variation intra- et inter-linguistique et, plus récemment, à la prise en compte des contextes socio-historiques de production des discours.</p>
+
+<p>Le déplacement des regards du système linguistique vers la communication, verbale et non verbale, ainsi qu’en direction de l’organisation des discours, avec une prise en compte de la dimension anthropologique ou culturelle, a placé sur le devant de la scène les notions d’hétérogénéité et de changement, envisagées non plus comme des évènements historiques entre des états stables mais comme étant au cœur même des activités langagières en général.</p>
+
+<p>Ainsi, décrire, comprendre, expliquer ou modéliser les changements linguistiques et l&#x27;hétérogénéité des usages et des pratiques sont des tâches qui font partie du « cœur de métier » des sociolinguistes. Ces activités sont centrales pour les chercheur.e.s qui s’attellent aujourd&#x27;hui à décrire et analyser les versants sociolangagiers de phénomènes aussi divers que la globalisation des échanges, la marchandisation des langues, les migrations transnationales, les mutations socio-spatiales, les rapports de genre, la transformation des espaces de travail, etc., en accordant de l’importance aux phénomènes discursifs dans la construction de la réalité sociale et en cherchant à saisir les significations sociales des pratiques langagières.</p>
+
+<p>Ce sont autant de raisons pour lesquelles le comité d’organisation a choisi de mettre en avant les notions d&#x27;hétérogénéité et changement pour l’édition 2015 du congrès RFS, qu&#x27;il organise autour d’une préoccupation commune : accorder la priorité aux interactions et aux influences réciproques entre processus sociaux, voire sociohistoriques, et faits langagiers, et ce quelles que soient les méthodes ou approches envisagées.</p>
+
+<p>Calendrier :  
+<br />•30 novembre 2014 : date limite d’envoi des propositions de communication ou de pannel
+<br />•Février 2015 : notification d’acceptation ou de refus des propositions
+<br />•15 avril 2015 : Programme définitif
+</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/3017-Frank_Jablonka">Frank Jablonka</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/3740-Reto_ZOellner">Reto Zöllner</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

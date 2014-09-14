@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/2434-Du_divin_et_des_dieux' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Du divin et des dieux (Sammelband)</h2>
+<h3>Recherches sur le Peri tôn tou theou de Paul Valéry</h3>
+<hr>
+<abbr class='unapi-id' title='2434'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<span class='tag multiline'>Franz Johansson</span>
+<span class='tag multiline'>Fabienne Mérel</span>
+<span class='tag multiline'>Benedetta Zaccarello</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Lang</dd>
+<dt>Ort</dt>
+<dd>Frankfurt</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2014
+</dd>
+<dt>Auflage</dt>
+<dd>1</dd>
+<dt>Reihe</dt>
+<dd>Rostocker Romanistische Arbeiten</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.peterlang.com/index.cfm?event=cmp.ccc.seitenstruktur.detailseiten&seitentyp=series&pk=848" target="_blank">http://www.peterlang.com/index.cfm?event=cmp.ccc.seitenstruktur.detailseiten&seitentyp=series&pk=848</a></dd>
+<dt>ISBN</dt>
+<dd>
+9783631626566 
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=9783631626566 &amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Paul Valéry, Literatur und Religion
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Par sa richesse, sa profondeur, sa singularité, le Peri tôn tou theou ou Dialogue des choses divines revêt, en dépit de son caractère inachevé, une importance considérable et un statut unique à l’intérieur de l’oeuvre de Paul Valéry. Les contours et les ambitions de ce travail protéiforme, les circonstances de sa genèse et les raisons de son inachèvement donnent lieu ici à de minutieuses analyses. Faisant émerger une intertextualité souvent inattendue et des résonances autobiographiques, les recherches mettent également en lumière la complexité du réseau conceptuel développé par Valéry autour du divin, et l’originalité de son attitude vis-à-vis de sujets – la religion, la mystique, l’Eros – qui ont hanté l’écrivain bien au-delà de ce que l’œuvre publiée de son vivant n’aurait laissé deviner.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Préface. &#8211; Nicole Celeyrette-Pietri, Le Peri tôn tou theou : dossier et Cahiers. &#8211;  Paul Gifford,  Le dialogue Des choses divines: contextes et enjeux d’une genèse résorbée. &#8211;  Jacqueline Courier-Brière, À la recherche d’une dramaturgie. &#8211; Micheline Hontebeyrie, Le chantier des « choses divines » (1921–1945). Complexité d’une genèse éclatée. &#8211; Barbara Scapolo, La thématique de la mort dans le Peri tôn tou theou. &#8211;  Barbara Scapolo, Eros et mystis dans le Peri tôn tou theou. &#8211; Fabienne Mérel, Le personnage d’Athikté dans le Peri tôn tou theou. &#8211; Monique Allain-Castrillo, La nuit sanjuaniste et le Peri tôn tou theou valéryen. &#8211; Jean Hainaut, Le jeu valéryen de cinq triades néoplatoniciennes dans le Peri tôn tou theou. &#8211; Jean-Philippe Biehler, L’activisme nihiliste de Valéry et Nietzsche. &#8211; Benedetta Zaccarello, Que veut dire « Θ » ? Analyse des onze registres « Dieu » conservés à la Bibliothèque Nationale de France. &#8211; Nicolas Cavaillès,Divergence de Paul Valéry et Catherine Pozzi. &#8211; Jürgen Schmidt-Radefeldt, Le Peri tôn tou theou et L’île Xiphos. &#8211; Franz Johansson, Échos du Peri tôn tou theou dans le Faust. &#8211; Micheline Hontebeyrie, Le dossier « Peri tôn tou theou » : deux approches des feuillets. Occurrences. Feuillets volantes</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/425-Redaktion_romanistik_de" class="tag multiline" popup="true">Redaktion romanistik.de</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Montag, 26. Mai 2014, 14:31 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Freitag, 30. Mai 2014, 14:57 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

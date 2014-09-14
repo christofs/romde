@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/1482-Epistolario_in_dito_1961_1981_Jorge_Guill_n_Elsa_Dehennin_con_cinco_estudios_guillenianos' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Epistolario inédito (1961-1981) Jorge Guillén-Elsa Dehennin con cinco estudios guillenianos (Monographie)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='1482'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Autor(en)</h4>
+<a href="/pers/1172-Benedicte_Vauthier" class="tag multiline" popup="true">Benedicte Vauthier</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Semyr. Sociedad de Estudios Medievales y Renacentistas</dd>
+<dt>Ort</dt>
+<dd>Salamanca</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2012
+</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.la-semyr.es/?p=280" target="_blank">http://www.la-semyr.es/?p=280</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-84-937765-5-8
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-84-937765-5-8&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Spanisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Epistolario, Jorge Guillén, Elsa Dehennin
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Hispanista belga de renombre, Catedrática de lengua y literaturas hispánicas en la Université Libre de Bruxelles (1964-1997), Elsa Dehennin se carteó durante veinte años (1961-1981) con “el mayor representante de la poesía española” del siglo XX: Jorge Guillén.<br />
+El 21 de marzo de 1961, Jorge Guillén se dirige a Elsa Dehennin manifestando su interés por el estudio que la joven hispanista había publicado unos años antes sobre la obra de su amigo Pedro Salinas: <em>Passion d’absolu et tensión expressive dans l’oeuvre poétique de Pedro Salinas</em> (1957). Es la primera carta de las 140 cartas que poeta y crítica van a intercambiar a lo largo de 20 años. El epistolario cruzado (consta de 77 cartas de Jorge Guillén y de 63 de Elsa Dehennin) permite seguir paso a paso la evolución de la creación guilleniana (de <em>Cántico</em> a <em>Y otros poemas</em>, pasando por <em>Aire Nuestro</em>) así como varios de los trabajos críticos que Elsa Dehennin irá dedicando a Jorge Guillén. Además de un capítulo de su tesis doctoral sobre <em>La résurgence de Góngora et la génération poétique de 1927</em>, se ha de mencionar su monografía <em>“Cántico” de Jorge Guillén. Une poésie de la clarté</em> (1969). Todos estos trabajos no solo serán objeto de alabanzas del poeta y crítico, sino también de lectura y comentarios pormenorizados. A lo largo del epistolario, Elsa Dehennin destaca por su “claridad crítica”, y, al final, se yergue como la “amie de clarté”. <br />
+Además de algunas fotografías y facsímiles, el Homenaje contiene una transcripción del conjunto de las cartas, así como los cinco primeros artículos de Elsa Dehennin sobre la obra de Jorge Guillén, todos ellos citados, o comentados, en esa correspondencia.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p><a href="http://www.la-semyr.es/wp-content/uploads/2012/07/Epistolario%20Guillen-Dehennin.pdf" target="_blank">http://www.la-semyr.es/wp-content/uploads/2012/07/Epistolario%20Guillen-Dehennin.pdf</a></p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Proemio y edición de Bénédicte Vauthier</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/1172-Benedicte_Vauthier" class="tag multiline" popup="true">Benedicte Vauthier</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Mittwoch, 11. Juli 2012, 19:26 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 11. Juli 2012, 19:26 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfP: Internationales literaturwissenschaftliches DFG-Symposium „Komplexität und Einfachheit“
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Loveno di Menaggio, Italien
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-09-01
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2015-09-22
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2015-09-25
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.villavigoni.it/" target="_blank">http://www.villavigoni.it/</a>
+</p>
+</div>
+<p>(English version below)</p>
+
+<p>Im Auftrag der Deutschen Forschungsgemeinschaft soll vom 22. bis 25. September 2015 in der Villa Vigoni ein internationales literaturwissenschaftliches Symposium zum Thema „Komplexität und Einfachheit“ stattfinden. Es folgt organisatorisch dem Muster der Germanistischen Symposien der DFG, wie sie seit den 1970er Jahren durchgeführt wurden. Die Konferenzsprachen sind Englisch und Deutsch, wobei alle Teilnehmer in der Lage sein sollten, Beiträge in beiden Sprachen zu lesen und der Diskussion in beiden Sprachen zu folgen.</p>
+
+<p>Von Komplexität ist allenthalben die Rede. Anders als in der Kybernetik und den Sozialwissenschaften, wo die Komplexität von Systemen sich an der Zahl der Relationen im Verhältnis zur Zahl der Elemente bemisst, hat dieser Begriff in der Literaturwissenschaft jedoch nur einen geringen Grad an terminologischer Schärfe gewonnen. Er kann sich an werkarchitektonischen Kriterien bemessen, einen erhöhten Grad von Deutungsoffenheit meinen oder den Bruch mit ästhetischen bzw. kognitiven Schemata und Konventionen bezeichnen. Überdies wird er hier in der Regel nicht rein technisch gebraucht, sondern ist mit einer impliziten Bewertung verbunden. Professionelle Leser literarischer Texte neigen dazu, erhöhte Komplexität, wie auch immer sie im Einzelnen gefasst wird, für erkenntnisträchtiger und attraktiver zu halten. Ästhetische Einfachheit hat demgegenüber einen schwereren Stand, zumal häufig ungeklärt bleibt, ob sie den vor-komplexen Ausgangspunkt einer sich steigernden (Selbst‑)Reflexivität der Kunst oder das Ergebnis einer ihrerseits komplexen Komplexitätsreduktion bildet. Es ist nicht auszuschließen, dass diese normative Bevorzugung des Komplexen vor dem Einfachen ihren Grund nicht in den ästhetischen Objekten selbst hat, sondern sich einem Institutioneneffekt verdankt: Indem sie die Unabschließbarkeit des interpretatorischen Prozesses garantiert, stellt sie auch den akademischen Deutungsbetrieb mitsamt seinen Karrierewegen auf Dauer und unterwirft ihn einer Dynamik ständiger Überbietung. Faktisch kann das zu einer Verengung des literaturwissenschaftlichen Kanons führen; bestimmte Autoren ziehen eine Interpretationsakkumulation auf sich, die ihrerseits die Komplexität weiterer Lesarten steigert. Dieser Prozess wird durch die relative Entscheidungsferne der Philologie begünstigt – im Unterschied zu anderen Textwissenschaften, insbesondere der Jurisprudenz, die durch die Notwendigkeit, Urteile zu fällen, zu bisweilen rabiaten Komplexitätsreduktionen gezwungen ist.</p>
+
+<p>Auch in anderen Hinsichten sind die Implikationen zu überprüfen, die der Begriff der Komplexität mit sich führt. Häufig geht er eine Allianz mit einem geschichtsphilosophisch grundierten Konzept moderner Gesellschaften ein, die sich selbst attestieren, komplexer als vormoderne Kulturen verfasst zu sein; letztere werden im Umkehrschluss gern mit dem Attribut der Einfachheit versehen. Statt das Gegensatzpaar Komplexität-Einfachheit in den Dienst solcher überwölbenden Narrative zu stellen, soll das Symposion der Tatsache Rechnung tragen, dass in allen Gesellschaften und kulturellen Bereichen Verfahren der Komplexitätssteigerung und -reduktion nebeneinander bestehen und auf eine jeweils zu klärende Weise koevolutive Verknüpfungen und Interdepenzen eingehen. Spezifischer auf literarische Komplexität bezogen, ist folglich nach den Bedingungen zu fragen, unter denen einerseits die Verweisdichte von Texten gesteigert, andererseits Einschnitte in das (inter)textuelle Bedeutungsgewebe, Unterbrechungen, Ignoranzen, Traditionsrisse und Neueinsätze herbeigeführt werden.</p>
+
+<p>Vier Dimensionen dieser Fragestellung verdienen besondere Aufmerksamkeit: 1) die kulturelle Persistenz von Praktiken der Vereinfachung und deren soziale beziehungsweise diskursive Implikationen; 2) die soziale, kognitive und ästhetische Organisation von Komplexität durch Formbildung; 3) die Rolle von Gattungsregeln beziehungsweise Gestaltprinzipien und deren poetologische Reflexion; 4) die Bedeutung des Faktors Zeit, vor allem im Hinblick auf Verfahren der Historisierung. Entsprechend dieser Heuristik ist das Symposion in vier – allerdings nicht trennscharf abzugrenzende – Sektionen untergliedert.</p>
+
+<p>Das Symposion ist, ausgehend von literaturwissenschaftlichen Fragestellungen, interdisziplinär konzipiert. Zwar kommen in den vier Sektionen unterschiedliche fachliche Perspektiven zur Geltung, doch soll dies thematisch oder methodisch passfähige Einsendungen aus anderen Forschungsgebieten nicht entmutigen. Vielmehr sind die Sektionstitel so gewählt, dass sie jeweils ein Querschnittthema, wiederum in interdisziplinärer Weise, behandeln. Eingeladen sind Wissenschaftlerinnen und Wissenschaftler sämtlicher Philologien, der Geschichts-, Kunst-, Medien- und Musikwissenschaft, der Rechtswissenschaft, Soziologie, Theologie und Philosophie sowie angrenzender Fächer.</p>
+
+<p>1. Praktiken der Einfachheit
+<br />Leitung: Niklaus Largier (Germanistik/Mediävistik, Berkeley)</p>
+
+<p>Die erste Sektion befasst sich mit ästhetischen, rhetorischen und im engeren Sinn poetischen Verfahren, durch die scheinbar einfache Verhältnisse in komplexe Formen transponiert oder im Gegenzug letztere auf Konzepte und Bilder der Einfachheit zurückgeführt werden. Komplexitätssteigerung und -reduktion bilden dabei keine einfache Alternative. Oft ist vielmehr die Steigerung von Komplexität auf intrikate Weise mit Postulaten der Vereinfachung verbunden – man denke etwa an Denkparadigmen von Identität und Differenz, an die Entfaltung biblischer Hermeneutik im Mittelalter oder an die Produktion ästhetischer Attraktivität und Prägnanz. Manchmal erscheint die Steigerung der Komplexität dabei als Bedingung von erneuerter Einfachheit, manchmal umgekehrt die Einfachheit als verhüllte oder verdichtete Komplexität. Geistliche Übungen, philosophische Prinzipienlehren, genieästhetisch oder auf andere Weise begründete Aufkündigungen akademischer Gelehrsamkeit, Epochen- und Traditionsbrüche sind als Versuche einer Wiederherstellung von Unmittelbarkeit und Einfachheit analysierbar – Versuche, die um die Komplexität wissen, die sie hinter sich lassen. In denselben Zusammenhang gehört die künstlerische Gestaltung von Topoi eines in der Einfachheit wahren und ursprünglichen Lebens – von der Schäferdichtung bis zum Primitivismus des 20. Jahrhunderts. In solchen ästhetischen Alternativentwürfen zu den Lebensbedingungen am Hof, in der Stadt oder schließlich generell in der Moderne kommt ein stark normatives Element zum Vorschein: Das Einfache kann gegen das Komplexe, aber auch das Komplexe gegen das Einfache polemisch ausgespielt werden. Statt also von einem klar zu umreißenden Gegensatz auszugehen, liegt der Schwerpunkt dieser Sektion auf der Analyse der textuellen Verfahren, die komplexe semantisch-kognitive Strukturen erzeugen, aber mit dem gegenläufigen Ziel, Modelle der Vereinfachung anzubieten.</p>
+
+<p>2. Formalisierung und Form
+<br />Leitung: Christoph Möllers (Rechtswissenschaft, HU Berlin)</p>
+
+<p>Adornos Diktum, Form sei „niedergeschlagener Inhalt“, enthält sowohl eine kognitive als auch eine normative Implikation. Einerseits ist damit der Vorgang beschrieben, dass sich Formen durch wiederholte Verwendung in der Praxis niederschlagen, das heißt sedimentieren. Die Struktur solcher Ablagerungen legt andererseits fest, was als Inhalt zur Kenntnis genommen wird und Geltung gewinnt. Formen schließen stets etwas aus, was durch andere Formen nicht ausgeschlossen worden wäre. Freilich schließen sie nichts aus, was seinerseits ohne Form hätte auskommen können.
+<br />So gesehen mag man Formen als Instrumente zur Komplexitätsminderung bezeichnen, aber genau genommen handelt es sich bei derartigen Prozessen nicht notwendig um Reduktionen. Besser sind Formen als notwendige Elemente der Organisation von Wiederholungen verstanden – und zwar in einer insofern basalen Art und Weise, als sie nicht allein dabei helfen, Wiederholungen zu sortieren, sondern Ereignisse als Wiederholungen überhaupt erkennbar zu machen.</p>
+
+<p>Die naturalisierende Metapher des Niederschlags darf nicht darüber hinwegtäuschen, dass Formen gemacht werden können, oder genauer, dass die Form des „Machens“ auch für das Phänomen der Formalisierung genutzt werden kann – mit der Konsequenz, dass Formalisierung als Ergebnis einer Entscheidung darstellbar wird. Formalisierung kann aus einer Zeichenkette einen Text, aus einem Text ein Werk, aus einem Ereignis einen Akt der Kreation und aus einem Menschen einen Autor oder eine Richterin machen. All diese Formalisierungstechniken lassen sich natürlich durchschauen. Sie können unter Hinweis auf andere Zeichen, andere Objekte, andere Ereignisse und andere Personen angezweifelt werden, und ein solcher Zweifel nebst ihm folgender Re-Formalisierung ist unvermeidlich Teil jeder reflektierenden gesellschaftlichen Praxis. Daraus folgt, dass es illusorisch wäre anzunehmen, dass Formen ein Weniger, deren Kritik ein Mehr an Komplexität stiften würde. Ebensogut ist der umgekehrte Fall möglich.</p>
+
+<p>In ihrer Struktur, auf Künftiges vorzubereiten, um es in einen Formenkanon aufzunehmen oder aus diesem auszuschließen, scheinen Formen Begriffen zu ähneln. Auch diese dienen dazu, „Mögliches vorweg zu verarbeiten“ (Blumenberg). Freilich scheinen Formen, anders als die Reflexion über sie, nicht notwendig auf Sprache oder gar auf Begriffsbildung angewiesen zu sein. Selbst wenn sie im Medium der Sprache stattfinden, können sie über diese hinausweisen, wie der Rhythmus und das Schriftbild einer Gedicht-Form oder die handgeschriebene Unterschrift. In der Verknüpfung von Sprachlichem und Nicht-Sprachlichem wie von Begrifflichem und Unbegrifflichem zeigt sich nun ein anderer Zusammenhang zwischen Komplexität und Form, in dem letztere erstere weder notwendig reduziert noch steigert. Das Komplexität konstituierende Potential von Formen ergibt sich vielmehr daraus, dass Formalisierungen schwerlich anders als reflexiv zu denken sind.</p>
+
+<p>In der zweiten Sektion sollen grundsätzliche Fragen von sozialer und ästhetischer Strukturbildung diskutiert werden. Ein wichtiger Gesichtspunkt ist die Unterscheidung zwischen institutionell ‚gepflegter‘, durch Formvollzüge sowohl gebändigter als auch steigerbarer Binnenkomplexität von einer ‚wilden‘ Komplexität außerhalb solcher Formalisierungen. Damit kommt auch das teils antagonistische, teils symbiotische Wechselverhältnis zwischen formalen Strukturen und informellen Prozessen in den Blick.</p>
+
+<p>3. Gattung und Gestalt 
+<br />Leitung: Juliane Vogel (Germanistik/Allgemeine Literaturwissenschaft, Konstanz)</p>
+
+<p>Die Forderung des Horaz, dass das Werk der Dichtung oder der Bildenden Kunst „simplex et unum“ zu sein habe, verliert in der Aufklärung zusehends an Boden. Unter dem Einfluss der Ästhetik Alexander Gottlieb Baumgartens setzt sich die Auffassung durch, dass es „keine einfache Vollkommenheit gibt“. Die Produktion von Dichtung lässt sich seither nicht mehr auf den Nenner einfacher Organisationsformeln bringen, noch lassen sich ihre Schönheiten aus der Befolgung einer überschaubaren Zahl von poetischen Regeln herleiten. Diese Komplexitätsteigerung wird zeitgenössisch unter den Begriff der „Mannigfaltigkeit“ gefasst, der neue Konzepte der Vermischung, Interferenz, Ambiguierung, Pluralisierung und Dynamisierung in sich einschließt und zu beweglicheren ästhetischen Formationen anregt, die in der Komplexität ihrer Faktur mit einem lebendigen Organismus konkurrieren. Goethes am pflanzlichen Wachstum orientierten Konzepte der Metamorphose behaupten eine intrinsische und auf Dauer gestellte Veränderlichkeit des ästhetischen Gefüges und legen diesem eine Komplexität zugrunde, die durch den Autor selbst nur noch bedingt zu beeinflussen ist.</p>
+
+<p>Bilden diese Entwicklungen den historischen Ausgangspunkt der geplanten Sektion, sind Fragestellungen und Akzente denkbar, die den Spannungsraum zwischen Komplexitätssteigerung und Komplexitätsreduktion in der Moderne ausmessen. Unter den diversen Schauplätzen der Komplexitätssteigerung richtet es sich insbesondere auf das Feld der Gattungspoetik, die sich von taxonomisch-subsumptiven Ordnungsschemata abwendet und stattdessen auf übergängliche, ins Fließen geratene poetische Produktionsweisen richtet. Umgekehrt sind Konzepte der Vereinfachung zu diskutieren, die anwachsende Komplexitäten wieder in fassliche Formen überführen und dabei auf genetische, systematische, eidetische oder mathematische Modelle zurückgreifen. Eine Schlüsselstellung nimmt hierbei Goethes Konzept der „Gestalt“ ein, das die Begriffe der Prägung und der lebendigen Entwicklung vermittelt und in Relation zum Begriff der Gattung zu diskutieren sein wird. Generell ist nach den „complex concepts of simplicity“ zu fragen, die das Interesse an den sogenannten „Urformen“ in der Moderne anleiten (Herder, Goethe), nach den komplexen Voraussetzungen des Begriffs des „Naiven“ (Schiller) sowie nach den Prämissen des genus humile, dessen sich Autoren wie Matthias Claudius in pastoraler Unterbietung künstlicher Redeweisen bedienen. Von hier aus kann der diskursive Ort jener epistemologischen Projekte bestimmt werden, die im 20. Jahrhundert zu den „einfachen Formen“ (André Jolles) zurückkehren. Zugleich ist damit eine Perspektive eröffnet auf die poetologischen Voraussetzungen einer Gattung, die seit ihren Anfängen mit einer Pluralisierung der Welten in Verbindung steht und aufgrund ihrer komplexen Wirklichkeitsbezüge das generische Denken der Vormoderne herausforderte: die transgressive Gattung des Romans, dessen Karriere beginnt, als die Ästhetik Vielfalten in der Einheit entdeckt.</p>
+
+<p>4. Verfahren der Historisierung
+<br />Leitung: Peter Geimer (Kunstgeschichte, FU Berlin)</p>
+
+<p>Nach Niklas Luhmann bewirkt die im achtzehnten Jahrhundert einsetzende Historisierung der Kunst eine Verminderung des Aktualitätsdrucks in der Gegenwart. Was erfolgreich musealisiert und als ‚vergangen‘ markiert ist, muss der eigenen Zeit nicht länger als Vorbild gelten und wird, weil historisch überholt, „wieder in die Vergangenheit zurückgeschickt“. Zugleich führt diese Konservierung älterer Kunst aber auch zu einer „Selbstbezweiflung der Gegenwart“, denn die als ‚vergangen‘ deklarierten Werke rücken auch die Gegenwart unter das Vorzeichen der Kontigenz: „Die Vergangenheit überströmt geradezu die Gegenwart, um ihr zu bestreiten, daß sie sein muß, wie sie ist.“</p>
+
+<p>Historisierung der Kunst wirkt demnach als Entlastung und Belastung der Gegenwart, sie orientiert und desorientiert, ihre Narrative sind Verfahren der vereinfachenden Reduktion, aber auch der Hervorbringung neuer und ungeahnter Komplexität. Vor dem Hintergrund dieser zweifachen Bestimmung soll in der vierten Sektion nach unterschiedlichen Verfahren, Funktionen und Effekten der Historisierung der Künste gefragt werden. Wie verhält sich organisierte Komplexität zur ‚kollateralen‘, vorgefundenen Komplexität des Historischen? Welche Formen und Erscheinungsweisen von Komplexität erzeugt das Phänomen historischer Kontingenz? Wann ist Einfachheit unterkomplex, wann ist sie das Ergebnis komplexer Verfahren? Mögliche Schwerpunkte sind: die retroaktive Produktion „einfacher“ oder „komplexer“ Vorgeschichten (des „einfachen“ Mittelalters im Gegensatz zur „komplexen“ Neuzeit, der Rückkehr zum „Einfachen“ nach Phasen der ‚Überfeinerung‘); Teleologie als Methode der Komplexitätsreduktion; Zäsur, Schnitt und Neustart als narrative Ordnungsverfahren (wie in der tabula rasa-Rhetorik der Avantgarden oder der Rede von der Kunst „nach 45“); heuristische Inszenierungen des Endes (wie in Winckelmanns Beschwörung des „Untergangs“ der Werke der Kunst, um auf der Basis dieses Untergangs die Geschichte der Kunst des Alterhums schreiben zu können); Theorien der Konservierung (wie Alois Riegls Unterscheidung von „Alterswert“, „historischem Wert“ und „Erinnerungswert“ eines Denkmals), das Lob der Auslöschung und des Vergessens (wie in Nietzsches Nutzen und Nachteil der Historie für das Leben). Neben solchen Formen der Geschichtsschreibung der Kunst soll aber auch die durch die Künste selbst bewirkte Historisierung thematisiert werden: etwa Erzeugung und Entzug der Vergangenheit im Historienbild, Fotografie als Aufzeichnungsmedium und „Generalinventar“, das im Gegensatz zum Gedächtnisbild den kontingenten „Abfall“ der Geschichte bewahrt (Kracauer). Nach Möglichkeit sollten die Beiträge die genannten systematischen Aspekte am Beispiel historischer Fallstudien behandeln.</p>
+
+<p>Zum Verfahren:
+<br />Das Symposion wird zugunsten eingehender Diskussionen von der Verlesung von Vorträgen freigehalten. Alle Beiträge werden den Teilnehmern vor der Tagung auf elektronischem Weg zugesandt. Zusammen mit Diskussionsberichten sollen die Beiträge gleich im Anschluss an das Symposion publiziert werden. Um die Veranstaltung arbeitsfähig zu halten, wird die Zahl der Beteiligten auf max. 35 begrenzt. Eine schriftliche, prinzipiell druckfertige Vorlage bildet die Voraussetzung für eine Teilnahme. Erwartet wird, dass die Teilnehmer an allen Tagen der Veranstaltung präsent sind und mitdiskutieren.</p>
+
+<p>Interessierte Wissenschaftlerinnen und Wissenschaftler des In- und Auslandes, insbesondere jüngere (in der Regel jedoch nicht schon Doktoranden) sind eingeladen, dem Unterzeichnenden spätestens bis zum 1. September 2014 ihre Bereitschaft zur Teilnahme und ihren Themenvorschlag mitzuteilen, ein kurzes Exposé beizufügen und eine Sektionszuordnung vorzuschlagen. Auf der Grundlage der Exposés werden die Veranstalter der DFG vorschlagen, wer zu diesem Symposion eingeladen werden soll. Die endgültigen Druckfassungen der Vorlagen müssen die zuständigen Kuratoren spätestens bis zum 1. Mai 2015 erreicht haben. Der Höchstumfang einschließlich der Anmerkungen liegt bei 30 Seiten à 1800 Zeichen; kürzere Vorlagen sind willkommen.</p>
+
+<p>Terminplan</p>
+
+<p>bis 1. September 2014: Anmeldung mit Themenvorschlag und Exposé
+<br />November 2014: vorläufige Benachrichtigung der Einzuladenden
+<br />Anfang Dezember 2014: Einladung der Teilnehmerinnen und Teilnehmer durch die DFG
+<br />bis 1. Mai 2015: Einsendung der druckfertigen Vorlagen an die Kuratoren (elektronisch)
+<br />Juni 2015: Weiterleitung der Vorlagen an alle Teilnehmer (elektronisch)
+<br />22.-25. September 2015: Symposion. Anreise am 21., Abreise am 26. September
+<br />bis 1. Februar 2016: Abgabe der druckfertig überarbeiteten Beiträge</p>
+
+<p>Reisekosten (Fahrtkosten und Tagegelder) übernimmt die DFG nach den Bestimmungen des Bundesreisekostengesetzes, sofern sie nicht von der Heimatinstitution getragen werden.</p>
+
+<p>Prof. Dr. Albrecht Koschorke, Universität Konstanz
+<br />albrecht.koschorke@uni-konstanz.de </p>
+
+<p>Adressen der Kuratoren:
+<br />Prof. Dr. Niklaus Largier, Berkeley (nlargier@berkeley.edu)
+<br />Prof. Dr. Christoph Möllers, HU Berlin (christoph.moellers@rewi.hu-berlin.de)
+<br />Prof. Dr. Juliane Vogel, Konstanz (Juliane.Vogel@uni-konstanz.de) 
+<br />Prof. Dr. Peter Geimer, FU Berlin (peter.geimer@fu-berlin.de) </p>
+
+<p>Call for Papers: DFG Symposium “Complexity and Simplicity”</p>
+
+<p>An international literary studies symposium on “Complexity and Simplicity” will take place at the Villa Vigoni from September 22-25, 2015 with the support of the German Research Foundation (DFG). It conforms to the organizational template of the DFG German Studies symposia since the 1970s. The conference languages are English and German, though all participants should be capable of reading the papers and following the discussion in both languages.</p>
+
+<p>Complexity is a ubiquitous topic. Yet in literary studies – as opposed to cybernetics and the social sciences, where the complexity of systems is measured by the number of relations compared with the number of elements – this concept has gained only a small degree of terminological precision. It can be measured by structural criteria, can indicate a high degree of ambiguity of meaning, or can denote a rupture with aesthetic or cognitive schema and conventions. Moreover, it is not typically used in a purely technical way but is instead bound up with an implicit valuation. Professional readers of literary texts tend to regard higher complexity, however defined in specific cases, as more fertile in knowledge and therefore more desirable. Aesthetic simplicity, on the other hand, has a more difficult status, especially since it often remains unresolved whether it constitutes the pre-complex starting point for an increasing (self-)reflexivity of art or the result of a complex reduction of complexity. It should not be overlooked that this normative preference for the complex over the simple is not based in the aesthetic objects themselves but arises from an institutional effect: insofar as it guarantees the interminability of the interpretative process, it puts the academic interpretation business on a permanent career path and subjects it to a dynamic of permanent one-upmanship. This can in fact lead to a narrowing of the literary canon, as certain authors invite an accumulation of interpretation that subsequently increases the complexity of further readings. This process is promoted by philology&#x27;s relative distance from decision-making in contrast with other text-based disciplines, especially jurisprudence, which is forced at times into a brutal reduction of complexity by the necessity of making judgments.</p>
+
+<p>The implications attendant upon the notion of complexity should be reconsidered from other perspectives as well. This notion often enters into alliance with a conception of modern societies, based in a particular philosophy of history, by which they attest to be more complexly composed than pre-modern cultures, whereas the latter are often characterized by simplicity. Rather than placing the dichotomy “complexity-simplicity” in the service of such overarching narratives, the symposium seeks to explain how, in all societies and cultural spheres, processes of increase and reduction of complexity coexist and bring coevolutionary interrelations and interdependencies into play. In regard to literary complexity in particular, what are the conditions in which the density of references within texts is increased and incisions into the (inter)textual web of meaning, interruptions, ignorance, rifts in traditions, and new approaches are introduced?</p>
+
+<p>Four dimensions of this problematic deserve particular attention: 1) the cultural persistence of practices of reduction and their social and discursive implications; 2) the social, cognitive, and aesthetic organization of complexity through formgiving; 3) the role of genre rules and Gestalt principles and their poetological reflection; 4) the meaning of the factor of time, above all with respect to processes of historicization. According to this heuristic, the symposium is loosely divided into four sections.</p>
+
+<p>1. Practices of Simplicity
+<br />Chair: Niklaus Largier (German Studies / Medieval Studies, Berkeley)</p>
+
+<p>The first section deals with aesthetic, rhetorical, and, more specifically, poetic processes through which apparently simple relationships are transposed into complex forms or, conversely, the latter are reduced to concepts and images of simplicity. The increase and reduction of complexity thus do not constitute simple alternatives. Indeed, the increase of complexity is often bound up with postulates of simplification in intricate ways – thought paradigms of identity and difference, the development of Biblical hermeneutics in the middle ages, or the production of aesthetic appeal and incisiveness, for example. Sometimes the increase of complexity is the condition of renewed simplicity, whereas simplicity appears conversely as a hollowed out or condensed complexity. Mental exercises, dogmatic philosophical principles, revocations of academic learnedness through a genius aesthetic or other means, and ruptures in epochs and traditions can be analyzed as attempts to reproduce immediacy and simplicity – attempts that are aware of the complexity that they leave behind. The artistic creation of topoi of a life that is true and primordial in its simplicity, from shepherd poetry to the primitivism of the twentieth century, belongs to this context as well. In such aesthetic alternatives to the conditions of life at court, in the city, or ultimately in modernity in general, a strongly normative element comes to the fore: the simple can be polemically pitted against the complex and vice versa. Instead of assuming a clearly delineable dichotomy, this section emphasizes the analysis of textual processes that create complex semantic-cognitive structures, but with the opposing aim of offering models of simplification.</p>
+
+<p>2. Formalization and Form
+<br />Chair: Christoph Möllers (Legal Studies, HU Berlin)</p>
+
+<p>Adorno’s dictum that form is “precipitated content” contains both cognitive and normative implications. On the one hand, it captures the process by which forms precipitate and sediment through repeated use in practice. The structure of such sedimentation, however, stipulates what is acknowledged as content and what gains validity. Forms always exclude something that would not be excluded by other forms. In this light, one could see forms as instruments of the minimization of complexity, but, to be precise, these processes do not necessarily have anything to do with reduction. Forms are better understood as necessary elements of the organization of repetition – and in a basic way insofar as they do not just help to sort repetitions but to make events at all recognizable as repetitions.</p>
+
+<p>The naturalizing metaphor of precipitation should not conceal the fact that forms can be made or, more to the point, that the form of “making” can also be used for the phenomenon of formalization, with the consequence that formalization can be represented as the result of a decision. Formalization can make a text from a chain of signs, a work from a text, an act of creation from an event, and an author or judge from a person. All of these techniques of formalization can be seen through. They can be doubted on the basis of references to other signs, other objects, other events, and other people, and such a doubt and the subsequent re-formalization along with it is unavoidably a part of every reflective social practice. Thus, it would be illusory to assume that forms would contribute less and their critique more complexity. Just the opposite is equally possible.
+<br />Forms seem to resemble concepts in their structure of preparing for the future in order to absorb it into or exclude it from a canon of forms. Concepts also serve “to handle the possible in advance” (Blumenberg). Of course, forms seem, in contrast with reflection upon them, to not necessarily depend on language or concept-formation. Even when they occur in the medium of language, they go beyond it, like rhythm and the typeface of a poetic form or the handwritten signature. The connection between linguistic and nonlinguistic, conceptual and non-conceptual reveals another relation between complexity and form in which the latter neither necessarily reduces nor increases the former. Rather, the potential for forms to constitute complexity arises from the fact that formalizations are hardly conceivable if not reflexively.</p>
+
+<p>The second section will discuss fundamental questions in the construction of social and aesthetic structures. An important consideration is the distinction between internal complexity that is institutionally “fostered” and both subdued and increasable through the consummation of form and a “wild” complexity outside of such formalizations. This also brings the partly antagonistic, partly symbiotic interrelationship between formal structures and informal processes into view.</p>
+
+<p>3. Genre and Gestalt
+<br />Chair: Juliane Vogel (German Studies / Literary Studies, Konstanz)</p>
+
+<p>Horatio’s demand that the work of poetry or visual art is to be “simplex et unum” rapidly loses ground in the Enlightenment. Under the influence of Alexander Gottlieb Baumgarten’s aesthetic, the theory that “there is no simple perfection” takes hold. The production of poetry can no longer be reduced to the denominator of simple organizational formulae, nor can their beauty be derived from the compliance with a manageable number of poetic rules. Contemporaries capture this increase in complexity with the concept of the “manifold,” which incorporates new concepts of mixture, interference, ambiguity, pluralization, and dynamization und inspires more flexible aesthetic forms that compete with the living organism in the complexity of their makeup. Goethe’s botanical conceptions of metamorphosis assert an intrinsic and permanent mutability of the aesthetic structure and underlie a complexity that can only be influenced to a certain extent even by the author.</p>
+
+<p>While these developments constitute the historical point of departure of the planned section, conceivable questions and accents would size up the space of tension between the increase and reduction of complexity in modernity. Among the diverse scenes of the increase of complexity, section three is especially oriented toward the poetics of genres, which diverges from taxonomic-subsumptive ordering schemata and instead turns to transitional, fluctuating modes of poetic production. Conversely, conceptions of simplification that translate growing complexities into graspable forms and thereby reach for genetic, systematic, eidetic, or mathematical models will also be discussed. Key here is Goethe’s concept of “Gestalt,” which mediates the concepts of influence (Prägung) and living development (lebendige Entwicklung) and will be discussed in relation to the concept of genre. In general, we will inquire into “complex concepts of simplicity” that guide interests in the so-called “archetypes” (Urformen) of modernity (Herder, Goethe), the complex demands of the concept of the “naïve” (Schiller), and the premises of the genus humile taken up by authors such as Matthias Claudius in the pastoral undercutting of artificial manners of speaking. From this vantage, the discursive place of those epistemological projects of the twentieth century that turn back to the “simple forms” (André Jolles) can be determined. At the same time, this opens a perspective on the poetological preconditions of a genre that, from its beginnings, was related to a pluralization of worlds and challenged pre-modern thought on genre on the basis of its complex references to reality – the transgressive genre of the novel, whose career began as aesthetics discovered multiplicity in unity.</p>
+
+<p>4. Processes of Historicization
+<br />Chair: Peter Geimer (Art History, FU Berlin)</p>
+
+<p>According to Niklas Luhmann, the historicization of art in the eighteenth century minimized the demands on its topicality. That which is successfully relegated to the museum and marked as “past” no longer has to serve as a model for the present and, because it is historically surpassed, is “sent back to the past.” At the same time, this conservation of bygone art also leads to a “self-doubt of the present,” as the works that are labeled “past” bring the present under the sign of contingency as well: “The past floods the present in order to deny that it has to be the way that it is.”
+<br />The historicization of art thus functions to disburden and burden the present; it orients and disorients; its narratives are processes of simplifying reduction but also the generation of new and unforeseen complexity. Against the background of this two-fold determination, the fourth section will inquire into various processes, functions, and effects of the historicization of the arts. How does organized complexity relate to “collateral,” preexisting complexity of the historical? Which forms and appearances of complexity engender the phenomenon of historical contingence? When is simplicity not complex enough, and when is it the result of complex processes? Possible emphases include: the retroactive production of “simple” or “complex” prehistories (the “simple” middle ages in contrast with “complex” modernity, the return to “simplicity” after phases of “overrefinement”); teleology as a method of the reduction of complexity; caesurae, cuts, and new beginnings as narrative processes of ordering (as in the tabula rasa rhetoric of the avant-garde or the talk of art “after ‘45”); heuristic enactments of the end (as in Winckelmann’s swearing of the “downfall” of works of art in order to be able, on the basis of this downfall, to write the History of Ancient Art); theories of conservation (such as Alois Riegl’s distinction between “antique value,” “historical value,” and “value of commemoration/remembrance” of a monument); the praise of obliteration and forgetting (as in Nietzsche’s “Uses and Disadvantages of History for Life”). Aside from such forms of history writing in art, the historicization brought about by the arts themselves should also be thematized: e.g. the creation and revocation of the past in historical painting; photography as a medium of recording and a “general inventory” that, in contrast with the memory image, preserves the “refuse” of history (Kracauer). Where possible, the contributions should deal with the suggested systematic aspects on the basis of historical case studies.</p>
+
+<p>On the Proceedings:</p>
+
+<p>For the sake of thorough discussion, the symposium will avoid the recitation of lectures. All contributions will be sent to the participants electronically before the conference. The contributions will be published along with reports on the discussions immediately after the symposium. In order to foster a good working environment, the meeting will be limited to 35 participants. A written, publishable submission either in German or English constitutes the requirement for participation. Participants are expected to be present and active discussants for all days of the meeting.
+<br />Interested scholars from Germany and abroad, especially young scholars (though, exceptions aside, not doctoral students) are invited to send the signatories their intention to participate and their suggested topic by September 1, 2014 including a short abstract and a suggestion of the appropriate section. On the basis of the abstracts, the presiders will recommend to the DFG who should be invited to the symposium. The ultimate print version of the submission must be sent to the presiding curator by May 1, 2015 at the latest. Maximal length of the contribution is 30 pages of 1800 characters; shorter submissions are welcome.</p>
+
+<p>Deadlines and Schedule
+<br />September 1, 2014: Application with a suggested topic and abstract, either in German or English
+<br />November 2014: Provisional notification of invitees
+<br />Early December 2014: Invitation of participants by the DFG
+<br />May 1, 2015: Delivery of publishable submissions to all curators (electronically)
+<br />June 2015: Forwarding of the submissions to all participants (electronically)
+<br />September 22-25, 2015: Symposium. Arrival on the 21st, departure on the 26th of September.
+<br />February 1, 2016: Submission of the revised publishable contributions</p>
+
+<p>Travel costs (transportation and daily allowance) will be covered by the DFG on the basis of German federal travel cost regulations, insofar as they are not borne by the participants’ home institutions.</p>
+
+<p>Prof. Dr. Albrecht Koschorke, Universität Konstanz
+<br />albrecht.koschorke@uni-konstanz.de </p>
+
+<p>Curators’ Addresses:
+<br />Prof. Dr. Niklaus Largier, Berkeley (nlargier@berkeley.edu)
+<br />Prof. Dr. Christoph Möllers, HU Berlin (christoph.moellers@rewi.hu-berlin.de)
+<br />Prof. Dr. Juliane Vogel, Konstanz (Juliane.Vogel@uni-konstanz.de)
+<br />Prof. Dr. Peter Geimer, FU Berlin (peter.geimer@fu-berlin.de)</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

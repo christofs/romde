@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/2172-Amikuzera_Der_baskische_Dialekt_von_Amikuze_Pays_de_Mixe_Pyr_n_es_Atlantiques_' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Amikuzera [Der baskische Dialekt von Amikuze/Pays de Mixe, Pyrénées-Atlantiques] (Sonstiges)</h2>
+<h3>Ursprünglich: Beiheft zu ASJU 28, 1995, 173-187</h3>
+<hr>
+<abbr class='unapi-id' title='2172'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Autor(en)</h4>
+<a href="/pers/2905-Martin_Haase" class="tag multiline" popup="true">Martin Haase</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+Mai
+2013
+</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.ehu.es/ojs/index.php/ASJU/article/viewFile/9430/8662" target="_blank">http://www.ehu.es/ojs/index.php/ASJU/article/viewFile/9430/8662</a></dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Okzitanisch, Sprachübergreifend, Baskisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Sprachwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Baskisch, Dialektologie, Niedernavarra, Südwest-Frankreich
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Der Artikel zeigt Besonderheiten des Dialekts von Amikuze (Pays de Mixe) im Norden Niedernavarras (Baskenland, Département Pyrénées-Atlantiques) auf (Amikuzera ist die baskische Bezeichnung des Dialekts). Er geht besonders auf die Einflüsse des Gaskognischen ein. Diese sind auf die Mehrsprachigkeit in diesem Gebiet zurückzuführen, da der überwiegende Teil der Sprachgemeinschaft neben Baskisch auch Gaskognisch und (In neuerer Zeit) französisch spricht.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Der Artikel ist auf Baskisch verfasst. Hier eine Übersetzung der Gliederung:<br />
+1. Soziolinguistische Situation<br />
+2. Besonderheiten<br />
+2.1. Phonologie: /ü/<br />
+2.2. Verbalmorphologie<br />
+2.2.1. Auxiliarformen (Allokutiv)<br />
+2.2.1. Synthetische Formen<br />
+2.2.3. Obligativ<br />
+2.3. Nominalflexion: Prolativ<br />
+2.4. Satzstruktur: Negation<br />
+2.5.Andere Phänomene<br />
+2.5.1. Indefiniter Artikel<br />
+2.5.2. Adverbien<br />
+2.5.3. Personalpronomen<br />
+2.5.4. Komitativ statt Instrumental<br />
+2.5.5. Partitiv und Ablativ<br />
+2.5.6. Postpositionen statt Lokalkasus<br />
+2.5.7. Belebtheitsaffix<br />
+2.5.8. -egi<br />
+2.5.9. Einfache Pluralmarkierung<br />
+2.5.10. Passiv<br />
+2.5.11. Potential<br />
+2.5.12. Präteritaler Irrealis<br />
+2.5.13. Romanischer Kausativ<br />
+2.5.14. Romanische Subordination<br />
+3. Diachronische und kontrastive Evidenz<br />
+4. Schlussfolgerungen<br />
+Bibliografie<br />
+Anhang: Mehrsprachige Ortschaften im Dialektgebiet</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Online-Publikation der Zeitschrift Anuario del Seminario Julio de Urquijo/International Journal of Basque Philology; die gedruckte Version ist bereits 1995 erschienen. Artikel in baskischer Sprache.</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/2905-Martin_Haase" class="tag multiline" popup="true">Martin Haase</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 21. November 2013, 13:18 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 21. November 2013, 13:18 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

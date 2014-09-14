@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Auf der Suche nach einer neuen Sprache. Federico García Lorcas Lyrik im Zeichen einer produktiven Sprachkrise (Promotionsprojekt)</h2>
+<h3></h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Freitag, 01. Oktober 2010</dd>
+<dt>Projektende</dt>
+<dd>Sonntag, 31. Mai 2015</dd>
+<dt>Status</dt>
+<dd>laufend</dd>
+<dt>Hochschule</dt>
+<dd>Universität Würzburg</dd>
+</dl>
+<h4>Aktiv beteiligte Person(en)</h4>
+<p>(z.B. Kooperation, Mitarbeiter, Fellows)</p>
+<a href="/pers/3084-Christoph_Hornung" class="tag multiline" popup="true">Christoph Hornung</a>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><p>In einem Brief an seinen Freund Melchor Fernández Almagro schreibt Federico García Lorca im Jahr 1926/27:</p>
+<p>„Todo me parece lamentable en mi poesía. Encuentro que no he expresado ni puedo expresar mi pensamiento. Hallo calidades turbias donde debiera haber luz fija y encuentro en todo una dolorosa ausencia de mi propia y verdadera persona.“ García Lorca VI, S.931.</p>
+<p>Lorca beklagt sich hier über seine Unfähigkeit, in der Poesie das auszudrücken, was er ausdrücken möchte. Die (poetische) Sprache versagt als geeignetes Medium, um seinen Gedanken Form zu verleihen – sie ist zu trübe. Er selbst findet sich in dieser Sprache nicht wieder, seine eigene Sprache scheint ihm zu entgleiten. Mit dem Aussprechen einer expliziten Unzufriedenheit mit der ihm verfügbaren Sprache stellt sich Lorca in die prominenten Diskurse einer spezifisch modernen Krise des sprachlichen Zeichens und ihrer Repräsentationsleistung.</p>
+<p>Die Arbeit stellt die bei Lorca spezifische Ausprägung sprachkritischer Aspekte dar. Das sind im wesentlichen folgende Punkte: Problematisierung der Referentialität sowie der Repräsentationsfähigkeit des sprachlichen Zeichens, Entfremdung von der eigenen Sprache und der der Gesellschaft; Verlust der Kommunikationsfähigkeit; Klischeehaftigkeit literarischer Symbole; Überforderung und Verlust der Wahrnehmungs- und Sprechfähigkeit (etwa angesichts der Großstadterfahrung); Unsagbarkeit von Gefühl, Schmerz, Traum, Inspiration, Ekstase; Entgrenzung der Signifikanten; Destruktion von Ich-Bedeutungen, Unsagbarkeit von eigenen und fremden Identitäten.<br />
+Antworten auf diese sprachkritischen Gesichtspunkte finden sich in zentralen Charakteristika von Lorcas Werk, die in ihrer jeweiligen Verknüpfung mit den krisenhaften Elementen dazustellen sind. Diese – literarisch sehr produktiven – Elemente sind: eine avantgardistische Hinwendung zu verschiedenen Formen einer vermeintlich unkorrumpierten und reinen Sprachlichkeit (Folklore, Unbewusstes, Sprache des Kindes, „Sprache“ der Tiere); das Kreisen um Metaphorik als alternative Sprachlichkeit; Hinwendung zu körperbasierten Wahrnehmungs- und Ausdrucksmodi wie Synästhetik und Tanz; zu einem Wechselspiel von Ich-Inszenierungen und –Destruktionen, zur paranoischen Metamorphose und weiteren (teils surrealistische) Spielen der Entreferentialisierung; Verhandlung sprachlicher Grenzen anhand von Musikalität, Rand- und Außersprachlichkeit (Schreien, Schweigen); die wechselhafte Hinwendung zu literarischen Kodierungen im Sinne einer Auseinandersetzung mit vorhandenen Katalysatoren des Sprechens (Folklore, Avantgardismus, Surrealismus, Petrarkismus, Manierismus).</p>
+<p>Das Korpus besteht aus folgenden Texten:<br />
+(1)	Lorcas poetologische Vorträge<br />
+Die Arbeit beschreibt Lorcas Vorträge hinsichtlich ihrer Auseinandersetzung mit der poetischen Fruchtbarkeit von Defiziten der Sprachlichkeit, dem Kreisen um den Gedanken sprachlicher Reinheit und Expressivität sowie der Auseinandersetzung mit verschiedenen Zeichenarten anhand heterogenster Themen (u.a. der mythisierte cante jondo; Góngoras Metaphorik; das impressionistische, kubistische und surrealistische Verhältnis zu zeichenhafter Repräsentation; der „desdibujo“ spanischer Kinderschreckfiguren).</p>
+<p>(2)	<em>Poema del cante jondo</em> (ab 1921)<br />
+Der Band <em>Poema del cante jondo</em> ist stark von andalusischem Motivinventar geprägt, wovon die folklorisierende Stilisierung Lorcas Ausgang nahm. Meine Analyse zeigt, dass sich auch hier zahlreiche Brüchigkeiten im Verhältnis von Mensch und Sprache finden. Ein signifikantes Beispiel: In „El grito“ löst sich der titelgebende Schrei aus jeder Bindung zu einem menschlichen Urheber und erscheint dem Menschen sogar übergeordnet.  Die hier besonders häufigen rand- und außersprachlichen Motive werden als Räume beschrieben, in denen das Verhältnis von Mensch und Sprache sowie die Grenzen und Fähigkeiten von Sprache immer wieder verhandelt und thematisiert werden. Unter den darzustellenden Techniken, Sprache verfügbar zu machen, befinden sich hier dominante Visualisierungsstrategien, eine starke Mythisierung der andalusischen Natur und der Zeichen sowie des rituellen Framings des <em>cante jondo</em>, in deren Folge ein Einsatz von Mittlerfiguren und –zeichen der mythischen Ursprungserzählungen, die Lorcas Texte selbst hervorbringen. Eine zentrale Rolle nehmen in diesem Band auch die musikalischen Bezüge ein, die – ähnlich der randsprachlichen Elemente – um die Grenzen der Sprache kreisen und diese so immer wieder sichtbar machen.</p>
+<p>(3)	<em>Poeta en Nueva York</em> (1929-30)<br />
+In <em>Poeta en Nueva York</em> wird der andalusische Kontext abgelöst von einem Setting in der Großstadt New York, in der sich der Sprecher verloren und überfordert fühlt. Eine deutlich avantgardistisch und surrealistisch geprägte Ästhetik mit offenen Formen und exaltierter Metrik, die einem sprachlichen Delirium gleicht, tritt in den Vordergrund. Hier ist besonders zentral, wie die Wahrnehmungs- und Sprechfähigkeit vollkommen aus den Fugen gerät. Die in den älteren Texten etablierten Techniken und Taktiken der Sprachfindung wie die Visualisierung sind hier weit davon entfernt, die Bilder einzufangen und darstellbar zu machen. Auch entziehen sich literarische Kodierungen wie auch eine Hinwendung zu körperlich basierter Wahrnehmung der Verfügbarkeit, das Ich kann sich kaum selbst manifestieren. Stattdessen stehen im Vordergrund die Entfremdung von der eigenen Stimme („¡Oh voz antigua, quema con tu lengua esta voz de hojalata y de talco!“ ), deren Fragmentiertheit und Verselbständigung von Stimmen,  eine körperliche Auflösung des Sprechers („Yo, poeta sin brazos…“ ) und Metamorphosen der eigenen wie fremder Identitäten („„Tropezando con mi rostro distinto de cada día“ ), die mit Austauschbarkeiten der Referenten einhergehen. Bilder der Angst überschwemmen das Ich und können nicht eingefangen werden. Sprache manifestiert sich als Erbrechen oder als Rhythmus eines Tambours.  Momente der sprachlichen Festigung, Bändigung und Reinheit in Form bekannter Modelle  (aus dem Bereich des Petrarkismus, aus verschiedenen rituellen Kontexten, musikalischen und lyrischen Gattungen) werden dabei als marginalisierte, entleerte oder utopische Referenzen dargestellt. Als Gegenpole erscheinen wiederum das gemeinschaftliche Singen, die „Sprache“ der Tiere und weitere Utopien einer sprachlichen Fülle und Reinheit.</p>
+<p>(4)	<em>Sonetos del amor oscuro</em> (1935-36)<br />
+In diesen Texten konzentrieren sich die für meine Untersuchung relevanten Ansatzpunkte in besonderem Maße: Es liegt eine Sprachlichkeit vor, die nicht weniger entgrenzt ist als die in Dichter in New York. Grund dafür ist eine Metaphorik, die sich auf keinerlei Referenten festlegen lässt. Vielmehr beobachte ich hier eine immer weiter führende Verkettung literarischer Referenzen und Ich-Stilisierungen, die das Spiel der Metamorphose vielleicht noch stärker als Grundmoment von Sprache kennzeichnen. Die drastische Erotik, die sadomasochistische körperliche Gewalt mit einschließt, scheint nicht nur sexuelles Delirium zu sein, sondern führt dieses mit einem sprachlichen Delirium eng. Besonders interessiert mich hier das erotische Verhältnis zur Sprache, das analog zur Körperlichkeit aus einem dionysischen Zusammenspiel von Exzess und Auflösung besteht. Das bezieht sich sowohl auf das Ich, als auch auf die sprachliche und körperliche Kommunikation mit einem ebenfalls nicht festzulegenden Du. In dieser dominanten Sprechsituation der Du-Anrede erlangt die Entgrenzung und Entautomatisierung von Sprache und speziell traditionellster literarischer Symbole wie Rose, Lorbeer etc. im Rahmen eines Verweisspiels der Zeichen besonderes Gewicht. Diesem körperlichen und sprachlichen Delirium steht – anders als in den avantgardistisch aufgelösten Formen der New Yorker Texte – die Einbettung in die strenge und konventionelle Form des Sonetts gegenüber, die als Gegengewicht einer völligen Entgrenzung beschrieben wird.</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/3084-Christoph_Hornung" class="tag multiline" popup="true">Christoph Hornung</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 08. Mai 2014, 13:22 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 08. Mai 2014, 13:22 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

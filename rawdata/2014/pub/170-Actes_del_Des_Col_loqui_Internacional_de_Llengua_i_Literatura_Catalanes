@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/170-Actes_del_Des_Col_loqui_Internacional_de_Llengua_i_Literatura_Catalanes' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Actes del Desè Col.loqui Internacional de Llengua i Literatura Catalanes (Sammelband)</h2>
+<h3>Frankfurt am Main, 18-25 de setembre de 1994; Volum I</h3>
+<hr>
+<abbr class='unapi-id' title='170'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<a href="/pers/74-Axel_SchOenberger" class="tag multiline" popup="true">Axel Schönberger</a>
+<span class='tag multiline'>Tilbert Dídac Stegmann</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Publicacions de l´Abadia de Montserrat</dd>
+<dt>Ort</dt>
+<dd>Barcelona</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+1995
+</dd>
+<dt>Reihe</dt>
+<dd>Biblioteca Abat Oliba, Band 164</dd>
+<dt>ISBN</dt>
+<dd>
+84-7826-671-2
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=84-7826-671-2&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Katalanisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Katalanistik
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Axel Schönberger / Tilbert Dídac Stegmann<br />
+(Universitat de Braunschweig / Johann Wolfgang Goethe-<br />
+Universität Frankfurt am Main)</p>
+<p>Pròleg</p>
+<p>Deu Coŀloquis Internacionals de Llengua i Literatura Catalanes</p>
+<p>Deu Coŀloquis Internacionals de Llengua i Literatura Catalanes —deu esdeveniments vivencials gravats només en la memòria passatgera dels seus participants— han trobat llur cristaŀlització duradora i bibliogràfica en deu publicacions d&#8217;Actes. Coŀloquis i Actes són dues cares d&#8217;una mateixa medalla, però amb considerables diferències: del contacte viu, científic i humà dels Coŀloquis les Actes en són una abstracció impresa; de les comunicacions pronunciades oralment (generalment sense notes i bibliografia) els textos de les Actes en són la versió posada a punt científicament i bibliogràfica. I moltes vegades aquests textos presenten la versió completa d&#8217;una comunicació que només s&#8217;ha donat a conèixer abreujadament o fins i tot en presenten una versió retocada o reelaborada.<br />
+     Es tracta, doncs, de dos conjunts —emprant la terminologia matemàtica de la teoria dels conjunts— amb un conjunt d&#8217;intersecció (les parts idèntiques del text llegit i del publicat) i uns subconjunts que no coincideixen. Ho són en el Coŀloqui el context de diàleg oral i de vivència comuna; ho són en les Actes la forma textual documentada segons les exigències del diàleg científic escrit. Les Actes són, doncs, molt més que una mera transcripció de les veus que s&#8217;han expressat en un Coŀloqui; són la posada en marxa, amb un més gran nombre de participants (i la continuació amb els que han presenciat la comunicació), d&#8217;aquell intercanvi d&#8217;informació i d&#8217;aquella confrontació d&#8217;arguments que són la base de la nostra filologia.<br />
+     Tenint tot això en compte, ens sentim honorats de poder servir l&#8217;Associació Internacional de Llengua i Literatura Catalanes i els seus objectius amb la publicació d&#8217;aquestes Actes que continuen la sèrie, fins ara completa, de les Actes dels Coŀloquis de l&#8217;AILLC.</p>
+<p>Les Actes dels nou Coŀloquis anteriors de l&#8217;AILLC</p>
+<p>Deu edicions d&#8217;Actes: és un moment en el qual val la pena fer-ne un repàs bibliogràfic. La majoria de volums d&#8217;aquestes Actes han sortit a les Publicacions de l&#8217;Abadia de Montserrat, a la coŀlecció «Biblioteca „Abat Oliba”» i —com tot catalanista no podrà agrair mai prou— gràcies a la immensa voluntat i capacitat de treball de Josep Massot i Muntaner.<br />
+     El primer volum encara havia aparegut a l&#8217;editorial Klincksieck de París, el 1973, amb el títol La Linguistique Catalane: Colloque international organisé par le Centre de Philologie et de Littératures Romanes de l&#8217;Université de Strasbourg du 23 au 27 d&#8217;avril 1968; fou editat per Antoni Maria Badia i Margarit i Georges Straka i contenia contribucions dels dos editors i de cinc filòlegs catalans més. El tercer volum, Actes del Tercer Coŀloqui Internacional de Llengua i Literatura Catalanes celebrat a Cambridge del 9 al 14 d&#8217;abril de 1973, fou publicat a l&#8217;editorial Dolphin Book d&#8217;Oxford, el 1976, editat per Robert Brian Tate i Alan Yates, i contenia vint contribucions.<br />
+     Ja tots els altres volums van trobar casa pròpia a Montserrat, començant pel segon que després de molta tardança finalment no havia arribat a sortir a Holanda: Problemes de llengua i literatura catalanes: Actes del II Coŀloqui Internacional sobre el Català, Amsterdam 1970, Montserrat: Publicacions de l&#8217;Abadia de Montserrat, 1976, editat per Felip M. Lorda i Alaiz i Jean Roudil, amb dotze contribucions.<br />
+     Seguiren les Actes del Quart Coŀloqui Internacional de Llengua i Literatura Catalanes, Basilea, 22-27 de març de 1976, Barcelona: Abadia de Montserrat, 1977, editades per Germà Colon, amb dinou contribucions; les Actes del Cinquè Coŀloqui Internacional de Llengua i Literatura Catalanes, Andorra, 1-6 d&#8217;octubre de 1979, Barcelona: Abadia de Montserrat, 1980, editades per Jordi Bruguera i Josep Massot i Muntaner, amb vint-i-quatre contribucions; les Actes del Sisè Coŀloqui Internacional de Llengua i Literatura Catalanes, Roma, 28 setembre &#8211; 2 octubre 1982, Barcelona: Abadia de Montserrat, 1983, editades per Giuseppe Tavani i Jordi Pinell, amb vint-i-cinc contribucions; les Actes del Setè Coŀloqui Internacional de Llengua i Literatura Catalana, Tarragona-Salou, 1-5 octubre 1985, Barcelona: Abadia de Montserrat, 1986, editades per Joan Veny i Joan M. Pujals, volum de 767 pàgines que començava a disparar-se amb trenta-cinc comunicacions i diverses contribucions a taules rodones.<br />
+     Aquesta tendència d&#8217;augment ja no es va poder aturar tres anys més tard i per primera vegada es va arribar a dos volums d&#8217;actes per un coŀloqui: Actes del Vuitè Coŀloqui Internacional de Llengua i Literatura Catalanes, Tolosa de Llenguadoc, 12-17 de setembre de 1988, Barcelona: Montserrat, 1989, 2 vols., editats per Antoni Maria Badia i Margarit i Michel Camprubí, amb quaranta-una comunicacions i deu contribucions més.<br />
+     El pròxim coŀloqui ja arribà a tres volums: Actes del Novè Coŀloqui Internacional de Llengua i Literatura Catalanes, Alacant-Elx, 9-14 de setembre de 1991, Barcelona: Abadia de Montserrat, 1993, 3 vols., editats per Rafael Alemany, Antoni Ferrando i Lluís B. Meseguer, amb 75 contribucions i els textos de tres taules rodones.</p>
+<p>La preparació del desè Coŀloqui</p>
+<p>I així arribàvem al desè Coŀloqui que per primera vegada s&#8217;havia d&#8217;organitzar a Alemanya, país dels fundadors de la filologia romànica i de la dedicació primerenca a la filologia catalana. L&#8217;Associació Germano-Catalana (<span class="caps">DKG</span>) s&#8217;ha sentit molt honorada de tenir el desè Coŀloqui de l&#8217;AILLC a casa nostra.<br />
+     L&#8217;any 1991, al Coŀloqui d&#8217;Alacant, es va decidir que la Deutsch-Katalanische Gesellschaft prengués la responsabilitat d&#8217;organitzar el desè Coŀloqui a la ciutat de Frankfurt am Main. Tilbert Dídac Stegmann, llavors president de la <span class="caps">DKG</span>, era nomenat president del Comitè Organitzador del Coŀloqui, Axel Schönberger, vice-president de la <span class="caps">DKG</span>, era elegit vice-secretari de l&#8217;AILLC i secretari del Comitè Organitzador. Abans del Coŀloqui, va haver-hi tres reunions de la junta de govern de l&#8217;AILLC on es varen decidir les grans línies de l&#8217;organització.<br />
+     A la reunió del 3 de setembre de 1992 (Barcelona), es va decidir que el desè Coŀloqui de l&#8217;AILLC seria igualment el dotzè de la <span class="caps">DKG</span>, se&#8217;n va fixar la data, se&#8217;n varen determinar els tres temes i es va decidir que hi hauria dues confèrencies de 45 minuts, quatre ponències de literatura i quatre de llengua de 45 minuts (més 15 minuts de discussió) i, a més, una sèrie de comunicacions de 15 minuts. La junta de govern de l&#8217;AILLC va fixar igualment els noms dels conferenciants i els ponents, va determinar els temes de dues taules rodones, una sobre literatura catalana actual, a càrrec de l&#8217;Associació d&#8217;Escriptors en Llengua Catalana, l&#8217;altra sobre l&#8217;ensenyament del català als Països Catalans i als estats espanyol i francès, per a la qual ja es van determinar els noms dels participants. Es pagarien els viatges i l&#8217;allotjament als deu conferenciants invitats, a tots els participants de les taules rodones i als membres de la junta de govern de l&#8217;AILLC. La <span class="caps">DKG</span> i el Comitè Organitzador haurien de fer arribar a l&#8217;AILLC tres Circulars del Coŀloqui (1992, 1993 i 1994) que l&#8217;AILLC enviaria als seus membres.<br />
+     La segona reunió de la junta va tenir lloc a Barcelona, dia 19 de setembre de 1993. Per raons de salut, Josep Massot i Muntaner va presentar la seva dimissió del càrrec de secretari de l&#8217;AILLC, i es va decidir que la doctora Lídia Pons, professora de la Universitat de Barcelona, seria la secretària en funcions de l&#8217;AILLC fins al Coŀloqui de Frankfurt am Main. Es va parlar sobre el problema de la devaluació de la pesseta que havia afectat greument el pressupost anual de la <span class="caps">DKG</span> i, per consegüent, les seves possibilitats de co-finançar el Coŀloqui; però el programa previst es mantenia essencialment igual. Es decidí que els senyors Schönberger i Stegmann tindrien cura de preparar les actes del Coŀloqui, que serien editades per les Publicacions de l&#8217;Abadia de Montserrat.<br />
+     La tercera reunió es va fer a Frankfurt am Main, dia 18 de setembre de 1994, i va delimitar encara alguns aspectes pràctics del Coŀloqui. Entre la segona i tercera reunions, la junta de govern va autoritzar que el Comitè Organitzador posés al programa més de dues seccions paraŀleles, trencant així la tradició dels Coŀloquis de l&#8217;AILLC de fer sempre paraŀlelament una secció de lingüística i una de literatura, tant per a les comunicacions com per a les ponències. Sense aquesta decisió de la junta, el Comitè Organitzador hauria hagut de rebutjar un gran nombre de les comunicacions proposades. Finalment, la majoria de les comunicacions es van poder acceptar. La selecció de les comunicacions i l&#8217;organització del programa científic estricte, la correspondència respectiva i les Circulars foren fetes per Axel Schönberger i Tilbert Dídac Stegmann; tota l&#8217;organització de les taules rodones, viatges i estades va anar a càrrec de Ferran Ferrando, aleshores co-director de l&#8217;Oficina Catalana de la <span class="caps">DKG</span> i tercer membre del Comitè Organitzador. En el butlletí de la <span class="caps">DKG</span>, Mitteilungen der Deutsch-Katalanischen Gesellschaft 28 (agost de 1994), vam publicar els resums de totes les ponències i comunicacions i més informacions sobre el Coŀloqui. Qui se&#8217;n vulgui informar, trobarà totes les informacions rellevants a les pàgines 1-152 d&#8217;aquest butlletí (<span class="caps">ISSN</span> 0939-0170).</p>
+<p>Les Actes del X Coŀloqui</p>
+<p>En el desè dels nostres Coŀloquis, ens vam veure confrontats amb una quantitat de comunicacions més gran que mai, amb dues conferències, vuit ponències, setanta comunicacions i quinze contribucions de les taules rodones. De les comunicacions, 16 formaven formalment part de la secció anomenada «XII Coŀloqui Anual Germano-Català». Algunes d&#8217;aquestes comunicacions es publicaran en els números 8 i 9 de la Zeitschrift für Katalanistik, revista editada per la <span class="caps">DKG</span>. Això i l&#8217;aplicació d&#8217;una caixa ampliada ha permès d&#8217;encabir totes les comunicacions presentades a temps en tres volums, evitant així un preu excessiu de la publicació. Hem hagut de desistir de publicar les discussions que van tenir lloc després de les ponències, comunicacions i taules rodones. Si algunes comunicacions semblen més curtes que d&#8217;altres, és degut al fet que alguns autors van respectar les normes i van enviar-nos un text que realment es podia llegir en 15 minuts, mentre que altres ens van enviar textos que no es podrien llegir ni en una hora. No ens hem vist amb cor de posar-hi remei.<br />
+     Els responsables del pròxim coŀloqui que se celebrarà l&#8217;any 1997 a Mallorca hauran de decidir si es vol i es pot continuar amb l&#8217;augment de comunicacions presentades als nostres coŀloquis. De moment, quan hagi aparegut el darrer volum de les Actes del desè Coŀloqui, seran 15 els gruixuts volums publicats en 27 anys d&#8217;activitat dels coŀloquis internacionals de catalanística.</p>
+En el discurs d&#8217;obertura de l&#8217;aleshores President de l&#8217;AILLC, que segueix aquest pròleg, Giuseppe Tavani exposa els temes del Coŀloqui, dóna una breu visió de conjunt de les ponències i comunicacions que s&#8217;hi havien de presentar i menciona les tres taules rodones. Cal dir que la taula rodona de l&#8217;Associació d&#8217;Escriptors va funcionar molt bé. Hi hagué, però, bastants errors del Comitè Organitzador en la preparació de la taula rodona sobre l&#8217;ensenyament del català, pels quals ens hem d&#8217;excusar davant del doctor Antoni M. Badia i Margarit. Caldria demanar als qui participin en una taula rodona que lliurin les seves intervencions amb temps abans del Coŀloqui al president de la taula rodona respectiva i al Comitè Organitzador del Coŀloqui.
+Després, el president del Comitè Organitzador del Coŀloqui fa una avaluació quantitativa de les comunicacions ofertes i situa geogràficament la procedència dels conferenciants comparant el pes de la catalanística internacional amb el de la catalanística nacional catalana. Aquests textos i especialment els índexs dels tres volums orienten amb considerable rapidesa el lector interessat a conèixer el contingut d&#8217;aquestes Actes. Ara afegirem simplement els criteris d&#8217;ordenació que hem aplicat en distribuir les contribucions en els tres volums: als discursos d&#8217;obertura segueixen primer els articles referits a la literatura, començant amb la conferència plenària inaugural i seguint amb les quatre ponències de literatura en l&#8217;ordre de la cronologia dels temes tractats. Igualment les comunicacions de literatura estan ordenades sobretot cronològicament i per camps temàtics. El segon volum conté la resta de les comunicacions de literatura que no cabien al primer, les comunicacions sobre el tema de les Relacions Germano-Catalanes, les tres taules rodones i la intervenció de Joan Colomines, de la Generalitat de Catalunya. Totes les contribucions de lingüística (conferència de clausura, quatre ponències i les comunicacions), el discurs de clausura de Giuseppe Tavani i la resolució de l&#8217;assemblea dels membres de l&#8217;AILLC estan agrupades en el tercer i darrer volum d&#8217;aquestes Actes.
+Desitgem que siguin llegides i utilitzades pels estudiosos i puguin esdevenir així una nova fita en el camí de la nostra filologia.
+<hr />
+<p>Discursos oficials d&#8217;inauguració del Coŀloqui</p>
+<hr />
+<p>Discurs del President de l&#8217;AILLC, Giuseppe Tavani,<br />
+en l&#8217;acte inaugural del Coŀloqui</p>
+<p>Senyor representant de la Universitat de Frankfurt am Main,<br />
+senyores, senyors, amics,</p>
+<p>abans de declarar obert aquest X Coŀloqui de Llengua i Literatura Catalanes i de deixar la paraula al professor Tilbert Stegmann perquè ens iŀlustri el treball que ell mateix i els seus coŀlaboradors del Comitè organitzador han fet, vull agrair les expressions amablement amistoses del professor doctor Gerhard Goebel i, sobretot, adreçar-vos, a tots vosaltres, una salutació de benvinguda i abraçar-vos, només simbòlicament, és clar, donant-vos les gràcies per haver vingut a Frankfurt am Main i haver manifestat concretament d&#8217;aquesta manera el vostre interès actiu a favor del manteniment de la dimensió internacional del fet català. Perquè en aquest moment, quan hi ha intents, d&#8217;una banda, de reduir a una dimensió local el procés de recuperació dels espais que ens pertoquen, i de l&#8217;altra, de qualificar aquest procés d&#8217;operació imperialista, d&#8217;un imperialisme lingüístic i cultural que pretesament perjudicaria els drets dels castellanoparlants, cal reafirmar amb determinació que la salvaguarda de la identitat catalana és una feina que ens interessa a tots, catalans, europeus en general i no solament europeus: perquè la pèrdua definitiva o la pèrdua gradual d&#8217;una cultura i d&#8217;una llengua impliquen una disminució de la nostra identitat coŀlectiva. I reafirmar avui la dimensió internacional del fet català resulta molt important —permeteu-me aquesta petita digressió nacionalista— en un moment en què l&#8217;enclavament lingüístic català a Itàlia, l&#8217;Alguer, per primera vegada en la història d&#8217;un País que no ha prestat mai molta atenció a les minories lingüístiques, ha elegit un alcalde (un síndic) i una administració municipal aferrissadament catalanistes i catalanoparlants. Vull recordar, a propòsit d&#8217;això, que els administradors actuals de l&#8217;Alguer són els mateixos amics que, fa alguns anys, anaven de nit a canviar els rètols amb els noms italians dels carrers per rètols amb els noms catalans corresponents: carrer Sàsser en lloc de via Sassari, carrer de Sant Francesc en lloc de via San Francesco, Avinguda Primer de Maig en lloc de viale Primo Maggio, i coses així. El dret que els algueresos catalanòfils han adquirit democràticament d&#8217;administrar la ciutat durant quatre anys en nom de llur identitat és un fet de gran relleu, perquè assenyala un canvi profund en la mentalitat dels ciutadans de l&#8217;Alguer, la major part dels quals avui no tenen les reticències per a proclamar-se catalans que tenien abans: perquè avui ésser catalans i proclamar-se catalans ja no és una qüestió de particularisme lingüístico-cultural, ans al contrari, la seva dimensió internacional li dóna prestigi, perquè el fet català, gràcies a tots vosaltres, ha esdevingut un model de recuperació d&#8217;aquells espais que suara esmentava.<br />
+     Per aquest motiu, és possiblement encara més important que aquest X Coŀloqui de la nostra Associació se celebri en un país i en una ciutat que no tenen res a veure amb les reivindicacions catalanistes: perquè això vol dir que la voluntat dels catalans d&#8217;ésser catalans troba cada cop més audiència —com la va trobar a Estrasburg, Amsterdam, Cambridge, Roma, Tolosa de Llenguadoc— també fora de l&#8217;àmbit estricte del catalanisme institucional. És a dir, que el fet català continua essent el punt de cristaŀlització d&#8217;una sèrie de processos que tenen llur justificació essencial en l&#8217;afirmació de la llibertat, millor dit, del dret que tots tenim d&#8217;ésser el que som i no el que els altres voldrien que fóssim. I la vostra participació en aquest Coŀloqui de Frankfurt am Main, amb totes les dificultats que implica transferir-se de l&#8217;àrea de la pesseta o de la lira a l&#8217;àrea del marc alemany, ens dóna, doncs, una oportunitat més de verificar que la voluntat de continuar treballant perquè aquests processos vagin endavant continua essent molt forta.</p>
+És evident que un aplec com el nostre no es duu a terme sense maldecaps: reunir en una ciutat i en un país fora de Catalunya i de llengua totalment diferent de les nostres llengües romàniques afegeix dificultats a les dificultats. Per això mateix ens cal donar gràcies especials a la Universitat de Frankfurt am Main que ha volgut assumir el patronatge científic del Coŀloqui, a la Deutsch-Katalanische Gesellschaft amb la seva Oficina Catalana i al Comitè organitzador que s&#8217;han encarregat de la realització del projecte presentat fa tres anys a la Junta de Govern de l&#8217;AILLC, a tots els que han contribuït i contribuiran en els propers dies a l&#8217;execució del programa: a Tilbert Dídac Stegmann, el nostre amable amfitrió, l&#8217;activitat i el dinamisme del qual —posats al servei de la difusió del català a Alemanya— tothom coneix prou bé perquè sigui necessari esmentar-los novament avui; a Axel Schönberger i a Ferran Ferrando Melià i a llurs ajudants, que han portat l&#8217;organització d&#8217;aquest Coŀloqui. A tots i a cadascú, moltes gràcies.
+Un agraïment especialíssim, fet amb tot l&#8217;afecte, l&#8217;amistat i la simpatia humana que mereixen l&#8217;home i l&#8217;estudiós, és el que tinc el privilegi de manifestar —en nom propi, de la Junta de Govern i, m&#8217;imagino, també de tots vosaltres— a Josep Massot i Muntaner. La seva dimissió del càrrec de secretari, causada per una afortunadament temporal indisposició, va ésser un esdeveniment traumàtic per a l&#8217;AILLC. Al Coŀloqui de Tolosa vaig dir, aparentment en to de broma, però ben convençut del que deia, que si no hagués existit Josep Massot hauria calgut inventar-lo: i en efecte, Josep Massot ha estat durant tots aquests anys el motor i el coordinador lúcid i aplicat de la nostra Associació i de totes les seves iniciatives, el dipositari d&#8217;una tradició que s&#8217;ha anat formant al llarg de vint-i-un anys, l&#8217;intèrpret rigorós dels estatuts i de les deliberacions de les Juntes i de les Assemblees, el coŀlaborador i el conseller preciós de quatre presidents: en resum, el símbol de la continuïtat i, al mateix temps, el realitzador de les innovacions suggerides pels canvis polítics, institucionals, socials i per les noves orientacions científiques. I tanmateix, la renúncia d&#8217;en Josep Massot al càrrec de secretari no ha estat improvisada: ens ha donat el temps de trobar una solució transitòria que ens permetés de conduir l&#8217;AILLC fins a l&#8217;Assemblea General del divendres i que esperem que esdevingui definitiva, una solució personificada per Lídia Pons i Griera, a la qual vull també donar les gràcies més afectuoses per haver acceptat la nostra proposta i haver treballat tant i tan bé durant aquests mesos, els més feixucs, que han precedit el Coŀloqui. Josep Massot, però, no ens ha deixat del tot: ha acceptat de continuar coŀlaborant amb la Junta de Govern com a responsable de les publicacions de l&#8217;AILLC, i tothom sap que no és poc.
+Els agraïments s&#8217;han allargat una mica més del previst, i tanmateix cal encara recordar almenys els membres de les Juntes de Govern i els qui han coŀlaborat científicament en els nostres Coŀloquis i en les nostres publicacions, és a dir, tots vosaltres: sense la vostra participació no hauríem pogut publicar els milers de pàgines que suposen dotze volums de les Actes i vint-i-vuit volums dels Estudis, amb el vint-i-vuitè que surt ara i que és també el primer de la Misceŀlània dedicada a un dels fundadors de l&#8217;Associació, Germà Colon, que, després d&#8217;un altre soci fundador —Antoni Maria Badia i Margarit—, fou el segon President de l&#8217;AILLC i l&#8217;organitzador del Coŀloqui de Basilea, i que és actualment conseller de l&#8217;Associació.
+Aquest X Coŀloqui —seguint la tradició— s&#8217;articularà en les dues seccions de llengua i de literatura, la primera dedicada a investigar per una banda la història de la llengua i dels estudis gramaticals, per una altra banda les tendències més recents de la lingüística; i la segona s&#8217;ocuparà aquesta vegada de la literatura de la postguerra. Així tindrem la possibilitat d&#8217;escoltar conferències plenàries, ponències i comunicacions sobre l&#8217;aportació de l&#8217;AILLC a la lingüística i sobre els origens del català, sobre el llenguatge científic, el llenguatge publicitari, la lingüística computacional, les interferències castellano-catalanes, el discurs oral no coŀloquial, i diferents problemes fonològics, morfològics, sintàctics i lexicals; i en el vessant de la literatura escoltarem aportacions i noves reflexions sobre les avantguardes literàries, la narrativa femenina i juvenil, la literatura de les Illes, la literatura en català a l&#8217;Aragó, el teatre femení de Mercè Rodoreda, la poesia de Vicent Andrés Estellés, Josep Carner, Salvador Espriu, Gabriel Ferrater, Rafael Jaume, els contes i les noveŀles de Pere Calders, Maria Aurèlia Capmany, Joan Fuster, Gabriel Janer Manila, Manuel de Pedrolo, Joan Perucho, Carles Sindreu i Pons, Llorenç Villalonga, etc. I no podíem, a Frankfurt am Main, deixar de banda les relacions germano-catalanes, que troben llur coŀlocació en la secció de comunicacions del matí del divendres.
+El programa dels nostres treballs és, doncs, molt dens, i ens ocuparà gairebé tot el temps de què disposem: a les conferències plenàries, a les ponències i a les comunicacions afegim com sempre algunes Taules Rodones sobre la «Literatura Catalana Actual» —tradicionalment a càrrec de l&#8217;Associació d&#8217;Escriptors en Llengua Catalana—, o sobre «L&#8217;Ensenyament del Català als Països Catalans», o encara sobre «El Català a la Comunitat Europea» —organitzada pel Centre Català de Luxemburg i l&#8217;Associació Germano-Catalana—. A més, aquesta vegada tindrem també un informe oficial de la Generalitat, fet per Joan Colomines, sobre les perspectives del català a les universitats de fora de Catalunya.
+I tanmateix, pel que veig, els organitzadors no han oblidat l&#8217;aspecte lúdic que sempre ha constituït un element agradable de les nostres trobades: vetllades, música, excursions. Però ara em sembla indispensable fer punt: he parlat massa. No em resta sinó fer vots perquè els treballs científics d&#8217;aquest X Coŀloqui tinguin el millor èxit possible i les diversions siguin divertides.
+A tots, una vegada més, benvinguts i gràcies.
+Declaro obert el X Coŀloqui Internacional de Llengua i Literatura Catalanes.
+<hr />
+<p>Discurs del Director designat de l&#8217;Institut<br />
+de Llengües i Literatures Romàniques de la Universitat<br />
+Johann Wolfgang Goethe de Frankfurt am Main,<br />
+Gerhard Goebel,<br />
+en l&#8217;acte inaugural del Coŀloqui</p>
+<p>Mesdames, Messieurs, chers Collègues et Amis,<br />
+benvolgudes senyores, benvolguts senyors,</p>
+<p>C&#8217;est en tant que Directeur de l&#8217;Institut de Lettres romanes désigné pour l&#8217;année universitaire 1994/95, charge donc plutôt ingrate que tous nous devons assumer à tour de rôle, que j&#8217;ai, du moins, l&#8217;honorifique plaisir de vous saluer ici. Rien d&#8217;autre ne m&#8217;y prédispose par ailleurs à titre de qualification. La voie que, dans l&#8217;immense gare des Lettres romanes, chacun doit choisir et qui peut être plurielle n&#8217;a été, dans mon cas comme dans celui de beaucoup de «romanistes» allemands de nos jours, que binaire, m&#8217;expédiant de préférence vers la France et l&#8217;Italie. Je suis donc resté à peu près ignare en matière de culture catalane.<br />
+     Cependant, si je vous dis que je le regrette, ce n&#8217;est pas par vaine convenance, mais en toute sincérité.<br />
+     Car les premiers des rares contacts, sur le vif et non seulement par le truchement des livres, que j&#8217;ai eus avec l&#8217;Espagne ont été en fait des contacts avec un pays de la région catalane, le Pays Valencien. C&#8217;est dans le sillage d&#8217;un peintre allemand, Joachim Senger, rencontré à Barcelone, que j&#8217;ai débarqué pour la première fois à Altea près d&#8217;Alacant, au printemps de 59, donc en plein franquisme encore, pour y retourner l&#8217;année suivante à la même saison.<br />
+     Un beau «poble» tout blanc comme les galets de la côte, se ramassant en amont, vers la petite cathédrale, avec sa population traditionnelle de pêcheurs et d&#8217;artisans, puis une petite colonie de peintres allemands ou suédois, la différence entre ces derniers étant que les Allemands buvaient beaucoup mais peignaient aussi tandis que les Suédois …<br />
+     Guère de touristes. Le monstre Benidorm était à sept kilomètres, mais paraissait aussi éloigné que Cordoue. Murcie en tout cas où certains de nos amis autochtones allaient régulièrement se désennuyer, semblait plus proche. Pour ce qui est de la lointaine ville de Granada, il y avait parmi les pêcheurs celui qui cultivait la mémoire de son ami García Lorca.<br />
+     Des amis d&#8217;alors, je ne me souviens en particulier, par leur nom, que de trois: Joachim le peintre allemand, évidemment, puis Joan, le millionnaire du village, qui avait été capitaine chez les Républicains, et un autre Joaquim, autochtone celui-là. De famille bourgeoise, étudiant en droit, Joaquim Rico faisait des vers en catalan valencien qu&#8217;il me lisait et m&#8217;expliquait, ayant reconnu en moi un compagnon de route littéraire. Il était plutôt réservé, par ailleurs, d&#8217;une gentillesse mélancolique non dépourvue de pointes d&#8217;humour sarcastique. Ainsi s&#8217;est faite mon initiation littéraire à la langue catalane que je ne comprenais pourtant pas, à l&#8217;oral. Les amis autochtones que nous rencontrions au Bar Francais (à la cédille irrécupérable), ne parlaient entre eux que le catalan, bien sûr, mais ne s&#8217;adressaient à nous (sauf pour l&#8217;obligatoire «Salut i força al canut») qu&#8217;en castillan qu&#8217;ils croyaient d&#8217;accès plus aisé pour nous autres, étrangers. Ils s&#8217;amusaient beaucoup à m&#8217;entendre répéter parfois sans mal (moi francisant) des mots saisis au vol tout étonnés que je passe même l&#8217;inévitable épreuve des setze jutges d&#8217;un jutjat mengen fetge d&#8217;un penjat. Mais il est vrai que la conversation au Francais était dominée par la voix rocailleuse de Joan au débit parcimonieux mais accidenté, lapidaire, qu&#8217;il était difficile de suivre.<br />
+     Une série de hasards biographiques —ou étaient-ce des choix? on distingue mal les uns des autres et peut-être toute vocation est-elle le résultat de coups de chance assumés au fur et à mesure—, hasards qu&#8217;il serait en tout cas fastidieux de détailler devant vous, a fait qu&#8217;à partir des années 60 je me sois toujours plus fermement rattaché d&#8217;abord à la France, puis à l&#8217;Italie, tant et si bien qu&#8217;il a fallu un autre coup de chance pour que, vingt ans après, je revienne en Pays Valencien pour une quinzaine de jours. J&#8217;en ai profité, bien sûr, pour un bref memory trip à Altea.<br />
+     Altea, vingt ans après, au lendemain du rétablissement de la democracia por la gracia de qui vous savez. Trip plutôt mélancolique. Il ne faut pas revisiter les paradis perdus, Proust le savait. Le Francais n&#8217;existait plus. Des amis d&#8217;alors je n&#8217;ai retrouvé qu&#8217;un seul, Joan. Il était assis devant le pas de sa porte, comme un petit vieux qu&#8217;il était devenu. Sa belle face de noble sioux paraissait toute ratatinée: quasiment aphone, il se faisait encore plus difficilement comprendre qu&#8217;à l&#8217;époque. J&#8217;ai néanmoins pu saisir que Joachim Senger avait depuis longtemps quitté Altea avec sa femme. Joan ne savait pas ce qu&#8217;il était devenu (moi non plus, d&#8217;ailleurs). Il avait laissé devant la cathédrale un beau tableau votif peint sur majolica que je suis ensuite allé voir, c&#8217;était un peu dans le style des vitraux de Chagall qu&#8217;il admirait tant. Et l&#8217;autre Joaquim, Rico? Mort, disait Joan; dans un accident de voiture, quatre ans auparavant. Il n&#8217;aura donc pas, c&#8217;est l&#8217;idée qui me traversa l&#8217;esprit, vu le matin, me rappelant une de ses poésies, en castillan celle-là:</p>
+<p>Hoy no ha amanecido.<br />
+He escupido hacia el cielo<br />
+y él no me ha respondido.</p>
+Mais cessons ici de ressasser des souvenirs plus ou moins mélancoliques et surtout strictement personnels. C&#8217;est par une autre poésie, plus appropriée à la présente occasion, qu&#8217;à défaut d&#8217;une plaquette de vers de Joaquim que l&#8217;on n&#8217;a pu repérer dans notre bibliothèque catalane (cela doit pourtant exister quelque part!) je veux saluer votre entreprise à laquelle je souhaite tout simplement bon èxit. Ouvrant le recueil définitif des Poésies de mon patron St. Mallarmé, elle s&#8217;intitule précisément «Salut».
+<p>Salut</p>
+<p>Res, verge vers, l&#8217;escuma, més<br />
+No designant que aquesta copa;<br />
+Tal com lluny es nega una tropa<br />
+De sirenes a l&#8217;inrevés.</p>
+<p>Tots tripulem, oh mariners<br />
+Amics, jo ja sobre la popa,<br />
+La nau que pels hiverns galopa<br />
+Amb vosaltres d&#8217;ardits proers.</p>
+<p>M&#8217;impulsa un bell desvarieig<br />
+Sense témer ni el capcineig<br />
+A fer dempeus aquest salut</p>
+<p>Aïllament, escull, estel, a<br />
+No importa allò que ha merescut<br />
+El blanc neguit de nostra tela.</p>
+<hr />
+<p>Discurs del President del Comitè Organitzador<br />
+del Coŀloqui, Tilbert Dídac Stegmann</p>
+<p>Estimades amigues i estimats amics,</p>
+<p>en nom del Comitè Organitzador i en nom propi us saludo molt cordialment a Frankfurt am Main.<br />
+     El X Coŀloqui Internacional de Llengua i Literatura Catalanes, amb aquesta xifra rodona de deu, i amb 365 persones inscrites fins ara i de quinze països, marca una fita important de la catalanística després de la Guerra Civil i la Segona Guerra Mundial. La fortíssima cesura que han significat els anys quaranta i cinquanta per a la cultura i la ciència catalanes i especialment per als dos objectes centrals de les nostres investigacions com a filòlegs, la llengua i la literatura catalanes, aquesta cesura queda bastant oblidada avui en dia.<br />
+     A finals dels anys seixanta, però, en el primer Coŀloqui Internacional a Estrasburg, la catalanística catalana justament començava a reprendre confiança assegurant-se d&#8217;un suport institucional per part de la catalanística internacional. Pocs anys després, l&#8217;any 1970 a Amsterdam, es notava que s&#8217;estava consolidant una continuïtat de Coŀloquis. Era la primera vegada que jo hi participava. Encara era estudiant i recordo com vaig quedar impressionat que per primera vegada en la meva vida durant un seguit de dies tot es fes en català i tothom parlés català. En aquells temps això em semblava una «excepcionalitat». Avui en dia això és normalitat. Després d&#8217;Amsterdam he pogut participar en tots menys un dels nostres Coŀloquis i he pogut seguir aquest procés de normalització: Els nostres Coŀloquis, després d&#8217;una temptativa des d&#8217;Andorra, l&#8217;any 1985 van gosar plenament establir-se també a Catalunya i deixar aquell marc de suport institucional internacional que he mencionat. D&#8217;ençà del 1985 alternativament celebrem Coŀloquis una vegada a dins i una a fora dels Països Catalans.<br />
+     Aquesta alternança és senyal d&#8217;un canvi important que s&#8217;ha produït aquests darrers decennis: un canvi de pes comparatiu entre la catalanística internacional i la nacional.<br />
+     La catalanística internacional, tan important objectivament i simbòlica per als catalans de dins en els anys seixanta i setanta, ara, en els anys noranta, continua el seu treball més o menys al mateix ritme quantitatiu que des de fa temps, encara que bastants noms hagin canviat.<br />
+     Ben al contrari, l&#8217;activitat filològica catalanista interior ha pres una enorme embranzida i s&#8217;ha multiplicat (a conseqüència del lloc eminent que el català ha reprès a l&#8217;escola i a la universitat). Això s&#8217;ha produït primer a Barcelona i en els últims anys a les altres universitats del Principat i a la Universitat de les Illes Balears, i especialment al País Valencià.<br />
+     És a dir: amb la volada que ha pres la catalanística catalana, el pes que podia tenir la catalanística internacional fa 30 anys s&#8217;ha vist reduït al seu punt just.<br />
+     Si ens mirem les 77 conferències (de 88 autors) anunciades al nostre Coŀloqui, el 24 % són ofertes des de fora dels Països Catalans: això és encara una presència bastant forta, segurament també pel fet que el Coŀloqui d&#8217;enguany es fa en terres no catalanes. (Això fa també que el 25 % dels inscrits siguin de fora dels Països Catalans —el 15 % són d&#8217;Alemanya—). Però si ens referim a la llista de membres de la nostra associació, l&#8217;AILLC, no més d&#8217;un 11 o 12 % són de fora dels Països Catalans. (He constatat, però, que hi ha bastants membres de les associacions internacionals, com ara la North American Catalan Society, l&#8217;Associazione Italiana di Studi Catalani, l&#8217;Anglo-Catalan Society i la Deutsch-Katalanische Gesellschaft —no tants a l&#8217;Association Française des Catalanistes—, que no són membres de l&#8217;AILLC. Potser caldria invitar-ne alguns més a fer-se&#8217;n membres.)<br />
+     Aprofito el moment per saludar les presidentes, els presidents i els membres de les associacions catalanistes germanes.<br />
+     És clar que amb aquestes xifres no es pot sospesar la relació real ni intentar d&#8217;establir una relació ideal entre la catalanística internacional i la nacional que, a més, està en estreta interrelació i forma fins i tot un conjunt. Cal, però, enfortir la consciència dels catalanistes de dins dels Països Catalans, i especialment de les noves generacions de professors universitaris, subratllant que depèn principalment d&#8217;ells el nivell futur de la catalanística i l&#8217;assimilació efectiva dels corrents més valuosos de la ciència internacional i que som més aviat nosaltres a l&#8217;estranger que depenem dels avanços de la catalanística interior.<br />
+     No hi ha temps ara per fer un repàs de la situació de la catalanística internacional. Però resumint hem de constatar que som encara una filologia molt petita, que els que s&#8217;hi poden dedicar a fons o fins i tot prioritàriament són molt pocs i que caldria trobar uns camins per millorar institucionalment la situació de la catalanística a les universitats estrangeres. És agradable, per exemple, poder constatar que en trenta universitats de l&#8217;àrea de parla alemanya s&#8217;ofereixen cursos de català als estudiants de romàniques, però en el camp de la investigació són a penes una dotzena on es fa alguna cosa, i molt sovint marginalment. Jo diria que el nivell d&#8217;importància objectiva de la cultura catalana encara no està igualat pel pes científic quantitatiu de la catalanística internacional.<br />
+     La història de la ciència i la «Wissenschaftssoziologie», la sociologia de la ciència, de cada país té les seves característiques especials i és clar que la de la catalanística als Països Catalans les té molt especials. N&#8217;és un exemple en el nostre Coŀloqui la forta participació valenciana: el 33 % de les conferències l&#8217;aporten persones radicades al País Valencià (el 9 % des de les Balears). També a Frankfurt am Main constatem, doncs, aquesta especial fidelitat dels valencians conscients envers les coses catalanes o, per dir-ho des de la perspectiva psicoanalítica, aquesta necessitat d&#8217;autoafirmar-se i recolzar-se en grups homogenis quan la vida real és menys harmoniosa. Vagi, doncs, una especial salutació als amics valencians.<br />
+     Encara hi ha una altra explicació addicional del fenomen que podem veure si desglossem el 34 % de les conferències provinents del Principat: ben bé més de la meitat d&#8217;aquestes provenen de les noves universitats; és a dir: els membres de les universitats més joves tendeixen a oferir més aportacions als coŀloquis. A més, és clar, hi juguen un paper les necessitats professionals de currículum que porten a presentar comunicacions als congressos.<br />
+     He parlat de la catalanística internacional de manera general. Hauria pogut centrar el meu parlament d&#8217;avui en la catalanística alemanya en especial. Però m&#8217;ha semblat que la història de la romanística i catalanística alemanyes és prou coneguda, des de Diez, Gröber, Meyer-Lübke i Bernhard Schädel fins avui, per repetir-la aquí. I parlar detalladament del que s&#8217;ha fet a Alemanya en el camp de la catalanística en els últims vint anys hauria pres massa temps i hauria centrat massa immodestament el pes sobre nosaltres.<br />
+     El que m&#8217;importa subratllar és que és un honor i una alegria que finalment el X Coŀloqui Internacional de Llengua i Literatura Catalanes hagi vingut a celebrar-se per primera vegada a Alemanya, el país on es va fundar la filologia romànica i on des dels temps de mossèn Alcover i el Primer Congrés Internacional de la Llengua Catalana de 1906 (i abans) s&#8217;ha ajudat a desenvolupar la filologia catalana.<br />
+     El Coŀloqui ha vingut a Alemanya; ha vingut a Frankfurt am Main. Passo, doncs, a presentar-vos alguns aspectes d&#8217;aquesta ciutat que us acollirà durant una setmana.<br />
+     El X Coŀloqui justament ve a Frankfurt am Main l&#8217;any que la ciutat celebra els 1200 anys d&#8217;ençà de la seva primera menció escrita. I el curiós del cas és que Frankfurt am Main entra en la història escrita justament amb un «coŀloqui»; celebrat l&#8217;any 794, el juny, i convocat per una persona molt cara a Catalunya i fins i tot emblemàtica per a Catalunya: Carlemany, en nom del qual es fundaren els primers comtats pirinencs que després formaren Catalunya.<br />
+     El rei dels francs, encara no coronat emperador a Roma, després de Nadal de l&#8217;any 793 baixà des de Würzburg pel riu Main i durant gran part de l&#8217;any 794 residí en el seu palau de Franconofurd —és a dir «el gual dels Francs» a través del Main—. Carlemany convocà un gran sínode europeu que havia de reunir tots els arquebisbes, bisbes i els més importants representants europeus de l&#8217;Església a Frankfurt am Main —des d&#8217;Aquitània i Provença fins al mar del Nord—. Carlemany subratllava així que no sols es considerava el cap polític, sinó també el cap cristià del gran imperi que va arribar a reunir. Justament les guerres més difícils en les quals intervingué Carlemany durant la seva vida foren les guerres per cristianitzar els saxons. (Els saxons, «die Sachsen», encara avui són presents davant dels francs de Frankfurt, perquè el barri de la nostra ciutat a l&#8217;altra banda del Main es diu Sachsenhausen, poble dels saxons.)<br />
+     Del sínode de 794 els historiadors van escriure «die Welt kam nach Frankfurt», el món vingué (a reunir-se) a Frankfurt am Main. Igualment, aquests 1200 anys més tard, un altre Coŀloqui, el nostre, fa que el món (catalanista) vingui a reunir-se a Frankfurt am Main.<br />
+     Frankfurt am Main, que després de la Segona Guerra Mundial per poc hauria estat anomenada capital de l&#8217;Alemanya Occidental i que ara s&#8217;estalvia la decepció amb la qual ha d&#8217;enfrontar-se Bonn, ha tingut durant segles funcions de capitalitat pel que fa a l&#8217;elecció dels reis i emperadors alemanys: durant gairebé set segles, del <span class="caps">XII</span> fins al <span class="caps">XIX</span>, hi havia per norma de fer-ne l&#8217;elecció solemne a la catedral, el Dom, de Frankfurt am Main. Avui vespre en sentireu parlar, perquè en la recepció que ens ofereix la ciutat en el «Kaisersaal» us trobareu sota les efígies de tots aquests emperadors i reis. Trenta-dos d&#8217;aquests reis, després de llur elecció, baixaren en vaixell pel Main i pel Rin cap a Aquisgrà per fer-se veure per la població —seguint, doncs, el mateix camí que emprendrem nosaltres el dimecres en la nostra excursió en vaixell fins a la Loreley—.<br />
+     Frankfurt am Main, com tots sabeu, és també famosa per les seves fires. D&#8217;ençà de mitjan segle <span class="caps">XII</span>, la fira de tardor de Frankfurt am Main es convertí en la més important del centre d&#8217;Europa i en els segles futurs —ajudada per privilegis reials— arribà a monopolitzar gairebé el món de les fires centreuropees. Des del 15 d&#8217;agost fins al 8 de setembre la mercaderia des de Cracòvia a Polònia i Buda a Hongria, des del Tirol i Suïssa, fins a Borgonya, Lotaríngia i Flandes es reunia i es venia a Frankfurt am Main. Dies abans i després de la fira les carreteres d&#8217;Europa estaven congestionades, com ens diuen els documents d&#8217;aquella època, potser més que avui les autopistes. Fou a la fira de Frankfurt am Main on Gutenberg presentà per primera vegada, l&#8217;any 1454, l&#8217;extraordinària tècnica nova emprada per a la impressió de la seva Bíblia, com ens conta meravellat en una carta l&#8217;humanista Enea Silvio Piccolomini, el que després fou el Papa Pius II.<br />
+     La personalitat més iŀlustre nascuda a la nostra ciutat és Johann Wolfgang von Goethe, nascut l&#8217;any 1749 a la casa que avui es diu «Goethehaus». La nostra universitat porta el nom de Goethe per una raó específica: el nucli històric de l&#8217;actual universitat fundada l&#8217;any 1912 és la «Senckenbergische Naturforschende Gesellschaft», una societat de ciències naturals, que Goethe mateix —gran naturalista com sabreu— ajudà a iniciar l&#8217;any 1817.<br />
+     Per cert, figureu-vos que ja l&#8217;any 1384, quan les fires feien de Frankfurt am Main una de les ciutats més riques, existia un projecte de tancar la universitat de París, financerament en bancarrota, i traslladar-la a Frankfurt am Main. La revista de la nostra universitat n&#8217;acaba de publicar el document corresponent del 20 de febrer de 1384. Això fou dos anys abans de la fundació de la universitat de Heidelberg, i Frankfurt am Main amb 610 anys d&#8217;història seria avui la universitat més antiga d&#8217;Alemanya.<br />
+     Pel que fa a biblioteques, us diré una xifra poc coneguda i potser ni oficial que m&#8217;ha comunicat el director de la Deutsche Bibliothek, la biblioteca central alemanya. Si mireu aquí per les finestres, a un quilòmetre al voltant teniu a la vostra disposició un conjunt de biblioteques que sumen més de 12 milions de volums. Així que ben bé podem parlar de Frankfurt am Main com a ciutat del llibre. Es troben, doncs, ben acompanyats, els modestos 20.000 volums de la Biblioteca Catalana, que hi ha a l&#8217;edifici del costat.<br />
+     Us he donat unes quantes pinzellades històriques de la ciutat i de la universitat i us recordo que en el llibre groc dels resums, lliurat a cada congressista, hem reunit les informacions actuals que espero que us ajudaran a sentir-vos confortablement entre nosaltres. Penso que els congressos serveixen (com a mínim) per a tres coses:</p>
+<p>1.Fer conèixer a un públic especialista una comunicació sobre unes investigacions personals i/o seguir conferències d&#8217;altres congressistes i participar en les discussions —tot això és evident—;<br />
+2.Establir contactes científics i personals amb altres congressistes que potser seria difícil trobar tots junts en un altre moment, informant-se sobre treballs en curs i activitats —això, personalment, a vegades m&#8217;ha semblat l&#8217;aspecte més profitós de la participació en un congrés—;<br />
+3.Conèixer una nova ciutat i un nou país, és a dir, fer de turista; fer de turista en el marc d&#8217;un congrés té un avantatge agradable: les visites i especialment les excursions es poden compaginar amb converses científiques i personals amb persones del ram en un marc de varietat i amenitat.</p>
+Ens hem esforçat de donar-vos l&#8217;oportunitat de seguir totes aquestes direccions amb la llibertat que desitgeu.
+Estimats amics, espero haver complert, amb aquestes paraules, les meves obligacions d&#8217;amfitrió. Agraeixo la vostra vinguda, també en nom de l&#8217;Oficina Catalana i de la Deutsch-Katalanische Gesellschaft. Tots els membres del Comitè Organitzador ens sentim responsables per ajudar-vos en el que calgui. Si teniu preguntes, els nostres estudiants de catalanística que treballen a la secretaria us les respondran. Si teniu queixes, no dubteu a venir a veure&#8217;m perquè ho puguem esmenar. Ja des d&#8217;ara demanem disculpes per les inevitables imperfeccions que hi haurà i les que hi hagi hagut.
+«Die Welt kam nach Frankfurt», el món vingué a Frankfurt am Main, deien l&#8217;any 794. Avui, l&#8217;any 1994, diem: «die Katalanistenwelt kommt nach Frankfurt», el món catalanista ve a Frankfurt am Main.
+Sigueu tots benvinguts al petit món catalanista de Frankfurt am Main!</div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Índex:</p>
+<p>Axel Schönberger / Tilbert Dídac Stegmann (Universitat de Braunschweig / Johann Wolfgang Goethe-Universität Frankfurt am Main):<br />
+Pròleg: 5</p>
+<p>Discursos oficials d’inauguració del Coŀloqui</p>
+<p>Discurs del President de l’AILLC, Giuseppe Tavani, en l’acte inaugural del Coŀloqui: 13</p>
+<p>Discurs del Director designat de l’Institut de Llengües i Literatures Romàniques de la Universitat Johann Wolfgang Goethe de Frankfurt am Main, Gerhard Goebel, en l’acte inaugural del Coŀloqui: 17</p>
+<p>Discurs del President del Comitè Organitzador del Coŀloqui, Tilbert Dídac Stegmann: 21</p>
+<p>Literatura catalana després de la Guerra Civil (1939-1994) – primera part</p>
+<p>1 Conferència plenària d’inauguració</p>
+<p>Johannes Hösle (Ratisbona):<br />
+La poesia de Vicent Andrés Estellés: assaig d’una síntesi: 29</p>
+<p>2 Ponències</p>
+<p>Joaquim Molas (Universitat de Barcelona):<br />
+1939, any-límit de la literatura catalana: 47</p>
+<p>Jordi Castellanos (Universitat Autònoma de Barcelona):<br />
+Bearn o la sala de les nines: assaig d’interpretació: 75</p>
+<p>Pere Rosselló Bover (Universitat de les Illes Balears):<br />
+La recerca de noves alternatives en la literatura dels anys 70 i 80 a Mallorca: 93</p>
+<p>Horst Hina (Universitat de Friburg de Brisgòvia):<br />
+La imatge de l’home en l’actual literatura femenina catalana: l’ésser masculí vist per Maria-Antònia Oliver, Montserrat Roig i Carme Riera: 121</p>
+<p>3 Comunicacions</p>
+<p>Xavier Vall (Universitat Autònoma de Barcelona):<br />
+L’objectivisme en la narrativa catalana de postguerra: 139</p>
+<p>Antoni Prats (Dénia):<br />
+El pessimisme historicista en Salvador Espriu: 155</p>
+<p>Maria Isabel Pijoan i Picas (Barcelona):<br />
+Per a una hermenèutica de la retòrica de Les Cançons d’Ariadna de Salvador Espriu: 165</p>
+<p>Manuel García Grau / Antoni Vizcarro Boix (Universitat Jaume I, Castelló de la Plana):<br />
+Una tribuna literària per a una postguerra i una perifèria: Mijares (Suplemento Literario del Boletín de la Sociedad Castellonense de Cultura), Castelló (País Valencià), 1951-1961: 183</p>
+<p>Xavier Lluna Ferrer (Universitat de València):<br />
+La vella i acreditada fórmula de l’aforisme en Joan Fuster: 199</p>
+<p>Jaume Aulet (Universitat Autònoma de Barcelona):<br />
+El Realisme Històric i la seva evolució: un cop d’ull a la situació de la poesia catalana dels anys seixanta: 215</p>
+<p>Margarida Aritzeta (Universitat Rovira i Virgili):<br />
+El mite de la Revolució: lectura de la lluna mor amb aigua i La muerte de Artemio Cruz: 225</p>
+<p>Ferran Ferrando Melià (Frankfurt am Main):<br />
+«L’ofici de poeta em determina a no dir-ho tot»: erotisme i experiència estètica en Vicent Andrés Estellés: 239</p>
+<p>Carme Gregori Soldevila (Universitat de València):<br />
+L’ús del discurs figurat en els contes de Pere Calders: 253</p>
+<p>Vicent Alonso (Universitat de València):<br />
+La funció del títols en els Contes Breus de Pere Calders: 265</p>
+<p>Josep M. Baldaquí Escandell (Universitat d’Alacant):<br />
+La polifonia discursiva en Les aventures del cavaller Kosmas: 277</p>
+<p>Ramon X. Rosselló (Universitat de València):<br />
+Producció i recepció de l’obra dramàtica de Manuel de Pedrolo: 291</p>
+<p>Lourdes Sánchez Rodrigo (Universitat de Granada):<br />
+Poesia o silenci: Gabriel Ferrater entre dues literatures: 309</p>
+<p>Vicent Simbor Roig (Universitat de València):<br />
+Llorenç Villalonga: noveŀla psicològica / noveŀla d’idees: 319</p>
+<p>Axel Schönberger (Universitat de Braunschweig):<br />
+Sobre l’estil i els mitjans retòrics de la noveŀla Lluna creixent sobre el Tàmesi (1993) de Gabriel Janer Manila: 337</p>
+<p>Lluís Bartomeu Meseguer (Universitat Jaume I, Castelló de la Plana):<br />
+Les metàfores de la Nova Cançó: 351</p>
+<p>Joan Miralles i Montserrat (Universitat de les Illes Balears):<br />
+Un corpus d’entrevistes a escriptors de les Illes Balears: 373</p>
+<p>Hèctor Moret / Artur Quintana (Barcelona / Universitat de Heidelberg):<br />
+La literatura en català a l’Aragó: els darrers vint anys: 391</p>
+<p>Caterina Valriu (Universitat de les Illes Balears):<br />
+Tendències actuals en la noveŀla juvenil catalana: 405</p>
+<hr /></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Erster Band der Akten des Internationalen Katalanistentages 1994.</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/74-Axel_SchOenberger" class="tag multiline" popup="true">Axel Schönberger</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 21. Januar 2010, 15:36 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 21. Januar 2010, 15:36 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

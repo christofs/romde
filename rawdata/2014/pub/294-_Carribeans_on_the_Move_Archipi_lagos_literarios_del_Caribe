@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/294-_Carribeans_on_the_Move_Archipi_lagos_literarios_del_Caribe' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2> Carribeans on the Move - Archipiélagos literarios del Caribe (Sammelband)</h2>
+<h3>A TransArea Symposium</h3>
+<hr>
+<abbr class='unapi-id' title='294'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<a href="/pers/136-Ottmar_Ette" class="tag multiline" popup="true">Ottmar Ette</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Peter Lang</dd>
+<dt>Ort</dt>
+<dd>Frankfurt am Main, Berlin, Bern, Bruxelles, New York, Oxford, Wien</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2008
+</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.uni-potsdam.de/romanistik/ette/ette/publikationen/pub_hg-2008.html" target="_blank">http://www.uni-potsdam.de/romanistik/ette/ette/publikationen/pub_hg-2008.html</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-3-631-56716-6
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-631-56716-6&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Spanisch, Englisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Karibik, Raum, Bewegung, Grenzen, transareal, Multikultur, Interkultur, Transkultur
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Un espacio puede ser definido de la manera más adecuada focalizando sus movimientos cruzados y entrecruzados y no desde el ángulo de sus fronteras y territorios. El horizonte de los Estudios de Área tradicionales deberá ampliarse en la actualidad por medio de los innovadores Estudios Transareales, para generar así una nueva visión de historias entrelazadas y conectadas, así como una nueva perspectiva de los desarrollos multi-, inter- y transculturales. Está presente aquí la vectorización de todos los tipos de saberes: los movimientos del pasado signen vigentes en los movimientos de hoy. ¿Habrá un espacio más idóneo para este desplazamiento teórico que el Caribe, verdadero surtidor te teorías culturales y literarias? Los artículos reunidos en este libro se han propuesto la difícil tarea de perfilar los archipiélagos literarios del Caribe y de repensar el Caribe desde el punto de vista de sus redes culturales globales y móviles.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><ul>
+	<li>Ottmar Ette: <em>Foreword: Caribbean(s) on the Move and TransArea Studies</em></li>
+	<li>A. James Arnold: <em>Violent Encounters, Internal Resistance, Voyages of Inclusion</em></li>
+	<li>Janett Reinstädler: <em>La répétition interrompue: Representando la descentralización del Caribe durante la Revolución Francesa</em></li>
+	<li>Nick Nesbitt: <em>The Haitian Revolution and the Globalization of the Radical Enlightenment</em></li>
+	<li>Josephine Valenza Arnold: <em>From Sea to Shining Sea: Comment peut-on être Martiniquais?</em></li>
+	<li>Sylvie Mutet: <em>« Nous, fils d&#8217;esclaves ». History and memories in movement</em></li>
+	<li>Isabel Exner: <em>Poéticas sucias y movimientos críticos Patrick Chamoiseau y Pedro Juan Gutiérrez</em></li>
+	<li>Anja Bandau: <em>Memoria y lugar: Movimientos transnacionales en la escritura contemporánea de autores caribeño-estadounidenses</em></li>
+	<li>Werner Mackenbach: <em>El Caribe y la literatura centroamericana: de la doble exclusión al doble espejo</em></li>
+	<li>Alexandra Ortiz Wallner: <em>La presencia de una ausencia: el caso de Belice</em></li>
+	<li>Ineke Phaf-Rheinberger: <em>Flujo y reflujo lusófono: Culturas del Caribe y su arraigo en la Amazonía</em></li>
+	<li>Ottmar Ette: <em>Arab-Caribbean origins: on the transareal dimension in Amin Maalouf&#8217;s literary work. Coming home to the familiar unknown.</em></li>
+</ul></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>168 Seiten</p>
+<p>Cover-Illustration nach Vorlage von hlarry @ photocase.com</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/136-Ottmar_Ette" class="tag multiline" popup="true">Ottmar Ette</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Mittwoch, 10. März 2010, 13:12 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 10. März 2010, 13:12 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

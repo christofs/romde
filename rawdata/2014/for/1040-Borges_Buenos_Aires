@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Borges - Buenos Aires (Veranstaltungsprojekt)</h2>
+<h3>Segunda Jornada Iberoamericana</h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Donnerstag, 17. November 2011</dd>
+<dt>Projektende</dt>
+<dd>Freitag, 18. November 2011</dd>
+<dt>Status</dt>
+<dd>abgeschlossen</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.romanistik.uni-frankfurt.de/fb/fb10/romanistik/mitarbeiter/spiller/index.html" target="_blank">http://www.romanistik.uni-frankfurt.de/fb/fb10/romanistik/mitarbeiter/spiller/index.html</a></dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Spanisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Argentinien, Jorge Luis Borges, Stadt, Moderne, bicentenario Lateinamerika
+</dd>
+</dl>
+<h4>Aktiv beteiligte Person(en)</h4>
+<p>(z.B. Kooperation, Mitarbeiter, Fellows)</p>
+<span class='tag multiline'>Roland Spiller</span>
+<span class='tag multiline'>Victorio Tacetti</span>
+<span class='tag multiline'>Christian Machuca</span>
+<span class='tag multiline'>Christian Machuca</span>
+<p class='space-l'></p>
+<h4>Passiv beteiligte Person(en)</h4>
+<p>(z.B. Betreuer, Berater)</p>
+<span class='tag multiline'>Matei Chihaia</span>
+<span class='tag multiline'>Verena Dolle</span>
+<span class='tag multiline'>Israel Encina</span>
+<span class='tag multiline'>Analía Gerbaudo</span>
+<span class='tag multiline'>Gisela Heffes</span>
+<span class='tag multiline'>Annick Louis</span>
+<span class='tag multiline'>Wolram Nitsch</span>
+<span class='tag multiline'>Monika Raic</span>
+<span class='tag multiline'>Adelheid Hanke-Schäfer</span>
+<span class='tag multiline'>Klaus Markus Schäffauer</span>
+<span class='tag multiline'>Sabine Schlickers</span>
+<span class='tag multiline'>Victoria Torres</span>
+<span class='tag multiline'>Sergio Chejfec</span>
+<a href="/pers/839-Alfonso_de_Toro" class="tag multiline" popup="true">Alfonso de Toro</a>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><p>“No nos une el amor sino el espanto; será por eso que la quiero tanto”. (Uns eint nicht die Liebe, sondern der Schrecken; darum liebe ich es [Buenos Aires] so sehr“)</p>
+<p>So beschreibt Jorge Luis Borges in “Para las seis cuerdas” seine ambivalente Liebe zu Buenos Aires. Diese Ambivalenz und die Heterogenität einer Stadt können von keinem Medium je ganz erfasst werden, außer von der Imagination. Buenos Aires ist die Hauptstadt der Imagination. Keine andere lateinamerikanische Stadt hat eine auch nur annähernd vergleichbare Fülle an Texten vorzuweisen. Ihre Kreativität sprengt jeglichen Rahmen. Sie ist gattungsübergreifend und manifestiert sich nicht nur im Roman, sondern auch im Essay und ganz besonders in der Lyrik. Argentinische Schriftsteller, die sich nicht mir ihr befassen, sind rar. Viele Lateinamerikaner wie Rubén Darío und Juan Carlos Onetti widmen ihr großartige Texte. Das Imaginieren der Stadt stellt eine wirkungsvolle Antriebskraft der Modernisierung dar. Als Inbegriff des Fortschritts und der Zivilisation sind die Metaphern der Stadt dem sich historisch verändernden Wechselverhältnis von Realem und Imaginärem angesiedelt.</p>
+<p>Auch die Metaphern gegenwärtiger Stadtkonzeptionen sind noch in der modernistischen, utopisch inspirierten Tradition des technologischen Fortschritts verankert. Die zentrale Metapher des Internetzeitalters ist das Netz. Sie verspricht grenzenlose Navigation für alle. Die Vernetzung führt in der Praxis zu einer Beschleunigung von Kommunikation und demokratischen Prozessen, aber auch zu den sozialen Widersprüchen, Konflikten und Dissonanzen einer Modernisierung, die in Argentinien stets an Europa und den <span class="caps">USA</span> ausgerichtet war und daher transkulturelle Tendenzen aufweist.</p>
+<p>Bei dieser Tagung steht das imaginäre Buenos Aires im Mittelpunkt. Wie wird die „Königin“ oder das „Babel des Río de la Plata“ in Literatur, Film und Musik vermittelt? Ausgangspunkt ist das von Jorge Luis Borges imaginierte Buenos Aires. Seine Bilder der Stadt sind biographisch verankert. Buenos Aires steht am Ausgangspunkt seines literarischen Schaffens. Der erste, nach der Rückkehr aus Europa veröffentlichte Gedichtband trägt den Titel „Fervor de Buenos Aires“ (dt. „Buenos Aires mit Inbrunst“). Diese erste Leidenschaft steht im nostalgischen Zeichen des Verlustes: Die realen Orte der Kindheit sind untergegangen im Taumel der Modernisierung. Das mit der massiven Immigration einhergehende Wachstum der Stadt und ihre soziale Heterogenisierung beschleunigen diesen Prozess. Le Corbusier schlägt 1929 in Buenos Aires neue städtebauliche Konzepte vor, um das enorme, durch die massive Immigration verursachte, Wachstum in den Griff zu bekommen. Wie reagiert dagegen der noch unbekannte Borges? Er schafft mit dem Transfer des Ultraismus einen poetischen Raum. In dem Gedicht „La fundación mítica de Buenos Aires“ (Die mythische Gründung von Buenos Aires) gründet er eine zeitlose, den rastlosen Veränderungen enthobene Stadt. Das sich zur Metropole entwickelnde Buenos Aires wird zum Mythos, der im Lokalen gründet und der die emotionale Bindung an das Stadtviertel (barrio), an die Straßenecke (esquina) und die Innenhöfe (patio) zum Ausdruck bringt.</p>
+<p>Borges&#8217; Darstellung der Stadt zeichnet sich auch im späteren Werk durch einen mikroskopischen Blick aus, der das reale Detail in einer Möbius-Schleife mit dem Imaginären verbindet und es ins Zeitlose entlässt. Das Sehen und das Gehen sind oft miteinander verbunden. Als Meister der Wahrnehmung kleinster Details fällt es ihm leicht, vom Realen ins Fantastische oder Philosophische zu gleiten. Diese Art von Mythisierung bedarf keiner großen Monumente, sie findet die Ewigkeit im Moment. Borges betritt die literarische Bühne mit Skizzen der untergehenden Welt seiner Kindheit, die mit der Erkenntnis der Begrenztheit des menschlichen Wahrnehmens und Erkennens bereits seinen agnostischen Konstruktivismus in sich tragen. Die äußere Welt als Produkt des Bewusstseins bedarf jenes inneren Blicks, den der in den 50er Jahren erblindende Dichter entfalten wird.</p>
+<p>Die kreative Verbindung seines Agnostizismus mit einer nostalgischen Imagination sind nicht die einzigen Merkmale bei der Darstellung von Buenos Aires. Hinzu kommt die Kampfansage an das im 19. Jahrhundert errichtete realistische Darstellungsgebot. Borges attackiert die Regeln einer Mimesis, die auf dem positivistischen Glauben der Wiederspiegelung beruhen. Die imaginierte Stadt eröffnet ihm unendliche Möglichkeiten einer reflektierten Mythologisierung. Borges konzentriert sich bei seiner Neuschöpfung auf die Ränder und Vororte. Seine “mitología del arrabal’’ und der „orilla“ rückt die Einwanderer und Außenseiter ins Zentrum der Aufmerksamkeit und schenkt ihnen dadurch Beachtung. Das am Rande der Pampa gelegene, dem Fluss den Rücken zuwendende, in strikter Geometrie konzipierte und durch Einwanderung enorm gewachsene Buenos Aires ist ein Erfahrungsraum paralleler Welten. Deshalb beinhaltet das rioplatensische Babel die Geschichte peripherer Modernität. Der Blick des Kosmopoliten Borges auf die Welt ist urban und peripher zugleich. Die Entwicklung der pluralen Modernitäten Lateinamerikas lässt sich anhand der argentinischen Hauptstadt exemplarisch aufzeigen.</p>
+<p>Die die in den 20er und 30er Jahren noch vorhandene Lesbarkeit der Stadt schlägt um in eine postmoderne Unlesbarkeit. Dennoch bleiben auch in der Postmetropole des digitalen Zeitalters Reste von Sinnstiftung, Dialog und Resonanz bestehen. Das Verhältnis von realer Stadt und Imagination ist als Modellierung von Emotionen und Affekten zu definieren, die in den verschiedenen Medien und auch intermedial – in den Austauschprozessen zwischen diesen Medien &#8211; zum Ausdruck gebracht werden.</p>
+<p>Der metaphorische Ballungsraum Buenos Aires ist dabei nicht nur ein Zentrum symbolischer Übertragungen, sondern auch ein Ort der wörtlichen Übersetzung und des intermedialen Austausches. Der Metropole Buenos Aires sind die implizite Gewalt der Moderne und die Schattenseiten der Immigration eingeschrieben. Ihre Modernität entfaltet sich in unzähligen Akten der Aneignung verschiedener Sprachen und Medien. Le Corbusier, der in Buenos Aires eine optimistische Vision von moderner Urbanität entwickelte und Xul Solar, der mit Borges befreundete Maler, zeigen die intermedialen Beschaffenheit einer Entwicklung, die bestenfalls mit dem Begriff der Ambivalenz auf einen Nenner zu bringen ist. Die Vielsprachigkeit und die Heterogenität der Stadt bilden ein Palimpsest, das durch Bewegung, Austausch und Übersetzung auch im Cyberspace neue intermediale und transkulturelle Qualitäten erhält.</p>
+<p>Ziel der Tagung ist es, ausgehend von einem der herausragenden Schriftsteller des 20. Jahrhunderts, die symbolischen Ausformungen des imaginären Buenos Aires vorzustellen. Die Metropole war die Metapher der Moderne. Im argentinischen Identitätsdiskurs steht sie in Opposition zum Land. Wie funktioniert diese Vorstellung im Zeitalter des Internets und der fortschreitenden Globalisierung? Diese Fragen werden anhand von Beispielen der Stadtdarstellung nach Borges erörtert. Am Beispiel der Stadt ist die Entwicklung einer pluralen Moderne und das Ineinandergreifen sozio-historischer Faktoren mit der Imagination zu definieren. An der exemplarischen Auseinandersetzung mit Buenos Aires werden Gemeinsamkeiten und Unterschiede aufgezeigt, die Anhaltspunkte für weiterführende regionale und transnationale Vergleiche mit anderen Städten ermöglichen.</p>
+<h2>Programm</h2>
+<p><strong>17. November</strong></p>
+<p>14:00 	Grußworte <br />
+Victorio Taccetti, Argentinischer Botschafter, (Berlin)<br />
+Christian Machuca, Argentinischer Generalkonsul, (Frankfurt am Main)<br />
+Prof. Dr. Frank Schulze-Engler, Studiendekan des Fb 10 <br />
+Prof. Dr. Roland Spiller</p>
+<p>14:45	Eröffnungsvortrag<br />
+Prof. Dr. Annick Louis, (Reims/ <span class="caps">EHESS</span>, Paris),<br />
+La ciudad como objeto literario</p>
+<p>15:30 	Prof. Dr. Alfonso de Toro, (Leipzig), <br />
+Borges flâneur y la intimidad de Buenos Aires</p>
+<p>16:15	Kaffeepause/ pausa de café</p>
+<p>16:45	Prof. Dr. Gisela Heffes, (Rice/<span class="caps">USA</span>), <br />
+Del suburbio a la villa miseria: una lectura de los itinerarios (e imaginarios) urbanos a partir de Borges</p>
+<p>17:30	Prof. Dr. Roland Spiller, (Frankfurt am Main),<br />
+Borges – Cortázar – Chejfec: La metrópolis como metáfora, Buenos Aires como ejemplo</p>
+<p>18:15	Pause / pausa</p>
+<p>18:45	Lesung/lectura: Sergio Chejfec, (New York), <br />
+El testigo</p>
+<p>19:45	Degustación de vinos y empanadas / Consulado General Argentino</p>
+<p><strong>18. November</strong></p>
+<p>9:15 	        Prof. Dr. Sabine Schlickers, (Bremen), <br />
+La imagen literaria de Buenos Aires a fines del siglo <span class="caps">XIX</span></p>
+<p>10:00 	Dr. Adelheid Hanke-Schäfer, (Madrid),<br />
+La refundación poética de Buenos Aires en la obra de Jorge Luis Borges</p>
+<p>10:45	Prof. Dr.Verena Dolle, (Gießen), <br />
+“Mientras juego con dudosas imágenes, la ciudad que canto, persiste [&#8230;]” &#8211; el yo lírico como flâneur mundial.</p>
+<p>11:30-12:00 	Pause / pausa</p>
+<p>12:00 	Prof. Dr. Matei Chihaia, (Wuppertal),<br />
+Borges y el panorama urbano en los tiempos del cine</p>
+<p>12:45	Prof. Dr. Klaus Markus Schäffauer, (Hamburg), <br />
+El proyecto de un /Don Quijote/ urbano en la obra de Jorge Luis Borges</p>
+<p>13:30-15:00 	Mittagessen/ almuerzo</p>
+<p>15:00	Prof. Dr. Wolfram Nitsch, (Köln/ <span class="caps">IKKM</span>, Weimar),<br />
+La esquina y el patio. Los arrabales de Buenos Aires en la narrativa de Borges y de Cortázar</p>
+<p>15:45 	Analía Gerbaudo, (Paris), <br />
+Borges en la universidad argentina de la posdictadura. Apuntes sobre una cartografía</p>
+<p>16:15-16:45 	Kaffeepause / pausa de café</p>
+<p>16:45 	Monika Raic, (Frankfurt am Main), Arlt – Döblin/Buenos Aires – Berlin</p>
+<p>17:15	Dr. Victoria Torres, (Köln/ Wuppertal),<br />
+La ciudad sin Borges: avatares del género policial en una Buenos Aires acorralada</p>
+<p>17:45 	Israel Encina, (Mainz/Frankfurt),<br />
+Memorias en conflicto. Buenos Aires entre la amnesia y el recuerdo en la representación audiovisual actual</p>
+<p>18:30	Schlusswort / Palabra de clausura</p>
+<p>19:00	Pause / pausa</p>
+<p>19:30	Die argentinische Pianistin Carmen Piazzini spielt klassische Buenos Aires-Stücke / Concierto de la pianista argentina Carmen Piazzini</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p><strong>Ort der Veranstaltung:</strong><br />
+Forschungskolleg Humanwissenschaften<br />
+Am Wingertsberg 4<br />
+61348 Bad Homburg vor der Höhe</p>
+<p><strong>Kontakt und Anmeldung</strong>: <br />
+<a href="mailto:salerno-petersen@em.uni-frankfurt.de" target="_blank">salerno-petersen@em.uni-frankfurt.de</a></p>
+<p><strong>Informationen zur Tagungsreihe:</strong><br />
+Die von Prof. Dr. Roland Spiller vom Institut für Romanische Sprachen und Literaturen der Johann Wolfgang Goethe Universität geleitete Tagung wird vom argentinischen Generalkonsulat in Frankfurt am Main großzügig unterstützt. Sie vermittelt ausgehend von einem der bedeutendsten Schriftsteller des 20. Jahrhunderts ein differenziertes, über die üblichen Tango- und Fußballklischees hinausgehendes Bild der argentinischen Hauptstadt in Literatur und Film. Als zweite Veranstaltung der Frankfurter „Jornada Iberoamericana“ rückt sie das Verhältnis von Verstädterung und Moderne am Beispiel von Buenos Aires in den Mittelpunkt. Bei der ersten Jornada im Jahr 2010 ging es um die Zweihundertjahrfeiern der Unabhängigkeit. In dieser Veranstaltungsreihe präsentieren renommierte Fachwissenschaftler Themen, die in Lateinamerika und Spanien diskutiert werden. Dieses Jahr ist mit dem in New York lebenden Sergio Chejfec erneut einer der herausragenden Schriftsteller Argentiniens beteiligt.</p>
+<p>*Kino-Begleitprogramm *<br />
+Begleitend zur Tagung bietet die Stadt Frankfurt und das Filmforum Höchst ab dem 17.11.2011 eine Filmwoche zu Borges und Buenos Aires an:<br />
+<a href="http://www.filmforum-höchst.com/html/november.html" target="_blank">http://www.filmforum-höchst.com/html/november.html</a></p></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/749-Andrea_Gremels" class="tag multiline" popup="true">Andrea  Gremels</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 11. September 2014, 09:32 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 11. September 2014, 09:32 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

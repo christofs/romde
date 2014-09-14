@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/2378-Die_Spectators_in_Spanien_Die_kleinen_Schriften_der_1780er_Jahre' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Die 'Spectators' in Spanien. Die kleinen Schriften der 1780er Jahre (Monographie)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='2378'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Autor(en)</h4>
+<span class='tag multiline'>Elisabeth Hobisch</span>
+<span class='tag multiline'>Andrea Maria Humpl</span>
+<a href="/pers/752-Klaus_Dieter_Ertler" class="tag multiline" popup="true">Klaus-Dieter Ertler</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>PIE Peter Lang</dd>
+<dt>Ort</dt>
+<dd>Frankfurt am Main</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2014
+</dd>
+<dt>Auflage</dt>
+<dd>1</dd>
+<dt>Reihe</dt>
+<dd>Die Aufklärung in der Romania 7</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Die Moralischen Wochenschriften oder Spectators sind eine aus der protestantischen Ethik des frühen 18. Jahrhunderts stammende Gattung, die sich in den katholischen Ländern tendenziell mit einer Verzögerung von einem halben Jahrhundert etablierte.  In Spanien dominierten zwei Wochenschriften, die jeweils eine ganze Dekade prägten: &#8216;El Pensador&#8217; (1760er Jahre) und &#8216;El Censor&#8217; (1780er Jahre). Die vorliegende Studie be-schreibt die im zeitlichen Umfeld des Censor entstandenen kleineren Wochenschriften wie etwa &#8216;El Curioso Entretenido&#8217;, &#8216;El Apologista Universal&#8217;, &#8216;El Duende de Madrid&#8217; sowie &#8216;El Argonauta Español&#8217; und untersucht ihre formalen und thematischen Charakteristika.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Vorwort</p>
+<p>La Pensatriz salmantina<br />
+1. Prolog 	<br />
+1.1  Widmung 	<br />
+1.2  Die Approbation durch einen Geistlichen 	<br />
+1.3  Vorbemerkung der Pensatriz für das Publikum 	<br />
+2. Das Porträt der Pensatriz salmantina 	<br />
+2.1  Die Kindheit der Pensatriz 	<br />
+2.2  Der Beginn ihrer Tätigkeit als Schriftstellerin 	<br />
+El Curioso Entretenido<br />
+1. Zeitschrift und Autor 	<br />
+1.1  Die Publikationsweise 	<br />
+1.2  Vorstellung von Zeitschrift und Autor 	<br />
+1.3  Die Proverbios morales und die Satire 	<br />
+2. Das Frauenbild 	<br />
+2.1  Annäherung an die weibliche Leserschaft 	<br />
+2.2  Erziehung und Bildung der Frauen 	<br />
+2.3  Schönheit und Aristokratie 	<br />
+2.4  Familie und Ehe 	<br />
+3. Das Männerbild 	<br />
+3.1  Der petimetre 	<br />
+3.2  Der cortejo 	<br />
+3.3  Der hombre de bien 	<br />
+4. Die Mode 	<br />
+4.1  Die moderne Gesprächskultur 	<br />
+4.2  Die Sprache als Erbe der Vorfahren 	<br />
+4.3  Der Ursprung der Mode 	<br />
+4.4  Die Auswirkungen der Mode 	<br />
+5. Die Gesellschaft 	<br />
+5.1  Das politische System 	<br />
+5.2  Das Verhältnis zwischen Herr und Diener 	<br />
+6. Sitten und Bräuche 	<br />
+6.1  Müßiggang und Fleiß 	<br />
+6.2  Privilegien des Adels 	<br />
+6.3  Die Oberflächlichkeit der Gesellschaft 	<br />
+6.4  Die Werte eines hombre de bien 	<br />
+6.5  Typisch weibliche Unsitten 	<br />
+6.6  Die Liebe 	<br />
+7. Literatur 	<br />
+7.1  Das Theater 	<br />
+7.2  Der Publikumsgeschmack 	<br />
+7.3  Die Dichtung 	<br />
+El Apologista Universal<br />
+1. Formale Gestaltung 	<br />
+1.1  Autor und Publikationsweise	<br />
+1.2  Äußere Gestaltung und Stil 	<br />
+1.3  Die narrativen Formen 	<br />
+2. Die Präsenz des fiktiven Herausgebers 	<br />
+2.1  Die Apologiefunktion der Zeitschrift 	<br />
+2.2  Die Vorgehensweise des Apologista Universal 	<br />
+2.3  Der Erfolg des Apologista Universal 	<br />
+2.4  Die Leistung seiner Klienten 	<br />
+2.5  Ein Regelkanon für das Verfassen von Apologien 	<br />
+2.6  Tadel von zeitgenössischen Kritikern 	<br />
+2.7  Die Auseinandersetzung des Apologista mit dem Censor 	<br />
+2.8  Die Folgen der kritischen Verteidigungsschriften 	<br />
+3. Die Apologetik des Apologista Universal 	<br />
+3.1  Die Apologie eines theologischen Werkes 	<br />
+3.2  Die Apologie einer Fortsetzung des Don Quijote 	<br />
+3.3  Die Apologie eines abergläubischen Werkes:<br />
+ Conversaciones instructivas 	<br />
+3.4  Die Apologie der Zeitschrift El Juzgado Casero 	<br />
+3.5  Die Apologie der Angelomaquia 	<br />
+3.6  Die Apologie des Vaterlandes 	<br />
+3.7  Die Apologie der Bildung 	<br />
+3.8  Die Apologie der Esel 	<br />
+4. Die Auseinandersetzung mit Juan Pablo Forner 	<br />
+4.1  Die richtigen Ingredienzien einer wirkungsvollen Apologie 	<br />
+4.2  Eine Apologie der Oración apologética	<br />
+4.3  Die Selbstdarstellung des Künstlers in seinem Werk 	<br />
+4.4  Forner und die Religion in Spanien 	<br />
+5. Die Kritik des Apologista Universal 	<br />
+5.1  Die Kritik am zeitgenössischen Bildungssystem 	<br />
+5.2  Die Kritik an den modernen Wissenschaften 	<br />
+5.3  Das Verhältnis von Wissenschaft und Religion 	<br />
+5.4  Die Trübung der Urteilsfähigkeit der Menschen 	<br />
+El Corresponsal del Apologista<br />
+1. Zielsetzung des fiktiven Herausgebers 	<br />
+2. Die Wirkung der Satire 	<br />
+El Teniente del Apologista<br />
+1. Die Zeitschrift und ihr Vorbild 	<br />
+1.1  Formale Aspekte 	<br />
+2. Berufung des Teniente del Apologista 	<br />
+3. Apologie der Suma filosófica des Padre Roselli 	<br />
+El Duende de Madrid<br />
+1. Konfiguration der Wochenschrift 	<br />
+1.1  Strukturierung und Aufbau der einzelnen Nummern 	<br />
+1.2  Das Spiel mit der fiktiven Autorschaft 	<br />
+1.3  Die Figur des Don Benito 	<br />
+1.4  Die Erzählungen Don Benitos 	<br />
+2. Wirtschaft 	<br />
+2.1  Nutzen und Wert handwerklicher Berufe 	<br />
+2.1.1  Philosophische und religiöse Grundlagen einer<br />
+neuen Gesellschaft 	<br />
+2.1.2  Schuster 	<br />
+2.2  Die Beteiligung der Frauen am wirtschaftlichen Prozess 	<br />
+3. Religion, Kirche und Monarchie 	<br />
+3.1  Die Gesellschaftsordnung 	<br />
+3.1.1  Bildung 	<br />
+3.1.2  Arbeit 	<br />
+3.2  Das Bild der spanischen Nation 	<br />
+3.3  Kirchliche Privilegien und Korruption: Die exenciones 	<br />
+3.4  Die Aufgabe der Kirche in einer modernen Nation 	<br />
+4. Geschlechterrollen und –aufgaben 	<br />
+4.1  Das Bild der Frau 	<br />
+4.2  Erziehung 	<br />
+4.2.1  Antiautoritäre Erziehung 	<br />
+4.2.2  Die Rolle der Mutter u. des Vaters im Familiengefüge 	<br />
+4.2.3  Heimatliebe 	<br />
+4.2.4  Wissenschaftlich-religiöse Ausbildung 	<br />
+5. Theater 	<br />
+El Observador<br />
+1. Formale Aspekte 	<br />
+2. Vorstellung der Wochenschrift und der Person des Autors 	<br />
+3. Literatur 	<br />
+4. Das spanische Theater 	<br />
+5. Staat und Gesellschaft 	<br />
+5.1.  Spanische Geschichte 	<br />
+5.2.  Der Streit zwischen konservativen und modernen Kräften 	<br />
+6. Die Natur des Menschen und seine tugendhafte Er¬ziehung 	<br />
+El Argonauta Español<br />
+1. Der Autor 	<br />
+1.1  Das Werk 	<br />
+1.1.2  Autobiographische Züge in El Argonauta Español 	<br />
+2. Intention, Namensfindung und Entstehung 	<br />
+2.1  Formale Gestaltung 	<br />
+2.1.1  Literarische Gattungen 	<br />
+2.1.2  Formale Gestaltung der einzelnen Nummern 	<br />
+2.1.3  Leserbriefe 	<br />
+2.1.4  Rätselseite 	<br />
+3. Verfasser und Figur 	<br />
+4. Gesellschaft 	<br />
+4.1  Die Ständefrage 	<br />
+4.1.1  Die Handwerker 	<br />
+4.1.2  Die Beziehung zwischen Herr und Diener 	<br />
+4.2  Sitten und Bräuche 	<br />
+4.2.1  Menschliche Tugenden und Laster 	<br />
+4.2.2  Der Bolero-Tanz 	<br />
+4.2.3  El Compadre – der Pate 	<br />
+4.2.4  Der Brauch im Krieg 	<br />
+4.3  Mode 	<br />
+4.5  Landflucht 	<br />
+5. Wissenschaft 	<br />
+5.1  Physik 	<br />
+5.1.1  Das Barometer 	<br />
+5.1.2  Das Thermometer 	<br />
+5.1.3  Glas 	<br />
+5.2  Geographie 	<br />
+5.3  Naturkatastrophen 	<br />
+5.3.1  Brandbekämpfung 	<br />
+5.3.2  Erdbeben 	<br />
+5.4  Medizin 	<br />
+5.5  Astronomie 	<br />
+5.6  Schifffahrt 	<br />
+6. Erziehung und Bildung 	<br />
+6.1  Geographie und Geschichte 	<br />
+6.2  Philosophie 	<br />
+7. Wirtschaft 	<br />
+7.1  Handel 	<br />
+7.2  Ackerbau und Landwirtschaft	<br />
+8. Das Bild der Frau 	<br />
+8.1  Die Frau als brillanter Teil der Öffentlichkeit 	<br />
+8.2  Frauen im Vergleich 	<br />
+8.3  Die Frau im Wandel der Zeit 	<br />
+8.4  Das Idealbild der Frau 	<br />
+8.5  Die Ehe 	<br />
+9. Spanien und Frankreich im Vergleich 	<br />
+9.1  Kritik an Voltaire 	<br />
+10. Literatur und Kunst 	<br />
+10.1  Buchdruck 	<br />
+10.2  Lyrik 	<br />
+10.3  Redekunst 	<br />
+10.4  Moralische Wochenschriften</p>
+<p>Bibliographie</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/752-Klaus_Dieter_Ertler" class="tag multiline" popup="true">Klaus-Dieter Ertler</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 08. Mai 2014, 13:26 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Freitag, 09. Mai 2014, 13:30 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

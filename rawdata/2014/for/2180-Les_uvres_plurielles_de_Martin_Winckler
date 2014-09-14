@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Les œuvres plurielles de Martin Winckler (Veranstaltungsprojekt)</h2>
+<h3></h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Freitag, 21. März 2014</dd>
+<dt>Status</dt>
+<dd>laufend</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://crphl.univ-pau.fr/live/303-JE_2014_Winckler" target="_blank">http://crphl.univ-pau.fr/live/303-JE_2014_Winckler</a></dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft
+</dd>
+</dl>
+<h4>Aktiv beteiligte Person(en)</h4>
+<p>(z.B. Kooperation, Mitarbeiter, Fellows)</p>
+<a href="/pers/1998-Carolin_Fischer" class="tag multiline" popup="true">Carolin Fischer</a>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><p>Journée d’études du vendredi 21 mars 2014 <br />
+Les œuvres plurielles de Martin Winckler <br />
+Appel à communication<br />
+Sur son site personnel, Martin Winckler se présente comme «médecin généraliste » et comme auteur d’un « certain nombre de livres ». Ses domaines d’activité en tant qu’écrivain sont le roman (littérature générale et littérature policière), la nouvelle (policière et fantastique), l’autobiographie, les essais sur le soin et les métiers du soignant, la défense et l’illustration des cultures populaires (séries télévisées et bande dessinée, en particulier), la radio (chroniques, contes, théâtre radiophonique), les textes scientifiques (articles et ouvrages médicaux destinés aux professionnels ou au grand public, en particulier sur la contraception) ; la traduction (tous genres) ; les pamphlets et livres engagés (sur les droits des patients, en particulier)1.<br />
+Cet attrait pour une écriture protéiforme est aussi celle du petit Jérôme, cet « enfant qui n’aimait pas les livres » mais qui finit par s’y intéresser passionnément et devenir écrivain :<br />
+Plus tard, quand il sera grand, Jérôme écrira des histoires pour les enfants et des histoires pour les grands. Des histoires illustrées et des textes savants. Des romans d’aventure et des romans de mystère. Des récits de voyage et des poèmes. Des poèmes et des textes sur les voitures de course. Il les apportera à l’imprimerie de son père. Et tous les matins, un camion les emportera à la librairie de sa mère.<br />
+Et tous les jours, des gens entreront dans la librairie et achèteront des livres. Et certains achèteront les livres de Jérôme. Parce qu’ils y trouveront un secret. [&#8230;]<br />
+« Les livres sont nos amis. »2<br />
+La journée d’études se tourne ainsi vers les œuvres plurielles de Martin Winckler, saisies dans leur diversité et dans leurs échos.<br />
+Les communications s’intéresseront ainsi à ses différentes fictions : à ses récits autobiographiques, à ses romans et encore à ses contes et à ses nouvelles. Les propriétés génériques de ces textes, telles que leur écriture les met en œuvre, pourront ainsi être analysées ou comparées. L’appropriation des codes éditoriaux de la série du Poulpe dans le roman Touche pas à mes deux seins (Baleine, n°221) sera aussi un objet d’étude à retenir. De même, la spécificité et la variété des supports de publication de ces récits, du roman à la revue, en passant par les recueils, albums jeunesse et anthologies thématiques, pourront être examinées. Les échos intertextuels qui résonnent dans son œuvre narrative, entre ses propres textes, ou entre ses textes et d’autres écritures sont une autre occasion de souligner le jeu riche de l’hétérogène dans son dire : Martin Winckler dit lui-même devoir son nom de plume à l’œuvre de Georges Perec. De ce point de vue, un regard comparatiste pourra considérer l’adaptation cinématographique de La Maladie de Sachs (P.O.L., 1998 ; 1999 pour le film de Michel Deville). Cette prise en compte de la question de l’intermédialité de son œuvre invite encore à examiner les chroniques radiophoniques et les créations audio-visuelles auxquelles l’auteur a pris part. Il paraîtra opportun également de réfléchir sur les continuités et les ruptures de ses œuvres romanesques. Celles-ci pourront être envisagées d’un point de vue chronologique, depuis le début de ses publications jusqu’à aujourd’hui, avec En souvenir d’André (P.O.L., 2012). Les approches linguistique et stylistique de son écriture sont à prévoir. Il sera encore pertinent de s’arrêter, par exemple, sur la place de la femme, ou encore sur celle de la douleur et de la mort, dans ses différentes fictions : les études thématiques seront une autre piste de recherche.<br />
+Parce qu’elle y est justement un thème récurrent, la médecine sera un sujet à privilégier. Les communications pourront la considérer aussi bien dans des œuvres de fictions qu’à partir des essais sur le soin, des ouvrages pratiques, voire de l’activité de rédacteur de revue médicale qu’a remplie l’auteur, ou enfin des observations qu’il propose sur les séries télé : on pourra ainsi étudier, par exemple, la figure de Watson, le « biographe et médecin » de Sherlock, auquel Martin Winckler s’intéresse non seulement en tant que lecteur de Conan Doyle mais aussi en tant que téléspectateur de la série récente de la <span class="caps">BBC</span> et en tant qu’écrivain, en lui consacrant deux nouvelles à la fin des années 90 et en 2005. Cet attrait de l’auteur pour la figure du « médecin enquêteur » se retrouve dans son dernier essai, consacré à « Dr House » &#8211; L’esprit du shaman (Boréal, 2013), une série dont le personnage central tient à la fois de Sherlock et de Watson. Les approches transdisciplinaires seront appréciées, et la médecine pourra aussi être analysée comme un fil conducteur de l’ensemble des œuvres de Martin Winckler, lui qui affirmait dans son ouvrage de 2000 En soignant, en écrivant que « médecine et écriture vont de pair »3. Elle est ainsi la source d’inspiration créatrice dans l’anthologie de nouvelles qu’il dirige en 2005, Noirs Scalpels, dans laquelle « il donne à (s)es camarades écrivains trois contraintes : un médecin, un instrument médical, un crime. » (Le Cahier de transmissions, « La Dernière Aventure »).<br />
+De manière plus générale, les séries télé, « miroirs de la vie », un autre domaine de réflexion de Martin Winckler, seront un centre d’intérêt de cette journée d’études pour des communications qui s’y intéresseront à partir des analyses de l’auteur. On se reportera aux ouvrages critiques sur les séries télé, écrits ou coordonnés par Winckler, pour en connaître la liste et l’analyse4. Il sera particulièrement pertinent de souligner comment les publications de ce dernier ont été un élément précurseur pour toute analyse de l’art populaire qu’est la télévision, contribuant à sa reconnaissance :<br />
+à mes yeux les séries ont la même importance et la même qualité que les romans, les ouvrages de sciences humaines, le cinéma, le théâtre, les expositions et les conférences. Regarder une série n’est pas une activité exclusivement récréative, c’est une manière d’appréhender le monde5.<br />
+Tel le lecteur de roman pour Pennac, le sériephile est alors crédité par Martin Winckler de certains « droits inaliénables », sur lesquels il pourra être intéressant de revenir6.<br />
+Cette qualité d’innovation se retrouve aujourd’hui encore dans le site personnel de Martin Winckler, le « Winckler’s Webzine »7, ainsi que dans son blog pour « écrivantes, écrivants, lectrices et lecteurs », le « Chevalier des touches »8, qui pourraient faire l’objet d’une intervention lors de cette journée. Ce blog exemplifie une caractéristique commune aux œuvres et aux analyses plurielles de l’auteur: les séries télé, les chroniques radiophoniques, l’apprentissage de l’écriture – la maladie même – déclinent, dans leur forme, le rapport chronique entre l’hétérogène du fragment et le continu.<br />
+Les intervenants sont invités à soumettre un résumé de leur communication d’environ 2500 signes (espaces comprises), ainsi qu’une courte notice bio- bibliographique d’environ 1000 signes (espaces comprises) avant le 1er février à l’adresse suivante : <a href="mailto:journee.etudes.martin.winckler@univ-pau.fr" target="_blank">journee.etudes.martin.winckler@univ-pau.fr</a>. Les réponses seront données au plus tard le 15 février.<br />
+Remarque technique : les fichiers seront en .doc, .docx ou .odt et ainsi nommés : <span class="caps">NOM</span>-winckler.doc (le nom de famille ne devra pas comporter d’accent, de tréma ou de cédille).<br />
+La journée d’études aura lieu le vendredi 21 mars 2014 à l’Université de Pau et des Pays de l’Adour, en lien avec la remise du Prix Heptaméron de la Nouvelle9 présidé par Martin Winckler. La publication des communications est envisagée.<br />
+N.B. : Le repas du vendredi midi des intervenants sera pris en charge, mais pas les frais de transport ni d’hébergement.<br />
+Les organisatrices :<br />
+Bérengère Moricheau-Airaud, responsable de l’organisation pour le <span class="caps">CRPHL</span>, MC Langue<br />
+et Littérature françaises<br />
+<a href="mailto:berengere.moricheau-airaud@univ-pau.fr" target="_blank">berengere.moricheau-airaud@univ-pau.fr</a> <a href="http://crphl.univ-pau.fr/live/membres-" target="_blank">http://crphl.univ-pau.fr/live/membres-</a><span class="caps">CRPHL</span>/Moricheau-Airaud+Berengere<br />
+Julie Gallego, MC langue et linguistique latines<br />
+<a href="mailto:julie.gallego@univ-pau.fr" target="_blank">julie.gallego@univ-pau.fr</a> <a href="http://crphl.univ-pau.fr/live/membres-" target="_blank">http://crphl.univ-pau.fr/live/membres-</a><span class="caps">CRPHL</span>/Gallego+Julie<br />
+Vanessa Loubet-Poëtte, Docteur section 07, Enseignante contractuelle<br />
+vanessa.loubet-poë<a href="mailto:tte@univ-pau.fr" target="_blank">tte@univ-pau.fr</a> <a href="http://crphl.univ-pau.fr/live/membres-" target="_blank">http://crphl.univ-pau.fr/live/membres-</a><span class="caps">CRPHL</span>/Loubet-Poette+Vanessa</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>journée d&#8217;étude</p></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/1998-Carolin_Fischer" class="tag multiline" popup="true">Carolin Fischer</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 28. November 2013, 14:20 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 28. November 2013, 14:20 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

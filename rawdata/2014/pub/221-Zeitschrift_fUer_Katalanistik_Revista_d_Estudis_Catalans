@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/221-Zeitschrift_fUer_Katalanistik_Revista_d_Estudis_Catalans' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Zeitschrift für Katalanistik / Revista d'Estudis Catalans (Zeitschriftenheft)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='221'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<span class='tag multiline'>Tilbert Dídac Stegmann</span>
+<a href="/pers/74-Axel_SchOenberger" class="tag multiline" popup="true">Axel Schönberger</a>
+<span class='tag multiline'>Inge Mees</span>
+<span class='tag multiline'>Christine Bierbach</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+
+1990
+</dd>
+<dt>Jahrgang</dt>
+<dd>1990</dd>
+<dt>Nummer</dt>
+<dd>3</dd>
+<dt>ISSN</dt>
+<dd>0932-2221</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Katalanisch, Latein
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Sprachwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Katalanistik
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Inhalt</h4>
+<div class='textile'><p>Inhaltsverzeichnis / Index</p>
+<p>Gerhard Brunn (Köln):<br />
+Katalonien im Spanien des 19. Jahrhunderts: 7</p>
+<p>Helmut Lüdtke (Kiel):<br />
+Vom Latein zum Katalanischen: 21</p>
+<p>Valentí Fàbrega i Escatllar (Köln):<br />
+La Consolació de la Filosofia en la versió catalana de Pere Saplana i Antoni Genebreda (1358/1362): 33</p>
+<p>Tomàs Martínez i Romero (Borriana):<br />
+Litterati i illiterati en l&#8217;oratòria de sant Vicent Ferrer: 50</p>
+<p>Gerhard Wild (München):<br />
+Ausgrenzung und Integration arthurischer Themen im katalanischen Mittelalter (von Muntaners Crònica, Blandín de Cornualla und Torroellas La Faula zu Martorells Tirant lo Blanc): 67</p>
+<p>Georg Kremnitz (Wien):<br />
+Wirkungsweisen repressiver Sprachpolitik dargestellt am Beispiel des Katalanischen in der Franco-Zeit: 90</p>
+<p>Brauli Montoya Abad (Ciutat de Mallorca):<br />
+Coneixement i conreu de la Lingüística General als Països Catalans (1857-1937): 103</p>
+<p>Jaume Tió i Casacuberta (Gurb de la Plana):<br />
+Entre la realitat i la irrealitat: un concepte semàntic: 116</p>
+<p>Kurt Baldinger (Heidelberg):<br />
+Kritische Würdigung des neuen katalanischen etymologischen Wörterbuches von Joan Coromines: 130</p>
+<p>Carme Eberenz-Greoles (Le Mont-sur-Lausanne):<br />
+Bernhard Schädel i els Països Catalans: 137</p>
+<p>Carles-Jordi Guardiola (Barcelona) / Artur Quintana<br />
+(Speyer / Heidelberg):<br />
+El carteig Karl Vossler / Carles Riba: 167</p>
+<p>Horst Hina (Freiburg):<br />
+Kritik an der Französischen Revolution im Barcelona des ausgehenden 19. Jahrhunderts (Torras i Bages und Almirall): 213</p>
+<p>Klaus-Jürgen Nagel (Barcelona):<br />
+«Alguna cosa més que la renta-plats?»: Zum «Feminismus» von Katalanismus und Arbeiterbewegung zwischen 1900 und 1930: 231</p>
+<p>Buchbesprechungen / Recensions:</p>
+<p>Horst Hina (Freiburg):<br />
+Antoni-Lluc Ferrer: La patrie imaginaire: La projection de «La pàtria» de B. C. Aribau (1832) dans la mentalité catalane contemporaine, préface de Guy Mercadier, Aix-en-Provence: Publications &#8211; Diffusions / Université de Provence, 1987 (Études Hispaniques 13), 2 Bde., <span class="caps">VII</span> + 906 S.: 249</p>
+<p>Hans-Ingo Radatz (Frankfurt am Main):<br />
+Klaus Bochmann: Regional- und Nationalitätensprachen in Frankreich, Italien und Spanien, Leipzig: <span class="caps">VEB</span> Verlag Enzyklopädie, 1989 (Linguistische Studien), <span class="caps">ISBN</span> 3-324-00318-0, 220 S.: 254</p>
+<p>Reiner Tosstorff (Frankfurt am Main):<br />
+Josep Fontana: La fi de l&#8217;antic règim i la industrialització (1787-1868), Barcelona: Edicions 62, 1988 (Història de Catalunya; 5), <span class="caps">ISBN</span> 84-297-2906-2, 506 S.: 257</p>
+<p>Borja de Riquer / Joan B. Culla: El franquisme i la transició democràtica (1939-1988), Barcelona: Edicions 62, 1989 (Història de Catalunya; 7), <span class="caps">ISBN</span> 84-297-2958-5, 477 S.: 260</p>
+<p>Stephan Koppelberg (Bonn):<br />
+Rafael Alemany Ferrer (Hrsg.): Els processos de normalització lingüística a l&#8217;Estat espanyol actual, Alacant: Ajuntament de Benidorm; Universitat d&#8217;Alacant, 1988, 224 S.: 262</p>
+<p>Karl-Heinz Röntgen (Köln):<br />
+Isabelle Secretan: Traité d&#8217;ichtyonymie catalane: De l&#8217;origine des noms de poissons marins, Wien: VWGÖ, 1988 (Dissertationen der Universität Salzburg; 26), <span class="caps">ISBN</span> 3-85369-716-X, 447 S.: 266</p>
+<p>Axel Schönberger (Frankfurt am Main):<br />
+Franz Lebsanft: Spanien und seine Sprachen in den «Cartas al Director» von «El País» (1976-1987): Einführung und analytische Bibliographie, Tübingen: Narr, 1990 (Tübinger Beiträge zur Linguistik; Bd. 342), <span class="caps">ISBN</span> 3-8233-4193-6, 133 S.: 272</p>
+<p>Narcís Bassols (Frankfurt am Main):<br />
+Albert Bastardas / Josep Soler (eds.): Sociolingüística i llengua catalana, Barcelona: Editorial Empúries, 1988, <span class="caps">ISBN</span> 84-7596-166-5, 235 pàgs.: 273</p>
+<p>Jesús Tuson: Mal de llengües, Barcelona: Empúries, 1988, <span class="caps">ISBN</span> 84-7596-141-X, 110 pàgs.: 276</p>
+<p>Miszellen / Miscellània:</p>
+<p>Ferran Ferrando Melià (Frankfurt am Main):<br />
+Wissenschaftliche und kulturelle katalanistische Aktivitäten im deutschen Sprachraum 1989: 278</p>
+<p>Sabine Sattel (Frankfurt am Main):<br />
+Katalanische Themen an Hochschulen des deutschen Sprachbereichs im Wintersemester 1989/90: 285</p>
+<p>Dietrich Briesemeister (Berlin):<br />
+Nachruf auf Rudolf Brummer: 293</p>
+<p>Volker Glab (Höchstadt):<br />
+Nachruf auf Heinrich Kuen: 296</p>
+<p>Zusammenfassungen / Resums:: 299</p>
+<p>Anschriften der Autoren / Adreces dels autors: 307</p>
+<p>Hinweise zu Beiträgen für die ZfK<br />
+Normes de redacció d&#8217;articles per a la ZfK: 309</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/74-Axel_SchOenberger" class="tag multiline" popup="true">Axel Schönberger</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Dienstag, 02. März 2010, 16:42 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Dienstag, 02. März 2010, 16:42 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

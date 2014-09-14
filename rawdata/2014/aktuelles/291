@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+Internationale und interdisziplinäre Tagung zur &quot;Dominicanidad&quot;
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Trier
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2014-07-02
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2014-07-03
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="https://www.uni-trier.de/index.php?id=53380" target="_blank">https://www.uni-trier.de/index.php?id=53380</a>
+</p>
+</div>
+<p>Dominicanidad – Perspectivas de un concepto (trans-)nacional
+<br />Dominicanity – Perspectives on a (trans-)national concept
+<br />Dominikanität – Perspektiven eines (trans-)nationalen Konzepts</p>
+
+<p>Das America Romana Centrum (ARC) veranstaltet am 2. und 3. Juli 2014 an der Universität Trier die erste internationale und interdisziplinäre Tagung zur Dominikanischen Republik und ihrer Diaspora im deutschsprachigen Raum. Unter dem Titel „Dominicanidad – Perspectivas de un concepto (trans-)nacional / Dominicanity – Perspectives on a (trans-)national concept /  Dominikanität – Perspektiven eines (trans-)nationalen Konzepts“ versammelt die wissenschaftliche Veranstaltung nationale und internationale FachexpertInnen, um nicht nur einen bilanzierenden Status quo der bisherigen Forschungslandschaft zu ziehen, sondern auch künftige Vernetzungsperspektiven und Kooperationsmöglichkeiten zu sondieren. Die Ergebnisse der Tagung werden im Anschluss in der Schriftenreihe des America Romana Centrums im Lang Verlag zudem einem breiteren Publikum zugänglich gemacht. </p>
+
+<p>Aufgrund des innovativen Forschungsfokus und der bereits sichtbaren Verankerung dominikanischer Studien in Trier haben die Dominikanische Botschaft in Deutschland und die Deutsche Botschaft in der Dominikanischen Republik die Schirmherrschaft der Tagung zur „Dominicanidad“ übernommen. </p>
+
+<p>Den Eröffnungsvortrag hält die Soziologin und Direktorin des Dominican Studies Institute des City College of New York (CUNY), Prof. Dr. Ramona Hernández. Neben weiteren Vorträgen ausgewiesener ForscherInnen zur Dominikanischen Republik und ihrer Diaspora wird es ein kulturelles Rahmenprogramm mit einer kulinarischen Karibikwoche in der Trierer Mensa geben. </p>
+
+<p>Tagungsprogramm:</p>
+
+<p>Mittwoch, 02. Juli 2014 im Gästeraum der Universität Trier</p>
+
+<p>08:30 Uhr
+<br />Grußworte und Einführung
+<br />Prof. Dr. Michael Jäckel (Präsident der Universität Trier) 
+<br />Prof. Dr. Ulrich Port (Dekan des Fachbereichs II) 
+<br />Prof. Dr. Andre Klump (Sprecher des America Romana Centrums)</p>
+
+<p>Contexto mundial y caribeño</p>
+
+<p>09:00 – 10:00 Uhr
+<br />Festvortrag
+<br />Ramona Hernández (New York): Dominican Migration to the U.S.: The Interplay among the Dominican State, the U.S. State, and the American Dream</p>
+
+<p>10:00 – 10:30 Uhr
+<br />Kaffeepause</p>
+
+<p>10:30 – 11:15 Uhr
+<br />Manuel Peralta Céspedes (Santo Domingo/Madrid): El español dominicano en contacto con el español madrileño: el caso del sujeto de las interrogativas directas</p>
+
+<p>11:15 – 12:00 Uhr
+<br />Rebecca Fuchs (Mannheim): The Curse of Coloniality in Junot Díaz’s Novel The Brief Wondrous Life of Oscar Wao: Fukú as a Theoretical Caribbean Concept</p>
+
+<p>12:00 – 13:30 Uhr
+<br />Gemeinsames Mittagessen „Karibische Woche in der Mensa der Universität Trier“</p>
+
+<p>13:30 – 14:15 Uhr
+<br />Sabrina Dinmohamed (Rotterdam): Sabor Quisqueyano in the Dutch Caribbean</p>
+
+<p>14:15 – 15:00 Uhr
+<br />Johannes Kramer (Trier): Hispaniola in Sebastian Münster’s Cosmographia</p>
+
+<p>15:00 – 15:30 Uhr
+<br />Kaffeepause</p>
+
+<p>15:30 – 16:15 Uhr
+<br />Svenja Flechtner (Flensburg): The Dominican Republic – a typical Latin American middle income country? A political economy perspective</p>
+
+<p>16:15 – 17:00 Uhr
+<br />Yvonne Schaffler (Wien): Zurück zum Altar. Portrait einer Heilerin aus der Dominikanischen Republik</p>
+
+<p>19:00 Uhr
+<br />Gemeinsames Abendessen im Weingut Gehlen
+<br /> 
+<br /> 
+<br />Donnerstag, 03. Juli 2014 im Gästeraum der Universität Trier </p>
+
+<p>Contexto insular y nacional</p>
+
+<p>08:30 – 09:15 Uhr
+<br />Katrin Pfadenhauer (Bayreuth): „Mwen pale espanyòl un chin“ – La diáspora haitiana y el contacto lingüístico en la República Dominicana</p>
+
+<p>09:15 – 10:00 Uhr
+<br />Julia Borst (Hamburg): Narcotraficantes, Pandilleros and Urban Violence: Coming of Age in Contemporary Dominican Novels by Luis R. Santos and Pedro A. Valdez</p>
+
+<p>10:00 – 10:30 Uhr
+<br />Kaffeepause</p>
+
+<p>10:30 – 11:15 Uhr
+<br />Hanna Merk (Trier): Lengua e identidad en los bateyes de la República Dominicana</p>
+
+<p>11:15 – 12:00 Uhr
+<br />Silke Jansen (Erlangen): Merengue y español dominicano – una liaison íntima</p>
+
+<p>12:00 – 13:30 Uhr
+<br />Gemeinsames Mittagessen „Karibische Woche in der Mensa der Universität Trier“</p>
+
+<p>13:30 – 14:15 Uhr
+<br />Anna Cäcilia Weinand (Trier): „Papi está a la vuelta de cualquier esquina“ – Transnational Patriarchy, the Queer Child and the Possibility of Emancipation in Rita Indiana Hernández’ Papi</p>
+
+<p>14:15 – 15:00 Uhr
+<br />Mario Heidler (Hannover) &amp; Carlita Magallanes Silfa (Santo Domingo): La Dominicanidad en perspectiva histórica</p>
+
+<p>15:00 – 15:30 Uhr
+<br />Kaffeepause</p>
+
+<p>15:30 – 16:30 Uhr
+<br />Vortrag und Buchpräsentation 
+<br />María José Rincón (Santo Domingo): El nacimiento de un nuevo diccionario: el Diccionario del Español Dominicano</p>
+
+<p>16:30 – 17:00 Uhr
+<br />Gemeinsame Abschlussdiskussion
+<br />Perspektiven der interdisziplinären Forschung zur Dominikanischen Republik und ihrer Diaspora sowie künftiger Kooperationen/Netzwerkbildung</p>
+
+<p>Weitere Informationen zur Tagung finden sich unter www.america-romana.de.
+<br />America Romana Centrum (ARC): Dr. Christine Felbeck &amp; Prof. Dr. Andre Klump
+</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/814-Andre_Klump">Andre Klump</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/1434-Die_inszenierte_Jugendsprache' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Die inszenierte Jugendsprache (Monographie)</h2>
+<h3>Von «Ciao, amigo!» bis «Wesh, tranquille!»: Entwicklungen der französischen Jugendsprache in Spielfilmen (1958-2005)</h3>
+<hr>
+<abbr class='unapi-id' title='1434'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Autor(en)</h4>
+<a href="/pers/1294-Kristina_Bedijs" class="tag multiline" popup="true">Kristina Bedijs</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Meidenbauer</dd>
+<dt>Ort</dt>
+<dd>München</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2012
+</dd>
+<dt>Reihe</dt>
+<dd>Sprache-Kultur-Gesellschaft 10</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.peterlang.de/download/datasheet/67515/datenblatt_975282.pdf" target="_blank">http://www.peterlang.de/download/datasheet/67515/datenblatt_975282.pdf</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-3-89975-282-3
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-89975-282-3&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Sprachwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Jugendsprache, Sprachwandel, Film, gesprochene Sprache, fingierte Mündlichkeit
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Seit die Jugend nach Ende des Zweiten Weltkriegs als gesellschaftliche Gruppe Raum für sich beansprucht, wird sie von Erwachsenen mit Argwohn betrachtet. Ihre kulturellen Vorlieben, ihre sozialen Praktiken, ihre Sprache erscheinen den einen fremd, den anderen beunruhigend. Das Leben und das Verhalten von Jugendlichen werden immer wieder in Spielfilmen thematisiert, die von der Nouvelle Vague bis heute eine mediale Projektion gesellschaftlicher Diskurse darstellen. Filmdialoge, geschrieben von erwachsenen Drehbuchautoren, bieten eine Möglichkeit, Figuren über ihren Sprachgebrauch zu charakterisieren. Wie wird die Sprache Jugendlicher in Filmen dargestellt? Bedienen die Filmfiguren gängige Stereotype von Sprachverfall, Vulgarität und mangelhafter Grammatik? Welche sprachlichen Merkmale werden als «typisch jugendlich» angesehen? Die Autorin analysiert die Sprache in 24 französischen Filmen aus dem Zeitraum von 1958 bis 2005 aus varietätenlinguistischer Perspektive und zeigt Entwicklungen in den Bereichen Lexik, Nähesprache, Morphosyntax und Pragmatik auf, die jugendliches Sprechen in Spielfilmen charakterisieren.</p>
+<p>Depuis la fin de la Deuxième Guerre Mondiale, la jeunesse revendique sa place en tant que groupe social, les adultes restant sceptiques face à cette évolution. Ses préférences culturelles, ses pratiques sociales, son langage paraissent étranges aux uns, inquiétants aux autres.<br />
+La vie et le comportement des jeunes sont souvent pris comme sujet par le cinéma, représentant, depuis la Nouvelle Vague jusqu’à nos jours, une projection médiale des discours sociaux. Les dialogues de films, écrits par des scénaristes adultes, constituent une possibilité de caractériser les personnages à travers leur langage. Comment est représenté le langage des jeunes au cinéma? Les personnages ont-ils recours aux stéréotypes courants de décadence linguistique, vulgarité et grammaire déficiente? Quels traits linguistiques sont perçus comme étant „typiquement jeune“?<br />
+L’auteure analyse le langage de 24 films français datant des années 1958 à 2005 dans une perspective variationnelle et montre les développements qui caractérisent le parler jeune au cinéma, dans les domaines du lexique, du langage de la proximité, de la morphosyntaxe et de la pragmatique.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>1 Jugendsprache in Frankreich – zur Einleitung</p>
+<p>2 Zum Stand der Forschung<br />
+2.1 Französische Jugendsprache<br />
+2.2 Sprache im Film</p>
+<p>3 Theoretische und methodische Grundlagen<br />
+3.1 Jugend: Konstruktion einer Kategorie<br />
+3.1.1 Historische Entstehung des Konstrukts &#8220;Jugend&#8221;<br />
+3.1.2 Der Begriff der Jugend im 20. Jahrhundert<br />
+3.1.3 Abgrenzung der Jugend von anderen Bevölkerungsgruppen<br />
+3.2 Jugendsprache aus linguistischer Perspektive<br />
+3.2.1 Jugendsprache in Frankreich<br />
+3.2.2 Vorannahmen zu den Begriffen Jugend und Jugendsprache<br />
+3.2.3 Zur Terminologie des Konzepts Jugendsprache<br />
+3.2.4 Wer spricht Jugendsprache?<br />
+3.2.5 Die Verortung der Jugendsprache im Diasystem<br />
+3.2.6 Gibt es jugendsprachliche Binnenvarietäten?<br />
+3.2.7 Jugendsprache und andere Varietäten<br />
+3.2.8 Klassifizierung und Generalisierung<br />
+3.2.9 Exkurs: Motive, Auslöser und Urheber sprachlicher Veränderungen<br />
+3.3 Jugendsprache im Film: Funktionen und Spezifika<br />
+3.3.1 Die Validität von Filmdialogen als Korpusmaterial<br />
+3.3.2 Formen und Funktionen von Jugendsprache im Film<br />
+3.3.3 Sprache im Film und in der Realität: Wechselwirkungen<br />
+3.4 Korpus und Analysemethode<br />
+3.4.1 Kriterien für die Korpuserstellung<br />
+3.4.2 Das Korpus<br />
+3.4.3 Die Transkriptionsmethode<br />
+3.4.4 Die Analysemethode<br />
+3.4.5 Die einzelnen Aspekte der Analyse</p>
+<p>4 Frankreich in der zweiten Hälfte des 20. Jahrhunderts<br />
+4.1 Gesellschaftspolitischer und kultureller Hintergrund<br />
+4.2 Jugend in Frankreich<br />
+4.3 Geschichte des französischen Kinos</p>
+<p>5 Jugendsprache in Spielfilmen: Linguistische Untersuchungen<br />
+5.1 Varietäten und Register<br />
+5.1.1 Regionale Variation<br />
+5.1.2 Milieuspezifische Variation<br />
+5.1.3 Genderspezifische Variation<br />
+5.2 Jugendtypische Lexik<br />
+5.2.1 Liebe und Sexualität<br />
+5.2.2 Gewalt, Kriminalität, Waffen, Drogen<br />
+5.2.3 Kleinere Referenzbereiche<br />
+5.2.4 Gefühlsäußerungen und Wertungen<br />
+5.2.5 Flüche, Beleidigungen, Vulgarismen<br />
+5.2.6 Fremdsprachliche Entlehnungen<br />
+5.2.7 Neologismen<br />
+5.3 Merkmale gesprochener Sprache<br />
+5.3.1 Phonetik und Phonologie<br />
+5.3.2 Dialogdichte<br />
+5.3.3 Negation<br />
+5.3.4 Diskursstrategien: Abtönungspartikeln<br />
+5.3.5 Diskursstrategien: Gliederungssignale<br />
+5.3.6 Turn-taking-Strategien<br />
+5.4 Syntax und Morphosyntax<br />
+5.4.1 Nominalphrase<br />
+5.4.2 Verbalphrase, Tempus- und Modusverwendung<br />
+5.4.3 Fragesatzkonstruktionen<br />
+5.4.4 Konversion<br />
+5.4.5 Besitzanzeige<br />
+5.4.6 Noms prépositionnels<br />
+5.4.7 Intensivierung<br />
+5.4.8 Weitere Bereiche<br />
+5.5 Rhetorik und Pragmatik<br />
+5.5.1 Begrüßungs- und und Anredeformeln<br />
+5.5.2 Spitznamen<br />
+5.5.3 Routinefloskeln, Ironie und Wortspiele<br />
+5.5.4 Hyperbolik und Quantifizierung<br />
+5.6 Besondere Kommunikationssituationen<br />
+5.6.1 Out-Group-Kommunikation<br />
+5.6.2 Metasprache</p>
+<p>6 Schlussbetrachtung und Ausblick</p>
+<p>Transkriptionskonventionen<br />
+Abkürzungsverzeichnis<br />
+Literaturverzeichnis<br />
+Glossar<br />
+Sachindex</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Dissertation, Göttingen 2011</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/425-Redaktion_romanistik_de" class="tag multiline" popup="true">Redaktion romanistik.de</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Montag, 10. September 2012, 10:43 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Montag, 10. September 2012, 10:43 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

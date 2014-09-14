@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/2356-Heroisches_Elend_Mis_res_de_l_h_ro_sme_Heroic_Misery' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Heroisches Elend – Misères de lʼhéroïsme – Heroic Misery (Sammelband)</h2>
+<h3>Der Erste Weltkrieg im intellektuellen, literarischen und bildnerischen Gedächtnis der europäischen Kulturen. La Première Guerre mondiale dans la mémoire intellectuelle, littéraire et artistique des cultures européennes. The First World War in the [...]</h3>
+<hr>
+<abbr class='unapi-id' title='2356'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<span class='tag multiline'>Gislinde Seybert</span>
+<a href="/pers/3803-Thomas_Stauder" class="tag multiline" popup="true">Thomas Stauder</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Peter Lang</dd>
+<dt>Ort</dt>
+<dd>Frankfurt am Main</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2014
+</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.peterlang.com/index.cfm?event=cmp.ccc.seitenstruktur.detailseiten&seitentyp=produkt&pk=65893&concordeid=263662" target="_blank">http://www.peterlang.com/index.cfm?event=cmp.ccc.seitenstruktur.detailseiten&seitentyp=produkt&pk=65893&concordeid=263662</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-3-631-63662-6
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-631-63662-6&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+gesamtromanisch und gesamteuropäisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Kulturwissenschaft, Historiographie, Gender Studies, Intermedialität
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Erster Weltkrieg, Rezeption/Gedächtnistheorien, Literatur, bildende Kunst, weitere Medien
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Hundert Jahre nach dem Beginn des Ersten Weltkriegs werfen über siebzig Beiträge auf Deutsch, Französisch und Englisch einen kulturwissenschaftlich aktuellen Blick auf dessen intellektuelle, literarische und bildnerische Spuren im kollektiven Gedächtnis der europäischen Nationen. <br />
+Cent ans après le début de la Première Guerre mondiale, plus de soixante-dix contributions en allemand, français et anglais jettent un nouveau regard, inspiré par les méthodes actuelles des études culturelles, sur ses traces intellectuelles, littéraires et artistiques dans la mémoire collective des nations européennes. <br />
+One hundred years after the outbreak of the First World War, more than seventy contributions in German, French and English shed a new light on the war&#8217;s intellectual, literary and artistic traces in the collective memories of the European nations, inspired by the latest research in cultural studies.</p>
+<p>Erinnerungsstrategien und Gedächtnisorte – Divergierende Haltungen zum Krieg bei den europäischen Intellektuellen –Literarische Kriegsdarstellungen in Narrativik, Dramatik und Lyrik – Dekonstruktion des männlichen Heldentums und Wandel des Frauenbilds – Der Erste Weltkrieg in weiteren Medien (Bildende Kunst, Musik, Film, Comics). <br />
+Stratégies du souvenir et lieux de mémoire – Attitudes divergentes face à la guerre chez les intellectuels européens – Représentations de la guerre dans la narration, au théâtre et dans la poésie – Déconstruction de l’héroïsme des hommes et transformation de l’image de la femme – La Grande Guerre dans d’autres médias (beaux-arts, musique, cinéma, bande dessinée). <br />
+Strategies of remembrance and realms of memory – Diverging attitudes towards war among European intellectuals – Representations of war in narratives, in theatre and poetry – Deconstruction of male heroism and transformation of the female image – The Great War in other media (fine arts, music, film, comics).</p>
+<p>Gislinde Seybert lehrte romanische Literatur- und Kulturwissenschaft an der Universität Hannover. <br />
+Thomas Stauder lehrte als Gastprofessor für romanische Literaturen in Wien, Innsbruck, Mainz und Augsburg. <br />
+Gislinde Seybert a enseigné lettres et civilisation romanes à l’Université d’Hanovre. <br />
+Thomas Stauder a enseigné les littératures romanes en tant que professeur invité à Vienne et Innsbruck (Autriche), ainsi qu’à Mayence et Augsbourg (Allemagne). <br />
+Gislinde Seybert has taught romance literature and culture at the University of Hanover. <br />
+Thomas Stauder has been Visiting Professor for Romance Literatures in Vienna and Innsbruck (Austria), as well as in Mainz and Augsburg (Germany).</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Inhalt/Contenu/Contents: Gislinde Seybert: Zur Entstehungsgeschichte dieses Projekts – Thomas Stauder: Der Erste Weltkrieg aus gesamteuropäischer und kulturwissenschaftlich aktueller Sicht – Arnd Bauerkämper: Zwischen nationaler Selbstbestätigung und Universalisierung des Leids. Der Erste Weltkrieg in intellektuellen Diskursen, in der Geschichtsschreibung und Erinnerung – Bernd Hüppauf: Gefühle und Töten im Krieg – Rémy Cazals : Le témoignage de guerre des non-professionnels de l’écriture – Sophie de Schaepdrijver: Choosing Citizenship in Wartime: A «Cosmopolitan» Diary in Occupied Brussels – Huguette de Broqueville : Le journal de la jeune Lydia – Claude Brulant : Arras et Lens pendant la Première Guerre mondiale : Souvenirs de famille – Loredana Trovato: « La guerre joviale ». L’humour, le comique et la créativité verbale des poilus dans les journaux de tranchées – Pascal Génot : La Première Guerre mondiale vue &#8211; et vécue &#8211; par Joseph Kessel (avec des textes inédits originaux) – Olivier Standaert : Un entre-deux-guerres en deuil. La mémoire des « villes martyres » de Belgique – Annette Jantzen: Nach dem Krieg ist vor dem Frieden. Das Goldbuch der Diözese Nancy und die Erinnerung an den Ersten Weltkrieg – Lisa Bregantin: Wie ein von der Zeit verblichenes Photo: Die Erinnerung an die italienischen Todesopfer des Ersten Weltkriegs – Mark Connelly: Trench warfare: the Great War in British life, from 1919 to the present – Rainer Bendick: Deutsche und französische Schulgeschichtsbücher und der Erste Weltkrieg. Der lange Weg von Hass und Feindschaft zu Verständigung und Versöhnung – Renate Lunzer: Guerra buona &#8211; guerra bella &#8211; guerra giusta? Ein Blick auf Italien am Vorabend des Ersten Weltkriegs – Manuela Spinelli : Entre revue et tranchée. La Voce et Lacerba face à la Grande Guerre – Rosina Scalise Springer : Benedetto Croce face à la Première Guerre mondiale : crise, continuité et bouleversements de sa pensée – Matthias Schöning: «Demobilisierung der Geister». Ernst Troeltsch, die «Ideen von 1914» und der Vernunftrepublikanismus – Vesna Rodic: Literature, Tradition, and the Challenge of History in La Nouvelle Revue Française, 1909-1919 – Thomas Stauder: «Las dos Españas» in den Stellungnahmen der spanischen Intellektuellen zum Ersten Weltkrieg – Jean-François Domenget : Montherlant 1960 ou la mémoire anti-moderne de Verdun – Stefano Magni : L’antimilitarisme avant la Première Guerre mondiale : l’exemple de Gian Pietro Lucini – Jean-Pierre Meylan : Romain Rollands Aufruf Au-dessus de la mêlée (1914), ein Fanal gegen den Selbstmord Europas – Jean-Yves Brancy : Deux esprits européens dans la tourmente : l’amitié Romain Rolland &#8211; Stefan Zweig – Susann Gundermann-Link: Romain Rolland und Hermann Hesse &#8211; Weggefährten im Krieg – Landry Charrier: Der Weg zum Frieden (1915-1916), un débat international en pleine guerre mondiale – Bernhard Mankwald: «Nie wieder!» oder «Nochmal!»? Tucholskys Kampf gegen den Militarismus – Isabelle Payet: La fraternité à l’épreuve de la guerre et de l’écriture : Regards croisés entre Italie, France et Allemagne – Annie Bourguignon: Literarische Gestaltung pazifistischer Einstellungen in Schweden nach dem Ersten Weltkrieg: Selma Lagerlöfs Das heilige Leben und Hjalmar Söderbergs Die Schicksalsstunde– Yannick Gouchan : Contre les poètes du feu immonde : Aldo Palazzeschi face à la Grande Guerre – Yvette Formery : « &#8211; Dis-moi, qu’as-tu appris à la guerre ? » « &#8211; Ne parlons pas de cela, dit le héros. » (sur Alain, Mars ou la guerre jugée) – Philippe Niogret : Jean Guéhenno et la guerre de 14-18. De l’exaltation patriotique des premiers jours aupacifisme de l’entre-deux-guerres – Thabette Ouali : Du nouvel héroïsme des Croix de bois de Roland Dorgelès – Hélène Baty-Delalande : Portraits fragmentés de « camarades » dans quelques récits français de la Grande Guerre (Duhamel, Dorgelès, Drieu, Cendrars) – Nadine Maria Seidel: «Nicht ‘Schießer’, sondern Weidmann». Wie ein missverstandenes Ethikkonstrukt Manfred von Richthofen zum Helden werden ließ – Michael Gratzke: Heldentum ohne Gesinnung: Ernst Jüngers romantische Schlacht mit der Moderne – Andre Kagelmann: Frauensache. Der «Vorkrieg» Thea von Harbous – Agnès Sandras : La femme sur le front de la presse catholique française : l’exemple de La Revue hebdomadaire – Joceline Chabot/Marie-Michèle Doucet : Les figures de l’héroïsme durant la Grande Guerre : représentations et stéréotypes genrés dans la littérature patriotique en France – Loukia Efthymiou : Témoignages de professeures mobilisées : aspects genrés d’une histoire de l’intime durant la Grande Guerre en France – Blanca Acinas Lope : Valeur de femme ou femmes valeureuses, le stéréotype féminin chez certains écrivains français se référant à la Grande Guerre – Monica Biasiolo: Zur Verteidigung und Ehre des Vaterlandes: Kriegswahrnehmung und Kriegsdarstellung im Werk von Stefania Türr und Alice Schalek – Frauke Matz: «Fighting War» &#8211; Androgynie in Rose Macaulays Non-Combatants and Others (1916) – Susan Solomon: «Die Steine der Wörter»: Claire Goll’s Die Frauen erwachen and the Battling Discourses of <span class="caps">WWI</span> Germany – Monique Schneider : La guerre selon Freud, l’attaque des processus de pensée et la pulsion de mort – Annette Runte: Weltkrieg im Privatkrieg. Ernst Barlachs pazifistische Wende als «Familienkomplex» anhand ausgewählter Dramen, Briefe und Tagebücher – Barbara Rodt: Weltunglück. Georg Trakl, Traum und Umnachtung– Jürgen Hillesheim: Helden und Soldaten an neuen Fronten. Von Bertolt Brechts frühester Weltkriegsdichtung bis zur Ballade von des Cortez Leuten – Aleksandra Krasovec : La perception de la Première Guerre mondiale et le simultanisme chez les poètes de l’avant-garde russe – Laure Michel: <span class="caps">SIC</span> et Nord-Sud : deux revues en temps de guerre – Elizabeth Vandiver: «Let These Stones Tell»: Classics, Commemoration, and Mourning in British Poetry of the First World War – Susanne Puissant: «Jack fell as he’d have wished.» &#8211; Der (Anti-) Held in der englischen Lyrik des Ersten Weltkrieges – Gisela Dischner: «Im Dunkel leben, im Dunkel tun was wir können» &#8211; Gottfried Benn in Brüssel und Berlin – Janis L. Solomon: Reinhard Goering: Staging the War – Antoinette Blum : Jean-Richard Bloch, « Soldat de la République » – Léonor Delaunay : Le Feu en scène : Usages et circulations d’une oeuvre de guerre – Cristina Trinchero : Echos de la Grande Guerre dans le théâtre français des années vingt. Quelques parcours – Brian Murdoch: War and the Best-Sellers: Walter Flex and Erich Maria Remarque – Kian-Harald Karimi: «Darum, Deutscher, öffne dieses Buch.» Feind- und Freundbilder in Vicente Blasco Ibáñez’ Los cuatro jinetes del Apocalipsis (1916) – Gislinde Seybert: Die Bearbeitung der Kriegserfahrung im Frühwerk von Ernst Jünger – Graziella-Fotini Castellanou: Η ζωή εν τάφω (La vie au tombeau) de Stratis Myrivilis – Corinne von Kymmel-Zimmermann: Jean Giono et l’expérience du grand troupeau – Manal Hosny : La déchéance de l’Occident entre la guerre éternelle et la guerre moderne dans les écrits de Drieu La Rochelle – Angela Barwig: Hercule Poirots verstörte «Erben»: Englands Detektive in den Spannungsfeldern zwischen Erstem Weltkrieg und Verbrechen – Alexia Gassin:Die expressionistischen Künstler und das Trauma des Krieges – Claire Aslangul : Représentations visuelles de la guerre comme « théâtre de la danse macabre » (E. Jünger). Formes, fonctions et paradoxes des variations sur un récit ancien – Marlies Jörgensen: Heinrich Vogeler: Vom unpolitischen Künstler und Kriegszeichner zum pazifistischen Kommunisten – Claire Maingon : Apollons blessés de guerre et la Samothrace : Vicissitudes d’une autre avant-garde artistique – Karen Shelby: Emil Krieger, Trauernde Soldaten and Käthe Kollwitz, Die Eltern: Personal Mourning and National Grief – Marie Gaboriaud : Les discours musicaux pendant la Grande Guerre : repli identitaire ou moyen de communication transnational ? – Michel Arouimi : D’acier, les orages de Jünger et la pluie de Mylène Farmer – Dora Leontaridou : L’altération des êtres humains, dégradés par l’horreur de la guerre dans Un long dimanche de fiançailles, roman et film – Christina Meyer: Patriotic Laughter? World War I in British and American Newspaper and Magazine Comics – Anne Cirella-Urrutia: Heroes and Heroines of the Great War: The Aesthetics of Horror in bandes dessinées.</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Gefördert von der Kurt-Bösch-Stiftung der Universität Augsburg.</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/3803-Thomas_Stauder" class="tag multiline" popup="true">Thomas Stauder</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 27. März 2014, 18:17 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Freitag, 28. März 2014, 15:18 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

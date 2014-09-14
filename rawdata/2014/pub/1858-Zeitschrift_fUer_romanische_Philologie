@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/1858-Zeitschrift_fUer_romanische_Philologie' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Zeitschrift für romanische Philologie (Zeitschriftenheft)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='1858'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<span class='tag multiline'>Günter Holtus</span>
+<span class='tag multiline'>Wolfgang Schweickard</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+März
+2013
+</dd>
+<dt>Jahrgang</dt>
+<dd>129</dd>
+<dt>Nummer</dt>
+<dd>1</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.degruyter.com/view/j/zrph?rskey=82swOQ&result=4&q=romanische%20Philologie" target="_blank">http://www.degruyter.com/view/j/zrph?rskey=82swOQ&result=4&q=romanische%20Philologie</a></dd>
+<dt>ISSN</dt>
+<dd>0049-8661</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Sprachwissenschaft, Literaturwissenschaft
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Der Themenkreis der viermal jährlich erscheinenden <em>Zeitschrift für romanische Philologie</em> umfasst auf literaturhistorischem Gebiet die romanische Literatur bis zur Renaissance sowie die gesamte romanistische und, in vertretbarem Rahmen, die darauf bezogene allgemeine Sprachwissenschaft.</p>
+<p><span class="caps">VERANTWORTLICHE</span> <span class="caps">HERAUSGEBER</span><br />
+Prof. Dr. Günter Holtus, Göttingen<br />
+Prof. Dr. Dr. h.c. Wolfgang Schweickard, Saarbrücken</p>
+<p><span class="caps">WISSENSCHAFTLICHER</span> <span class="caps">BEIRAT</span><br />
+Éva Buchi, Nancy<br />
+Daron Burrows, Manchester<br />
+Franz Lebsanft, Bonn<br />
+Eugen Munteanu, Iaşi<br />
+Fernando Sánchez Miret, Salamanca<br />
+Luca Serianni, Rom<br />
+David Trotter, Aberystwyth<br />
+Friedrich Wolfzettel, Frankfurt am Main</p>
+<p><span class="caps">REDAKTION</span><br />
+Christian Schweizer, Saarbrücken</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p><strong><span class="caps">INHALT</span></strong></p>
+<p>GÜNTER <span class="caps">HOLTUS</span> &amp; <span class="caps">WOLFGANG</span> <span class="caps">SCHWEICKARD</span>, Editorial</p>
+<p><strong>AUFSÄTZE</strong></p>
+<p><span class="caps">DARON</span> <span class="caps">BURROWS</span>, Die anglonormannischen Life of <em>St John the Almsgiver</em> und <em>Vie de seint Clement</em>. Werke ein und desselben Autors?</p>
+<p>Le manuscrit Cambridge, Trinity College, R.3.46 contient les seules copies encore existantes de deux poèmes hagiographiques composés en anglonormand vers le début du 13e siècle: la <em>Life of St John the Almsgiver</em> et la <em>Vie de seint Clement</em>. Il y a plus de cent ans, Paul Meyer demandait si cela pouvait être<br />
+parce que les textes avaient été écrits par le même auteur que les copies avaient été juxtaposées. À travers une analyse de la technique de traduction et de la langue des deux textes, cet article cherche à résoudre la question une fois pour toutes.</p>
+<p><span class="caps">FRANCISCO</span> M. <span class="caps">CARRISCONDO</span> <span class="caps">ESQUIVEL</span>, Polimorfismo del léxico técnico histórico (entre la sombra de la lengua latina y el avance del vernáculo)</p>
+<p>El objetivo fundamental de este trabajo consiste en la descripción del polimorfismo del léxico técnico, especialmente el astronómico, perteneciente a un estado de la lengua tan relevante en la historia del español como es el Renacimiento. El eje central de la exposición es el análisis de la disyuntiva en que se<br />
+encuentran los autores que optan por la lengua castellana frente al latín como vehículo de transmisión del conocimiento: seguir el modelo latino heredado o desvincularse de él mediante la adopción de formas propias del vernáculo.</p>
+<p><span class="caps">REGINA</span> GÖKE, Metonymische Nominalkomposition im Spanischen</p>
+<p>El presente artículo analiza las formas más importantes de la composición nominal en español desde un punto de vista semántico, es decir, el de la metonimia. El objetivo reside en determinar las formas de expresión metonímicas en la composición nominal y en identificar las conceptualizaciones y contigüidades<br />
+que hay detrás. Se muestra que los compuestos nominales metonímicos se limitan principalmente a un número restringido de formas, conceptualizaciones y contigüidades. En consecuencia, es necesario relativizar la <em>omnipresencia</em> y <em>diversidad</em> frecuentemente invocadas. Se debería investigar este fenómeno desde distintas perspectivas lingüísticas (morfología, lexicología, pragmática) para lograr una descripción más diferenciada.</p>
+<p><span class="caps">WOLFGANG</span> <span class="caps">SCHWEICKARD</span>, Un viaggio del 1492 nel Sacro Romano Impero</p>
+<p>Tra le relazioni di viaggio in volgare nei paesi germanici, l’&quot;Itinerario&quot; del 1492, redatto da Andrea de’ Franceschi, è una delle più interessanti. Il presente contributo fornisce una descrizione dettagliata del testo con commento storicoculturale e linguistico.</p>
+<p>DRAGOŞ <span class="caps">MOLDOVANU</span>, Un oronyme d’origine romaine en Transylvanie: <em>Bigla</em></p>
+<p>Il faut considérer l’oronyme roumain <em>Bigla</em> un archaïsme latin, qui peut être intégré dans une série d’oronymes balkaniques. Provenu de l’a. gr. βίγλα ‘poste de garde, observateur’ (&lt; lat. pop. *VIGLA), le mot a été transmis comme tel à la population latinophone, de même que d’autres mots d’origine latine dont l’évolution prouve une médiation phonétique grecque. Devenu *Bigl’a en protoroumain, l’oronyme a supporté la dépalatalisation sous l’influence des parlers sud-slaves orientales. Il représente une preuve linguistique capitale pour la continuité des Roumains en Transylvanie.</p>
+<p><strong><span class="caps">DISKUSSION</span> <span class="caps">AKTUELLER</span> <span class="caps">PROBLEME</span></strong></p>
+<p><span class="caps">OMAR</span> VELÁZQUEZ-<span class="caps">MENDOZA</span>, Latín y romance en la Iberia del Medievo tardío y el complemento directo preposicional</p>
+<p>Este trabajo se une al debate que sigue girando en la actualidad en torno al tipo de contacto sociolingüístico en que coexistían el latín y el romance dentro de la sociedad ibérica altomedieval (siglos VIII–XIII). Basándose en evidencia lingüística interna, mi comunicación apoya la teoría del monolingüismo elástico tardomedieval por sobre la de la facción tradicionalista que aboga por la existencia de dos lenguas habladas en la España de la Alta Edad Media. En este trabajo se presentan los comunes denominadores morfofonológicos y sintácticos que comparte la documentación iberorrománica, y se exponen los ejemplos más antiguos del complemento directo preposicional juntando la evidencia extraída de los escritos compuestos antes del siglo <span class="caps">XIII</span> con la de los textos plenamente romanceados del mismo siglo. La presencia de la a personal en la documentación de dicha época me permite argumentar que, al plasmar un<br />
+mismo fenómeno morfosintáctico los documentos altomedievales más latinizantes tanto como los de lenguaje más romanceado, una misma lengua hablada subyace a dichos documentos.</p>
+<p><span class="caps">CHRISTIAN</span> <span class="caps">SCHMITT</span>, Der Blick über den eigenen Gartenzaun schadet nicht. Zum vorschnellen Etymologisieren in deutschen Medien und im Internet</p>
+<p>Der Autor erarbeitet auf der Grundlage der romanischen wie auch nicht-romanischer Sprachen am Beispiel lt. <em>avicellus</em> ‘Vöglein’ Prinzipien des Bedeutungswandels im Rahmen der Vergleichenden Bezeichnungslehre und<br />
+postuliert – ausgehend von der sicher und gut dokumentierten, auf Metaphorisierung gründenden Bedeutungsentwicklung Vogel → Penis – nicht nur Korrekturen für romanische etymologische Wörterbücher, sondern insbesondere auch eine Neudeutung für dt. <em>vögeln</em> als denominale Bildung, mit Hinweis auf eine<br />
+ausgeprägte europäische Isosemie.</p>
+<p><strong><span class="caps">BESPRECHUNGSAUFSATZ</span></strong></p>
+<p><span class="caps">EDUARDO</span> <span class="caps">BLASCO</span> <span class="caps">FERRER</span>, Tendenze recenti della grammaticografia italiana</p>
+<p>Historical grammar of Italian was lacking a thorough synthesis until the publication of the present work. Salvi’s and Renzi’s ambitious grammar is entirely based on a modern generative model, and planned to cover systematically all sectors of mediaeval synchronic development of Italian. Regretfully, these aims have not been reached, largely as a consequence of the method applied in the descriptive framework, to a lesser extent also due to the loose grid of mediaeval attestations.</p>
+<p><strong><span class="caps">BESPRECHUNGEN</span></strong></p>
+<p>Johannes Angermüller, Nach dem Strukturalismus. Theoriediskurs und intellektuelles Feld in Frankreich (<span class="caps">JULIA</span> <span class="caps">RICHTER</span>)</p>
+<p>Roman Jakobson, Poesie der Grammatik und Grammatik der Poesie. Sämtliche Gedichtanalysen. Kommentierte deutsche Ausgabe, vol. 1: Poetologische Schriften und Analysen zur Lyrik vom Mittelalter bis zur Aufklärung / vol. 2: Analysen zur Lyrik von der Romantik bis zur Moderne, edd. Hendrik Birus / Sebastian Donat (<span class="caps">WERNER</span> <span class="caps">HELMICH</span>)</p>
+<p>Sarah West, Say It. The Performative Voice in the Dramatic Works of Samuel Beckett (<span class="caps">ISABEL</span> <span class="caps">ZOLLNA</span>)</p>
+<p>Axel Schönberger, Priscians Darstellung des silbisch gebundenen Tonhöhenmorenakzents des Lateinischen. Lateinischer Text und kommentierte deutsche Übersetzung des Buches über den lateinischen Akzent (<span class="caps">CHRISTIAN</span> <span class="caps">SCHMITT</span>)</p>
+<p>Nouvelles du Moyen Âge, Textes choisis, présentés, traduits et annotés par Nelly Labère (<span class="caps">KARIN</span> <span class="caps">BECKER</span>)</p>
+<p>Stefania Cerrito, Le rommant de l’abbregement du siege de Troyes, Édition, études linguistique et littéraire (<span class="caps">PHILIPP</span> <span class="caps">BURDY</span>)</p>
+<p><em>Sottes chansons contre Amours</em>: parodie et burlesque au Moyen Âge, Textes présentés, édités et traduits par Eglal Doss-Quinby, Marie-Geneviève Grossel et Samuel N. Rosenberg (<span class="caps">PHILIPPE</span> MÉNARD)</p>
+<p>Monika Unzeitig, Autorname und Autorschaft. Bezeichnung und Konstruktion in der deutschen und französischen Erzählliteratur des 12. und 13. Jahrhunderts (<span class="caps">FRIEDRICH</span> <span class="caps">WOLFZETTEL</span>)</p>
+<p>Yolande De Pontfarcy, L’Au-delà au Moyen Âge. <em>Les Visions du chevalier Tondal</em> de David Aubert et sa source dans la <em>Visio Tnugdali</em> de Marcus (<span class="caps">MARGHERITA</span> <span class="caps">LECCO</span>) <br />
+Revelacion (BL Royal 2.D.xiii), Edited by Brent A. Pitts (<span class="caps">LEENA</span> LÖFSTEDT)</p>
+<p>Olivier Moliner, Frankreichs Regionalsprachen im Parlament. Von der <em>Pétition pour les langues provinciales</em> 1870 zur <em>Loi Deixonne</em> 1951 (<span class="caps">CHRISTIAN</span> <span class="caps">SCHMITT</span>)</p>
+<p>Jean La Rue, Dictionnaire d’argot et des locutions populaires. Version raisonnée et commentée à partir des éditions de 1894 et du début du XXe siècle, Édition de Denis Delaplace (<span class="caps">CHRISTIAN</span> <span class="caps">SCHMITT</span>)</p>
+<p>Roberta Manetti, <em>Flamenca</em>. Romanzo occitano del <span class="caps">XIII</span> secolo (<span class="caps">MARIO</span> <span class="caps">MANCINI</span>)</p>
+<p>Vincenzo Minervini, Il <em>Libre de Sidrac</em> <em>di</em> Bertran Boysset (<span class="caps">LIDIA</span> <span class="caps">BARTOLUCCI</span>)</p>
+<p>Luis Alexis Amador Rodríguez, La derivación nominal en español. Nombres de agente, instrumento, lugar y acción (HÉCTOR HERNÁNDEZ <span class="caps">AROCHA</span>) <br />
+Andrea Grewe, Einführung in die italienische Literaturwissenschaft (<span class="caps">OLAF</span> MÜLLER)</p>
+<p>Andrea Poli, Fede sperimentale. La filologia di Gianfranco Contini (<span class="caps">RAYMUND</span> <span class="caps">WILHELM</span>)</p>
+<p>Bodo Guthmüller, Mito e metamorfosi nella letteratura italiana. Da Dante al Rinasci¬mento (<span class="caps">BERNHARD</span> <span class="caps">HUSS</span>)</p>
+<p>Albert Russell Ascoli, Dante and the Making of a Modern Author (<span class="caps">ENRICA</span> <span class="caps">ZANIN</span> <span class="caps">BATTAGLIA</span>)</p>
+<p>Domenico Cavalca, Vite dei Santi Padri, Edizione critica a cura di Carlo Delcorno (<span class="caps">ROSARIO</span> <span class="caps">COLUCCIA</span>)</p>
+<p>Ronnie Ferguson, A Linguistic History of Venice (<span class="caps">REMBERT</span> <span class="caps">EUFE</span>)</p>
+<p>Diego Dotto, <em>Scriptae</em> venezianeggianti a Ragusa nel <span class="caps">XIV</span> secolo. Edizione e commento di testi volgari dell’Archivio di Stato di Dubrovnik (<span class="caps">REMBERT</span> <span class="caps">EUFE</span>)</p>
+<p>Giuseppe Sergio, Parole di moda. Il <em>Corriere delle Dame</em> e il lessico della moda nell’Ottocento (<span class="caps">WOLFGANG</span> <span class="caps">SCHWEICKARD</span>)</p>
+<p>Alberto Nocentini, con la collaborazione di Alessandro Parenti, l’Etimologico. Vocabolario della lingua italiana (<span class="caps">EDUARDO</span> <span class="caps">BLASCO</span> <span class="caps">FERRER</span>)</p>
+<p>Luciano Rocchi (ed.), Il Dizionario Turco-Ottomano di Arcangeli Carradori (1650), Trieste, Edizioni Università di Trieste, 2011 (<span class="caps">WOLFGANG</span> <span class="caps">SCHWEICKARD</span>)</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/3062-Christian_Schweizer" class="tag multiline" popup="true">Christian Schweizer</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 11. April 2013, 11:03 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 11. April 2013, 11:03 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

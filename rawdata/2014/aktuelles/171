@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+Physik und Literatur. Gründungstagung ELINAS (Erlangen Center for Literature and Natural Science Studies)
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Erlangen
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-05-25
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2014-05-29
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2014-06-01
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://elinas.fau.de/workshops/inaugural-conference.html" target="_blank">http://elinas.fau.de/workshops/inaugural-conference.html</a>
+</p>
+</div>
+<p>Physik und Literatur. Theorie - Popularisierung - Ästhetisierung
+<br />Gründungstagung ELINAS
+<br />Erlangen Center for Literature and Natural Sciences
+<br />FAU Erlangen/Germany, 29.05 – 01.06.2014</p>
+
+<p>Physics, literature, and literary criticism are discourses of knowledge production which have drifted apart considerably in the course of the modern functional differentiation of social systems. At the same time, both discourses contribute to the comprehension and mastery of present and future problems, which invariably have both technological and cultural implications. Technologies and worldviews, shaped by physical knowledge, often acquire the status of central myths and determine human life worlds. Thus, they are of tremendous cultural relevance. The evaluation and assessment of their goals, limitations, and effects as well as of their inherent chances and risks is an ongoing process and cannot be negotiated within the necessarily narrow limits of physical discourse alone. At present more well- informed and highly reflective literary texts dealing with physical issues are being published than ever before. Employing dialogue and narration, they translate physical knowledge from mathematical-symbolic into verbal-polyvalent forms of representation and re-embed it in specific cultural contexts. This is why recent literary criticism and linguistic studies have therefore begun to investigate discursive and narrative modulations of physical theories both in literary texts and in scientific literature. Physics is itself becoming increasingly aware, both of the linguistic dimension of scientific communication and research and of the general cultural dimension of physical knowledge. The field has begun to reflect on both: on the epistemological importance of metaphor and on the communicative and cultural conditions determining the goals, priorities, and ethical limits of scientific research.</p>
+
+<p>These points of intersection between physical and cultural practices a constitute research field recognized for its considerable importance and interdisciplinary potential. Unconventional avenues of communication between highly specialized expert discourses are necessary to advance research in this field. The analysis of concept formation in the natural sciences can profit from the competence of literary theory, while the analysis of the transformation of physical knowledge in literary texts needs to be complemented by a sound knowledge of physical theory. ELINAS provides a platform for this exchange. ELINAS is an Emerging-Field-Project of the Friedrich-Alexander-Universität Erlangen Nürnberg, which will be founded by the Faculty of Humanities, the Faculty of Sciences, the Faculty of Medicine, and the Faculty of Engineering through the Departments of Physics, Mathematics, Physiology, Material Sciences, as well as the Departments of German, English and American Studies.</p>
+
+<p>The conference will focus on the hitherto only exemplarily researched history of the interrelations between physics and literature and concentrates on historically specific thematic fields. While during The Early Modern Period physics primarily discusses questions of movement and force, the 18th Century is dominated by debates on Newton’s mechanics and optics (up until Goethe’s Farbenlehre, 1810). The expansion of experimental investigations, coupled with technological progress, causes a shift towards chemical (C. Berthollet, A. Lavoisier) as well as thermal (T. Young, N. Carnot) and electro-magnetic phenomena (A. Volta, G. S. Ohm, M. Faraday, J. C. Maxwell) but also to astronomy, in particular in its popularized form (A. Clerke, S. Newcomb, J. Mädler). These also move to the foreground in the literature around 1800 (G. C. Lichtenberg, H. v. Kleist, E. T. A. Hoffmann, A. v. Arnim). – A century later, the reconceptualization of the relationship of space-time and energy/matter in Einstein’s special and general relativity theory, and the debate over the development of quantum-theory created epistemological problems, which are reflected in literature up until today, and which shape the structures of literary writing. The question of how, with the help of quantum-theory, knowledge and its relations to uncertain knowledge can be problematized and represented is central (H. Broch, D. Dath). A further focus in this context will be the interplay of natural-scientific and literary theory formation. One conference section will be reserved for the presentation of other literature and natural science initiatives, networks or institutions.</p>
+
+<p>PROGRAMME</p>
+
+<p>THURSDAY, 29.05.2014</p>
+
+<p>13.00 - 13.30
+<br />Antje Kley
+<br />Vice-President, Friedrich-Alexander-Universität Erlangen
+<br />Welcome Speech</p>
+
+<p>Klaus Mecke / Christine Lubkoll / Aura Heydenreich
+<br />Department Physik / Department Germanistik und Komparatistik
+<br />ELINAS</p>
+
+<p>13.30 - 16.00
+<br />Arkady Plotnitsky
+<br />Department of English, Purdue University, Indiana
+<br />Reality and Probability in Physics and Literature. From Laplace and Kleist to Heisenberg and Musil</p>
+
+<p>Dirk Vanderbeke 
+<br />Department of English, Jena University
+<br />Physics of the Fantastic – Fantastic Physics</p>
+
+<p>Jörn Wilms
+<br />Astronomical Institute, Friedrich-Alexander-University Erlangen
+<br />Science in Science Fiction - How Does an Astronomer Read Science Fiction?</p>
+
+<p>16.00 - 16.30 
+<br />Coffee break</p>
+
+<p>16.30 - 18.00 
+<br />Brian Schwartz
+<br />Physics Department, University of New York
+<br />Communication of Science through the Performing Arts: Theater, Music and Dance and Strategies for the Dissemination to the General Public</p>
+
+<p>Seth Clabough
+<br />Sweet Briar College, Virginia
+<br />Quantum Physics, Physics Fiction, and All Things Await</p>
+
+<p>18.00
+<br />Reception, Orangerie</p>
+
+<p>20.00
+<br />Durs Grünbein
+<br />Rom
+<br />Lesung aus: Cyrano oder die Rückkehr vom Mond</p>
+
+<p>FRIDAY, 30.05.2014</p>
+
+<p>09.00 - 11.15 
+<br />Giovanni Vignale
+<br />Physics Department, Northwestern University, Missouri-Columbia
+<br />The Beautiful Invisible. Creativity, Imagination and Theoretical Physics</p>
+
+<p>Jay Labinger
+<br />Chemistry Department, California Institute of Technology
+<br />The Role of Language in Conceptions of Atomic and Molecular Orbitals and Chemical Bonding Models</p>
+
+<p>Klaus Mecke
+<br />Physics Department, Friedrich-Alexander-Universität Erlangen 
+<br />Quantitative Metaphors: How Physics Discovers Synonyms in Narrated Nature</p>
+
+<p>11.15 - 11.45 
+<br />Coffee break</p>
+
+<p>11.45 - 12.30 
+<br />Susan M. Gaines
+<br />Fiction meets Science, Bremen 
+<br />Beyond Metaphor: Science as Subject in the Contemporary Literary Novel</p>
+
+<p>14.00 - 16.15
+<br />Winfried Thielmann
+<br />Germanistische Linguistik, Universität Chemnitz 
+<br />Physikalische Begriffsbildung aus linguistischer Sicht</p>
+
+<p>Nikola Kompa
+<br />Institut für Philosophie, Universität Osnabrück 
+<br />Vom Nutzen und Nachteil metaphorischer Rede</p>
+
+<p>Lutz Kasper
+<br />Didaktik der Physik, Pädagogische Hochschule Schwäbisch-Gmünd 
+<br />Die Bedeutung von Subjektivierung und Ästhetisierung für den naturwissenschaftlichen Erkenntnisprozess</p>
+
+<p>16.15 - 16.45
+<br />Coffee break</p>
+
+<p>Ab 16.45
+<br />Nürnberger Burg / Dürer Haus</p>
+
+<p>ab 19.30
+<br />Hausbrauerei Altstadthof
+<br />Nürnberg, Bergstraße 19</p>
+
+<p>19.30 - 21.00
+<br />Ignatius McGovern
+<br />Physics Department, Trinity College, Dublin
+<br />The Making of „A Mystic Dream of 4“</p>
+
+<p>Peter Maria Schuster
+<br />History of Physics Group of the European Physical Society, Vienna
+<br />Johann Winkler 
+<br />Salzburg
+<br />Wie kann man sich dem Schaffensvorgang und der Erkenntnisfindung eines Physikers annähern? / Lesung aus: „Schöpfungswoche – Tag eins, Christian Doppler zur Huldigung“</p>
+
+<p>23.00
+<br />Rückfahrt Erlangen
+<br />SATURDAY, 31.05.2014</p>
+
+<p>09.00 - 11.15 
+<br />Maximilian Bergengruen
+<br />Institut für Germanistik, Karlsruher Institut für Technologie 
+<br />Physik der Metaphysik: Zur Technik der Geistererscheinungen in Gryphius&#x27; „Catharina von Georgien“ und „Carolus Stuardus“</p>
+
+<p>Barbara Wiedemann 
+<br />Deutsches Seminar, Universität Tübingen 
+<br />&quot;In der Blasenkammer&quot;. Paul Celans physikalische &#x27;Anreicherung&#x27;.</p>
+
+<p>Bernadette Malinowski
+<br />Institut für Germanistik und Kommunikation, Universität Chemnitz 
+<br />Literarische Epistemologie: Daniele DelGiudices „Atlante occidentale“</p>
+
+<p>11.15 - 11.45 
+<br />Coffee break</p>
+
+<p>11.45 - 13.10 
+<br />Michael Gamper
+<br />Deutsches Seminar, Universität Hannover
+<br />Ästhetische Eigenzeiten der Physik</p>
+
+<p>Aura Heydenreich
+<br />Department Germanistik und Komparatistik, Erlangen-Nürnberg 
+<br />Gödels Zeitschleifen und Bachs Musikalisches Opfer als Modelle der Identitätskonstruktion in Richard Powers&#x27; „The Time of Our Singing“</p>
+
+<p>Sektion I
+<br />Wassersaal der Orangerie</p>
+
+<p>14.30 - 15.40 
+<br />Sonja Front
+<br />Institute of English Cultures and Literatures, University of Silesia, Poland 
+<br />Temporality in British Quantum Fiction – an Overview</p>
+
+<p>Carlos Gámez Pérez
+<br />Department of Modern Languages and Literatures, University of Miami
+<br />Postmodern Physics in Contemporary Spanish Literature: The case of Agustín Fernández Mallo</p>
+
+<p>15.40 - 16.10
+<br />Coffee break</p>
+
+<p>16.10 - 17.20 
+<br />Nina Engelhardt 
+<br />a.r.t.e.s. Graduate School for the Humanities Cologne
+<br />From Universal Force to Fictitious Force – Gravity in Thomas Pynchon’s „Gravity’s Rainbow“</p>
+
+<p>Marta Silvera, Juani Guerra &amp; Adán Martín
+<br />Departamento de Filologia Moderna, Universidad de Las Palmas de Gran Canaria
+<br />Artphysics at work: A time-based cognitive mapping of Thomas Pynchon’s conceptual organization of entropy</p>
+
+<p>SATURDAY, 31.05.2014</p>
+
+<p>Sektion II
+<br />Musiksaal der Orangerie</p>
+
+<p>14.30 - 15.40
+<br />Laetitia Rimpau
+<br />Institut für Allgemeine und Vergleichende Literaturwissenschaft, Universität Frankfurt am Main
+<br />Wie Dichter Astronomiegeschichte erklären: Dantes „Convivio“ und Keplers „Rudolfinische Tafeln“</p>
+
+<p>Rudolf Drux
+<br />Institut für deutsche Sprache und Literatur, Universität Köln
+<br />Von der „Atomzertrümmerung“ und den „Bewegungen der Himmelskörper“. Die Kernphysik im literarischen Spiegel frühneuzeitlicher Astronomie</p>
+
+<p>15.40 - 16.10
+<br />Coffee break</p>
+
+<p>16.10 - 17.20 
+<br />Clemens Özelt
+<br />Universität Zürich, Deutsches Seminar
+<br />Die Evidenz im Blickwechsel: Galileis Dialoge als Gattungsmodell im 20. Jahrhundert</p>
+
+<p>Susanne Hartwig 
+<br />Lehrstuhl für Romanische Literaturen, Universität Passau 
+<br />Der 11. September 2001 oder Attraktoren in der Interpretation von Gegenwartsliteratur</p>
+
+<p>17.20 - 18.30
+<br />Klaus Mecke / Christine Lubkoll
+<br />Physics and Literature - Discussion on future projects</p>
+
+<p>20.00 
+<br />Conference Dinner &quot;Mein lieber Schwan&quot;</p>
+
+<p>SUNDAY, 01.06.2014</p>
+
+<p>Sektion I
+<br />Wassersaal der Orangerie</p>
+
+<p>09.00 - 11.00 
+<br />Kieran Murphy
+<br />Department of French and Italian, University of Colorado at Boulder
+<br />The Art and Science of the Electromagnetic Age</p>
+
+<p>Leonardo Colletti
+<br />Department of Physics, Trento
+<br />Meeting Husserl&#x27;s Crisis of the European Science: developing a richer science – and richer humanity-from cross-fertilization of physics with literature</p>
+
+<p>Gwen Le Cor
+<br />Département d’Études des Pays Anglophones, Université de Paris 8, Vincennes-Saint-Denis 
+<br />A poetics of catastrophe theory? : (Un)-reading Stephanie Strickland’s „costal chreods“</p>
+
+<p>Sektion II
+<br />Musiksaal der Orangerie</p>
+
+<p>09.00 - 11.00
+<br />Lukas Mairhofer
+<br />Fakultät für Physik, Universität Wien
+<br />Als Brecht in Heisenbergs Mikroskop blickte</p>
+
+<p>Angela Gencarelli 
+<br />Institut für Germanistik, Universität Bonn
+<br />Teilchenphysik und Poetik in Irmtraud Morgners Novelle „Das Seil“</p>
+
+<p>Betül Dilmac
+<br />Romanisches Seminar, Universität Freiburg 
+<br />»Le chat de Schrödinger« von Philippe Forest. ›Il était deux fois‹: Experimentelle Schreibanordnungen im Zeichen der Trauer</p>
+
+<p>11.00 - 11.30
+<br />Coffee break</p>
+
+<p>11.30 - 13.00
+<br />Matinee: Lesung Ulrike Draesner
+<br />Berlin
+<br />Aus dem Roman: Sieben Sprünge vom Rand der Welt</p>
+
+<p>13.00 - 13.30
+<br />Klaus Mecke / Antje Kley / Christine Lubkoll / Aura Heydenreich
+<br />ELINAS
+<br />Ausblick/Abschlussdiskussion</p>
+
+<p></p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/3879-Aura_Heydenreich">Aura Heydenreich</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

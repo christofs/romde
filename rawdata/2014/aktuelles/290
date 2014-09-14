@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfA: Fixxion 11 - Écopoétiques
+</h3>
+</div>
+<div class='well'>
+<p class='bottom'>
+<b>
+Frist:
+</b>
+2015-01-15
+</p>
+</div>
+<p>Écopoétiques
+<br />dirigé par Alain Romestaing, Pierre Schoentjes et Anne Simon</p>
+
+<p>L’épuisement des ressources naturelles, la pollution induite par notre consumérisme, la menace de disparition pesant sur de nombreuses espèces ont amené les écrivains à intégrer ces questionnements et à considérer différemment la nature et nos manières d’habiter le monde. Ces explorateurs des marges, dont celles du texte littéraire réputé clos sur lui-même jusqu’aux années quatre-vingt, se sont ouverts à un environnement en rapide mutation – qu’il soit sauvage, rural ou urbain – et leur arpentage relève souvent de la rêverie et du débord, de l’errance en des friches et des zones qui ne sont des « non-lieux » que pour les cadastres administratifs. Ces écrivains sont mobiles également sur le plan des genres littéraires, oscillant entre romans et essais, autobiographies, journaux et autres carnets nomades.</p>
+
+<p>Si Romain Gary ou Jean-Marie G. Le Clézio apparaissent comme des précurseurs, nombreux sont les auteurs qui depuis les années quatre-vingt font résonner la problématique. De Pierre Bergounioux qui scrute la campagne française à Éric Chevillard qui imagine la disparition des grands singes, la largeur de l’empan empêche de les citer tous. Mentionnons ces voyageurs infatigables que sont les Rolin, exprimant, non sans une pointe d’ironie, leur sympathie pour des contrées éloignées souvent symptomatiques d’un désastre mondial, Jacques Lacarrière et Pierre Patrolin traversant de leur côté la France à pied ou à la nage… Et quand Olivia Rosenthal, Isabelle Sorente ou Joy Sorman interrogent les conditions animale et humaine, Jean-Christophe Rufin et DOA thématisent l’éco-terrorisme.</p>
+
+<p>L’écriture de la nature fait aussi résonner des influences étrangères majeures : Sylvain Tesson ou Arno Bertina entrent en dialogue avec Thoreau, André Bucher s’inspire de l’école du Montana tandis que Rigoni-Stern se lit en filigrane chez de nombreux écrivains, notamment Maryline Desbiolles. La question de l’appartenance, à un lieu, au « pays », se retrouve chez de nombreux auteurs qui évitent résolument les travers du nationalisme ou du régionalisme, tels Marie Darrieussecq, Jean-Christophe Bailly ou encore Jean-Loup Trassard qui réinvente le roman de la préhistoire pour dire le bocage normand. Cet écrivain de l’agriculture qui est aussi photographe le suggère, l’interrogation écopoétique instaure volontiers un dialogue avec d’autres pratiques esthétiques : certains romans évoquent le Land Art, tandis que la ruralité observée par Marie-Hélène Lafon fait écho aux films de Raymond Depardon. Le débat d’idées autour de la préservation de la nature se développe, et des éditeurs comme Gallmeister et Wildproject rendent accessible un corpus étranger longtemps méconnu.</p>
+
+<p>L’ensemble des lieux où se pratique et se crée la langue française sont concernés. Jean-Marc Lovay et Blaise Hoffman ne se contentent plus d’évoquer la beauté des Alpes suisses, mais, à l’instar de la nature writing étasunienne, se confrontent à l’immensité de l’espace sauvage ; le Québécois Julien Gravelle fait surgir la rudesse du grand Nord tandis que le Guadeloupéen Daniel Maximin recourt à la menace d’un cyclone pour faire ressentir la puissance des éléments. Le véritable cataclysme est cependant d’origine humaine : nombreux sont les écrivains qui considèrent ainsi les conséquences et les survivances du système colonial – le Togo vu par Kossi Efoui –, qui explorent la relation à la nature dans les sociétés indigènes ou qui, tels Patrick Chamoiseau et Alain Mabanckou, associent la création romanesque à une oralité en prise sur le jaillissement du vivant.</p>
+
+<p>Avec la montée d’une conscience environnementale, il n’est plus question aujourd’hui de réduire la nature à un décor statique, à un miroir de la psychologie ou à un espace symbolique. Depuis les années quatre-vingt, le monde universitaire anglo-saxon – curieux de wilderness (USA) ou de country (GB) – a relayé la montée de l’écologie en donnant pour but à l’écocritique d’étudier l’interaction du littéraire et de l’environnement naturel. Toutefois, l’inscription de cette discipline au sein des études culturelles, la perspective souvent axiologique des analyses et un rapport à la nature historiquement différent ont freiné son développement en France.</p>
+
+<p>Pour marquer les spécificités de l’univers francophone, le terme écopoétique s’est imposé, qui met davantage l’accent, à travers l’étymologie de poiein, sur le faire littéraire. Le mot partage en outre une racine avec écologie, construit sur le terme oïkos qui désignait une maisonnée englobant tant la demeure et ses terres – y compris les animaux sauvages les investissant – que les membres de la famille voire les esclaves. Il réfère aujourd’hui à une pensée qui prend en considération l’interconnexion de tous les êtres vivants et se montre soucieuse de l’écosystème.
+<br />Cette responsabilité de l’homme envers l’environnement se traduit par des choix éthiques, politiques et esthétiques qui varient de manière importante selon que l’on considère la France métropolitaine ou les différents espaces de la francophonie. Mais les textes se retrouvent en ce qu’ils décident de participer aux débats de notre époque en se tournant vers l’avenir.</p>
+
+<p>Le numéro accueillera des contributions portant sur des œuvres littéraires faisant écho à de nombreuses problématiques : l’articulation local-global, l’expérience concrète de la sauvagerie, les stratégies littéraires permettant de dire « l’habitation » ou la nature au plus près, le rapport entre littérature et sciences naturelles, le regard nouveau porté sur les mondes et les droits des animaux, les métamorphoses des paysages, la redécouverte de la ruralité, la manière dont l’environnemental embraye sur des enjeux sociaux, la problématique des déchets, ou les dystopies de l’apocalypse environnementale. L’objectif, à travers ce numéro dédié à la pluralité des écopoétiques, est d&#x27;observer les multiples façons dont la création littéraire explore et travaille les enjeux les plus cruciaux de notre contemporanéité.</p>
+
+<p>Bibliographie
+<br />L’essentiel de la bibliographie critique est anglo-saxonne, même si par certains biais la géopoétique de Kenneth White ou de la géocritique de Michel Collot et de Bertrand Westphal rejoignent les interrogations de l’écopoétique. 
+<br />L’étude de Leo Marx est séminale (The Machine in the Garden: Technology and the Pastoral Ideal in America, Oxford, Oxford University Press, 2000 [1964]) et les travaux de Lawrence Buell fondent la discipline (The Environmental Imagination: Thoreau, Nature Writing and the Formation of American Culture, Cambridge/ London, Harvard University Press, 1995 ; ---, Writing for an Endangered World. Literature, Culture, and Environment in the U.S. and Beyond, Harvard, Harvard University Press, 2001 ; ---, The Future of Environmental Criticism: Environmental Crisis and Literary Imagination, Oxford, Blackwell Publishing, 2005).</p>
+
+<p>À côté d’articles qui débroussaillent le champ dans la littérature française de l’extrême contemporain, l’on se contente de signaler ici quelques recueils, ouvrages d’introduction et prises de position majeures : 
+<br />The Ecocriticism Reader. Landmarks in Literary Ecology, Ch. Glotfelty &amp; H. Fromm éds, Athens/ Londres, University of Georgia Press, 1996.
+<br />Écrire l’animal aujourd’hui, L. Desblache éd., Clermont-Ferrand, PU Blaise Pascal, 2006. 
+<br />Littérature et écologie. Vers une écopoétique, N. Blanc, D. Chartier &amp; Th. Pughe éds, Écologie et politique, 36, 2008.
+<br />Timothy Clark, The Cambridge Introduction to Literature and the Environment, Cambridge, Cambridge University Press, 2010. 
+<br />Roger-Pol Droit, « Chez soi ou chez les autres. Variations autour de l’oïkos », Figures de l’altérité, Roger-Pol Droit dir., Paris, Presses Universitaires de France, 2014.
+<br />Greg Garrard, Ecocriticism, New York, Routledge, 2004, &lt;The New Critical Idiom&gt;.
+<br />Terry Gifford, Pastoral, New York, Routledge, 1999, &lt;The New Critical Idiom&gt;.
+<br />Ursula K. Heise, Sense of Place and Sense of Planet: The Environmental Imagination of the Global, Oxford, Oxford University Press, 2008.
+<br />Richard Kerridge &amp; Neil Sammells, Writing the Environment. Ecocriticism and Literature, New York, Zed Books, 1998.
+<br />Anne Mairesse, Anne Simon éds, L’Esprit créateur, « Face aux bêtes / Facing Animals », 51.4, 2011.
+<br />Alain Romestaing, « Jean-Loup Trassard, ou l’éloge du lien domestique », in Jean-Loup Trassard. Une Ethnologie Poétique, D. Vaugeois et J.-Y. Casanova (dirs), Bazas, Le Temps qu’il fait, 2014. 
+<br />Pierre Schoentjes, « Littérature et environnement : écrire la nature », in Narrations d’un nouveau siècle, B. Blanckeman &amp; B. Havercroft éds, Paris, Presses Sorbonne nouvelle, 2013, p. 117-129.
+<br />---, « Texte de la nature et nature du texte : Jean-Loup Trassard et les enjeux de l’écopoétique en France », Poétique, 164, 2010, p. 477-494.
+<br />Anne Simon, « Déterritorialisations de Marie Darrieussecq », in Women and Space, Marie-Claire Barnet et Shirley Jordan (dirs), Dalhousie French Studies, 93, 2011, p. 17-26.
+<br />Alain Suberchicot, Littérature et environnement. Pour une écocritique comparée, Paris, Champion, 2012, &lt;Unichamp-Essentiel&gt;.</p>
+
+<p>Les propositions de contributions, environ 300 mots, en français ou en anglais, sont à envoyer d’ici le 15 janvier 2015 à Alain Romestaing, Pierre Schoentjes et Anne Simon. Les auteurs seront avisés de la recevabilité au début du mois de mars.
+<br />Les articles définitifs seront à remettre sur le site (Soumissions) avant le 1er juin 2015 pour évaluation par le comité de la Revue critique de fixxion française contemporaine. 
+<br />La revue accepte également des articles hors problématique du numéro.
+</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/4-Lars_Schneider">Lars Schneider</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/4-Lars_Schneider">Lars Schneider</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

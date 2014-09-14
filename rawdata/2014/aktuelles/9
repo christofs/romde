@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+Epistolari italiani e latini dal Due al Seicento: modelli, temi, esperienze ecdotiche
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Gargnano del Garda
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-06-15
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2014-09-29
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2014-10-01
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.studilefili.unimi.it/ecm/home/aggiornamenti-e-archivi/tutte-le-notizie/content/call-for-papers-epistolari-italiani-e-latini-dal-due-al-seicento-modelli-temi-esperienze-ecdotiche.0000.UNIMIDIRE-20530" target="_blank">http://www.studilefili.unimi.it/ecm/home/aggiornamenti-e-archivi/tutte-le-notizie/content/call-for-papers-epistolari-italiani-e-latini-dal-due-al-seicento-modelli-temi-esperienze-ecdotiche.0000.UNIMIDIRE-20530</a>
+</p>
+</div>
+<p>Il Dipartimento di Studi letterari, filologici e linguistici dell’Università degli Studi di Milano organizza il XVI Convegno internazionale di Letteratura italiana «Gennaro Barbarisi». Il Convegno si terrà nella consueta cornice di Palazzo Feltrinelli, a Gargnano del Garda (BS), dal 29 settembre al 1° ottobre del 2014 e avrà come tema gli Epistolari italiani e latini dal Due al Seicento: modelli, temi, esperienze ecdotiche.</p>
+
+<p>Il convegno si indirizza allo studio di epistolari completi o scambi epistolari dal Duecento al Seicento. Idealmente si pensa, con la necessaria elasticità, a tre sezioni:</p>
+
+<p>- una dedicata ai modelli di genere e ai rapporti con ambiti contigui</p>
+
+<p>- una seconda dedicata a epistolari, corrispondenze o raccolte importanti dal punto di vista storico, culturale o letterario</p>
+
+<p>- un’altra dedicata all’ecdotica, con interventi di taglio metodologico o su esperienze editoriali compiute, in corso o ancora da aprire (in questo caso le relazioni dovrebbero auspicabilmente presentare lo stato dell’arte)</p>
+
+<p>L’obiettivo è realizzare un incontro che, nella tradizione dei nostri convegni, &#x27;faccia il punto&#x27;, abbinando la prospettiva metodologica della riflessione teorica a quella pratica e operativa delle ricerche in corso.</p>
+
+<p>Il convegno è aperto alla considerazione di epistolari preumanistici e umanistici in latino e in greco, nella prospettiva dell’osmosi culturale con la tradizione volgare.</p>
+
+<p>Le proposte dovranno pervenire sotto forma di abstract (5000 caratteri max) entro il 15 giugno 2014.</p>
+
+<p>Si prega di inviare il file contenente l’abstract (in formato txt, doc, docx, rtf, odt o pdf) all’indirizzo di posta elettronica proposals_seminari.barbarisi@unimi.it.</p>
+
+<p>Eine Meldung von:  Giovanni Ferroni</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/4-Lars_Schneider">Lars Schneider</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/4-Lars_Schneider">Lars Schneider</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

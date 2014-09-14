@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>&quot;Indignez-vous!&quot; Geschichte schreiben im 21. Jahrhundert (Veranstaltungsprojekt)</h2>
+<h3></h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Freitag, 01. Februar 2013</dd>
+<dt>Projektende</dt>
+<dd>Samstag, 02. Februar 2013</dd>
+<dt>Status</dt>
+<dd>abgeschlossen</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://occupyhistory21.wordpress.com/" target="_blank">http://occupyhistory21.wordpress.com/</a></dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Italienisch, Portugiesisch, Spanisch, Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Historiographie, Geschichte
+</dd>
+</dl>
+<h4>Aktiv beteiligte Person(en)</h4>
+<p>(z.B. Kooperation, Mitarbeiter, Fellows)</p>
+<a href="/pers/1375-Jasmin_Marjam_Rezai_Dubiel" class="tag multiline" popup="true">Jasmin Marjam Rezai Dubiel</a>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><p>“Indignez-vous!” – Geschichte schreiben im 21. Jahrhundert<br />
+01.-02.02.2013 Tagung an der Johannes Gutenberg-Universität Mainz</p>
+<p>Die weltweite Krise der Finanzmärkte hat nicht nur die Wirtschaft erschüttert, sondern setzte in weiten Teilen der Welt neue gesellschaftliche Dynamiken frei. Das 21. Jahrhundert beginnt mit einem entscheidenden Diskurswandel: Die kapitalistische Gesellschaftsordnung sowie säkularisierte Heilsentwürfe eines von der Web 2.0 Generation geprägten Neolibera­lismus werden in Frage gestellt. Beispielhaft zeigt das die Occupy Wallstreet Bewegung in New York. Beinahe zur gleichen Zeit fanden in der arabischen Welt grundsätzliche Veränderungen der politischen Landschaft statt. Von dem „Ende der Geschichte“, wie es Francis Fukuyama gegen Ende des Kalten Kriegs postulierte, kann nicht länger die Rede sein. Der amerikanische Autor und Aktivist der Occupy-Bewegung, Benjamin Kunkel schreibt:</p>
+<p><em>Unable to imagine the past except in the form of costume dramas or to think of the fu­ture except in terms of far-off collapse, our era has suffered from a blocked political imagination. For twenty years we flattered or rued our condition as the end of history. But present-day civilization reflects arrangements exceptional in human history—and perhaps equally fragile.</em> (n+1, 2011) <br />
+&#8594; <a href="http://nplusonemag.com/twilight-of-the-fossils" target="_blank">http://nplusonemag.com/twilight-of-the-fossils</a></p>
+<p>Ausgehend von der Annahme einer sich gegenwärtig immer deutlicher abzeichnenden Zäsur, wie Kunkel sie hier formuliert, möchten wir der Frage nachgehen, welche Konsequenzen die in verschiedenen Nationalliteraturen zu konstatierende intellektuelle Neubewertung der Gegenwart bei der literarischen Auseinandersetzung mit Geschichte nach sich ziehen. Das literarische Erzählen von Ge­schichte kann, indem es von der Schrift der Sieger abweicht, als andere Geschichtsschrei­bung angesehen werden. Dem Begriff Geschichte schreiben ist ein doppelter Wortsinn inhä­rent, denn dem Akt des selektierenden und ordnenden Erzählens wohnt immer auch ein Moment der Konstruktion von Vergangenheit inne. Durch Interpretation und Neubewertung historischer Ereignisse wird die eigene Gegenwart in historischen Romanen oftmals in Form innovativer Erzählweisen gedeutet und mitbestimmt.</p>
+<p>Mögliche Panels (Kontrafaktisches Erzählen, Appellfunktion der Vergangenheit, Historienkulisse vs. engagierte Literatur, Revolution als Zäsur) stehen für die narrativen Tendenzen der Gegenwartsliteratur und bilden gleichzeitig einen potenziellen Rahmen für die verschiedenen Vorträge. Die Tagung richtet sich insbesondere an den wissenschaftlichen Nachwuchs. Gerade weil es sich um ein weltweit auftretendes Phänomen handelt, ist das Projekt als internationales und dezidiert interkulturelles Forum ge­dacht.</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/1375-Jasmin_Marjam_Rezai_Dubiel" class="tag multiline" popup="true">Jasmin Marjam Rezai Dubiel</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Mittwoch, 13. Juni 2012, 17:32 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 13. Juni 2012, 17:32 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>TIC, médias et apprentissages des langues. Des outils de médiation aux compétences individuelles (Sonstiges Projekt)</h2>
+<h3>CFP revue &quot;Synergies Pays germanophones&quot;</h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Mittwoch, 03. Juli 2013</dd>
+<dt>Projektende</dt>
+<dd>Mittwoch, 31. Juli 2013</dd>
+<dt>Status</dt>
+<dd>abgeschlossen</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.synergies.avinus.de/" target="_blank">http://www.synergies.avinus.de/</a></dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Sprachwissenschaft, Medien-/Kulturwissenschaft, Fachdidaktik
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Medien, Sprachunterricht, Kompetenzen
+</dd>
+</dl>
+<h4>Aktiv beteiligte Person(en)</h4>
+<p>(z.B. Kooperation, Mitarbeiter, Fellows)</p>
+<span class='tag multiline'>Hans W. Giessen</span>
+<span class='tag multiline'>Virginie Viallon</span>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><p>Groupe d’Etudes et de Recherches pour le Français Langue Internationale</p>
+<h2>Synergies Pays germanophones <br />
+Revue du <span class="caps">GERFLINT</span></h2>
+<p><a href="http://gerflint.eu/publications/synergies-pays-germanophones.html" target="_blank">http://gerflint.eu/publications/synergies-pays-germanophones.html</a><br />
+<a href="http://www.synergies.avinus.de" target="_blank">http://www.synergies.avinus.de</a></p>
+<p>Synergies Pays Germanophones est une revue francophone interdisciplinaire de recherche en <br />
+sciences humaines, particulièrement ouverte aux études portant sur l’ensemble des languescultures. Soucieuse de défendre le patrimoine culturel et linguistique de l’humanité, elle se place <br />
+dans une optique d’écologie linguistique. Sa vocation est de mettre en œuvre dans l’espace <br />
+germanophone le Programme Mondial de Diffusion Scientifique Francophone en Réseau <span class="caps">GERFLINT</span>, <br />
+Groupe d’Etudes et de Recherches pour le Français Langue Internationale. Comme toutes les revues <br />
+du <span class="caps">GERFLINT</span>, elle poursuit les objectifs suivants : défense de la recherche scientifique francophone <br />
+dans l’ensemble des sciences humaines, promotion du dialogue entre les disciplines, les langues et <br />
+les cultures, ouverture sur l’ensemble de la communauté scientifique, aide aux jeunes chercheurs, <br />
+adoption d’une large couverture disciplinaire, veille sur la qualité scientifique des travaux.</p>
+<h2><span class="caps">APPEL</span> À <span class="caps">CONTRIBUTIONS</span> <span class="caps">POUR</span> LE Nº7/2014</h2>
+<p>Thème : <span class="caps">TIC</span>, médias et apprentissages des langues : des outils de médiation aux compétences <br />
+individuelles</p>
+<p>Numéro coordonné par Hans W. Giessen et Virginie Viallon</p>
+<p>Dix ans après le colloque de Sarrebruck « Des langues et des médias », il est temps de faire le point sur les questions didactiques de l’usage des médias dans l’apprentissage : tant du côté des usagers – apprenants et enseignants, internautes de tous âges – que du côté des médias – de plus en plus façonnés par leur public, car les médias ne cessent d’évoluer et la société avec eux.</p>
+<p>Si l’on s’accorde à dire que développer une « compétence plurilingue et pluriculturelle » est l’objectif de <br />
+référence en didactique des langues, comment y parvenir aujourd’hui avec la TV et internet, alors que <br />
+formateurs/enseignants et apprenants ont dorénavant à leur disposition de nouveaux dispositifs d’autoapprentissage au moyen des environnements numériques ? On peut se demander dans quelle mesure la <br />
+distinction traditionnelle entre matériel didactique versus matériel authentique est encore pertinente. En <br />
+effet, il est facile grâce au câble et au satellite de choisir et de recevoir des émissions dans « sa » langue ou en langue étrangère en provenance des chaines de TV européennes. De plus, chacun, en tant que <br />
+téléspectateur/usager, a accès à l’information « en direct » des médias étrangers. Différentes questions <br />
+se posent, d’ordre linguistique, mais aussi social, car chaque usager agit et interagit à son niveau avec les médias (J. Jouet).</p>
+<p>On parlait dans les années 90 du « rapprochement » entre médias et lieu d’apprentissage. Quelles en <br />
+furent les conséquences ? Qu’en est-il de l’évolution des médias électroniques et de leurs contenus, que <br />
+deviennent les Cédéroms didactiques (C. Kellner) ? Que dire des langues utilisées sur Internet ? Quel rôle <br />
+joue la dimension visuelle ? Quelle place est donnée à la dimension culturelle : peut-on parler d’une <br />
+uniformisation culturelle (V. Viallon) ? A propos des sites internet, peut-on constater une tendance à la <br />
+globalisation des messages ou plutôt à la localisation ?</p>
+<p>Par ailleurs, des études (M. Workman, Hans W. Giessen) ont montré que l’image télévisuelle était soumise <br />
+à un autre usage selon qu’elle était diffusée sur un écran de télé ou sur un outil multimédia et qu’elle <br />
+était perçue différemment par le spectateur/usager. Cela conduit, d’une part, à la question de la <br />
+production du matériel pour l’apprentissage des langues dans un marché en pleine expansion, mais aussi à <br />
+la question de la qualité des contenus. D’autre part, c’est le rôle même des réseaux sociaux qui doit être <br />
+défini : quelle place donner aux blogs, aux communautés d’apprentissage, à Facebook, etc. Enfin, on peut s’interroger sur la notion d’apprentissage médiatisé (T. Lancien). L’interactivité, loin <br />
+d’être seulement technique, est basée sur l’activité et la coopération de l’apprenant. L’apprenant est-il <br />
+seul face au message médiatique ? Est-il capable de réaliser sa « construction du savoir » ? Cette évolution a également des conséquences au point de vue communicatif : la communication en face à face est-elle sur le point d’être remplacée par une communication médiatée ? Une des forces du numérique n’est-elle <br />
+pas d’être en liaison étroite avec d’autres formes d’apprentissage ?</p>
+<p>Les modalités d’apprentissage ont évolué et sont devenues flexibles. On reconnaît également que les <br />
+médias favorisent le « life-long Learning », mais l’offre médiatique prend-elle en compte ces nouveaux <br />
+contextes ? Peu d’études analysent les conséquences de ces changements concernant aussi bien l’attitude <br />
+des usagers que celle des didacticiens.</p>
+<p>- L’objectif de ce numéro 7 de Synergies Pays germanophones, est, d’un côté, de dresser un état <br />
+des lieux de la recherche sur les <span class="caps">TICE</span> et leur application dans l’enseignement/apprentissage des <br />
+langues-cultures et, d’un autre côté, d’apporter des pistes de réflexion sur les moyens d’optimiser <br />
+l’apport numérique à la fois pour les enseignants et les apprenants de langue. Enfin, nous <br />
+souhaiterions présenter quelques exemples pédagogiques issus de champs d’expérimentation divers <br />
+qui se sont avérés concluants et prometteurs dans ce domaine. Voici quelques axes et sujets qui <br />
+pourraient être traités dans ce numéro :</p>
+<p>- Les recherches relatives à l’intégration du multimédia en didactique des langues-cultures relèvent <br />
+de l’interdisciplinarité et peuvent être issues de la linguistique, de la sémiotique, des sciences de la <br />
+communication, de la sociologie.</p>
+<p>- De quelle manière les enseignants peuvent-ils articuler les outils numériques et les apprentissages <br />
+langagiers ?</p>
+<p>- Dans quelle mesure l’utilisation du numérique développe-t-elle de nouvelles stratégies <br />
+d’apprentissage et l’autonomie de l’apprenant ?</p>
+<p>- Les avantages et/ou les inconvénients des manuels numériques pour l’apprentissage des langues.</p>
+<p>- L’apport des <span class="caps">TICE</span> peut-il favoriser les approches plurilingues dans le cadre de la didactique <br />
+intégrée des langues ? Peut-il également aider à développer chez les apprenants une compétence <br />
+interculturelle et transculturelle ?</p>
+<p>- La place de l’utilisation du numérique dans les approches actionnelles : quelles compétences sont <br />
+développées ?</p>
+<p>- Quelles sont les spécificités et potentialités des réseaux sociaux ? Quelles pratiques pédagogiques <br />
+peuvent être prises en compte pour renforcer les processus d’enseignement/apprentissage ?</p>
+<p>- L&#8217;ensemble de ces questions n&#8217;est donné qu&#8217;à titre indicatif et non exhaustif. Ce thème peut sans <br />
+doute appeler d&#8217;autres analyses. Dans l&#8217;optique du dépassement des frontières disciplinaires, cet <br />
+appel à contribution s&#8217;adresse aux chercheurs évoluant dans les disciplines des sciences humaines.</p>
+<p>- Nous accueillerons avec plaisir toute proposition susceptible de prolonger et de développer les <br />
+réflexions déjà amorcées dans les équipes et laboratoires de recherche.</p>
+<p>- Les propositions d’article, puis les articles sont à envoyer à la rédactrice en chef, Florence <br />
+Windmüller : <a href="mailto:Flohwin@gmx.net" target="_blank">Flohwin@gmx.net</a> / <a href="mailto:Florence.Windmueller@ohm-hochschule.de" target="_blank">Florence.Windmueller@ohm-hochschule.de</a></p>
+<p>- La politique éditoriale de la revue est à consulter en ligne :<br />
+<a href="http://gerflint.eu/publications/synergies-pays-germanophones/politique-editoriale.html" target="_blank">http://gerflint.eu/publications/synergies-pays-germanophones/politique-editoriale.html</a><br />
+<a href="http://www.synergies.avinus.de/" target="_blank">http://www.synergies.avinus.de/</a></p>
+<p>- Les propositions d’article devront comporter une bibliographie et une brève présentation du profil <br />
+professionnel de l’auteur.- Les articles sont à rédiger de préférence en langue française. Les articles non francophones sont acceptés dans la limite de l&#8217;espace éditorial disponible (voir consigne aux auteurs nº2)</p>
+<p>- Pour des raisons de regroupements thématiques et de pagination, une partie des articles sera <br />
+publiée en version papier, une autre en version électronique sur le site de la revue. Néanmoins, un <br />
+résumé des articles électroniques sera publié dans la revue papier.</p>
+<p>- Dates à retenir :<br />
+Mai 2013 Appel à contributions<br />
+Mai &#8211; 10 juillet 2013 Remise des résumés<br />
+10 juillet – 31 juillet Évaluation des propositions d’articles<br />
+1er août – 30 Novembre 2013 Remise des articles<br />
+1er décembre 2013 – 31 janvier 2014 Évaluation des articles<br />
+1er février – 1er mars 2014 modifications des articles<br />
+1er mars – 31 mars 2014 évaluation des articles ayant dû être modifiés<br />
+1er avril – 30 juin 2014 Mise en page<br />
+Septembre – octobre 2014 Sortie du numéro</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p><a href="http://gerflint.eu/images/stories/germanophones/spg%20%207.%202014%20%20appelcontributions.pdf" target="_blank">http://gerflint.eu/images/stories/germanophones/spg%20%207.%202014%20%20appelcontributions.pdf</a></p></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/3278-Martin_Stegu" class="tag multiline" popup="true">Martin Stegu</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Mittwoch, 03. Juli 2013, 22:16 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 03. Juli 2013, 22:16 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

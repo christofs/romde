@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/2226-Zeitschrift_fUer_romanische_Philologie' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Zeitschrift für romanische Philologie (Zeitschriftenheft)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='2226'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<span class='tag multiline'>Günter Holtus</span>
+<span class='tag multiline'>Wolfgang Schweickard</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+Dezember
+2013
+</dd>
+<dt>Jahrgang</dt>
+<dd>129</dd>
+<dt>Nummer</dt>
+<dd>4</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.degruyter.com/view/j/zrph" target="_blank">http://www.degruyter.com/view/j/zrph</a></dd>
+<dt>ISSN</dt>
+<dd>0049-8661</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Sprachwissenschaft
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Der Themenkreis der viermal jährlich erscheinenden Zeitschrift für romanische Philologie umfasst auf literaturhistorischem Gebiet die romanische Literatur bis zur Renaissance sowie die gesamte romanistische und, in vertretbarem Rahmen, die darauf bezogene allgemeine Sprachwissenschaft.</p>
+<p><span class="caps">VERANTWORTLICHE</span> <span class="caps">HERAUSGEBER</span><br />
+Prof. Dr. Günter Holtus, Göttingen<br />
+Prof. Dr. Dr. h.c. Wolfgang Schweickard, Saarbrücken</p>
+<p><span class="caps">WISSENSCHAFTLICHER</span> <span class="caps">BEIRAT</span><br />
+Éva Buchi, Nancy<br />
+Daron Burrows, Manchester<br />
+Franz Lebsanft, Bonn<br />
+Eugen Munteanu, Iaşi<br />
+Fernando Sánchez Miret, Salamanca<br />
+Luca Serianni, Rom<br />
+David Trotter, Aberystwyth<br />
+Friedrich Wolfzettel, Frankfurt am Main</p>
+<p><span class="caps">REDAKTION</span><br />
+Christian Schweizer, Saarbrücken</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>AUFSÄTZE</p>
+<p><span class="caps">STEFAN</span> <span class="caps">SCHNEIDER</span>, Parenthetische Teilsätze in mittelfranzösischen Texten des 14. und 15. Jahrhunderts</p>
+<p>En ce qui concerne l’origine et le développement des clauses parenthétiques, il y a pour l’essentiel trois scénarios possibles: les clauses subordonnantes, les clauses subordonnées et les phrases indépendantes. Dans ce qui suit, ces scénarios sont examinés à la lumière des données du moyen français.</p>
+<p><span class="caps">LUCIANO</span> <span class="caps">ROCCHI</span>, Gli italianismi nei testi turchi in trascrizione. Un’indagine storico-lessicografica</p>
+<p>Several studies on Italian elements in Turkish have been published so far, the first ones dating back to the end of the 19th century. Most of them, however, simply present lists of words, possibly accompanied by some etymological discussion, without considering the historical dimension. This paper, instead, aims to research on Italianisms in Turkish from the historical-lexicographical viewpoint, taking into account the category of the so-called transcription texts, namely texts written in scripts different from the traditional Arabic-Ottoman one. Such texts not only usually allow a better examination of phonetic features of words but also often supply invaluable lexical data. Our research is based upon the material provided by 32 Turkish texts written in Latin script, ranging from the 16th to the 18th century. The structure of the entries is as follows: the Italian etymon, the Turkish data in chronological order (each with its date of occurrence) and, if opportune, a short commentary.</p>
+<p><span class="caps">FORSCHUNGSBERICHT</span></p>
+<p><span class="caps">JAN</span> <span class="caps">REINHARDT</span>, Forschungsbericht zum Mittellatein (2001–2012)</p>
+<p><span class="caps">BESPRECHUNGEN</span></p>
+<p>Ulrike Hollender, Erfolgreich recherchieren – Romanistik / Claudia Meindl, Methodik für Linguisten. Eine Einführung in Statistik und Versuchsplanung / Björn Rothstein, Wissenschaftliches Arbeiten für Linguisten (<span class="caps">ANNETTE</span> <span class="caps">GERSTENBERG</span>)</p>
+<p>Peter Koch / Wulf Oesterreicher, Gesprochene Sprache in der Romania. Französisch, Italienisch, Spanisch, 2., aktualisierte und erweiterte Auflage (<span class="caps">KRISTINA</span> <span class="caps">BEDIJS</span>)</p>
+<p>Boëce de Confort remanié, Édition critique par Glynnis M. Cropp (<span class="caps">DAVID</span> <span class="caps">TROTTER</span>)</p>
+<p>Anonimo Padovano, L’Entrée d’Espagne. Rolando da Pamplona all’Oriente, a cura di Marco Infurna (<span class="caps">LIDIA</span> <span class="caps">BARTOLUCCI</span>)</p>
+<p>Les comptes des consuls de Montferrand (1347–1373), édités par R. Anthony Lodge (<span class="caps">DAVID</span> <span class="caps">TROTTER</span>)</p>
+<p>Stefan Barme, Gesprochenes Französisch (<span class="caps">KRISTINA</span> <span class="caps">BEDIJS</span>)</p>
+<p>Anika Falkert, Le français acadien des Îles-de-la-Madeleine. Étude de la variation phonétique (<span class="caps">KRISTIN</span> <span class="caps">REINKE</span>)</p>
+<p>Alfred Toth, Historische Lautlehre der Mundarten von La Plié da Fodom (Pieve di Livinallongo, Buchenstein), Laste, Rocca Piétore, Col (Colle Santa Lucia), Selva di Cadore und Alleghe (<span class="caps">ROLAND</span> <span class="caps">BAUER</span>)</p>
+<p>Şeapte taine a besearecii, Iaşi, 1644, Ediţie critică, notă asupra ediţiei şi studiu filologico-lingvistic de Iulia Mazilu, cuvânt înainte de Eugen Munteanu (<span class="caps">IOSIF</span> CAMARĂ)</p>
+<p>SAMMELBÄNDE</p>
+<p>Ulrike Haß (ed.), Große Lexika und Wörterbücher Europas. Europäische Enzyklopädien und Wörterbücher in historischen Porträts (<span class="caps">CHRISTIAN</span> <span class="caps">SCHMITT</span>)</p>
+<p>Cristinel Munteanu, Lingvistica integrală coşeriană. Teorie, aplicaţii, interviuri (<span class="caps">ADRIANA</span> <span class="caps">ROBU</span>)</p>
+<p>Frédéric Duval, La «logique» du sens. Autour des propositions de Robert Martin (<span class="caps">OLGA</span> <span class="caps">INKOVA</span>)</p>
+<p>Martin Maiden / John Charles Smith / Maria Goldbach / Marc-Olivier Hinzelin (edd.), Morphological Autonomy Perspectives from Romance Inflectional Morphology (<span class="caps">MIHAELA</span> <span class="caps">MARCHIS</span>)</p>
+<p>Zrinka Stahuljak / Virginie Greene / Sarah Kay / Sharon Kinoshita / Peggy McCracken, Thinking Through Chrétien de Troyes (<span class="caps">FRANK</span> <span class="caps">BRANDSMA</span>)</p>
+<p>Jo McCormack / Murray Pratt / Alistair Rolls (edd.), Hexagonal Variations. Diversity, Plurality and Reinvention in Contemporary France (<span class="caps">KRISTINA</span> <span class="caps">BEDIJS</span>)</p>
+<p>Sylvain Detey / Jacques Durand /Bernard Laks / Chantal Lyche (edd.), Les variétés du français parlé dans l’espace francophone. Ressources pour l’enseignement (<span class="caps">BERNHARD</span> PÖLL)</p>
+<p>Béatrice Lamiroy (ed.), Les expressions verbales figées de la francophonie. Belgique, France, Québec et Suisse (<span class="caps">JOACHIM</span> <span class="caps">LENGERT</span>)</p>
+<p>Óscar Loureda Lamas / Esperanza Acín Villa (edd.), Los estudios sobre marcadores del discurso en español, hoy (JÖRN <span class="caps">ALBRECHT</span>)</p>
+<p>Yvette Bürki / Carsten Sinner (edd.), Tiempo y espacio y relaciones espacio-temporales en judeoespañol (<span class="caps">JOHANNES</span> <span class="caps">KRAMER</span>)</p>
+<p><span class="caps">TAGUNGSAKTEN</span></p>
+<p>Franz Lebsanft / Monika Wingender (edd.), Die Sprachpolitik des Europarats. Die «Europäische Charta der Regional- oder Minderheitensprachen» aus linguistischer und juristischer Sicht (<span class="caps">WOLFGANG</span> <span class="caps">DAHMEN</span>)</p>
+<p>Patricia Victorin (ed.), Lire les textes médiévaux aujourd’hui. Historicité, actualisation et hypertextualité (<span class="caps">DAVID</span> <span class="caps">TROTTER</span>)</p>
+<p>Le recueil au Moyen Âge. Le Moyen Âge central, Sous la direction de Yasmina Foehr-Janssens &amp; Olivier Collet // Le recueil au Moyen Âge. La fin du Moyen Âge, Sous la direction de Tania Van Hemelryck &amp; de Stefania Marzano, avec la collaboration d’Alexandra Dignef et de Marie-Madeleine Deproost (<span class="caps">RICHARD</span> <span class="caps">TRACHSLER</span>)</p>
+<p>Catherine Croizy-Naquet / Laurence Harf-Lancner / Michelle Szkilnik (edd.), «faire court». L’esthétique de la brièveté dans la littérature du Moyen Âge (<span class="caps">FRIEDRICH</span> <span class="caps">WOLFZETTEL</span>)</p>
+<p>Mettre en prose aux XIVe-XVIe siècles, Sous la direction de Maria Colombo Timelli, Barbara Ferrari et Anne Schoysman, avec la collaboration d’Irene Finotti (<span class="caps">PHILIPPE</span> MÉNARD)</p>
+<p>Ulrike Schneider / Anita Traninger (edd.), Fiktionen des Faktischen in der Renaissance (<span class="caps">REINIER</span> <span class="caps">LEUSHUIS</span>)</p>
+<p>Levente Seláf / Patrizia Noel Aziz Hanna / Joost van Driel (edd.), Formes strophiques simples / Simple Strophic Patterns (<span class="caps">RAYMUND</span> <span class="caps">WILHELM</span>)</p>
+<p>Sarah Dessì Schmidt / Jochen Hafner / Sabine Heinemann (edd.), Koineisierung und Standardisierung in der Romania (<span class="caps">JUDITH</span> <span class="caps">VISSER</span>)</p>
+<p>Barbara Wehr / Frédéric Nicolosi (edd.), Pragmatique historique et syntaxe / Historische Pragmatik und Syntax. Actes de la section du même nom du XXXIe Romanistentag allemand / Akten der gleichnamigen Sektion des <span class="caps">XXXI</span>. Deutschen Romanistentags (Bonn, 27. 9. – 1. 10. 2009) (<span class="caps">HEINER</span> BÖHMER)</p>
+<p>Martin G. Becker / Eva-Maria Remberger (edd.), Modality and Mood in Romance. Modal interpretation, mood selection, and mood alternation (<span class="caps">KLAUS</span> <span class="caps">HUNNIUS</span>)</p>
+<p>Christine Felbeck / Claudia Hammerschmidt / Andre Klump / Johannes Kramer (edd.), America Romana. Perspektiven der Forschung (<span class="caps">STEFAN</span> <span class="caps">RUHSTALLER</span>)</p>
+<p>Kristina Bedijs / Karoline Henriette Heyder (edd.), Sprache und Personen im Web 2.0. Linguistische Perspektiven auf YouTube, SchülerVZ &amp; Co. (<span class="caps">TILMAN</span> SCHRÖDER)</p>
+<p>Le «Livre de saint Jacques» et la tradition du «Pseudo-Turpin». Sacralité et littérature, sous la direction de Jean-Claude Vallecalle (<span class="caps">DOROTHEA</span> <span class="caps">KULLMANN</span>)</p>
+<p>Mathilde Levesque / Olivier Pédeflous (edd.), L’emphase: «copia» ou «brevitas»? (XVIe–XVIIe siècles) (<span class="caps">EUGEEN</span> <span class="caps">ROEGIEST</span>)</p>
+<p>La satire dans tous ses états. Le «meslange satyricque» à la Renaissance française, Études réunies par Bernd Renner (<span class="caps">MARIE</span>-<span class="caps">CLAIRE</span> <span class="caps">THOMINE</span>-<span class="caps">BICHARD</span>)</p>
+<p>Froissart à la cour de Béarn. L’écrivain, les arts et le pouvoir, sous la direction de Valérie Fasseur (<span class="caps">MARIE</span>-JOSÉ <span class="caps">HEIJKANT</span>)</p>
+<p>Bernard Combettes / Céline Guillot / Evelyne Oppermann-Marsaux / Sophie Prévost / Amalia Rodríguez Somolinos (edd.), Le changement en français. Études de linguistique diachronique (<span class="caps">WENDY</span> <span class="caps">AYRES</span>-<span class="caps">BENNETT</span>)</p>
+<p>Langue commune et changements de normes, Études réunies et éditées par Sonia Branca-Rosoff / Jean-Marie Fournier / Yana Grinshpun / Anne Régent-Susini (<span class="caps">CHRISTIAN</span> <span class="caps">SCHMITT</span>)</p>
+<p>Sebastian Neumeister (ed.), Los conceptos de Gracián. Tercer Coloquio Internacional sobre Baltasar Gracián en ocasión de los 350 años de su muerte (Berlín, 27–29 de noviembre de 2008) (<span class="caps">JUTTA</span> <span class="caps">WEISER</span>)</p>
+<p>Victoriano Gaviño Rodríguez / Fernando Durán López (edd.), Gramática, canon e historia literaria. Estudios de filología española entre 1750 y 1850 (<span class="caps">KLAUS</span>-<span class="caps">DIETER</span> <span class="caps">ERTLER</span>)</p>
+<p>Catalina Fuentes Rodríguez / Esperanza Alcaide Lara / Ester Brenes Peña (edd.), Aproximaciones a la (des)cortesía verbal en español (<span class="caps">GUDRUN</span> <span class="caps">HELD</span>)</p>
+<p>Winfried Busse / Michael Studemund-Halévy (edd.), Lexicología y lexicografía judeoespañolas (<span class="caps">JOHANNES</span> <span class="caps">KRAMER</span>)</p>
+<p>Rita Unfer Lukoschik / Michael Dallapiazza (edd.), La ricezione di Dante Alighieri: impulsi e tensioni. Atti del convegno internazionale all’Università di Urbino, 26 e 27 maggio 2010 (<span class="caps">FRANZISKA</span> <span class="caps">MEIER</span>)</p>
+<p>Itinerari salvioniani. Per Carlo Salvioni nel centocinquantenario della nascita, a cura di Michele Loporcaro (<span class="caps">SERGIO</span> <span class="caps">LUBELLO</span>)</p>
+<p>Elisabetta Mauroni / Mario Piotti (edd.), L’italiano televisivo. 1976–2006. Atti del Convegno Milano, 15–16 giugno 2009 (<span class="caps">KRISTINA</span> <span class="caps">BEDIJS</span>)</p>
+<p>Roberta D’Alessandro / Adam Ledgeway / Ian Roberts (edd.), Syntactic Variation. The Dialects of Italy (<span class="caps">TANJA</span> <span class="caps">KUPISCH</span> / <span class="caps">MARC</span>-<span class="caps">OLIVIER</span> <span class="caps">HINZELIN</span>)</p>
+<p>Theodor Rifesser / Paul Videsott (edd.), L ladin tl sistem formatif / Das Ladinische im Bildungssystem / Il ladino nel sistema formativo (<span class="caps">JOHANNES</span> <span class="caps">KRAMER</span>)</p>
+<p><span class="caps">FESTSCHRIFTEN</span></p>
+<p>Injoo Choi-Jonin / Marc Duval / Olivier Soutet (edd.), Typologie et comparatisme. Hommages offerts à Alain Lemaréchal (<span class="caps">ALEXANDRA</span> <span class="caps">MESSALTI</span>)</p>
+<p>Dany Amiot / Walter De Mulder / Estelle Moline / Dejan Stosic (edd.), Ars Grammatica. Hommages à Nelly Flaux (<span class="caps">CHRISTIAN</span> <span class="caps">SCHMITT</span>)</p>
+<p>Catherine M. Jones / Logan E. Whalen (edd.), «Li Premerains vers». Essays in Honor of Keith Busby (<span class="caps">DARON</span> <span class="caps">BURROWS</span>)</p>
+<p>Homenaje al Profesor Joaquín Hernández Serna (<span class="caps">EDUARDO</span> <span class="caps">BLASCO</span> <span class="caps">FERRER</span>)</p>
+<p>Cornelia Döll / Sybille Große / Christine Hundt / Axel Schönberger (edd.), De arte grammatica. Festschrift für Eberhard Gärtner zu seinem 65. Geburtstag (<span class="caps">EDUARDO</span> <span class="caps">BLASCO</span> <span class="caps">FERRER</span>)</p>
+<p>Ladinometria. Festschrift für Hans Goebl zum 65. Geburtstag / Miscellanea per Hans Goebl per il 65° compleanno / Publicazion en onour de Hans Goebl en gaujion de si 65 agn, edd. Gabriele Blaikner-Hohenwart / Evelyn Bortolotti / Rita Franceschini / Emese Lörincz / Leander Moroder / Gerda Videsott / Paul Videsott (<span class="caps">PAOLA</span> BENINCÀ / <span class="caps">JAN</span> <span class="caps">CASALICCHIO</span>)</p>
+<p><span class="caps">ZEITSCHRIFTEN</span></p>
+<p>Travaux de Linguistique 59 (2009) (Themenheft: Architecture δια et variabilité en langue, ed. Rika Van Deyck) (<span class="caps">REINHARD</span> <span class="caps">KIESLER</span>)</p>
+<p>Zeitschrift für Kulturwissenschaften Heft 2 (2012) (Themenheft: Übersetzungen, edd. Birgit Wagner / Christina Lutter / Helmut Lethen) (<span class="caps">MARIA</span> <span class="caps">HEGNER</span>)</p>
+<p>Carte di viaggio. Studi di lingua e letteratura italiana 4 (2011) (Themenheft: Scandinavian Grand Tour. Il lontano nord visto dal sud dell’Europa, edd. Marco Gargiulo / Margareth Hagen) (<span class="caps">WOLFGANG</span> <span class="caps">SCHWEICKARD</span>)</p>
+<p><span class="caps">BIBLIOGRAPHIEN</span></p>
+<p>Joseph T. Snow, The poetry of Alfonso X. An annotated Critical Bibliography (1278–2010) (<span class="caps">HANS</span>-J. <span class="caps">NIEDEREHE</span>)</p>
+<p>Miguel Ángel Esparza Torres / Hans-Josef Niederehe, Bibliografía cronológica de la lingüística, la gramática y la lexicografía del español (<span class="caps">BICRES</span>), vol. 4: Desde el año 1801 hasta el año 1860 (<span class="caps">STEFAN</span> <span class="caps">RUHSTALLER</span>)</p>
+<p>Paul Videsott, Rätoromanische Bibliographie / Bibliografia retoromanza 1729–2010 (<span class="caps">JOHANNES</span> <span class="caps">KRAMER</span>)</p>
+<p><span class="caps">KURZANZEIGEN</span></p>
+<p>Andreas Sohn / Jacques Verger (edd.), Die universitären Kollegien im Europa des Mittelalters und der Renaissance / Les collèges universitaires en Europe au Moyen Âge et à la Renaissance (<span class="caps">ANNETTE</span> <span class="caps">GERSTENBERG</span>)</p>
+<p>Georg Strack / Julia Knödler (edd.), Rhetorik in Mittelalter und Renaissance. Konzepte – Praxis – Diversität (<span class="caps">GERRIT</span> <span class="caps">HIMMELSBACH</span>)</p>
+<p>Johannes Müller-Lancé, Latein für Romanisten. Ein Lehr- und Arbeitsbuch, 2., aktualisierte Auflage (<span class="caps">WOLFGANG</span> <span class="caps">SCHWEICKARD</span>)</p>
+<p>Ti Alkire / Carol Rosen, Romance Languages. A Historical Introduction (<span class="caps">WOLFGANG</span> <span class="caps">SCHWEICKARD</span>)</p>
+<p>The Birth of Romance in England. The «Romance of Horn», The «Folie Tristan», The «Lai of Havloc», and «Amis and Amilum»: Four Twelfth-Century Romances in the French of England, Translated and Introduced by Judith Weiss (<span class="caps">DAVID</span> <span class="caps">TROTTER</span>)</p>
+<p>Étienne Vaucheret, Brantôme mémorialiste et conteur (<span class="caps">HEIDI</span> <span class="caps">MAREK</span>)</p>
+<p>Horst Geckeler / Wolf Dietrich, Einführung in die französische Sprachwissenschaft. Ein Lehr- und Arbeitsbuch, 5., neu bearbeitete und erweiterte Auflage (<span class="caps">WOLFGANG</span> <span class="caps">SCHWEICKARD</span>)</p>
+<p>Bíblia del segle <span class="caps">XIV</span>. Primer i segon llibres dels Reis, Transcripció i glossari a cura de Jordi Bruguera i Talleda, Notes i introducció a cura de Pere Casanellas i Jordi Bruguera i Talleda, Col∙lació de vulgates catalanollenguadocianes a cura de Núria Calafell i Sala (<span class="caps">ALEXANDER</span> <span class="caps">FIDORA</span>)</p>
+<p>Joan Veny / Àngels Massip, Scripta menorquina (<span class="caps">WOLFGANG</span> <span class="caps">SCHWEICKARD</span>)</p>
+<p>Helmut Berschin / Julio Fernández-Sevilla / Josef Felixberger, Die spanische Sprache. Verbreitung, Geschichte, Struktur, 4., überarbeitete Auflage (<span class="caps">WOLFGANG</span> <span class="caps">SCHWEICKARD</span>)</p>
+<p>María Dolores Gordón Peral (ed.), Toponimia de España. Estado actual y perspectivas de la investigación (<span class="caps">LIDIA</span> <span class="caps">BECKER</span>)</p>
+<p>Roman Sosnowski, Manoscritti italiani della collezione berlinese conservati nella Biblioteca Jagellonica di Cracovia (sec. <span class="caps">XIII</span>-<span class="caps">XVI</span>) (<span class="caps">FRANCESCO</span> CRIFÒ)</p>
+<p>Rosa Piro, L’«Almansore». Volgarizzamento fiorentino del <span class="caps">XIV</span> secolo. Edizione critica (<span class="caps">WOLFGANG</span> <span class="caps">SCHWEICKARD</span>)</p>
+<p>Massimo Palermo / Danilo Poggiogalli, Grammatiche di italiano per stranieri dal ’500 a oggi. Profilo storico e antologia (<span class="caps">WOLFGANG</span> <span class="caps">SCHWEICKARD</span>)</p>
+<p>Michele Barbi / Giorgio Pasquali / Giovanni Nencioni, Per un grande vocabolario storico della lingua italiana. Riproduzione anastatica dell’edizione Sansoni 1957 (<span class="caps">WOLFGANG</span> <span class="caps">SCHWEICKARD</span>)</p>
+<p>Alexi Decurtins, Lexicon romontsch cumparativ (<span class="caps">LRC</span>) / Vergleichendes Lexikon des Rätoromanischen. Sursilvan &#8211; tudestg (<span class="caps">WOLFGANG</span> <span class="caps">SCHWEICKARD</span>)</p>
+<p><span class="caps">ONLINE</span>-<span class="caps">RESSOURCEN</span></p>
+<p>Dictionnaire étymologique et cognitif des langues romanes (<span class="caps">DECOLAR</span>). Les parties du corps humain, Manuel théorique et pratique par Paul Gévaudan et Peter Koch, Version 1.0 (<span class="caps">GERHARD</span> <span class="caps">ERNST</span>)</p>
+<p>Dictionnaire du moyen français (<span class="caps">DMF</span>), version 2012 (<span class="caps">DMF</span> 2012) (<span class="caps">STEFAN</span> <span class="caps">SCHNEIDER</span>)</p>
+<p>Archivio Digitale degli Antichi Manoscritti della Puglia (ADAMaP). Censimento e ricostituzione virtuale della biblioteca, CD-Rom a cura di Rosario Coluccia e Antonio Montinaro (<span class="caps">DANIELE</span> <span class="caps">ARNESANO</span>)</p>
+<p>Tesoro dei Lessici degli Antichi Volgari Italiani (<span class="caps">TLAVI</span>), ideato e curato da Alessandro Aresti (<span class="caps">ALESSANDRO</span> <span class="caps">ARESTI</span>)</p>
+<p><span class="caps">NACHRUF</span></p>
+<p>Lothar Wolf (2. Dezember 1938–15. Juni 2012) (<span class="caps">URSULA</span> <span class="caps">REUTNER</span>)</p>
+<p><span class="caps">LITERATURHINWEISE</span> 2013 (Stand: 31. Juli 2013)</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/3062-Christian_Schweizer" class="tag multiline" popup="true">Christian Schweizer</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 16. Januar 2014, 14:58 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 16. Januar 2014, 14:58 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

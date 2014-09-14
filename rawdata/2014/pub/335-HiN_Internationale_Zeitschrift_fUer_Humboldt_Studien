@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/335-HiN_Internationale_Zeitschrift_fUer_Humboldt_Studien' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>HiN - Internationale Zeitschrift für Humboldt-Studien (Zeitschriftenheft)</h2>
+<h3>Sonderbd. 2: Humboldt und Hispano-Amerika - Vergangenheit, Gegenwart und Zukunft. / Humboldt e Hispano-América - Pasado, Presente y Futuro</h3>
+<hr>
+<abbr class='unapi-id' title='335'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<span class='tag multiline'>Frank Holl</span>
+<span class='tag multiline'>Eberhard Knobloch,</span>
+<a href="/pers/136-Ottmar_Ette" class="tag multiline" popup="true">Ottmar Ette</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+April
+2010
+</dd>
+<dt>Jahrgang</dt>
+<dd>XI</dd>
+<dt>Nummer</dt>
+<dd>20</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.hin-online.de" target="_blank">http://www.hin-online.de</a></dd>
+<dt>ISSN</dt>
+<dd>1617-5239</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Spanisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Medien-/Kulturwissenschaft, Wissenschaftsgeschichte, Editionsphilologie
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><h3>Michael Zeuske: Humboldt en Cuba, 1800/1801 y 1804 &#8211; Huellas de un enigma</h3>
+<p>Resumen</p>
+<p>No tenemos parecidas noticias sobre el recuerdo local en cuanto a Humboldt como lo tenemos en el caso de las cartas de Ferdinand Bellermann en Venezuela. Lo que si tenemos son las fuentes en Kraków que demuestran el gran impacto de Humboldt entre la élite política y económica en la Habana (1800-1830) y a la vez sus redes de comunicación. En la historia intelectual de Cuba el nombre de Humboldt esta intimamente ligado con el cosmopolitismo de las élites hispano-cubanas (Arango, conde Villanueva, Sagra, Saco) como con el concepto de la nación cubana (Luz y Caballero, Vidal Morales y Morales, Leuchsenring, Ortiz, Barnet y otros). Los últimos ganaron la hegemonía discursiva e hicieron a Humboldt “suyo” (“segundo descubridor de Cuba”), aunque este Humboldt eurocriollo para ellos también tenía la función de impedir cambios fundamentales en el sistema de esclavitud o comportamiento frente a los problemas de la post-emancipación en Cuba.</p>
+<h3>Reinaldo Funes Monzote: El cambio socio-ambiental en Cuba a fines del siglo <span class="caps">XVIII</span> e inicios del <span class="caps">XIX</span><br />
+Impresiones y legado de Alejandro Humboldt</h3>
+<p>Resumen</p>
+<p>El paso de Alexander von Humboldt por Cuba en 1801 y en 1804, devino en un acontecimiento trascendental para la ciencia y la historiografía de la Mayor de las Antillas. Su estancia le permitió recopilar información, hacer experimentos científicos y entrar en contacto con la realidad de la colonia española en un momento de grandes cambios para su destino, cuando se inicia el despegue definitivo de la plantación esclavista, que la convirtió en el principal productor y exportador de azúcar y por un tiempo de café. El trabajo que se presenta analiza las impresiones críticas de Humboldt sobre los cambios económico-sociales y ambientales de la época y, en especial, el legado que sus opiniones y su obra representaron para el ambientalismo cubano desde el siglo <span class="caps">XIX</span> hasta el establecimiento, en 1996, del Parque Nacional que lleva su nombre, uno de los ecosistemas montañosos de mayor riqueza y endemismo en el planeta, declarado en 2001 por la <span class="caps">UNESCO</span> Patrimonio de la Humanidad.</p>
+<h3>Segundo E. Moreno Yánez, Christiana Borchart de Moreno: Los Andes ecuatoriales: entre la estética y la ciencia. Las catorce láminas relativas al Ecuador en la obra Vues des Cordillères et Monumens des Peuples Indigènes de l’Amérique de Alexander von Humboldt</h3>
+<p>Resumen</p>
+<p>Además de proponer una primera doble síntesis: la de la geografía de las plantas y la crítica al colonialismo, durante su estadía en el territorio de la Audiencia de Quito (actual Ecuador), el “espíritu sensible y contemplativo” de Alexander von Humboldt muestra ya su preocupación por “dar a la naturaleza contornos fijos y todo el rigor de la ciencia” (Cosmos). El presente estudio buscará ofrecer un análisis y poner al día los datos antropológicos, históricos y geográficos sobre las Vues des Cordillères et Monumens des Peuples Indigènes de l’Amérique que se refieren a las comarcas relativas al actual Ecuador. Además del uso de los “Diarios” de Humboldt, recientemente publicados, y de las notas sobre lugares y personajes quiteños (ecuatorianos), se utilizará la bibliografía más reciente para explicar diversos aspectos, por ejemplo, la historia geológica de los volcanes, el valor arqueológico y etnográfico de los “Monumentos de los Pueblos Indígenas” ecuatorianos, todo bajo la percepción científica y estética expresada en Cuadros de la Naturaleza e interpretada bajo la visión universal de su testamento filosófico: Cosmos.</p>
+<h3>Scarlett O&#8217;Phelan y Godoy: Humboldt, el Perú y sus recursos naturales: entre la plata y el guano</h3>
+<p>Resumen</p>
+<p>La ponencia se centrará en analizar la relación de Humboldt con el Perú a partir de los recursos naturales que ofrecía el virreinato peruano y que llamaron la atención del científico alemán. Dentro de ellos cabe destacar los yacimientos mineros que, debido a su formación minerológica, le resultaron de gran ínterés; sobre todo las minas de Hualgayoc, Cajamarca, y el mineral de Cerro de Pasco. Otro recurso que destacó en sus escritos fue el del guano de las islas y su uso como fertilizante y, adicionalmente, se preocupó por la recesión en la producción y exportación de la quinina, cascarilla o chinchona, que era ampliamente apreciada en Europa por sus efectos medicinales. Marginalmente se abordarán otros productos a los cuales el viajero les dedicó algunas reflexiones como la caña de azúcar y el algodón. La ponencia concluirá con una visión de la sociedad colonial peruana, enfatizando la presencia de los sectores sociales que se beneficiaban de la explotación y comercialización de estos bienes y de la mano de obra que operaba en los centros productivos de la costa y sierra del virreinato, tanto indígena como esclava.</p>
+<h3>Marta Herrera Ángel: Las ocho láminas de Humboldt sobre Colombia en Vistas de las cordilleras y monumentos de los pueblos indígenas de América (1810)</h3>
+<p>Resumen</p>
+<p>Este artículo analiza las láminas en el contexto de los escritos con los que se relacionaron, asociando las imágenes con los textos, para entender el sentido de su selección y lo que se buscaba mostrar con ellas. El texto se divide en tres partes: la primera, busca entender el sentido general de Vues y, en ese contexto, la selección de las láminas relativas a la actual Colombia; la segunda, analiza las láminas que se publicaron en esa obra sobre ese territorio y la tercera la forma como en esas láminas se trabajó la figura humana. Se plantea que el argumento básico de Vues era que las cordilleras se constituían en el entorno de los pueblos “civilizados” de América; la discusión de fondo, sin embargo, era si ya América estaba ocupada por europeos o si era todavía una continente “silvestre” que Europa podía redescubrir y reocupar, tal como sugiere Humboldt. Sobre este punto difícilmente podría haber acuerdo entre los criollos eurodescendientes y los europeos. Por este motivo, entre otros, es difícil argumentar que dentro del proceso de reconfiguración de la imagen americana que se estaba dando a finales del siglo <span class="caps">XVIII</span> y comienzos del siglo <span class="caps">XIX</span> hubo consenso alrededor de un autor, así fuera de la talla de Humboldt.</p>
+<h3>Ulrike Leitner: Über die Quellen der mexikanischen Tafeln der „Ansichten der Kordilleren“ im Nachlass Alexander von Humboldts</h3>
+<p>Resumen</p>
+<p>La comparación de las “Vues des Cordillères“ con los diarios de Humboldt ofrece indicaciones acerca tanto de sus procedimientos típicos de trabajo como de las vías de adquisición de conocimiento. Sus propias observaciones durante la estancia en México se complementan mediante contactos personales in situ, a través de estudios de literatura y archivos en México, y tras su regreso, también en archivos europeos. Así, por ejemplo, aunque no llegó a visitar las pirámides de Teotihuacan, introdujo en su publicación una descripción de las mismas procedente de una carta de Juan José de Oteyza, a quien había conocido en el Real Seminario de Minería de la Ciudad de México. Igualmente, algunas láminas reproducen antigüedades mexicanas que Humboldt no había examinado en persona. En la conferencia se exponen algunas fuentes de las “Vues des Cordillères” que se encuentran en los diarios de Humboldt, como por ejemplo las descripciones de sus excursiones por México contenidas en los volúmenes publicados por la Alexander-von-Humboldt-Forschungsstelle, y notas aún inéditas procedentes de sus investigaciones en los archivos vaticanos en el verano de 1805.</p>
+<p>Zusammenfassung</p>
+<p>Der Vergleich mit Humboldts Tagebüchern bietet Aufschlüsse über die für Humboldt typische Arbeitsweise und die Wege seines Wissenserwerbs. Seine eigenen Beobachtungen während des Aufenthaltes in Mexiko sind ergänzt durch persönliche Kontakte vor Ort, durch Literatur- und Archivstudien in Mexiko und nach der Rückkehr in europäischen Archiven. So hat er beispielsweise die Pyramiden von Teotihuacan nicht besucht, aber die Beschreibung aus einem Brief von Juan José de Oteyza, den er am Real Seminario de Minería in Mexiko-Stadt kennengelernt hatte, in seine Publikation aufgenommen. Auch einzelne Tafeln stellen mexikanische Altertümer dar, die Humboldt nicht selbst besichtigt hat. Im Vortrag werden einige Quellen der „Vues des Cordillères“ aus Humboldts Tagebüchern vorgestellt, wie z. B. Beschreibungen seiner Exkursionen in Mexiko aus den von der Alexander-von-Humboldt-Forschungsstelle publizierten Bänden und bisher unedierte Notizen seiner Studien im Archiv des Vatikans im Sommer 1805.</p>
+<h3>Carlos Sanhueza: „He sentido mucho no haber podido penetrar más lejos hacia el sur.“<br />
+Alexander von Humboldt y Chile</h3>
+<p>Resumen</p>
+<p>A pesar de que Chile no estuvo incluido en el viaje sudamericano de Alejandro de Humboldt, dada la preferencia del naturalista prusiano por escenario tropical, su presencia se hizo evidente durante el siglo <span class="caps">XIX</span>. Aquí, en particular, se analiza lo anterior a partir de dos esferas: la figura de Alejandro de Humboldt y la ciencia humboldtiana en Chile. Por un lado, se analizan las formas de apropiación que la ciencia hizo de la obra de Humboldt durante el siglo <span class="caps">XIX</span>. En otro aspecto, se analiza a Alejandro de Humboldt como esfera de legitimación para la propia intelectualidad chilena decimonónica. Desde esta perspectiva se comentan las formas a partir de las cuales el nombre del autor berlinés fue instalado en las discusiones y circuitos ilustrados chilenos.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p><strong>Michael Zeuske:</strong> Humboldt en Cuba, 1800/1801 y 1804. Huellas de un enigma</p>
+<p><strong>Reinaldo Funes Monzote:</strong> El cambio socio-ambiental en Cuba a fines del siglo <span class="caps">XVIII</span> e inicios del <span class="caps">XIX</span>. Impresiones y legado de Alejandro Humboldt.</p>
+<p><strong>Segundo E. Moreno Yánez, Christiana Borchart de Moreno:</strong> Los Andes ecuatoriales: entre la estética y la ciencia. Las catorce láminas relativas al Ecuador en la obra <em>Vues des Cordillères et Monuments des Peuples Indigènes de l’Amérique</em> de Alexander von Humboldt</p>
+<p><strong>Scarlett O’Phelan Godoy:</strong> Humboldt, el Perú y sus recursos naturales: entre la plata y el guano</p>
+<p><strong>Marta Clemencia Herrera Ángel:</strong> Las ocho láminas de Humboldt sobre Colombia en <em>Vistas de las cordilleras y monumentos de los pueblos indígenas de América</em> (1810)</p>
+<p><strong>Ulrike Leitner:</strong> Über die Quellen der mexikanischen Tafeln der <em>Ansichten der Kordilleren</em> im Nachlass Alexander von Humboldts</p>
+<p><strong>Carlos Sanhueza:</strong> “He sentido mucho no haber podido penetrar más lejos hacia el Sur”. Alexander von Humboldt y Chile.</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><h3>Auch als <span class="caps">PDF</span>-Druckversion verfügbar unter <a href="http://www.hin-online.de" target="_blank">www.hin-online.de</a></h3>
+<p>HiN ist ein halbjährlich erscheinendes Periodikum der Universität Potsdam und der Alexander-von-Humboldt-Forschungsstelle (Berlin-Brandenburgische Akademie der Wissenschaften).</p>
+<p>Als Ergänzung zur Zeitschrift verweisen wir auf das Projekt der Universität Potsdam <em>avhumboldt.de. Humboldt Informationen online</em>, die Informationsplattform zu Alexander von Humboldt im Netz:</p>
+<h3><a href="http://www.avhumboldt.de" target="_blank">www.avhumboldt.de</a></h3></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/186-Tobias_Kraft" class="tag multiline" popup="true">Tobias Kraft</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Dienstag, 27. April 2010, 11:35 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 28. April 2010, 14:55 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

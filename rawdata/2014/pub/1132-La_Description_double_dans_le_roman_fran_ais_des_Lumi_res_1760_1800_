@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/1132-La_Description_double_dans_le_roman_fran_ais_des_Lumi_res_1760_1800_' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>La Description double dans le roman français des Lumières (1760-1800) (Dissertation)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='1132'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Autor(en)</h4>
+<a href="/pers/13-Christof_SchOech" class="tag multiline" popup="true">Christof Schöch</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Classiques Garnier</dd>
+<dt>Ort</dt>
+<dd>Paris</dd>
+<dt>Hochschule</dt>
+<dd>Universität Kassel &amp; Université Paris-IV</dd>
+<dt>Ort der Hochschule</dt>
+<dd>Kassel &amp; Paris</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2011
+</dd>
+<dt>Abgabedatum</dt>
+<dd>
+Juli
+2008
+</dd>
+<dt>Reihe</dt>
+<dd>L'Europe des Lumières, 12</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://kurzlink.de/description-double" target="_blank">http://kurzlink.de/description-double</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-2-81240-347-7
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-2-81240-347-7&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Aufklärung, Frankreich, Roman
+</dd>
+</dl>
+<div class='col_8 last'>
+<h4>Betreuer</h4>
+<a href="/pers/82-Franziska_Sick" class="tag multiline" popup="true">Franziska Sick</a>
+<span class='tag multiline'>Michel Delon</span>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>L’époque des Lumières voit s’épanouir les pratiques descriptives dans la plupart des genres littéraires. La description romanesque participe de cet épanouissement sans devenir encore un élément programmatique du genre romanesque. L’époque se distingue par la coexistence de deux formes de description: l’enjeu de la première est sa légitimation, celui de la seconde concerne ses relations à la peinture. Replaçant ces enjeux dans leur contexte, le présent ouvrage propose une analyse de l’écriture descriptive dans un corpus de romans français parus entre 1760 et 1800.</p>
+<hr />
+<p>Gegenstand der Arbeit ist die Theorie und Praxis der Beschreibung im französischen Roman der Epoche der Aufklärung, genauer in der Zeit von 1760 bis 1800. Ihr Ziel ist es, einem wenig beachteten, aber wichtigen Abschnitt in der Geschichte der Beschreibung im Roman Kontur zu geben. Mit diesem Ziel werden drei zentrale Problematiken der Beschreibung erörtert: der Begriff der Beschreibung, ihr Status und die Techniken ihrer Eingliederung in den narrativen Kontext sowie ihre Beziehung zur Malerei und die Techniken einer literarischen Herstellung von bildlicher Anschaulichkeit. Die Arbeit stützt sich auf die umfassende Analyse eines Korpus von 30 Romanen, die zwischen 1760 und 1800 veröffentlicht wurden.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p><span class="caps">TABLE</span> <span class="caps">DES</span> MATIÈRES</p>
+<p>Introduction . . . 7</p>
+<p>Première partie<br />
+LA <span class="caps">DESCRIPTION</span> <span class="caps">DOUBLE</span> : <span class="caps">HISTOIRE</span> ET THÉORIES DE L’ÉCRITURE <span class="caps">DESCRIPTIVE</span></p>
+<p>La notion de description au XVIIIe siècle . . . 25<br />
+La description avant le XVIIIe siècle . . . 27 <br />
+Les avatars de l’écriture descriptive au XVIIIe siècle . . . 31<br />
+Le champ lexical de l’écriture descriptive dans le roman . . . 40<br />
+Définitions modernes de la description . . . 47<br />
+La description comme l’autre de la narration . . . 47<br />
+Vers une différenciation interne au champ de l’écriture descriptive . . . 53</p>
+<p>Deuxième partie<br />
+LE <span class="caps">STATUT</span> DE L’ÉCRITURE <span class="caps">DESCRIPTIVE</span> <span class="caps">DANS</span> LE <span class="caps">ROMAN</span> ET <span class="caps">LES</span> STRATÉGIES DE SA LÉGITIMATION</p>
+<p>Le statut de l’écriture descriptive . . . 67<br />
+La description dans les sciences et les belles-lettres . . . 68<br />
+La description dans le roman : un « discours contraint »  . . . 90<br />
+Stratégies pour légitimer les passages descriptifs . . . 127<br />
+La légitimation par les remarques métadiscursives . . . 128<br />
+L’intégration par la motivation narrative . . . 157<br />
+La poétique de l’écriture descriptive . . . 194</p>
+<p>Troisième partie<br />
+L’ESTHÉTIQUE <span class="caps">PICTURALE</span> DE L’ÉCRITURE <span class="caps">DESCRIPTIVE</span><br />
+Écriture descriptive et peinture  . . . 219<br />
+Le contexte esthétique : écriture et peinture . . . 219<br />
+De la peinture aux trois niveaux de la picturalité . . . 238<br />
+La picturalité dans l’écriture descriptive . . 265<br />
+Les descriptions de tableaux peints . . . . 266<br />
+Les épisodes romanesques . . . 297<br />
+La picturalité dans L’Émigré  . . . 320</p>
+<p>Conclusion . . . 341</p>
+<p>Références bibliographiques . . . 347<br />
+Index des romans du corpus . . . 367</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><ul>
+	<li>Gefördert durch eine Mobilitätsbeihilfe der <span class="caps">DFH</span>-<span class="caps">UFA</span>.</li>
+	<li>Prix Germaine de Staël, 2010.</li>
+	<li>Rezension von Élodie Ripoll, in <em>Acta Fabula</em> 13.2, 2012, <a href="http://www.fabula.org/revue/document7357.php" target="_blank">http://www.fabula.org/revue/document7357.php</a>.</li>
+	<li>Auszug aus dem ersten Teil: &#8220;La notion de description au XVIIIe siècle&#8221;, im <em>Atelier de théorie littéraire</em> von Fabula.org, <a href="http://www.fabula.org/atelier.php?Description_double" target="_blank">http://www.fabula.org/atelier.php?Description_double</a></li>
+</ul></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/13-Christof_SchOech" class="tag multiline" popup="true">Christof Schöch</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Montag, 07. Januar 2013, 11:11 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Montag, 07. Januar 2013, 11:11 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

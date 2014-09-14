@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/2252-Oeuvres_et_Critiques' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Oeuvres et Critiques (Zeitschriftenheft)</h2>
+<h3>L’apologétique littéraire et les anti-Lumières féminines</h3>
+<hr>
+<abbr class='unapi-id' title='2252'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<span class='tag multiline'>Rainer Zaiser</span>
+<span class='tag multiline'>Wolfgang Leiner</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+Februar
+2014
+</dd>
+<dt>Jahrgang</dt>
+<dd>XXXVIII</dd>
+<dt>Nummer</dt>
+<dd>1</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.narr-shop.de/index.php/oeuvres-and-critiques-9113.html" target="_blank">http://www.narr-shop.de/index.php/oeuvres-and-critiques-9113.html</a></dd>
+<dt>ISSN</dt>
+<dd>0338-1900</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+apologie, Anti-Lumières, apologétique, femme, feminin
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Créée en 1976, la revue OEuvres et Critiques est consacrée à l’étude de la réception critique des oeuvres littéraires de langue française. Sous la responsabilité d’un coordonnateur ou d’une coordonnatrice chaque fascicule rassemble des études centrées sur la réception d’un auteur, d’une oeuvre, d’un courant littéraire ou d’une approche critique.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p><span class="caps">FABRICE</span> <span class="caps">PREYAT</span><br />
+Apologétique et anti-Lumières féminines : Prolégomènes</p>
+<p><span class="caps">YVES</span> <span class="caps">KRUMENACKER</span><br />
+Anonymat et interrogations sur le genre : le cas de Marie Huber</p>
+<p><span class="caps">MARIE</span>-<span class="caps">EMMANUELLE</span> <span class="caps">PLAGNOL</span>-DIÉVAL<br />
+Anti-Lumières et Révolution : les stratégies argumentatives et narratives de Mme de Genlis</p>
+<p><span class="caps">CLAIRE</span> <span class="caps">FOURQUET</span>-<span class="caps">GRACIEUX</span><br />
+Touchante douceur. La stratégie de l’insinuatio et les femmes au tournant des XVIIe et XVIIIe siècles</p>
+<p><span class="caps">ROTRAUD</span> <span class="caps">VON</span> <span class="caps">KULESSA</span><br />
+L’apologétique chrétienne et l’éducation au féminin. Les Américaines (1769) de Jeanne-Marie Leprince de Beaumont</p>
+<p><span class="caps">PIERRE</span>-<span class="caps">OLIVIER</span> <span class="caps">BRODEUR</span><br />
+La providence romanesque de Mme Leprince de Beaumont</p>
+<p>SÉBASTIEN <span class="caps">DROUIN</span><br />
+La tentation de la croix. Abus de la chair et amours mystiques chez Marie-Françoise Loquet</p>
+<p><span class="caps">MARIE</span>-FRÉDÉRIQUE <span class="caps">PELLEGRIN</span><br />
+La Ferté-Imbault contre d’Alembert. Résistance mondaine et intellectuelle aux Lumières</p>
+<p><span class="caps">MARIE</span>-<span class="caps">CHRISTINE</span> <span class="caps">DESMARET</span><br />
+La figure marginale et controversée d’une mystiq ue de 1730. Le cas de La Cadière ou l’apologie de la femme christique dans La Sorcière de Jules Michelet</p>
+<p>Adresses des auteurs</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Coordonnateur du fascicule<br />
+Fabrice Preyat</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/1709-Maria_Manderfeld" class="tag multiline" popup="true">Maria Manderfeld</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 30. Januar 2014, 14:43 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 30. Januar 2014, 14:43 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

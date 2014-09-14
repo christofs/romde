@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/171-De_orbis_Hispani_linguis_litteris_historia_moribus' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>De orbis Hispani linguis litteris historia moribus (Sammelband)</h2>
+<h3>Festschrift für Dietrich Briesemeister zum 60. Geburtstag</h3>
+<hr>
+<abbr class='unapi-id' title='171'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<a href="/pers/74-Axel_SchOenberger" class="tag multiline" popup="true">Axel Schönberger</a>
+<span class='tag multiline'>Klaus Zimmermann</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Domus Editoria Europaea</dd>
+<dt>Ort</dt>
+<dd>Frankfurt am Main</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+1994
+</dd>
+<dt>ISBN</dt>
+<dd>
+3-927884-45-6
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=3-927884-45-6&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Spanisch, Portugiesisch, Katalanisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Sprachwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Hispanistik, Lusitanistik, Katalanistik, Portugalistik, Brasilianistik, Lateinamerikanistik, Altamerikanistik
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Inhalt</h4>
+<div class='textile'><p>Inhaltsverzeichnis beider Bände</p>
+<p>Vorwort: XV</p>
+<p>Notiz der Herausgeber: <span class="caps">XVIII</span></p>
+<p>Tabula Gratulatoria: <span class="caps">XIX</span></p>
+<p>Band 1</p>
+<p>Lusitanica Europaea et Africana</p>
+<p>Jens Lüdtke (Berlin):<br />
+Zu den sprachlichen Erfahrungen der Portugiesen an der westafrikanischen Küste im 15. Jahrhundert: 1</p>
+<p>Américo da Costa Ramalho (Coimbra):<br />
+Duas opiniões sobre os Germani no Portugal Quinhentista: 13</p>
+<p>Brigitte Schlieben-Lange (Tübingen):<br />
+Letra, figura und força bei Fernão de Oliveira: 17</p>
+<p>Adrien Roig (Montpellier):<br />
+Les Quinas du Portugal dans la littérature portugaise du XVIe siècle: 29</p>
+<p>Barbara Borngässer Klein (Potzwenden):<br />
+Nachschlüssel zum Paradies? Die Imitation des Vatikans unter dem portugiesischen König Johann V: 55</p>
+<p>Heinz Kröll (Mainz):<br />
+Der Wortschatz für prostituta im Portugiesischen: 79</p>
+<p>Annette Endruschat (Leipzig):<br />
+Präpositionale Verbanschlüsse im europäischen und afrikanischen Portugiesisch: ein semantischer Strukturvergleich: 107</p>
+<p>Luciano Caetano da Rosa (Mainz):<br />
+O Futuro em Português: um Quasi-Modo: 121</p>
+<p>Eberhard Axel Wilhelm (Lisboa):<br />
+A Madeira na visão de Ana de Werner (1904/1905): o maior relato turístico alemão acerca da ilha: 153</p>
+<p>Rainer Hess (Freiburg im Breisgau):<br />
+Moderne Fiktionspoetik: das Gedicht «Autopsicografia» von Fernando Pessoa: 173</p>
+<p>Rosa Maria Sequeira (Lisboa):<br />
+Uma jornada pelo tempo na poesia de João Miguel Fernandes Jorge: 189</p>
+<p>Maria de Fátima Brauer de Figueiredo (Hamburg):<br />
+Amor de Perdição: Anmerkungen zur deutschen Rezeption und zur Übersetzung: 199</p>
+<p>João Barrento (Lisboa):<br />
+Traduzir o intraduzível, ou A Alquimia da Diferença: 215</p>
+<p>Gerhard Schönberger (Frankfurt am Main):<br />
+Literarische Fiktion als Beitrag zur Geschichte? Zu Ungulani Ba Ka Khosas Roman Ualalapi: 227</p>
+<p>Xosé-Manoel Núñez Seixas (Santiago de Compostela):<br />
+Nacionalismo e cultura en Galicia durante o primeiro franquismo (1939—1955): 245</p>
+<p>Catalanica</p>
+<p>Werner Thielemann (Berlin):<br />
+Relativanschlüsse: systeminterne und soziale Faktoren des Wandels zwischen Toulouse und Barcelona: 281</p>
+<p>Rolf Kailuweit (Berlin):<br />
+Die Chance der Objektivität: katalanische Sprachgeschichtsschreibung im deutschsprachigen Raum: 297</p>
+<p>Andreas Wesch (Freiburg im Breisgau):<br />
+Elemente des gesprochenen Katalanisch: 309</p>
+<p>Artur Quintana (Speyer / Heidelberg):<br />
+El mite del Comte N&#8217;Arnau a la Ribargorça?: 333</p>
+<p>Valentí Fàbrega i Escatllar (Köln):<br />
+«Ja veig estar a Déu ple de rialles» (113, 171): Déu en la poesia d&#8217;Ausiàs March: 353</p>
+<p>Hans-Ingo Radatz (Chemnitz):<br />
+Ausiàs March: Gedanken anläßlich der erstmaligen Übertragung des großen valencianischen Klassikers ins Deutsche (ein Werkstattbericht): 373</p>
+<p>Ferran Ferrando Melià (Frankfurt am Main):<br />
+Horaz in València: die Horacianes des Dichters Vicent Andrés Estellés: 405</p>
+<p>Heinrich Bihler (Freiburg im Breisgau):<br />
+Salvador Esprius Hinwendung zur bildenden Kunst, besonders dargestellt an der Gedichtfolge seiner «Aproximació a l’obra d’alguns artistes» aus Per a la bona gent, 1984: 425</p>
+<p>Axel Schönberger (Frankfurt am Main):<br />
+Alter, Frustration und Tod in Gabriel Janer Manilas Roman Lluna creixent sobre el Tàmesi (1993): 497</p>
+<p>Ute Heinemann (Frankfurt am Main):<br />
+Schreiben in zwei Sprachen: einige Anmerkungen zur Literaturproduktion in Katalonien: 511</p>
+<p>Cetera Hispanica Europaea</p>
+<p>Otfried Lieberknecht (Berlin):<br />
+Zur Rezeption der arabischen Apologie des Pseudo-Kindi in der lateinischen Mohammedliteratur des Mittelalters: 523</p>
+<p>Joseph L. Laurenti / Alberto Porqueras-Mayo (Urbana, Illinois):<br />
+La colección hispánica de incunables en la universidad de Illinois: 539</p>
+<p>María Dolores Rincón González (Granada):<br />
+Discite nunc igitur, Reges, aeterna mereri nomina: una interpretación del atentado de Barcelona de 1492: 567</p>
+<p>Christine Bierbach (Frankfurt am Main):<br />
+Nomen est omen? Sprachliche Spurensuche um Columbus — Colom — Colón: 577</p>
+<p>Santiago Sebastián (València):<br />
+Los proverbios como fuente emblemática y artística: 599</p>
+<p>Jean Canavaggio (Paris):<br />
+Santa Teresa y los letrados en el Libro de la vida: 607</p>
+<p>Ingrid Simson (Berlin):<br />
+Marktplatz und Lektüre: zu Information und Öffentlichkeit im Spanien der frühen Neuzeit: 617</p>
+<p>Heinz Schulte-Herbrüggen (Berlin):<br />
+Ingenium und Temperament nach Juan Huarte de San Juans Naturlehre: 637</p>
+<p>Joseph Pérez (Madrid):<br />
+Fuenteovejuna en la historia: 655</p>
+<p>Rudolf Baehr (Salzburg):<br />
+Italia Hispaniae indefessa rerum metricarum magistra: eine rezeptionsgeschichtliche Skizze: 669</p>
+<p>Gerhard Wild (Buenos Aires):<br />
+Von der «Chambre aux images» zur «Camera obscura»: Medienimagination im Lancelot, bei Guillem de Torroella, in den libros de caballerías, bei Cervantes und Proust: 683</p>
+<p>Antonio Carreño (Providence):<br />
+Los mitos de la historia: El Hércules de Ocaña de Vélez de Guevara: 717</p>
+<p>Sebastian Neumeister (Berlin):<br />
+Die wundersame Grablegung des Grafen von Orgaz: vom Bild zum Drama: 739</p>
+<p>Christoph Strosetzki (Münster):<br />
+Universität und Hof als Orte des Wissens im spanischen Siglo de Oro: 749</p>
+<p>Georges Güntert (Zürich):<br />
+Discurso social y Discurso mítico en los dramas de honor de Calderón: 769</p>
+<p>Eberhard Geisler (Berlin):<br />
+Hofmannsthals nachromantische Calderón-Rezeption: 783</p>
+<p>Aurora Egido (Zaragoza):<br />
+La escritura viva en la poesía de Quevedo: 803</p>
+<p>Gerhard Poppenberg (Berlin):<br />
+Martyrio de la copela: zur Vorgeschichte des Diccionario de Autoridades: 815</p>
+<p>Manfred Tietz (Bochum):<br />
+Der spanische Roman im 18. Jahrhundert oder die Verwirrung einer Debatte: zur Gattungszugehörigkeit von T. Almeidas Hombre feliz (1785) und V. Martínez Colomers El Valdemaro (1792): 823</p>
+<p>Angelica Rieger (Berlin):<br />
+Der Realist mit weißen Handschuhen und die Hibiscusblüte: eine Gegenüberstellung exotischer Einsprengsel in Juan Valeras Genio y figura und Émile Zolas La Curée: 845</p>
+<p>Hans Mattauch (Braunschweig):<br />
+«Don Juan Tenorio» in Vetusta: zum rezeptionsgeschichtlichen Stellenwert der Tenorio-Aufführung in La regenta: 869</p>
+<p>Jaime de Salas (Madrid):<br />
+Ortega lector de Nietsche: Las Meditaciones del Quijote frente a Meditaciones intempestivas II: 877</p>
+<p>Ignacio Sotelo (Berlin):<br />
+La cuestión del género en el orto de la filosofía española contemporánea: en el octogésimo aniversario de Meditaciones del Quijote: 905</p>
+<p>Antonio López-Pina (Madrid):<br />
+Lo Público: hacia la recuperación del discurso ilustrado español (1914-1936): 931</p>
+<hr />
+<p>Band 2</p>
+<p>Hans Flasche (Hamburg):<br />
+Idee und Sprache im Cántico: die kinetische Dichtung Jorge Guilléns: 965</p>
+<p>Winfried Engler (Berlin):<br />
+Täuschung, Enttäuschung und Ruhe: Notizen zu Rafael Albertis «Se equivocó la paloma …»: 985</p>
+<p>Manfred Lentzen (Münster):<br />
+Rafael Albertis Gedichte über China: 999</p>
+<p>Alberto Gil (Köln):<br />
+Das Sprachbewußtsein von Miguel Delibes: 1009</p>
+<p>Michael Nerlich (Berlin):<br />
+Gracián in der Todeszelle: 1021</p>
+<p>Ulrich Detges (Berlin):<br />
+Die Artikelopposition Bestimmt versus Unbestimmt im Spanischen: eine Synthese: 1067</p>
+<p>Burkhard Voigt (Hamburg):<br />
+Enseñanza y aprendizaje autónomos en la clase de español: 1091</p>
+<p>Anton Bemmerlein (Nürnberg):<br />
+Konzept, Realisierung und Perspektiven eines Deutschen Spanischlehrerverbandes: zur Geschichte des <span class="caps">DSV</span> von seiner Gründung bis zum Beginn des Jahres 1994: 1109</p>
+<p>Iberoamericana et varia</p>
+<p>Jürgen Golte (Berlin):<br />
+Methode und Wahrnehmung: Probleme beim Verständnis der Moche-Vasenmalerei: 1139</p>
+<p>Michael Dürr (Berlin):<br />
+El Popol Vuh, la obra de Francisco Ximénez y el Título de Totonicapán: aspectos comparativos de grafías y gramática: 1153</p>
+<p>Rainer Huhle (Nürnberg):<br />
+Vom Matamoros zum Mataindios oder Vom Sohn des Donners zum Herrn der Blitze: die wundersamen Karrieren des Apostels Jakobus in Amerika: 1167</p>
+<p>Ursula Thiemer-Sachse (Berlin):<br />
+Huitzilopochtli — Vitzeputze, ein transkulturelles Phänomen: wie der aztekische Kriegsgott zu einer Teufelsgestalt im deutschen Sprachgebrauch wurde: 1197</p>
+<p>Emma Martinell Gifre (Barcelona):<br />
+Iguana: 1223</p>
+<p>Karl Kohut (Eichstätt):<br />
+Fernández de Oviedo: von Schiffbrüchigen und Dämonen: 1237</p>
+<p>Efraín Kristal (Los Angeles):<br />
+Fábulas clásicas y neoplatónicas en los Comentarios reales de los Incas: 1253</p>
+<p>Gisela Beutler (Berlin):<br />
+Karl der Große und seine Paladine in Hispanoamerika: Allegorie, Ritterroman und seine Bedeutung: 1265</p>
+<p>Kurt Schnelle (Leipzig):<br />
+Hispanoamerikanisches bei Herder: 1281</p>
+<p>Irina Buche (Frankfurt am Main):<br />
+Mexikos Dialektik der Aufklärung in den Diskursen von Fray Francisco Javier Clavijero und Fray Servando Teresa de Mier y Guerra: 1297</p>
+<p>Frauke Gewecke (Heidelberg):<br />
+Das Erbe von Siegern und Besiegten: der dominikanische indigenismo als Fiktion einer patriotischen Geschichtsdeutung: 1317</p>
+<p>Abel Orlando Pugliese (Berlin / Buenos Aires):<br />
+El «antiamericanismo» en el pensamiento europeo y Alexander von Humboldt: 1345</p>
+<p>Renate Löschner (Berlin):<br />
+Vom Chimborazo zum Orinoko: Höhepunkte von Humboldts Amerikaexpedition in der Malerei des 19. Jahrhunderts: 1371</p>
+<p>Brigitta Rohdewohld (Berlin):<br />
+Eigenbild und Fremdbild der limeños im 19. Jahrhundert: Autostereotyp versus Heterostereotyp?: 1385</p>
+<p>Ellen Spielmann (Berlin):<br />
+Der niedergeschlagene Blick: Machado de Assis&#8217; Verhandlungen mit Stendhal, Chateaubriand …: 1399</p>
+<p>Martin Franzbach (Bremen):<br />
+Análisis comparativo de objetivos educativos de la burguesía: José Martí: La Edad de Oro (1889) y Edmondo de Amicis: Cuore (1886): 1409</p>
+<p>Hans-Otto Dill (Berlin):<br />
+Poesie versus Prosa: zum lateinamerikanischen Literaturbegriff des 19. Jahrhunderts: 1417</p>
+<p>Harald Wentzlaff-Eggebert (Bamberg):<br />
+Zu den Anfängen des modernismo in Hispanoamerika und Spanien: die frühe Kurzprosa von Darío und Valle-Inclán: 1427</p>
+<p>Bernhard Pöll (Salzburg):<br />
+«[…] ditos históricos, versos célebres, brocardos jurídicos, máximas, é de bom aviso trazê-los contigo […]»: quelques réflexions sur l’intertexte français des nouvelles de Machado de Assis: 1459</p>
+<p>Dieter Janik (Mainz):<br />
+J. B. Alberdi: Peregrinación de Luz del Día o viaje y aventuras de la Verdad en el Nuevo Mundo: análisis y parodia de la realidad hispanoamericana desde la Independencia: 1467</p>
+<p>Werner Altmann (Graben):<br />
+«Eine Fahrt in den seligen Untergang»: zum Motiv von Nikolaus Federmanns Südamerikaexpedition in Alfred Döblins Exilroman Die Fahrt ins Land ohne Tod: 1475</p>
+<p>Alden Dittmann (Berlin):<br />
+Carlos Fiebrig (1869—1951): Bio-Bibliographie eines deutschen Naturforschers in Südamerika und Berlin: 1489</p>
+<p>Albert von Brunn (Zürich):<br />
+Paulo Rónai: die Geschichte einer Flucht: 1523</p>
+<p>Susanne Klengel (Berlin):<br />
+Zwischen Latinitätsdiskurs und Avantgarde: lateinamerikanische Intellektuelle in den französischen Zeitschriften um 1945: 1545</p>
+<p>Víctor Farías (Berlin):<br />
+El viajero y su sombra alegre: el otro Borges en Borges: 1567</p>
+<p>Ricarda Schlosshan (Freiburg im Breisgau):<br />
+Das Verhältnis von Literatur und Politik bei Ernesto Sábato am Beispiel von Abaddón, el exterminador: 1579</p>
+<p>Volker Roloff (Siegen):<br />
+Gabriel García Márquez, Cien años de soledad als Märchenroman: 1595</p>
+<p>Ineke Phaf (Maryland):<br />
+Historia contemporánea y modernidad periférica: Luis Rafael Sánchez y Gabriel García Márquez: 1623</p>
+<p>Christoph Rodiek (Dresden):<br />
+«Las cosas que pudieron ser y no fueron»: Spielarten des Kontrafaktischen in Erzähltexten des 20. Jahrhunderts: 1629</p>
+<p>Volker Lühr (Berlin):<br />
+Vom Nutzen der Literatur — auch der lateinamerikanischen — für die Soziologie: 1653</p>
+<p>Volkmar Blum (Berlin):<br />
+«En Lima no se toma, en Lima se trabaja …»: Arbeitszeit und Arbeitsethik im kulturellen Konflikt: 1673</p>
+<p>Gustav Siebenmann (St. Gallen):<br />
+Gibt es eine hispanische Kolonialismus-Belletristik? Kolonialismus in Lateinamerika als narratives Thema: 1685</p>
+<p>Klaus Zimmermann (Berlin):<br />
+Sprachensituation, Sprachtheorie und Sprachwissenschaft in Mexiko: 1697</p>
+<p>Manfred Nitsch (Berlin):<br />
+Reichtum und Armut in Lateinamerika: Geldwirtschaft und Wohlfahrtsstaat an der Peripherie des Weltsystems: 1719</p>
+<p>Walther L. Bernecker (Erlangen-Nürnberg):<br />
+Armamento y problemas de desarrollo en Latinoamérica: 1731</p>
+<p>Monika Walter (Berlin):<br />
+Das Populäre als maskierte Utopie? Zu einem Denkproblem in den neueren Kulturtheorien Lateinamerikas: 1759</p>
+<p>Carlos Rincón (Berlin):<br />
+Vuelta del barroco y proliferación neobarroca: 1779</p>
+<p>Michael Nungesser (Berlin):<br />
+Moderne Kunst aus Lateinamerika: Rezeptionsbericht zur Lage in Deutschland: 1797</p>
+<p>Ray-Güde Mertin (Frankfurt am Main):<br />
+«Lusotropikalisch»: zur Rezeption brasilianischer Literatur in der deutschsprachigen Presse: 1817</p>
+<p>Alain Guy (Toulouse):<br />
+Le spiritualisme actuel en Amérique Latine: 1825</p>
+<p>Peter G. Klaus (Berlin):<br />
+Stimmen aus dem Exil: lateinamerikanische Literatur aus Québec (Kanada): 1839</p>
+<p>Matthias Perl (Mainz):<br />
+La situación actual de la lingüística afro-hispana (1985-1993): 1855</p>
+<p>Schriftenverzeichnis von Dietrich Briesemeister (1958-1993): 1867</p>
+<p>Anschriften der Autorinnen und Autoren: 1881</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p><span class="caps">XXIII</span> + 1885 Seiten.</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/74-Axel_SchOenberger" class="tag multiline" popup="true">Axel Schönberger</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Mittwoch, 17. Februar 2010, 06:37 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 17. Februar 2010, 06:37 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/2332-Fremdsprachendidaktik' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Fremdsprachendidaktik (Monographie)</h2>
+<h3>Eine Einführung</h3>
+<hr>
+<abbr class='unapi-id' title='2332'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Autor(en)</h4>
+<span class='tag multiline'>Helene Decke-Cornill</span>
+<span class='tag multiline'>Lutz Küster</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Narr</dd>
+<dt>Ort</dt>
+<dd>Tübingen</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2014
+</dd>
+<dt>Reihe</dt>
+<dd>bachelor wissen</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.narr-shop.de/index.php/fremdsprachendidaktik-9121.html" target="_blank">http://www.narr-shop.de/index.php/fremdsprachendidaktik-9121.html</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-3-8233-6865-6
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-8233-6865-6&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Spanisch, Italienisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Fachdidaktik
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Fremdsprachendidaktik, Interkulturelles Lernen, Sprachlehrforschung, Sprachenlernen, Spracherwerb, Fremdsprachenunterricht, Interkulturelle Kompetenz
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Inhalt</h4>
+<div class='textile'><p>Vo r w o r t <br />
+1 Fremdsprachendidaktik – was ist das? Zur Verortung der Disziplin<br />
+1.1 Didaktik – Fachdidaktik – Fremdsprachendidaktik <br />
+1.1.1 Didaktik <br />
+1.1.1.1 Gegenstand und Aufgaben der Didaktik <br />
+1.1.1.2 Didaktik als analytische, normative und operative Wissenschaft<br />
+1.1.1.3 Didaktik als Enkulturationswissenschaft <br />
+1.1.2 Fachdidaktiken als Transformationswissenschaften<br />
+1.1.3 Fremdsprachendidaktik<br />
+1.2 Drei Schulfremdsprachen und ihr Profil <br />
+1.2.1 Das Fach Englisch <br />
+1.2.2 Das Fach Französisch<br />
+1.2.3 Das Fach Spanisch <br />
+1.2.4 Sprachen lernen – Sprache lernen</p>
+<p>2 Spracherwerbstheorien<br />
+2.1 Die Spracherwerbstheorie des Behaviorismus<br />
+2.2 Die nativistische Auffassung von der angeborenen Spracherwerbskompetenz<br />
+2.2.1 Die nativistische Kritik am Behaviorismus<br />
+2.2.2 Das Hypothesenmodell des Natural Approach<br />
+2.2.3 Der Natural Approach in der Kritik <br />
+2.3 Kognitivistisch-konstruktivistische Lernannahmen und ihre Implikationen für den Spracherwerb<br />
+2.3.1 Kognitivistisches Lernverständnis <br />
+2.3.2 Konstruktivistische Vorstellungen von Sprachkompetenz<br />
+2.3.3 Spracherwerb als kreativer Selbstorganisationsprozess durch Interaktion</p>
+<p>3 Kognition und Emotion beim Sprachenlernen<br />
+3.1 Fremdsprachenlernen als kognitiver Prozess<br />
+3.2 Zur Bedeutung der Emotionen beim Sprachenlernen und beim Sprachgebrauch <br />
+3.2.1 Emotionen bei der Sprachverarbeitung bzw. beim Sprachenlernen<br />
+3.2.2 Emotionen in der Kommunikation<br />
+3.3 Motivation beim fremdsprachlichen Lernen – ein Zusammenspiel kognitiver und affektiver Faktoren<br />
+3.4 Erste Folgerungen für den Fremdsprachenunterricht</p>
+<p>4 Zur bildungspolitischen Geschichte des Fremdsprachenunterrichts<br />
+4.1 Eine lange Vorgeschichte <br />
+4.1.1 Latein als mittelalterliche lingua franca von Kirche und Bildung <br />
+4.1.2 Das Bildungsverständnis von Humanismus, Reformation und Aufklärung und die sprachlichen Implikationen <br />
+4.1.3 Anfänge des neusprachlichen Unterrichts<br />
+4.2 Neugestaltung des Schulwesens um 1800<br />
+4.3 Fremdsprachenunterricht im 19. Jahrhundert<br />
+4.3.1 Weichenstellungen für den modernen Fremdsprachenunterricht im 19. Jahrhundert<br />
+4.3.2 Das Problem der Unterrichtsmethode<br />
+4.3.3 Fremdsprachenunterricht und Geschlechterverhältnisse <br />
+4.3.4 Methodenreform zur Jahrhundertwende<br />
+4.4 Fremdsprachenunterricht im 20. Jahrhundert<br />
+4.4.1 Leitziel Kulturkunde<br />
+4.4.2 Fremdsprachenunterricht im Nationalsozialismus <br />
+4.4.3 Neuorientierungen nach 1945</p>
+<p>5 Konzeptionen des Fremdsprachenunterrichts: vom Sprachwissen zu kommunikativer Kompetenz<br />
+5.1 Unterrichtskonzeptionen: das Was, das Wie und das Warum<br />
+5.2 Begriffsklärung: Unterrichtsmethoden<br />
+5.3 Geschlossene Konzeptionen des Fremdsprachenunterrichts<br />
+5.3.1 Die „klassische“ Grammatik-Übersetzungsmethode (GÜM) <br />
+5.3.2 Kritik an der GÜM und die Direkte Methode<br />
+5.3.3 Die audiolinguale und audiovisuelle Methode <br />
+5.4 Lernziel „Kommunikative Kompetenz“</p>
+<p>6 Medien des Fremdsprachenunterrichts im Wandel<br />
+6.1 Zum Medienbegriff<br />
+6.2 Ein Blick zurück<br />
+6.3 Medienpädagogik<br />
+6.4 Medien im fremdsprachlichen Unterricht <br />
+6.4.1 Das Lehrbuch<br />
+6.4.2 Film<br />
+6.4.3 Neue Medien<br />
+6.5 Medien als Chance und Problem</p>
+<p>7 Interaktion im fremdsprachlichen Klassenzimmer<br />
+7.1 Eine Vorbemerkung zum Verhältnis von schulischer und außerschulischer Welt<br />
+7.2 Was ist Interaktion?<br />
+7.3 Interaktion im Klassenzimmer <br />
+7.4 Interaktionsbedingungen des kommunikativen Fremdsprachenunterrichts<br />
+7.5 Die dreifache Kontextualisierung der Interaktion im Fremdsprachenunterricht<br />
+7.6 Einige typische Interaktionsmuster lehrerzentrierten Fremdsprachenunterrichts<br />
+7.6.1 Das <span class="caps">IRE</span>-Schema<br />
+7.6.2 Sprachformbezug vs. Mitteilungsbezug<br />
+7.6.3 Evaluation/Feedback<br />
+7.7 Visionen eines interaktiven fremdsprachlichen Klassenzimmers</p>
+<p>8 Zwei Initiativen zur Jahrtausendwende: Fremdsprachenunterricht in der Grundschule und Bilingualer Unterricht<br />
+8.1 Fremdsprachenunterricht in der Grundschule<br />
+8.1.1 Vorläufer<br />
+8.1.1.1 Waldorfschulen<br />
+8.1.1.2 Regelschulen<br />
+8.1.2 Institutionalisierung seit Beginn der 1990er Jahre – Der Streit um die Modelle <br />
+8.1.3 Was sagt die Forschung zum frühen Fremdsprachenlernen?<br />
+8.1.4 Elemente eines aussichtsreichen frühen Fremdsprachenunterrichts <br />
+8.2 Bilingualer Unterricht <br />
+8.2.1 Zum Begriff <br />
+8.2.2 Entstehungsgeschichte<br />
+8.2.3 Organisationsformen <br />
+8.2.3.1 Das Grundmodell<br />
+8.2.3.2 Kompetenzkurse für die Sekundarstufe II<br />
+8.2.3.3 Bilingualer Unterricht in der Grundschule<br />
+8.2.4 Begründungen und Erwartungen <br />
+8.2.5 Didaktische Verortung</p>
+<p>9 Europäische Sprachenpolitik und die Bildungsstandards in Deutschland<br />
+9.1 Förderung von Mehrsprachigkeit<br />
+9.2 Der Gemeinsame Europäische Referenzrahmen für Sprachen (<span class="caps">GER</span>) <br />
+9.2.1 Entstehung <br />
+9.2.2 Anlage und Kernelemente <br />
+9.3 Das Europäische Sprachenportfolio<br />
+9.3.1 Bestandteile<br />
+9.3.2 Funktionen<br />
+9.4 Kompetenzorientierung und Bildungsstandards<br />
+9.4.1 Der Paradigmenwechsel zur Kompetenz- und Standardorientierung<br />
+9.4.2 Begriffsbestimmungen<br />
+9.4.3 Die Bildungsstandards für die erste Fremdsprache (Englisch/Französisch) für den Mittleren Schulabschluss<br />
+9.5 Kritik an der Sprachenpolitik</p>
+<p>10 Sprachliche Mittel funktional-kommunikativer Kompetenzen: Wortschatz und Grammatik<br />
+10.1 Wortschatzarbeit<br />
+10.1.1 Das mentale Lexikon<br />
+10.1.2 Speicherung des Wortschatzes, Aktivierung und Erweiterung des mentalen Lexikons<br />
+10.1.3 Didaktisch-methodische Perspektiven der Wortschatzarbeit<br />
+10.1.4 Ansätze einer Mehrsprachigkeitsdidaktik <br />
+10.2 Grammatikarbeit <br />
+10.2.1 Der Streit um die Bedeutung grammatischen Lernens<br />
+10.2.2 Verfahren grammatischen Lernens und Lehrens</p>
+<p>11 Fertigkeitsbezogene funktional-kommunikative Kompetenzen<br />
+11.1 Gezielte Schulung der fünf Fertigkeiten <br />
+11.1.1 Hör- und Hörsehverstehen<br />
+11.1.2 Leseverstehen<br />
+11.1.3 Sprechen<br />
+11.1.4 Schreiben<br />
+11.1.5 Sprachmittlung <br />
+11.2 Verfahren integrativer Fertigkeitsschulung im Zeichen von Handlungs- und Aufgabenorientierung<br />
+11.3 Überprüfung sprachlicher Kompetenzstände<br />
+11.3.1 Grundlegende Aspekte der Sprachtestforschung<br />
+11.3.2 Problematik eines testorientierten Fremdsprachenunterrichts</p>
+<p>12 Methodische Kompetenzen<br />
+12.1 Begriffsbestimmungen von Methodenkompetenz<br />
+12.2 Aufbau von Sprachlernkompetenzen <br />
+12.2.1 Das Konzept der Lernerautonomie<br />
+12.2.2 Sprach(lern)bewusstheit<br />
+12.2.3 Der Einsatz von Lern(er)strategien<br />
+12.3 Aufbau von Medienkompetenzen</p>
+<p>13 Interkulturelle Kompetenzen – interkulturelles Lernen<br />
+13.1 Historische Aspekte der Kultur- und Landeskunde<br />
+13.2 Zielformulierungen interkulturellen Lernens<br />
+13.3 Umgang mit Stereotypen<br />
+13.4 Didaktik des Fremdverstehens <br />
+13.5 Kulturwissenschaftlich orientierte Zugänge<br />
+13.6 Inhalte und Verfahren interkulturellen Lernens <br />
+13.7 Zur Modellierung interkultureller Kompetenz(en)</p>
+<p>14 Literarisch-ästhetische Kompetenzen: die Arbeit mit Literatur, Film, Comics, Bildern<br />
+14.1 Texte als Gegenstände des Fremdsprachenunterrichts<br />
+14.2 Entwicklungstendenzen fremdsprachenbezogener Literaturdidaktik<br />
+14.2.1 Ein Rückblick auf die Zeit bis ca. 1990<br />
+14.2.2 Leitlinien kreativer Textarbeit<br />
+14.2.3 Schulung literarischen Lesens<br />
+14.2.4 Literatur als Anlass interkulturellen Lernens<br />
+14.3 (Audio-)Visuelle Medientexte <br />
+14.3.1 Bilder<br />
+14.3.2 Comics<br />
+14.3.3 Spielfilme<br />
+14.4 Zur Modellierung literarisch-ästhetischer Kompetenzen</p>
+<p>Nachwort</p>
+<p>Literaturverzeichnis</p>
+<p>Sachregister</p>
+<p>Abbildungsverzeichnis</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Autoren: Helene Decke-Cornill, Lutz Küster</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/1709-Maria_Manderfeld" class="tag multiline" popup="true">Maria Manderfeld</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Montag, 24. März 2014, 00:00 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Dienstag, 22. April 2014, 11:19 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

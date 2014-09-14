@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/2002-Pseudorelative_gerundi_e_infiniti_nelle_variet_romanze_affinit_solo_superficiali_e_corrispondenze_strutturali' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Pseudorelative, gerundi e infiniti nelle varietà romanze: affinità (solo) superficiali e corrispondenze strutturali (Dissertation)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='2002'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Autor(en)</h4>
+<a href="/pers/3220-Jan_Casalicchio" class="tag multiline" popup="true">Jan Casalicchio</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Hochschule</dt>
+<dd>Università di Padova</dd>
+<dt>Ort der Hochschule</dt>
+<dd>Padova</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2013
+</dd>
+<dt>Abgabedatum</dt>
+<dd>
+April
+2013
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Italienisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Sprachwissenschaft
+</dd>
+</dl>
+<div class='col_8 last'>
+<h4>Betreuer</h4>
+<span class='tag multiline'>Cecilia Poletto</span>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>L’argomento di questa tesi è un confronto tra i costrutti predicativi di tipo frasale nelle diverse varietà romanze. Mentre le pseudorelative sono diffuse pressoché in tutta la Romània, con qualche variazione parametrica minore, i gerundi predicativi e gli infiniti preposizionali sono usati solo in alcune varietà. Negli studi linguistici sull’argomento è mancata finora l’ottica comparativa, sia tra varietà diverse, sia tra costrutti predicativi diversi. Il mio lavoro si prefissa lo scopo di colmare questa lacuna, senza ignorare però i costrutti percettivi composti da un infinito semplice, che da parte della letteratura sono stati paragonati alle strutture predicative delle pseudorelative. Infine, tratterò anche dei gerundi e infiniti preposizionali delle varietà ladine: si tratta di un uso conservativo, perché nelle varietà italoromanze attigue quest’uso si è perso molto tempo fa.<br />
+Questo lavoro si propone di analizzare le pseudorelative, i gerundi predicativi e gli infiniti preposizionali come Frasi Ridotte con funzione predicativa; questi costrutti possono avere tre strutture sintattiche diverse, a seconda dei contesti in cui sono inseriti, come propone Cinque (1992) e come è dimostrato da numerosi test. La corrispondenza strutturale è particolarmente stretta tra i gerundi e gli infiniti preposizionali: l’unica differenza è data dal movimento del verbo, che nelle gerundive sale alla sinistra di una preposizione foneticamente nulla, che si incorpora nel verbo dando origine alla forma del gerundio; quando il verbo non può muoversi fino alla preposizione, invece, si ha un infinito dove la preposizione è realizzata. Da questo quadro sono esclusi però i gerundi e infiniti preposizionali del ladino, che presentano una serie di tratti divergenti rispetto ai corrispondenti costrutti delle altre varietà: queste divergenze li accomunano invece agli infiniti semplici dei costrutti percettivi. Per questo motivo, propongo che in queste varietà i costrutti siano delle strutture definite tradizionalmente ‘ECM’, come gli infiniti semplici.<br />
+Le conclusioni a cui giungo in questa tesi sono di interesse per la ricerca romanistica comparativa, dove non si è mai proposto un confronto tra i vari costrutti predicativi. Inoltre, questo lavoro offre degli argomenti aggiuntivi per mostrare come le varietà ladine delle Dolomiti siano anche sintatticamente conservative. Ulteriori spunti interessanti, in vista di possibili sviluppi futuri, sono forniti dall’analisi – inedita all’interno del modello generativista – dei gerundi (non solo predicativi) come infiniti che incorporano una preposizione, e dal comportamento degli infiniti semplici, la cui struttura andrebbe rianalizzata scartando l’analisi tradizionale di tipo <span class="caps">ECM</span>, che non appare adeguata per cogliere tutte le caratteristiche dei costrutti infinitivi romanzi.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Introduzione<br />
+Obiettivi</p>
+<p>Lo scopo di questo lavoro è di fornire un’analisi dettagliata dei costrutti predicativi di tipo frasale usati nell’area romanza. La scelta di quest’argomento è stata ispirata dai dati che ho raccolto nella mia tesi di laurea (Casalicchio 2009), dedicata ai verbi di percezione in gardenese: in questa varietà le costruzioni percettive possono essere formate da un verbo al gerundio, ma non all’infinito, come avviene invece in quasi tutte le altre varietà romanze. Proprio il confronto tra varietà geneticamente affini è uno dei punti chiave per comprendere meglio il ruolo del gerundio cosiddetto ‘predicativo’ in ladino. Il secondo punto fondamentale, a mio avviso, è costituito dal confronto con altre strutture simili, come le pseudorelative e gli infiniti preposizionali, per coglierne affinità e differenze.<br />
+Questi tre costrutti predicativi vengono analizzati nella duplice ottica del confronto tra strutture superficialmente diverse e tra varietà romanze differenti. Le pseudorelative, che hanno una diffusione quasi panromanza, hanno attirato l’attenzione di numerosi studiosi che hanno proposto analisi divergenti (in particolare Radford 1975, Burzio 1986, Guasti 1988 e Cinque 1992); sulle gerundive e sugli infiniti preposizionali in funzione predicativa, invece, esiste un numero di studi molto ridotto (rispettivamente Borgonovo 1996 e Di Tullio 1998 sulle gerundive, Raposo 1989 e Guasti 1992 sugli infiniti preposizionali). Mancano invece studi che mettano sistematicamente a confronto questi tre costrutti: solo Guasti (1992) propone un confronto tra pseudorelative dell’italiano e infiniti preposizionali del portoghese, mentre Di Tullio (1998) nel suo lavoro sui gerundi si rifà implicitamente all’analisi delle pseudorelative di Cinque (1992).<br />
+Un secondo aspetto poco studiato riguarda i contesti d’uso di questi costrutti: gli studi principali si concentrano quasi esclusivamente sulle costruzioni percettive, e solo Raposo (1989) e Cinque (1992) ampliano l’analisi anche ad altri contesti. A questi due articoli si aggiungono le monografie di Strudsholm (1998) e Scarano (2002), che operano in un quadro teorico diverso dal modello generativista. Ciononostante, questa tesi ha tratto giovamento dalla visione più ampia di cui sono portatori questi due contributi, in particolare dalle osservazioni di Scarano (2002) che dimostrano l’indipendenza delle pseudorelative dalla semantica percettiva o presentativa.<br />
+Infine, sono poco numerosi anche gli studi che cercano di confrontare i costrutti predicativi delle diverse varietà romanze, perché in quest’ambito i lavori tendono a limitarsi a una sola lingua, oppure a dare per scontato una corrispondenza strutturale delle medesime forme superficiali in varietà diverse. Al confronto intraromanzo sono dedicati quasi esclusivamente Siller-Runggaldier (1998), che confronta l’uso dei gerundi con i verbi di percezione romanzi in ottica non generativista, e la già citata Guasti (1992).<br />
+Questa tesi è nata quindi con l’intento di offrire un’inedita visione globale, rispetto a quelle finora assunte dalla letteratura. Inedita, perché cerca di sovrapporre i tre aspetti che ho qui discusso: il confronto tra pseudorelative, gerundi e infiniti preposizionali, lo studio di questi costrutti in un ampio numero di contesti sintattici, non limitato ai verbi di percezione, e infine il confronto tra varietà diverse all’interno della Romània. Questi tre aspetti, considerati nel loro insieme, permetteranno di formulare una proposta di analisi originale, che tenga conto – per quanto possibile – della variazione inter- e intralinguistica e delle osservazioni contenute nella letteratura precedente, non solo di ambito generativista.<br />
+Le conclusioni a cui giungo rendono possibile l’inserimento dei dati del ladino gardenese all’interno del quadro romanzo e dimostreranno ancora una volta il carattere conservativo di questa varietà; la conferma di quest’affermazione giungerà dalla descrizione dei principali costrutti predicativi in italiano antico, che conclude il lavoro.<br />
+Rimane da discutere il ruolo dell’infinito semplice nei costrutti percettivi: mentre diversi studi sostengono – implicitamente o esplicitamente – il carattere predicativo di questa struttura, cercherò di dimostrare come le numerose differenze tra l’infinito semplice e il gerundio predicativo siano spiegabili solo se si postula una differenza a livello di struttura, escludendo quindi l’infinito semplice dal novero dei costrutti predicativi.<br />
+Raccolta dei dati</p>
+<p>La raccolta dei dati sulla sincronia è avvenuta con una duplice modalità. Una prima fonte è costituita da esempi citati in testi scritti, in particolare nella letteratura scientifica precedente, di varia natura (dalle grammatiche normative ai lavori di linguistica formale); questi esempi riguardano soprattutto le lingue più studiate, in particolare lo spagnolo. I dati che ho estrapolato da questi testi mi sono stati utili in un momento iniziale, quando mi sono avvicinato all’argomento di questa tesi, perché mi hanno fornito un primo quadro della situazione generale e mi hanno offerto degli spunti interessanti per le successive fasi di lavoro. Nei testi scientifici ho trovato anche alcuni test sintattici, che mi hanno fornito un primo orientamento per l’interpretazione dei dati. Tra questi, sono stati particolarmente utili Radford (1975 e 1977), Burzio (1986), Cinque (1992); per lo spagnolo Di Tullio (1998) e per il portoghese Duarte (2003). Per il ladino mi sono avvalso anche di un’altra fonte, costituita da un corpus di testi letterari digitalizzati che ho tratto dal progetto CorpusLad; una parte di questi dati era già stata elaborata nella mia tesi di laurea.<br />
+In un momento successivo mi sono avvalso di un altro metodo di raccolta dei dati: il questionario scritto. Ai parlanti nativi di diverse varietà romanze (vd. infra per l’elenco delle varietà indagate, e per un fac simile del questionario nella versione italiana) sono state sottoposte 52 frasi che indagavano i principali contesti d’uso della pseudorelativa e delle altre costruzioni affini. Per ogni domanda si offrivano tre versioni della stessa frase, una con la pseudorelativa, una con il gerundio e una con l’infinito preposizionale, da tradurre nella propria varietà, se erano grammaticali in quel contesto. Quando la frase stimolo conteneva un verbo percettivo, c’era una quarta alternativa, formata da un infinito semplice. Ogni due – tre frasi, inoltre, era inserita una frase filler per evitare un ‘effetto inerzia’ nelle risposte degli informatori. Per chi non conosceva l’italiano, invece, ho preparato una variante del questionario che conteneva le glosse e una traduzione il più possibile letterale della frase stimolo in inglese. In tutti i casi si chiedeva agli informatori di mettere per iscritto le frasi grammaticali nella loro varietà.<br />
+Per i parlanti spagnolo e ladino gardenese ho fatto un’eccezione: visto che si trattava delle due varietà che erano le più importanti per questo progetto di ricerca, ho deciso di fornire direttamente le diverse frasi nella loro varietà, e di far loro indicare la grammaticalità delle diverse frasi.<br />
+Oltre alla versione integrale, ho preparato anche una versione abbreviata del questionario, che conteneva soltanto le frasi più importanti per la ricerca; anche in questo caso le domande erano intervallate da frasi filler. Il questionario abbreviato conteneva in tutto diciotto frasi ed è stato usato per quelle varietà a cui prevedevo di dare uno spazio minore all’interno della tesi.<br />
+Visto lo scopo di ottenere dati da tutti i principali gruppi dialettali dell’Italia settentrionale, nonché da tutte le principali lingue romanze, mi è sembrato che l’invio dei questionari per posta elettronica fosse la modalità più adeguata. Per evitare fraintendimenti nelle risposte, all’inizio del questionario ho spiegato nei dettagli gli scopi della ricerca e le modalità con cui bisognava rispondere alle singole domande. In ogni caso, mi sono riservato di reinterpellare gli informatori in un secondo momento, per avere la conferma di dati particolarmente importanti o inattesi e per approfondire determinati aspetti delle singole varietà. Infine, dopo aver analizzato i dati che ho raccolto tramite i questionari, ho iniziato un’ultima fase di inchieste, svolte a voce, in cui ho posto delle domande più specifiche e puntuali a singoli informatori.<br />
+Organizzazione del lavoro</p>
+<p>La tesi è organizzata nel modo seguente: i primi tre capitoli sono dedicati alla discussione e analisi delle pseudorelative. La tesi si apre con la descrizione dei primi studi sulla pseudorelativa (capitolo 1). A questi fa seguito, nel medesimo capitolo, la descrizione delle principali caratteristiche di tipo semantico e sintattico e l’illustrazione delle principali analisi delle pseudorelative a partire da Radford (1975), con un’attenzione principale sui lavori di ambito generativista. La discussione delle diverse proposte teoriche mostrerà come l’analisi tripartita di Cinque (1992), che propone che le pseudorelative possano avere tre strutture diverse a seconda del contesto sintattico in cui sono usate, sia la più indicata a spiegare l’intera gamma delle peculiarità di questo costrutto.<br />
+Il secondo capitolo è una descrizione approfondita dei contesti sintattici in cui si può usare una pseudorelativa. Per l’analisi, infatti, è importante non limitarsi ai costrutti percettivi, perché permettono l’uso delle pseudorelative con tutte e tre le strutture sintattiche, e per questo motivo il comportamento delle pseudorelative nei test basati sui costrutti percettivi appare spesso ambiguo. Solo la piena contestualizzazione dell’uso delle pseudorelative permette invece di cogliere nel dettaglio la loro struttura.<br />
+Le osservazioni contenute nella letteratura precedente sull’argomento e i dati tratti dalla descrizione dei contesti d’uso della pseudorelativa forniscono la base per la mia proposta di analisi, che espongo nel capitolo 3. Il punto di partenza è l’analisi tripartita del già citato studio di Cinque (1992), che riattualizzo tenendo conto delle teorie più recenti, in particolare sulla periferia sinistra e sulle proiezioni funzionali in TP.<br />
+Con il quarto capitolo si passa all’analisi comparata, che prende in considerazione i gerundi predicativi e gli infiniti preposizionali nelle varietà che ne fanno uso. Il confronto viene effettuato sia a livello descrittivo, con la verifica dei contesti sintattici in cui questi costrutti possono apparire, rispetto alla pseudorelativa, sia a livello strutturale, verificando l’applicabilità di un’analisi tripartita anche a questi costrutti. La parte finale del capitolo è invece dedicata all’infinito semplice delle costruzioni percettive, per escludere la possibile somiglianza strutturale di questi costrutti.<br />
+Rimane da confrontare l’analisi proposta per i gerundi e infiniti preposizionali di lingue come lo spagnolo e il portoghese con gli analoghi costrutti del ladino (capitolo 5). Il ladino si rivelerà ancora una volta come un gruppo di varietà particolarmente conservative, che ha mantenuto per i gerundi la possibilità di entrare nella struttura faire-par (Kayne 1975); la valutazione dei dati diacronici, considerati nell’ultima parte del capitolo, corroborerà una volta di più questo tratto peculiare.<br />
+La tesi ha così lo scopo di indagare a fondo alcune somiglianze superficiali, per verificare se vi corrispondano anche delle strutture simili, e di valutare all’opposto se vi siano delle corrispondenze strutturali in costrutti superficialmente diversi.<br />
+Quadro teorico di riferimento</p>
+<p>Il quadro teorico di riferimento è costituito dal modello della grammatica generativa, in particolare il progetto cartografico, come è andato sviluppandosi a partire da Rizzi (1997). In particolare, la mia ricerca poggia sui lavori di Cinque (1999 e 2006) per le proiezioni funzionali inserite nel TP e su Benincà (2001) e Benincà/Poletto (2004) per l’analisi dettagliata delle proiezioni della periferia sinistra, inclusi i test per ricostruirne le singole posizioni.<br />
+Il lavoro è dunque pienamente inserito in questo indirizzo teorico. Ciononostante, ho cercato di rendere fruibile questa tesi anche a chi è estraneo al modello generativista, curando di mantenere il più possibile separate le sezioni descrittive da quelle di analisi. Di conseguenza, la prima parte del capitolo uno, il capitolo due, la sezione iniziale del capitolo tre, i paragrafi che descrivono la sintassi dei gerundi e degli infiniti preposizionali (capitolo quattro) e gran parte del capitolo cinque fanno ricorso solo marginalmente a nozioni e concetti peculiari al generativismo, e sono di interesse anche per chi lavora in ambiti teorici diversi. In particolare, penso che i risultati principali di questo lavoro, fondati sul confronto tra costrutti diversi all’interno della Romània, possano rimanere validi anche in un quadro che prescinda da quello generativo.<br />
+Indice</p>
+<p>Introduzione<br />
+1. Capitolo 1: La pseudorelativa: caratteristiche, definizione e analisi precedenti<br />
+1.0 Introduzione<br />
+1.1 Le prime descrizioni<br />
+1.2 Caratteristiche della pseudorelativa<br />
+1.2.1. Semantica della percezione<br />
+1.2.2. Funzione della pseudorelativa<br />
+1.2.3 I ruoli tematici<br />
+1.2.4. Tipologia del verbo matrice<br />
+1.2.5 Restrizioni sulla frase matrice<br />
+1.2.6. Anaforicità del tempo verbale<br />
+1.2.7 Possibilità di negare il verbo della pseudorelativa<br />
+1.2.8 Restrizioni su verbo incassato (esclusione di modali e stativi)<br />
+1.2.9 L’elemento subordinante<br />
+1.2.10 L’antecedente<br />
+1.2.11 Forme che alternano con la pseudorelativa<br />
+1.3 Definizione di pseudorelativa e differenze con le relative ordinarie<br />
+1.4 Le principali analisi della pseudorelativa secondo il modello generativista<br />
+1.4.1 I tre filoni di analisi della pseudorelativa<br />
+1.4.2 L’analisi a due costituenti<br />
+1.4.3 Le analisi a costituente unico<br />
+1.4.4 L’analisi unificata di Cinque (1992)<br />
+1.4.5 Le analisi successive a Cinque (1992)<br />
+1.4.6 Riassunto<br />
+1.5 Conclusioni</p>
+<p>2. Capitolo: Descrizione dei contesti d’uso della pseudorelativa<br />
+2.1 Introduzione<br />
+2.2 La pseudorelativa nei complementi dei verbi transitivi<br />
+2.2.1 La pseudorelativa come argomento di un verbo transitivo<br />
+2.2.2 La pseudorelativa come aggiunto dell’oggetto di un verbo transitivo<br />
+2.2.3 La pseudorelativa con i verbi come sopportare<br />
+2.2.4 Riassunto<br />
+2.3 La pseudorelativa all’interno di un Sintagma Preposizionale (PP)<br />
+2.3.1 Il costrutto ‘con + DP + pseudorelativa’ nei costrutti assoluto e dipendente<br />
+2.3.2 Altri tipi di PP circostanziali<br />
+2.3.3 Il PP proiettato dalla preposizione con in funzione di complemento predicativo<br />
+2.3.4 La pseudorelativa nei PP con funzione argomentale<br />
+2.3.5 I PP interni ai DP<br />
+2.3.6 Riassunto<br />
+2.4 Le espressioni di luogo<br />
+2.5 I costrutti presentativi<br />
+2.5.1 Il verbo avere con valore presentativo<br />
+2.5.2 La pseudorelativa con il c’è presentativo (e locativo)<br />
+2.5.3 Le frasi presentative introdotte dall’avverbio ecco<br />
+2.5.4 I rimanenti contesti presentativi<br />
+2.5.5 Riassunto<br />
+2.6 La pseudorelativa riferita al soggetto<br />
+2.6.1 La pseudorelativa come complemento predicativo opzionale del soggetto<br />
+2.6.2 La pseudorelativa come modificatore interno di un DP<br />
+2.6.3 La pseudorelativa nei predicati nominali<br />
+2.7 Espressioni libere<br />
+2.8 Casi apparenti di pseudorelativa<br />
+2.8.1 Le frasi con estar que<br />
+2.8.2 Le frasi scisse<br />
+2.9 Riassunto</p>
+<p>Capitolo 3: Analisi delle pseudorelative<br />
+3.1 Introduzione<br />
+3.2 Le Frasi Ridotte<br />
+3.3 L’analisi come CP ridotto<br />
+3.4 L’analisi come DP complesso<br />
+3.5 L’analisi a due costituenti<br />
+3.6 Conclusioni</p>
+<p>Capitolo 4: I costrutti al gerundio e all’infinito<br />
+4.1 Introduzione<br />
+4.2 Il gerundio predicativo<br />
+4.2.1 Lo spagnolo<br />
+4.2.2 Altre varietà romanze che usano il gerundio in funzione predicativa<br />
+4.2.3 Proposta di analisi delle frasi gerundive<br />
+4.3 L’infinito preposizionale<br />
+4.3.1 L’italiano standard<br />
+4.3.2 I dialetti galloitalici .<br />
+4.3.3 Il friulano<br />
+4.3.4 Il portoghese<br />
+4.3.5 Proposta di analisi dell’infinito preposizionale<br />
+4.4 L’infinito semplice<br />
+4.4.1 Analogie tra infiniti semplici e costrutti predicativi<br />
+4.4.2 Differenze tra gli infiniti semplici e i costrutti predicativi<br />
+4.5 Conclusioni</p>
+<p>Capitolo 5: I gerundi e gli infiniti in ladino. Analisi e ricostruzione diacronica .<br />
+5.1 Introduzione<br />
+5.2 I dati del ladino<br />
+5.2.1 Caratteristiche del gerundio ladino – analogie e differenze con lo spagnolo<br />
+5.2.2 Paragone tra i costrutti gerundivi del ladino e le infinitive dell’italiano<br />
+5.3 La ricostruzione diacronica per l’interpretazione dei costrutti percettivi ladini<br />
+5.3.1 Lo sviluppo comune: il latino classico e volgare<br />
+5.3.2 Il passaggio dal latino alle lingue romanze<br />
+5.3.3 L’uso del gerundio nei volgari centrosettentrionali del medio evo<br />
+5.3.4 Riassunto sulla situazione del Medio Evo<br />
+5.3.5 Il passaggio dal Medio Evo all’epoca moderna e la ‘nascita’ dell’infinito preposizionale<br />
+5.3.6 Caratteristiche di tipo monofrasale dei gerundi e infiniti preposizionali<br />
+5.3.7 Gli sviluppi più recenti<br />
+5.3.8 I dati del ladino alla luce dell’analisi diacronica<br />
+5.4 Conclusioni</p>
+<p>Appendice al capitolo 5 – Carte geografiche tematiche<br />
+Conclusioni<br />
+Elenco dei testi citati .<br />
+Bibliografia<br />
+Appendice: Questionario e elenco delle varietà indagate</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/425-Redaktion_romanistik_de" class="tag multiline" popup="true">Redaktion romanistik.de</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Dienstag, 02. Juli 2013, 16:03 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Dienstag, 02. Juli 2013, 16:03 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

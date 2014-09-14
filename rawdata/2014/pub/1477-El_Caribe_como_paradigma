@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/1477-El_Caribe_como_paradigma' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>El Caribe como paradigma (Sammelband)</h2>
+<h3>Convivencias y coincidencias históricas, culturales y estéticas. Un simposio transareal</h3>
+<hr>
+<abbr class='unapi-id' title='1477'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<a href="/pers/40-Anne_Kraume" class="tag multiline" popup="true">Anne Kraume</a>
+<a href="/pers/136-Ottmar_Ette" class="tag multiline" popup="true">Ottmar Ette</a>
+<a href="/pers/2026-Gesine_Mueller" class="tag multiline" popup="true">Gesine Mueller</a>
+<a href="/pers/154-Werner_Mackenbach" class="tag multiline" popup="true">Werner Mackenbach</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Walter Frey edition tranvía</dd>
+<dt>Ort</dt>
+<dd>Berlin</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2012
+</dd>
+<dt>Reihe</dt>
+<dd>Pointe – Potsdamer inter- und transkulturelle Texte 2</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.tranvia.de/" target="_blank">http://www.tranvia.de/</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-3-938944-60-8
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-938944-60-8&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Spanisch, Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>A lo largo de las últimas décadas, la región del Gran Caribe ha ido cobrando de forma continuada un gran auge como uno de los lugares privilegiados para la producción de teorías como la négritude, la créolité o la relationalité; y es en ese orden cronológico que se intenta centrar la mirada, concretamente, en la convivencia en las islas de ese archipiélago y de su diáspora, o de desarrollar a partir de ahí categorías universales como las que han propuesto varios intelectuales.</p>
+<p>Si como substrato de este tomo podemos sacar la conclusión de que las islas del Caribe como otras regiones insulares han de ser entendidas como espacios sumamente complejos en los que se condensan (si bien no se simplifican) ciertos procesos, ello quiere decir entonces, con vistas a la crisis en la que se encuentra sumida nuestra convivencia global en la actualidad, que vale la pena echar una ojeada a cómo la literatura procesa y reproduce esa convivencia. El Caribe, en su relacionalidad transarchipiélica, se ha convertido en un paradigma que se proyecta tanto hacia el pasado como hacia el futuro.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Introducción<br />
+El Caribe téorico<br />
+Ana Pizarro (Santiago de Chile) Flujos en la construcción del discurso. A propósito del Caribe</p>
+<p>Claudia Hammerschmidt (Jena) Corrientes del discurso caribeño o Tres vistas del amanecer en el trópico (Guillermo Cabrera Infante, Édouard Glissant, Dany Laferrière)</p>
+<p>Gesine Müller (Potsdam) Modelos caribeños de producción teórica: desde la Martinica al Tout-Monde</p>
+<p>Enrico Mario Santí (Lexington) El paradigma, o paradoja, del Caribe</p>
+<p>El Caribe historiográfico<br />
+Héctor Pérez Brignoli (San José) Las lógicas del mestizaje en América Central</p>
+<p>Ottmar Ette (Potsdam) Nuestra América de José Martí o los senderos hacia un humanismo americano</p>
+<p>Marco Thomas Bosshard (Bochum) Ecos caribes y arahuacos en el Caribe anglófono y holandés. La poesía de Derek Walcott, Wilson Harris y Trefossa y el “saber sobre/morir”</p>
+<p>Pablo Faúndez (Berlín) La ciudad del poeta y la ciudad del historiador: versiones finiseculares de Santiago de Chile desde Rubén Darío y Justo Abel Rosales</p>
+<p>Julio Escoto (San Pedro Sula) Texturas humanas e intercambios históricos en Centroamérica y el Caribe. Inventario inconcluso</p>
+<p>El Caribe diaspórico<br />
+Yvette Sánchez (St. Gallen) La retrospección abriéndose camino. Los EE.UU. como interfaz de los Latinos caribeños</p>
+<p>Anne Brüske (Heidelberg) Écriture et œuvre d’art dans la littérature de la diaspora caribéenne nord-américaine – Formes et fonctions de l’autoréférentialité transmédiale chez Edwidge Danticat et Junot Díaz</p>
+<p>El Circuncaribe<br />
+Werner Mackenbach (Potsdam) Veladas, veredas y verdades tropicales en El Génesis en Santa Cariba de Julio Escoto o el paradigma del Caribe desde Centroamérica</p>
+<p>Vicente Bernaschina Schürmann (Potsdam) Un si1000 en300: el doctor Tomás de Estrada y su Trágica descripción del terremoto en Guatemala en 1751</p>
+<p>Ana Sobral (Konstanz) “Influencias: Nuestr@s Viv@s, Nuestr@s Muert@s”: Re-creaciones nacionales en el hip hop caribeño y centroamericano</p>
+<p>Alexandra Ortiz Wallner (Berlín) Horacio Castellanos Moya y Rodrigo Rey Rosa: los pre-textos de la literatura y su paradoja</p>
+<p>El Caribe convivencial<br />
+Jean-Pol Madou (Chambéry) L’épopée du “ vivre ensemble ” chez Glissant et Walcott</p>
+<p>Christina Liebl (Bamberg) “ Moi aussi, je vais bientôt entrer dans un tableau ” – Rapprochement des identités ambivalentes par la création artistique dans Fleur de Barbarie de Gisèle Pineau</p>
+<p>René Olivares Jara (Potsdam) Mundo mítico y crisis social. Una lectura de El reino de este mundo de Alejo Carpentier en relación con el Haití de François Duvalier</p>
+<p>Lars Eckstein (Potsdam) “We’re destroyed if we mix. And we’re destroyed if we don’t”. Indigeneity in the Modern World System and the Politics of Tricksterese in Pauline Melville’s The Ventriloquist’s Tale</p>
+<p>Anne Kraume (Potsdam) Península, península. Convivencia en Yucatán durante la guerra de castas</p>
+<p>El Caribe transareal<br />
+Julio Prieto (Potsdam) De un Caribe argentino: globalización y convivencias “impropias” en Wáshington Cucurto</p>
+<p>Andrea Gremels (Frankfurt am Main) Personificaciones de La Habana y París: Posicionamientos (trans)culturales como formas de convivencia en la poesía de William Navarrete</p>
+<p>Alan Mills (Potsdam/Ciudad de Guatemala) Piratas, hackers y coyotes: otras lecturas</p>
+<p>Ottmar Ette (Potsdam) Kleist, el Caribe y la convivencia. “Los esponsales de Santo Domingo” – un espacio para ensayar la futura convivencia</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/40-Anne_Kraume" class="tag multiline" popup="true">Anne Kraume</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Dienstag, 10. Juli 2012, 20:41 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Dienstag, 10. Juli 2012, 20:41 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

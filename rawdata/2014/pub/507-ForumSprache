@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/507-ForumSprache' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>ForumSprache (Zeitschriftenheft)</h2>
+<h3>Winter 2010</h3>
+<hr>
+<abbr class='unapi-id' title='507'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+November
+2010
+</dd>
+<dt>Jahrgang</dt>
+<dd>2010</dd>
+<dt>Nummer</dt>
+<dd>4</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.hueber.de/forum-sprache/" target="_blank">http://www.hueber.de/forum-sprache/</a></dd>
+<dt>ISSN</dt>
+<dd>1868-0852</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Spanisch, Sprachübergreifend, Italienisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Fachdidaktik, Sprachwissenschaft, Sprachpraxis
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>ForumSprache enthält fünf wissenschaftliche Beiträge und zwei Praxisbeiträge. In der Rubrik <strong>„Kontroversen“</strong> geht es dieses Mal um einen Rückblick auf die kommunikative Wende, die in Deutschland maßgeblich von Hans-Eberhard Piepho angeregt und gestaltet wurde. Zwei Autoren, Richard Matthias Müller und Christoph Edelhoff, setzen sich in kritischem oder würdigendem Rückblick mit den Theorien und Praxisvorschlägen von Hans-Eberhard Piepho auseinander. Da sie dabei von unterschiedlichen Akzenten für die Aufgabe des Fremdsprachenunterrichts ausgehen, ergibt sich eine nachdenklich stimmende Differenz in der Einschätzung. Wir hoffen, dass unsere Leserschaft dadurch motiviert wird, selbst in unserem <span class="caps">FORUM</span> in die Diskussion einzusteigen und ebenfalls zu Piepho, zum kommunikativen Fremdsprachenunterricht und seinen Kernideen oder dessen Einschätzung durch unsere Autoren Stellung zu beziehen.</p>
+<p>Die wissenschaftlichen <strong>Beiträge</strong> beziehen sich, wie in ForumSprache üblich, auf mehrere Sprachen, unterschiedliche Lernergruppen und Kontexte; sie basieren auf verschiedenen Forschungsansätzen und zeigen so die ganze Vielfalt der Fremdsprachenforschung. Gilles Breton, Giuliana Grego Bolli und Michaela Perlmann-Balme berichten über Gestaltung und Ergebnisse europäischer Seminare, die dem „Benchmarking“ bei der Beurteilung mündlicher Kompetenzen in Deutsch, Italienisch und Französisch gewidmet waren. Die beiden folgenden Beiträge betreffen das kulturelle Element des Fremdsprachenlernens in theoretischer (Lothar Bredella) und materialbezogener Perspektive (Sylvia Schulze). Jutta Rymarczyk stellt erste Ergebnisse eines empirischen Forschungsprojekts zum Erwerb von Schreibkompetenzen im frühen Englischunterricht vor. Der Beitrag von Sabine Doff und Matthias Trautmann lenkt die Aufmerksamkeit auf die Lehrkräfte und deren Reaktionen auf Schülerfeedback zum Englischunterricht.</p>
+<p>Im <strong>Praxisteil</strong> steht dieses Mal der Englischunterricht im Fokus: Wolfgang Mayer- Großkurth zeigt anhand selbst entwickelter Materialien, wie im Englischunterricht der gymnasialen Oberstufe zu interkultureller Sensibilität angeregt werden kann. Der zweite Praxisbeitrag von Richard Dawton bringt viele praktische Anregungen zum Einsatz von Yes, Minister, einer authentischen britischen Sitcom, auf unterschiedlichen Lernniveaus. Im Workshop und dem angeschlossenen Video-Kanal finden Sie drei weitere authentische Video-Clips von Pascale Caemerbeke zu ausgewählten Lieblingswörtern im Französischen. Yana Nebolsina, Französischlehrerin für Erwachsene in Luxemburg, ist unserem Aufruf gefolgt und stellt Unterrichtsideen zu Francine’s Lieblingswort zur Verfügung. Werfen Sie einen Blick darauf und lassen Sie sich inspirieren. Wir freuen uns auch auf Ihre Ideen über das Kontaktformular.</p>
+<p>ForumSprache bietet Ihnen in den weiteren Rubriken viel Interessantes, etwa aktuelle Hinweise auf Tagungsankündigungen, auf viele Webseiten zu Materialien für den Unterricht in verschiedenen Sprachen, dazu Verweise auf Rezensionen neu erschienener Fachbücher zu Fremdsprachenforschung und Fremdsprachenunterricht.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Inhaltsverzeichnis<br />
+<a href="http://www.hueber.de/sixcms/media.php/36/978-3-19-186100-1_ForumSprache_04_2010_Inhalt_D.pdf" target="_blank">http://www.hueber.de/sixcms/media.php/36/978-3-19-186100-1_ForumSprache_04_2010_Inhalt_D.pdf</a></p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Wissenschaftliche Beiträge zur Fragen der Sprachlehr- und Lernforschung und Fremdsprachendidaktik; Praxisbeiträge; Kontroversen; Videoworkshop</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/66-Gudrun_Ziegler" class="tag multiline" popup="true">Gudrun Ziegler</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Montag, 15. November 2010, 08:07 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Montag, 15. November 2010, 08:07 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

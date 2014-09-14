@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfP: Les pratiques artistiques dans l’apprentissage des langues : témoignages, enjeux, perspectives
+</h3>
+</div>
+<div class='well'>
+<p class='bottom'>
+<b>
+Frist:
+</b>
+2014-07-10
+</p>
+</div>
+<p>Revue LIDIL
+<br />Les pratiques artistiques dans l’apprentissage des langues : témoignages, enjeux, perspectives</p>
+
+<p>Filippo Fonio (GERCI), Monica Masperi (LIDILEM) éds.</p>
+
+<p>De nombreux colloques et journées d’études récents (Tunis, 2008 ; Padoue, 2010 ; Nantes, 2012 ; Grenoble, 2012 ; Paris, 2013 ; Cork, 2014) ont montré la centralité des pratiques artistiques, et notamment théâtrales, pour l’apprentissage des langues dans la perspective « communicativo-actionnelle » promue par le CECRL. </p>
+
+<p>Dans ce sillage, cet appel à contributions se donne à la fois comme objectif très général de recueillir des contributions faisant état de recherches portant sur les « apprentissages artistiques » (Conseil de l’Europe, 2000 : 44 et passim), en France et à l’étranger, et de nourrir la réflexion didactique dans ce domaine. De manière plus spécifique, ce numéro de LIDIL souhaite également faire connaitre des travaux portant sur les perspectives d’institutionnalisation des pratiques théâtrales dans les formations en langues dans l’enseignement secondaire et supérieur, en France et ailleurs, sur la base notamment des résultats fort encourageants issus des recherches en éducation (cf. entre autres The DICE Has Been Cast, 2010, et La formation et le théâtre, 2013). </p>
+
+<p>La didactique des langues en France ne s’est pas souvent interrogée sur les possibilités de formalisation et d’harmonisation d’un apprentissage artistique des langues, du moins jusqu’à une date récente. Même lorsque des contributions, pourtant nombreuses, ont été réalisées à ce sujet, la plupart se sont limitées soit à des descriptions de cas, soit à des constructions théoriques fondées mais concernant une seule langue (notamment le FLE ou l’anglais : Bonnet, 1995 ; Aden, Lovelace, 2004 ; Pierra, 2006 ; Alix, Lagorgette, Rollinat-Levasseur, 2013). Suite aux études pionnières des années 1980 et 1990, le nouveau millénaire a amené la recherche française en didactique des langues intéressée par l’apport des pratiques théâtrales à élargir son domaine de compétence en s’interrogeant, entre autres, sur les possibilités d’hybridation entre le théâtre et d’autres pratiques artistiques. Les numéro thématiques récemment consacrés par « Les Langues Modernes » à l’apprentissage artistique des langues (Pratiques artistiques et pratiques langagières, 2010 ; Pratiques théâtrales en classe de langues, à paraître 2015) en présentent des témoignages fondamentaux. Ces recherches soulignent également que certains éléments mobilisateurs dans l’apprentissage des langues trouvent des échos naturels dans la pratique théâtrale en langue étrangère (Fonio, Genicot, 2011), tels la motivation et l’empathie (Aden, 2010), le rôle de la créativité et de l’imaginaire dans l’articulation entre l’acquisition et l’apprentissage (Aden, 2008 et 2009), l’importance de la composante multiculturelle dans toute pratique artistique. Ce qui se dégage en outre des contributions scientifiques dans ce secteur est la vaste gamme d’expériences ancrées dans des situations et des contextes variés (cf. entre autres Elsir, 2008 ; De Cleen, Treffandier, 2009 ; Natanson, 2010).</p>
+
+<p>Ce numéro de LIDIL se propose donc d’apporter des propositions concrètes dans le domaine de la définition et de l’évaluation des compétences dans les pratiques artistiques en langues, et dans les pratiques théâtrales en particulier. En effet, si l’on veut désenclaver ces pratiques, leur donner une ouverture au-delà des réseaux de spécialistes et des praticiens, en faciliter la reconnaissance sociale et institutionnelle, il est nécessaire de formaliser des critères et des outils d’évaluation de ces apprentissages et des formations qui les intègrent. La visée essentielle de ce numéro sera donc de faire connaître des travaux ayant porté sur la formalisation et l’évaluation des compétences en langues par les pratiques artistico-théâtrales afin d’en dégager des principes organisateurs, de pallier partiellement les lacunes des descripteurs « traditionnels » et de faciliter ainsi l’ancrage de ces approches dans les curricula scolaires et académiques.
+<br />Les contributions attendues pourront s’inscrire dans les interrogations suivantes :
+<br />(1) quelle place peut-on faire aux pratiques artistiques dans un cursus disciplinaire à l’université ? 
+<br />(2) Sous quelles formes ces enseignements pourraient-ils être introduits et dispensés ? 
+<br />(3) De quelle manière pourrait-on les intégrer dans une offre de formation pour des publics d’étudiants spécialistes en langues et spécialistes d’autres disciplines ? 
+<br />(4) De quelle manière les approches artistiques, et théâtrales en particulier, pourraient-elles s’articuler avec l’approche actionnelle ? 
+<br />(5) Quels moyens peut-on se donner afin de parvenir à contrer une certaine méfiance à l’égard de ce type d’approche en didactique des langues ? Comment  dépasser et gérer certaines difficultés et contraintes logistiques : le nombre d’effectifs, le manque d’espaces adaptés, la remise en question du rôle de l’enseignant et de l’apprenant, les difficultés liées à l’évaluation de la progression en langue ?</p>
+
+<p>Calendrier de la publication :</p>
+
+<p>Envoi d’une proposition d’article de 3 pages (7750 signes env. hors bibliographie), en français ou en anglais : 10 juillet 2014
+<br />Notification d’acceptation de la proposition : 15 septembre 2014
+<br />Date limite d’envoi des articles rédigés : décembre 2014
+<br />NB : Les textes ne dépasseront en aucun cas 45000 signes.
+<br />Retours après évaluation par le comité scientifique : janvier-mars 2015
+<br />Date limite d’envoi des textes révisés : 15 mars 2015
+<br />Parution du numéro : décembre 2015</p>
+
+<p>Les propositions d’article doivent être envoyées aux adresses suivantes : 
+<br />filippo.fonio@u-grenoble3.fr 
+<br />monica.masperi@u-grenoble3.fr </p>
+
+<p>Références bibliographiques :</p>
+
+<p>- Aden, 2008 : Joëlle Aden, Faire du théâtre en anglais : vers une prise en compte des compétences émotionnelles, « Les Cahiers pédagogiques », 6, 2008, p. 38-40.     
+<br />- Aden, 2009 : Joëlle Aden, Les langues enactées, in Enseigner les langues vivantes avec le Cadre Européen, Sylvie Abdelgaber, Maria-Alice Medioni éds., « Les Cahiers Pédagogiques », numéro hors-série, 2009, p. 123-127.
+<br />- Aden, 2010 : Joëlle Aden, L’empathie, socle de la reliance en didactique des langues, in Enseigner les langues-cultures à l’ère de la complexité : Approches interdisciplinaires pour un monde en reliance / Teaching Language and Culture in an Era of Complexity: Interdisciplinarity Approaches for an Interrelated World, Joëlle Aden, Trevor Grimshaw, Hermine Penz éds., Bruxelles etc., Peter Lang (Coll. GRAMM-R., Etudes de linguistique française, 7), 2010, p. 23-44.
+<br />- Aden, Lovelace, 2004 : Joëlle Aden, Kester Lovelace, 3, 2, 1, Action : Le Drama pour apprendre l&#x27;anglais en cycle 3, SCEREN-CRDP de l’Académie de Créteil (coll. Devenir professeur aujourd’hui), 2004.
+<br />- Alix, Lagorgette, Rollinat-Levasseur, 2013 : Didactique du Français Langue Étrangère par la pratique théâtrale, Christophe Alix, Dominique Lagorgette, Ève-Marie Rollinat-Levasseur éds., Chambéry, Université de Savoie (Publications du LLS), 2013. 
+<br />- Bonnet, 1995 : Marie-Françoise Bonnet, Enseigner le FLE par le théâtre : le rôle dominant de l’enseignant, in La didactique au quotidien, numéro spécial du « Français dans le monde », juillet 1995, p. 36-40. 
+<br />- De Cleen, Treffandier, 2009 : Grégoire de Cleen, Frédérique Treffandier, Atelier-théâtre : quand les professeurs montent sur les planches, « Le Français dans le monde », 364, juillet-août 2009, p. 48-49.
+<br />- Elsir, 2008 : Elamin Hamid Mohamed Elsir, Théâtre et enseignement du Français Langue Étrangère, « Synergies, Algérie », 2, 2008, p. 177-184.
+<br />- Fonio, Genicot, 2011 : Filippo Fonio, Geneviève Genicot, The compatibility of drama language teaching and CEFR objectives – observations on a rationale for an artistic approach to foreign language teaching at an academic level, « Scenario », 10, 2, 2011, p. 72-84.
+<br />- La formation et le théâtre, 2013 : La formation et le théâtre, numéro spécial d’« Éducation permanente », 194, mars 2013. 
+<br />- Natanson, 2010 : Brigitte Natanson, Réflexions sur les pratiques de l’atelier d’écriture et du théâtre en langue seconde à l’université, in Journées d’étude de la Société des Hispanistes Français, Reims, mai 2010 : L’enseignement de la langue dans l’hispanisme français, Reims, Epure, 2010, p. 97-116.
+<br />- Pierra, 2006 : Gisèle Pierra, Le corps, la voix, le texte. Arts du langage en français langue étrangère, Paris, L’Harmattan, 2006. 
+<br />- Pratiques artistiques et pratiques langagières, 2010 : numéro spécial des « Langues modernes », Joëlle Aden éd., 104, 2, avril-juin 2010.
+<br />- Pratiques théâtrales en classe de langues, à paraître : numéro spécial des « Langues modernes », Emmanuelle Garnier, Nathalie Spanghero-Gaillard éds., 108, 4, fin 2014.  
+<br />- The DICE Has Been Cast, 2010 : The DICE Has Been Cast : Research Findings and Recommendations on Educational Theatre and Drama, Belgrade etc., DICE Consortium. 
+</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/3888-Filippo_Fonio">Filippo Fonio</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/3740-Reto_ZOellner">Reto Zöllner</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

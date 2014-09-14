@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+Transmediale Genre-Passagen: Interdisziplinäre Perspektiven
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Mainz
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2014-03-27
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2014-03-28
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.kulturtheaterfilm.uni-mainz.de/Dateien/Programm_Genre-Passagen-9.pdf" target="_blank">http://www.kulturtheaterfilm.uni-mainz.de/Dateien/Programm_Genre-Passagen-9.pdf</a>
+</p>
+</div>
+<p>Die Tagung widmet sich dem Phänomen transmedialer Passagen von Genremustern, wie sie sich u.a. in Literatur, Film, Fernsehen, Hörfunk, Comic und Computerspiel manifestieren. Ein zentrales Anliegen ist neben einer Grundlagenarbeit am Begriff das Ziel, Genres nicht nur einzelmedial, sondern als transmediale Phänomene zu betrachten und damit den interdisziplinären Austausch über Genrestrukturen zu fördern, deren Dynamik längst mediale Grenzen überschreitet. Die unterschiedlichen disziplinären Perspektiven sollen dadurch nicht aufgehoben, sondern in produktiven Dialog gebracht werden. 
+<br />Im Rahmen der Tagung wird auch das Jahrestreffen der AG Genre Studies der Gesellschaft für Medienwissenschaft (GfM) stattfinden. </p>
+
+<p>Veranstalter: 
+<br />Dr. Ivo Ritzer (Mediendramaturgie, Filmwissenschaft/Universität Mainz) und 
+<br />Dr. Peter W. Schulze (Romanistik/Universität Bremen).</p>
+
+<p>Veranstaltungsort:
+<br />Medienhaus der Johannes Gutenberg-Universität, Wallstraße 11, 55122 Mainz</p>
+
+<p>Tagungsprogramm:</p>
+
+<p>Donnerstag, 27. März 2014</p>
+
+<p>9.00-9.15 Uhr 
+<br />Einführung 
+<br />Dr. Ivo Ritzer / Dr. Peter W. Schulze </p>
+
+<p>9.15-11.30 Uhr 
+<br />Malerei, Musik, Klang: Audiovisuelle Genremuster</p>
+
+<p>Prof. Dr. Thomas Meder (Mainz)
+<br />Caravaggios Beitrag zur Filmwissenschaft</p>
+
+<p>Prof. Dr. Peter Moormann (Köln)
+<br />Genrespezifika in der Musik für Film, Fernsehen und Computerspiel</p>
+
+<p>Christian Maintz, M.A. (Hamburg)
+<br />„Der Wind hat mir ein Lied erzählt“. Diegetische Musik im Melodram</p>
+
+<p>Dr. Rasmus Greiner (Bremen)
+<br />Audio History. Filmton, Geschichte und Genretheorie</p>
+
+<p>11.30-13.00 Uhr 
+<br />Kriminalfiktion – Noir – Dystopie</p>
+
+<p>Dr. Peter Scheinpflug (Köln)
+<br />Detective Comics. Noir transmedial</p>
+
+<p>Dr. Fernando Ramos Arenas (Leipzig)
+<br />Verbrechen – Paranoia – Sozialismus: Kultursoziologische Aspekte der Kriminalfiktion</p>
+
+<p>Dr. Dominik Orth (Hamburg)
+<br />Die Dystopie. Ein transmediales Genre</p>
+
+<p>13.00-15.00 Uhr 
+<br />Mittagspause</p>
+
+<p>15.00-16:30 Uhr 
+<br />Genre, Gattung, Hybrid? Animationsfilm im Genre-Diskurs</p>
+
+<p>Maike Sarah Reinerth, M.A. (Hamburg)
+<br />Animationsfilm als Genre, Gattung, Hybrid: Versuch einer Bestandsaufnahme</p>
+
+<p>Philipp Blum, M.A. (Stuttgart/Marburg)
+<br />Die Wahrheit der Animation: Animation und filmische Non-Fiktion</p>
+
+<p>Sebastian Kuhn, M.A. (Frankfurt/Berlin)
+<br />Parodien und transtextuelle Genrereflexivität im US-amerikanischen Animationsfilm</p>
+
+<p>16.30-18.30 Uhr
+<br />Genrekonfigurationen in Fernsehen und digitaler Audiovision</p>
+
+<p>PD. Dr. Joachim Michael (Hamburg)
+<br />Intermediale Gattungspassagen in Serie(n): Fernsehen in Lateinamerika</p>
+
+<p>PD Dr. Marcus Stiglegger (Mainz)
+<br />Vom Holocaust-Drama zur ‚Holocaust-Soap’: Fiktionalisierungen des Holocaust in Film und Fernsehen als generischer Transferprozess</p>
+
+<p>Prof. Dr. Markus Kuhn (Hamburg)
+<br />Deutsche Webserien-Genres im Spannungsfeld kultureller und medialer Transformationsprozesse</p>
+
+<p>PD Dr. Andreas Rauscher (Mainz)
+<br />Rules of Cinematic Play: Genre-Settings als Mise-en-Game</p>
+
+<p>18.30-19.00 Uhr
+<br />Kaffeepause</p>
+
+<p>19.00 Uhr
+<br />Abendvortrag
+<br />Prof. Dr. Kati Röttger (Amsterdam)
+<br />Technologien des Spektakels als Praxen und Episteme der Genreüberschreitung</p>
+
+<p>Freitag, 28. März 2014</p>
+
+<p>9.00-10.00 Uhr
+<br />Jahrestreffen der AG Genre Studies</p>
+
+<p>10.00-12.00 Uhr
+<br />Medienphilosophische Perspektiven: Konzepte, Perzepte, Affekte</p>
+
+<p>Prof. Dr. John Bateman (Bremen) 
+<br />Genre im Zeitalter der Multimodalität</p>
+
+<p>Dr. Tanja Prokic (München)
+<br />Intermediale Konstellationen/Transmediale Annexionen – oder warum uns Begriffsarbeit weiterbringen könnte</p>
+
+<p>Dr. Drehli Robnik (Wien)
+<br />Es geht um… Das heutige Ineinander einsichtiger Einbildungen der politischen Theorie und des Horrorfilms</p>
+
+<p>Dr. Ivo Ritzer (Mainz)
+<br />Badiou to the Head: Zur In-Ästhetik transmedialer Genre-Autoren-Politik</p>
+
+<p>12.00-14.00 Uhr
+<br />Genre-Passagen des Dokumentarischen</p>
+
+<p>Prof. Dr. Michael Bachmann (Mainz)
+<br />Das Dokumentarische zwischen Geste, Gattung und Form</p>
+
+<p>Prof. Dr. Florian Mundhenke (Leipzig) 
+<br />Transmediale Genres / transmedialer Modus? – Der seltsame Fall des interaktiven Dokumentarfilms</p>
+
+<p>Dr. Heinz-Peter Preußer (Bremen)
+<br />Der Bombenkrieg als dokumentarisches (Sub-)Genre, als Schockerlebnis und als transmediale Inszenierung in Fotografie, Roman und Geschichtsschreibung</p>
+
+<p>Prof. Dr. Markus Klaus Schäffauer (Hamburg)
+<br />Zwischen Gattungen und Medien: ‚Snuff’ als intermedialer ‚Hoax’</p>
+
+<p>14.00-16.00 Uhr
+<br />Mittagspause</p>
+
+<p>16.00-18.00 Uhr
+<br />Americana transmedial</p>
+
+<p>Prof. Dr. Sabine Schlickers (Bremen)
+<br />Genre- und Medienwechsel: die Eroberung Amerikas in der Chronik, der Literatur und im Film</p>
+
+<p>Dr. Peter W. Schulze (Bremen)
+<br />Tango: inter- und transmediale Genrekonfigurationen</p>
+
+<p>PD Dr. Bernd Kiefer (Mainz)
+<br />Zur Transmedialität des Western in Cormac McCarthys Roman Blood Meridian</p>
+
+<p>Dr. Johannes Binotto (Zürich)
+<br />“This is the continuing story of Peyton Place”: Wiederholungszwang und Medienwechsel im Melodram</p>
+
+<p>18.00-18.30 Uhr
+<br />Kaffeepause</p>
+
+<p>18.30 Uhr
+<br />Abendvortrag
+<br />Prof. Dr. Elisabeth Bronfen (Zürich)
+<br />Wagners Isolde in Hollywood
+</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/3742-Peter_W_Schulze">Peter W.  Schulze</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

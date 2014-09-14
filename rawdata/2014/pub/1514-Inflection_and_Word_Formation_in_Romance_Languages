@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/1514-Inflection_and_Word_Formation_in_Romance_Languages' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Inflection and Word Formation in Romance Languages (Sammelband)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='1514'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<span class='tag multiline'>Sascha Gaglia</span>
+<a href="/pers/6-Marc_Olivier_Hinzelin" class="tag multiline" popup="true">Marc-Olivier Hinzelin</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>John Benjamins</dd>
+<dt>Ort</dt>
+<dd>Amsterdam</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2012
+</dd>
+<dt>Reihe</dt>
+<dd>Linguistik Aktuell/Linguistics Today (LA) 186</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://benjamins.com/#catalog/books/la.186/main" target="_blank">http://benjamins.com/#catalog/books/la.186/main</a></dd>
+<dt>ISBN</dt>
+<dd>
+978 90 272 5569 3
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978 90 272 5569 3&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Italienisch, Katalanisch, Okzitanisch, Portugiesisch, Rumänisch, Spanisch, Frankoprovenzalisch, Sprachübergreifend, Rätoromanisch, Friaulisch, Dolomitenladinisch, Bündnerromanisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Sprachwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Morphologie, Flexion, Wortbildung, Schnittstellen
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Morphology, and in particular word formation, has always played an important role in Romance linguistics since it was introduced in Diez’s comparative Romance grammar. Recent years have witnessed a surge of interest in inflectional morphology, and current research shows a strong interest in paradigmatic analyses. This volume brings together research exploring different areas of morphology from a variety of theoretical and methodological perspectives. On an empirical basis, the theoretical assumption of the ‘Autonomy of Morphology’ is discussed critically. ‘Data-driven’ approaches carefully examine concrete morphological phenomena in Romance languages and dialects. Topics include syncretism and allomorphy in verbs, pronouns, and articles as well as the use of specific derivational suffixes in word formation. Together, the articles in this volume provide insights into issues currently debated in Romance morphology, appealing to scholars of morphology, Romance linguistics, and advanced students alike.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Acknowledgements vii</p>
+<p>Morphological theories, the Autonomy of Morphology, and Romance data <br />
+Marc-Olivier Hinzelin and Sascha Gaglia 1 – 26</p>
+<p>A paradox?: The morphological history of the Romance present subjunctive <br />
+Martin Maiden 27 – 54</p>
+<p>Verb morphology gone astray: Syncretism patterns in Gallo-Romance <br />
+Marc-Olivier Hinzelin 55 – 82</p>
+<p>The Friulian subject clitics: Realisation and paradigmatic structure <br />
+Sascha Gaglia 83 – 118</p>
+<p>Romance clitic pronouns in lexical paradigms <br />
+Christoph Schwarze 119 – 140</p>
+<p>Hiatus resolution between function and lexical words in French and Italian: Phonology or morphology? <br />
+Luigia Garrapa 141 – 178</p>
+<p>Occitan plurals: A case for a morpheme-based morphology <br />
+Patrick Sauzet 179 – 200</p>
+<p>Partial or complete lack of plural agreement: The role of morphology <br />
+Natascha Pomino 201 – 230</p>
+<p>Noun inflectional classes in Maceratese <br />
+Tania Paciaroni 231 – 270</p>
+<p>Participles and nominal aspect <br />
+Eva-Maria Remberger 271 – 294</p>
+<p>Modifying suffixes in Italian and the Autonomy of Morphology <br />
+Heike Necker 295 – 318</p>
+<p>SE-verbs, SE-forms or SE-constructions? SE and its transitional stages between morphology and syntax <br />
+Katrin Mutz 319 – 346</p>
+<p>The lexicalist hypothesis and the semantics of event nominalization suffixes <br />
+Melanie Uth 347 – 368</p>
+<p>Italian brand names – morphological categorisation and the Autonomy of Morphology <br />
+Antje Zilg 369 – 384</p>
+<p>Author index 385 – 388</p>
+<p>Index of subjects and languages 389 – 400</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Akten der Sektion &#8220;Ist die Morphologie autonom? &#8211; Flexionsmorphologie und Wortbildung in den romanischen Sprachen&#8221; des <span class="caps">XXXI</span>. Deutschen Romanistentags in Bonn 2009</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/6-Marc_Olivier_Hinzelin" class="tag multiline" popup="true">Marc-Olivier Hinzelin</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 02. August 2012, 14:23 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 02. August 2012, 14:23 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

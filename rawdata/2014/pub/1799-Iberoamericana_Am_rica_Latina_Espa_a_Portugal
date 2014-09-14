@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/1799-Iberoamericana_Am_rica_Latina_Espa_a_Portugal' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Iberoamericana América Latina-España-Portugal (Zeitschriftenheft)</h2>
+<h3>Dossier: Entre espacios: entrelazamientos y movimientos en América Latina en la globalización histórica y actual</h3>
+<hr>
+<abbr class='unapi-id' title='1799'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+Dezember
+2012
+</dd>
+<dt>Jahrgang</dt>
+<dd>XII</dd>
+<dt>Nummer</dt>
+<dd>48</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.ibero-americana.net/es/ibero2.html" target="_blank">http://www.ibero-americana.net/es/ibero2.html</a></dd>
+<dt>ISSN</dt>
+<dd>1577-3388</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Spanisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Iberoamericana
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Inhalt</h4>
+<div class='textile'><p><strong>Artículos y ensayos</strong></p>
+<p>Ana Luengo: La memoria de la vergüenza o los restos del imperio: la representación literaria del conflicto en el Sáhara Occidental en la novela contemporánea	<br />
+María Fernanda de la Rosa: La figura de Diego Abad de Santillán como nexo entre el anarquismo argentino, europeo y latinoamericano, 1920-1930	<br />
+Pablo Souza/Diego Hurtado: En busca de un “filón aurífero”. La lotería de beneficencia y la institucionalización de las políticas de salud pública en la ciudad de Buenos Aires, 1852-1895	<br />
+Daniela Alcívar Bellolio: Una mínima inclinación. Imagen de autor en los ensayos de Sergio Chejfec</p>
+<p><strong>Dossier: Entre espacios: entrelazamientos y movimientos en América Latina en la globalización histórica y actual</strong></p>
+<p>Coordinado por Carlos Alba Vega y Stefan Rinke<br />
+Carlos Alba Vega/Stefan Rinke: Presentación</p>
+<p>Lynn Stephen: Towards a Transborder Perspective: U.S.-Mexico Relations	<br />
+Nina Elsemann: Nuevos espacios del saber en la justicia transicional: Argentina y la lucha global contra la desaparicin forzada	<br />
+Christian Ambrosius: Migrants’ Remittances and the Transformation of Local Spaces: The Case of Financial Markets in Mexico	<br />
+Carlos Alba Vega/Marianne Braig: Organización política local y entrelazamientos transregionales del comercio ambulante en la Ciudad de México	<br />
+Alberto Aziz Nassif: Violencias en el Norte de México: el caso de Ciudad Juárez	<br />
+Ottmar Ette: EntreMundos o la relacionalidad transarchipiélica de Nueva España</p>
+<p><strong>Foro de Debate</strong></p>
+<p>Delia Contreras: ¿Podría la Iglesia católica contribuir a un cambio de régimen en Cuba?	<br />
+Enith Pinedo Bravo: ¿Quién es indígena en Perú?	<br />
+Agustín E. Ferraro: Cultura vs. instituciones en la cooperación al desarrollo. De Woody Allen a Mitt Romney</p>
+<p><strong>Notas. Reseñas iberoamericanas</strong></p>
+<p>Rainer Huhle: El pasado, las memorias y los derechos humanos, nuevos aportes a un viejo tema	<br />
+Gesine Müller: Cuba como nuevo laboratorio de teorías: posiciones de los estudios culturales después del Periodo Especial</p>
+<p>Literaturas ibéricas: historia y crítica 	<br />
+Literaturas latinoamericanas: historia y crítica 	<br />
+Historia y ciencias sociales: España 	<br />
+Historia y ciencias sociales: América Latina 	<br />
+Índice de titulos reseñados</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>América Latina-España-Portugal. Ensayos sobre letras, historia y sociedad. Notas. Reseñas iberoamericanas</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/972-Estella_Llorente" class="tag multiline" popup="true">Estella Llorente</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 31. Januar 2013, 00:44 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 31. Januar 2013, 00:44 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

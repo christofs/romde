@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Der literarische Text im 20. Jahrhundert als Herausforderung für den Leser (Veranstaltungsprojekt)</h2>
+<h3>Sektion beim XXXIII. Romanistentag</h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Sonntag, 22. September 2013</dd>
+<dt>Projektende</dt>
+<dd>Mittwoch, 25. September 2013</dd>
+<dt>Status</dt>
+<dd>abgeschlossen</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.deutscher-romanistenverband.de/romanistentag/" target="_blank">www.deutscher-romanistenverband.de/romanistentag/</a></dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Italienisch, Portugiesisch, Rumänisch, Spanisch, Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft
+</dd>
+</dl>
+<h4>Aktiv beteiligte Person(en)</h4>
+<p>(z.B. Kooperation, Mitarbeiter, Fellows)</p>
+<a href="/pers/49-Beatrice_Nickel" class="tag multiline" popup="true">Beatrice  Nickel</a>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><p>Mit der verstärkten Autonomisierung poetischer Funktionen wird die Produktion literarischer Texte seit der Mitte des 19. Jahrhunderts in zunehmendem Maße als Verfertigung eines autoreferentiellen semiotischen Fabrikats verstanden, wohingegen der diskursive und pragmatische Aspekt der sprachkünstlerischen Produktion immer weiter marginalisert wird. Dies führt im 20. Jahrhundert zur Erzeugung &#8216;abstrakter&#8217; Texte, die als semiotische Angebote komponiert werden. Die Generierung der semantischen Dimension des Textes wird dabei in unterschiedlichem Maße an den Leser delegiert, und zwar im Sinne nicht abschließbarer, auf semiotischen Strukturen basierender Interpretationsprozesse. Wenn im Sinne eines Kommunikationsmodells eine Botschaft vom Autor an den Leser ausgeht, dann ist es die Botschaft, die in der Struktur des Fabrikats selbst angelegt ist und damit eine Aussage über dessen poetische Faktur enthält. Weitergehende Sinnzuweisungen sind dann in der Regel die Aufgabe des Rezipienten.<br />
+Dies gilt im 20. Jahrhundert in bemerkenswertem Umfang in fast jeder Sparte der poetischen Textsortenproduktion des gesamtromanischen Bereiches. In Frankreich stehen für diesen Prozess beispielsweise das dadaistische Gedicht, die surrealistische écriture automatique, Montage- und Collagetexte, wie sie u.a. von Apollinaire produziert worden sind, aber auch eine Vielzahl von Texten, die in der Traditionslinie des nouveau roman oder der Gruppe <span class="caps">OULIPO</span> stehen, und ein zur Abstraktion tendierendes Theater, wie es u.a. Samuel Beckett vorgelegt hat. Des Weiteren ließe sich an Autoren der frankophonen Karibik denken, wie beispielsweise an Édouard Glissant, bei dem das Konzept der „opacité“ programmatisch als postkolonialer Widerstand fungiert. Die Herausforderung an den Leser stellt sich dabei zum einen als Grenze des Verstehens und zum anderen als ein Erforschen der kulturellen Diversität dar.<br />
+Der Autor weist dem Rezipienten im System von Autor, Text und Rezipient die Funktion des Generators von Sinn zu, der die Semiosen in einer nicht kalkulierbaren Weise vollzieht. Diese Herausforderung an den Leser ist eine der grundlegenden Innovationen in der Literatur des 20. Jahrhunderts, die auch theoretische und methodische Implikation hinsichtlich der Texthermeneutik vollkommen neu aufstellt.<br />
+Mit den in der Tradition der Hermeneutik stehenden Arbeiten von Hans-Robert Jauß und Wolfgang Iser, die freilich erst nach Umberto Ecos L&#8217;opera aperta (1962) entstanden sind, sind in der Literaturkritik wichtige Positionen der Rezeptionsforschung abgesteckt, müssen jedoch zweifellos durch neue Perspektivierungen erweitert oder ergänzt werden, zumal um solche, in denen auch jüngeren Entwicklungen Rechnung getragen wird. So etwa ergeben sich auf dem Feld hypertextueller Wortkunst neue Konstellationen im Hinblick auf das Verhältnis zwischen Autor und Leser. Ziel dieser Sektion ist es, den literarischen Text im 20. Jahrhundert als Herausforderung und Provokation zur Sinnproduktion für den Leser zu erfassen und an mustergültigen Fallstudien zu erläutern, die aus dem gesamten Bereich der Romania stammen können und sollen.</p>
+<p>Bitte reichen Sie bis zum 20. Oktober 2012 den Titel Ihres Beitrags ein.</p>
+<p>Kontakt: <a href="mailto:beatrice.nickel@gmx.de" target="_blank">beatrice.nickel@gmx.de</a>, <a href="mailto:helke.kuhn@gmx.de" target="_blank">helke.kuhn@gmx.de</a></p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/49-Beatrice_Nickel" class="tag multiline" popup="true">Beatrice  Nickel</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 19. Juli 2012, 12:00 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 19. Juli 2012, 12:00 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

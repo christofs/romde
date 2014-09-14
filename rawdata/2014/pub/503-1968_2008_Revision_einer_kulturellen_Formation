@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/503-1968_2008_Revision_einer_kulturellen_Formation' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>1968/2008 - Revision einer kulturellen Formation (Sammelband)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='503'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<a href="/pers/598-Isabella_von_Treskow" class="tag multiline" popup="true">Isabella von Treskow</a>
+<span class='tag multiline'>Christian von Tschilschke</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Narr</dd>
+<dt>Ort</dt>
+<dd>Tübingen</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2008
+</dd>
+<dt>Reihe</dt>
+<dd>edition lendemains, 11</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.narr.de/details.php?catp=&p_id=16463" target="_blank">http://www.narr.de/details.php?catp=&p_id=16463</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-3-8233-6463-4
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-8233-6463-4&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Medien-/Kulturwissenschaft, Literaturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+1968, Achtundsechziger, Studentenbewegung
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Eine allgemeingültige Wahrnehmung der Ereignisse von &#8220;68&#8221; gibt es nicht. Folgerichtig ist 2008 das Jahr des Rückblicks nicht nur auf politische und kulturelle Geschehnisse, sondern vor allem auf Etappen der Geschichtsbildung und Prozesse der Mythisierung.</p>
+<p>Die in dem Band versammelten Aufsätze liefern zum ersten Mal eine umfassende Einschätzung der Begebenheiten aus romanistischer Perspektive und stellen zugleich deren Vermittlung in ein neues kritisches Licht. Dabei kommen unterschiedliche Aspekte zur Sprache: zeitgenössische Reaktionen in Literatur und Medien genauso wie politische, künstlerische und erinnererungskulturelle Reaktualisierungen in der Gegenwart.</p>
+<p>Thematisiert werden signifikative Aspekte wie die Frage der Gewalt bzw. des Terrorismus, die Frauenbewegung, die Hippie-Reise, aber auch die Auswirkungen auf die Literatur- und Gesellschaftstheorie und die Verhältnisse im Ausland, in Deutschland und im frankophonen Kanada. Abgerundet wird der Band durch Berichte von Zeitzeugen.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Inhaltsverzeichnis:<br />
+<a href="http://d-nb.info/991823214/04" target="_blank">http://d-nb.info/991823214/04</a></p>
+<p>Inhalt</p>
+<ul>
+	<li>Isabella von Treskow/Christian von Tschilschke<br />
+Einleitung <span class="caps">VII</span></li>
+</ul>
+<ul>
+	<li>Silja Behre<br />
+Une ,bataille de la memoire&#8217;? &#8211; Zur Genese der Erinnerung an 68 in Deutschland und Frankreich 1</li>
+</ul>
+<ul>
+	<li>Joseph Jurt<br />
+Mai 68 in Frankreich: die Infragestellung der symbolischen Ordnung. Deutungen damals, Einschätzung heute 15</li>
+</ul>
+<ul>
+	<li>Gabriele Blaikner-Hohenwart<br />
+Ein doppelter Blick auf Mai 1968: die sechzehnjährige Zeitzeugin und eine späte Bilanz 31</li>
+</ul>
+<ul>
+	<li>Sybille Große<br />
+Sarkozy et l&#8217;heritage de 1968 &#8211; Mythisierung oder Entmythisierung? 43</li>
+</ul>
+<ul>
+	<li>Esther Suzanne Pabst<br />
+« L&#8217;antichambre de mon aventure essentielle ». Mai 68 im weiblichen Blick 61</li>
+</ul>
+<ul>
+	<li>Albrecht Buschmann<br />
+1968 autofiktional: der Pariser Mai als narratives Konstrukt in Wort und Bild 85</li>
+</ul>
+<ul>
+	<li>Vincent Kaufmann<br />
+La theorie litteraire au service de la revolution 105</li>
+</ul>
+<ul>
+	<li>Kai Nonnenmacher<br />
+Totalitäre Sprachen 1968: Jean Pierre Faye zwischen Stéphane Mallarme und Carl Schmitt 115</li>
+</ul>
+<ul>
+	<li>Konstanze Baron<br />
+Die Revolutionen der Psyche und die Aktualität von 68: Julia Kristevas Theorie der Revolte 129</li>
+</ul>
+<ul>
+	<li>Marie-Laure Basuyaux<br />
+« Nous étions sur la touche ». Jean Cayrol et Mai 1968 147</li>
+</ul>
+<ul>
+	<li>Timo Obergöker<br />
+Une journee ä Nanterre. Le 22 mars dans Derriere la vitre de Robert Merle 159</li>
+</ul>
+<ul>
+	<li>Beatrice Schuchardt<br />
+Reisen auf dem Hippie-Trail: Luc Vidals La route &#8211; mon Journal de hippy 173</li>
+</ul>
+<ul>
+	<li>Klaus-Dieter Ertler<br />
+Axiologische Vektoren der 68er-Generation im frankokanadischen<br />
+Erzählsystem. Zur Globalisierung eines Diskursdesigns 197</li>
+</ul>
+<ul>
+	<li>Jan Menschen<br />
+Die Frage der Gewalt steht im Raum. Über 68, Gewalt und Filme von Jean-Luc Godard, Bernardo Bertolucci und Margarethe von Trotta 219</li>
+</ul>
+<ul>
+	<li>Jan-Henrik Witthaus<br />
+Stammheim und die Affäre Croissant. Wegmarken des Intellektuellen in Frankreich 231</li>
+</ul>
+<ul>
+	<li>Silke Segler-Meßner<br />
+Obsessionen des Erotischen &#8211; Inszenierung von Sexualität in der litterature scandale (Michel Houellebecq, Christine Angot) 249</li>
+</ul>
+<p>Zu den Autorinnen und Autoren 265</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/598-Isabella_von_Treskow" class="tag multiline" popup="true">Isabella von Treskow</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Freitag, 12. November 2010, 06:41 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Freitag, 12. November 2010, 06:41 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+Deutsch-französisches Doktorandenkolleg Tübingen-Aix &quot;Konfliktkulturen / Kulturkonflikte
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Tübingen / Aix-en-Provence, Frankreich
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-09-15
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.doktorandenkolleg-kulturkonflikte.de" target="_blank">http://www.doktorandenkolleg-kulturkonflikte.de</a>
+</p>
+</div>
+<p>Das Doktorandenkolleg „Konfliktkulturen / Kulturkonflikte“ baut auf die bereits über zwanzig Jahre währende erfolgreiche Zusammenarbeit der Universitäten Tübingen und Aix-Marseille im Bereich der Geschichts- und Kulturwissenschaften auf. Das Kolleg ermöglicht interdisziplinäre Studien und bilaterale Forschungszugänge. Durch die bilaterale Betreuung der Dissertationsprojekte und Forschungsaufenthalte der Doktoranden an der jeweiligen Partneruniversität, gemeinsame Veranstaltungen und Publikationen verwirklicht es eine integrierte Organisation der Promotionsstudien durch Aix und Tübingen.</p>
+
+<p>Kultur und Konflikt miteinander in Verbindung zu bringen, ist keine Selbstverständlichkeit. Und das, obwohl die europäische Kulturgeschichte seit jeher von konfliktuellen „Identitäten“ und deren Interaktion beherrscht wird. Seit der Aufklärung sind die Konzepte von Kultur und Zivilisation mit einer zivilisatorischen Mission betraut worden, die den Krieg aller gegen alle beenden und das Zeitalter barbarischer Gewalt überwinden sollte. In dem Maß, in dem Kultur und Zivilisation Synonyme für Kommunikation werden, für Austausch, Toleranz, Vermittlung und Handel, in dem Maß werden sie Antonyme für „Konflikt“. Auch, wenn es vereinfachend wäre, Kultur und Konflikt systematisch zu amalgamieren, erscheint es doch gerechtfertigt, die Hypothese eines grundlegenden Chiasmus zu erkunden: der Konflikt zwischen Kulturen wäre das Spiegelbild einer Kultur des Konflikts und vice versa.</p>
+
+<p>Abschluss:
+<br />Die Dissertation wird von einem Dozenten/einer Dozentin in Aix und in Tübingen betreut, von beiden Universitäten begutachtet und vor einer gemischten Jury verteidigt. Der Doktorandenstudiengang wird abgeschlossen mit einem doppelten Diplom : docteur Aix-Marseille Université und Dr. phil. der Universität Tübingen.</p>
+
+<p>Finanzierung:
+<br />Die Doktoranden erhalten eine Mobilitätsbeihilfe von 600 Euro monatlich während des Aufenthalts an der Partneruniversität (maximale Dauer 18 Monate).</p>
+
+<p>Bewerbung:</p>
+
+<p>Das Graduiertenkolleg verlängert die Master TuebAix und Interkulturelle Deutsch-französische Studien, richtet sich aber ausdrücklich an Absolventen anderer Master. Die Bewerber müssen einen Masterabschluss in den Fächern Romanistik, Germanistik, Vergleichende Literaturwissenschaft, Geschichte, Kunstgeschichte nachweisen und über gute Kenntnisse der Sprache und der Kultur des Partners verfügen. Bewerbungen aus anderen Disziplinen werden Fall für Fall geprüft. Bewerber, die nicht aus frankophonen oder deutschsprachigen Ländern kommen, sind willkommen.</p>
+
+<p>Die Bewerber müssen ein Dossier auf Französisch an die Universität in Aix schicken, ein Dossier auf Deutsch an die Universität in Tübingen. Ihr Dossier wird von einer gemischten Kommission geprüft. Die Kommission kann Bewerber zu einem Gespräch einladen.</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/3194-Christoph_Maria_Sanders">Christoph Maria Sanders</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

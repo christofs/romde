@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>20. Deutscher Hispanistentag – XX Congreso de la Asociación Alemana de Hispanistas (Veranstaltungsprojekt)</h2>
+<h3>Gedächtnis und Zukunft / Recuerdo y porvenir</h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Mittwoch, 18. März 2015</dd>
+<dt>Projektende</dt>
+<dd>Sonntag, 22. März 2015</dd>
+<dt>Status</dt>
+<dd>laufend</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.hispanistica.de/de/hispanistentag" target="_blank">www.hispanistica.de/de/hispanistentag</a></dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Spanisch, Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Sprachwissenschaft, Medien-/Kulturwissenschaft, Fachdidaktik, Sprachpraxis
+</dd>
+</dl>
+<h4>Aktiv beteiligte Person(en)</h4>
+<p>(z.B. Kooperation, Mitarbeiter, Fellows)</p>
+<a href="/pers/223-Oscar_Loureda" class="tag multiline" popup="true">Oscar Loureda</a>
+<span class='tag multiline'>Robert Folger</span>
+<span class='tag multiline'>Gerhard Poppenberg</span>
+<span class='tag multiline'>Sybille Große</span>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><h2>Aufruf zur Einreichung von Sektionsvorschlägen 20. Deutscher Hispanistentag – XX Congreso de la Asociación Alemana de Hispanistas</h2>
+<h3>Gedächtnis und Zukunft / Recuerdo y porvenir</h3>
+<p>Heidelberg, 18.-22. März 2015</p>
+<p><em>&#8220;la historia, émula del tiempo, depósito de las acciones, testigo de lo pasado, ejemplo y aviso de lo presente, advertencia de lo por venir.&#8221;</em> Cervantes, Quijote (I, 9)</p>
+<p>Der 20. Deutsche Hispanistentag wird im März 2015 in Heidelberg stattfinden. Das Jubiläum soll im Rahmen einer alten Universität mit Tradition und Gedächtnis Gelegenheit geben, auf die Vielfalt und den Wandel der hispanistischen Forschung in den deutschsprachigen Ländern zurückzublicken und dabei zugleich neue Perspektiven zu eröffnen.</p>
+<p>Während der zurückliegenden vier Jahrzehnte hat sich die Forschung in den Geisteswissenschaften grundlegend verändert. Von diesem Wandel waren nicht allein die Themenfelder betroffen, sondern auch die methodischen Zugriffe auf diese Themen sowie die Verbindungen zwischen unseren sprach-, kultur-, literatur- und übersetzungswissenschaftlichen Forschungen innerhalb der Geistes- und Sozialwissenschaften.</p>
+<p>In Heidelberg möchten wir daher – ohne jede Melancholie und Nostalgie – zurückblicken, um das Erreichte zu bewerten und zugleich den Wandel, der die aktuelle und zukünftige Forschung der Hispanistik im deutschsprachigen Raum prägt, zu beschreiben. Es soll darum gehen, in gewisser Weise als Fach Bilanz zu ziehen und über die verschiedenen Perspektiven nachzudenken, die die Hispanistik und die Studien zur spanischen Sprache und zu den hispanophonen Kulturen eröffnet haben und eröffnen werden.</p>
+<p>Diese Perspektiven schließen die auf den vorangegangenen Hispanistentagen erörterten interdisziplinären Ausrichtungen unserer wissenschaftlichen Arbeit mit ein und nehmen zugleich Forschungsstrategien der Wissenschaftspolitik auf, die eine noch größere Sichtbarkeit und Internationalisierung der hispanistischen Forschung im deutschsprachigen Raum einfordern. So freuen wir uns für das zwanzigste Jubiläum des Hispanistentages insbesondere auf Sektionsvorschläge, die den Wandel der hispanistischen Forschung in den vergangenen Jahrzehnten bzw. Jahren unterstreichen und zugleich neue Potenziale für unser Fach in den deutschsprachigen Ländern sowie in internationalem Rahmen ausweisen. Vergangenheit und Zukunft sind zwei verbundene Blickrichtungen, von denen aus verschiedene Themen in den Einzelsektionen angegangen werden sollen: Der Quijote und sein Jubiläum 2015 sollen dabei ebenso im Fokus stehen wie beispielsweise die Frage der weltweiten Verbreitung der spanischen Sprache, die Entwicklung der Hispania Nova oder neue linguistische, literatur- oder kulturwissenschaftliche Zugänge, in denen Bezüge zu memoria oder historia und porvenir eine Rolle spielen.</p>
+<p>Um das Bilanzieren und Perspektivieren der hispanistischen Forschung aus unterschiedlichen Blickrichtungen zu erfassen, sind Vorschläge für Sektionen besonders erwünscht, in denen ein deutsch-hispanophones Tandem als Sektionsleiter agiert.</p>
+<h3>Zeitplan:</h3>
+<ul>
+	<li>Einreichung von Sektionsvorschlägen mit kurzer inhaltlicher Beschreibung und Nennung von mindestens fünf Personen, die zur Teilnahme bereit sind (einschl. aus dem Ausland einzuladender Gäste) bis zum 15.1.2014</li>
+	<li>Evaluation der Sektionsvorschläge bis 31.1.2014</li>
+	<li>Definitive Einreichung der Sektionsvorschläge mit verbindlicher Nennung der einzuladenden Gäste bis 28.2.2014</li>
+</ul>
+<h3>Organisation:</h3>
+<p>Prof. Dr. Óscar Loureda Lamas <a href="mailto:oscar.loureda@iued.uni-heidelberg.de" target="_blank">oscar.loureda@iued.uni-heidelberg.de</a> / Prof. Dr. Sybille Große <a href="mailto:sybille.grosse@rose.uni-heidelberg.de" target="_blank">sybille.grosse@rose.uni-heidelberg.de</a> / Prof. Dr. Robert Folger <a href="mailto:robert.folger@rose.uni-heidelberg.de" target="_blank">robert.folger@rose.uni-heidelberg.de</a> / Prof. Dr. Gerhard Poppenberg <a href="mailto:gerhard.poppenberg@rose.uni-heidelberg.de" target="_blank">gerhard.poppenberg@rose.uni-heidelberg.de</a></p>
+<p>Bitte die Sektionsvorschläge in elektronischer Fassung per Mail und im Ausdruck auf postalischem Wege an den Vorsitzenden des Deutschen Hispanistenverbandes senden.</p>
+<h3>Adresse:</h3>
+<p>Prof. Dr. Johannes Kabatek <br />
+Romanisches Seminar <br />
+der Universität Zürich <br />
+Zürichbergstrasse 8 <br />
+CH &#8211; 8032 Zürich <br />
+Schweiz <br />
+<a href="mailto:kabatek@rom.uzh.ch" target="_blank">kabatek@rom.uzh.ch</a></p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/223-Oscar_Loureda" class="tag multiline" popup="true">Oscar Loureda</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 24. Oktober 2013, 15:12 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 24. Oktober 2013, 15:12 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

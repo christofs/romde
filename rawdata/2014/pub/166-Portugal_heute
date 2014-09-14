@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/166-Portugal_heute' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Portugal heute (Sammelband)</h2>
+<h3>Politik - Wirtschaft - Kultur</h3>
+<hr>
+<abbr class='unapi-id' title='166'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<span class='tag multiline'>Dietrich Briesemeister</span>
+<a href="/pers/74-Axel_SchOenberger" class="tag multiline" popup="true">Axel Schönberger</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Vervuert</dd>
+<dt>Ort</dt>
+<dd>Frankfurt am Main</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+1997
+</dd>
+<dt>Reihe</dt>
+<dd>Bibliotheca Ibero-Americana, Band 64</dd>
+<dt>ISBN</dt>
+<dd>
+3-89354-564-6
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=3-89354-564-6&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Portugiesisch, Galicisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Sprachwissenschaft, Fachdidaktik, Medien-/Kulturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Lusitanistik, Brasilianistik, Portugalistik, Afrolusitanistik, Kreolistik, Galicistik
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Inhalt</h4>
+<div class='textile'><p>Inhaltsverzeichnis</p>
+<p>Dietrich Briesemeister / Axel Schönberger (Berlin):<br />
+Vorwort: 9</p>
+<p>I Wirtschaft, Land und Bevölkerung</p>
+<p>Fabian Bornhorst (Berlin):<br />
+Die Wirtschaft Portugals im Überblick: Grundlagen, Daten, Zusammenhänge, Perspektiven: 15<br />
+Dietrich Briesemeister (Berlin):<br />
+Die Bevölkerungsentwicklung in Portugal: 95</p>
+<p>II Geschichte, Staat, Politik, Gesellschaft und Religion</p>
+<p>Axel Schönberger (Berlin):<br />
+Die portugiesische Geschichte von den Anfängen bis zur Nelkenrevolution im Abriß: 119<br />
+Dietrich Briesemeister (Berlin):<br />
+Der Estado Novo des António de Oliveira Salazar: 159<br />
+Dietrich Briesemeister (Berlin):<br />
+Die Verfassung des Estado Novo: 181<br />
+Axel Schönberger (Berlin):<br />
+Portugals Übergang zur Rechtsstaatlichkeit: Entstehung und Entwicklung der Verfassung der Republik: 187<br />
+Manuel von Rahden (Hamburg):<br />
+Portugiesische Zeitgeschichte: von der Nelkenrevolution bis zum Jahr 1997: 213<br />
+Fabian Bornhorst (Berlin):<br />
+Der internationale Kontext der Demokratisierung in Portugal: die Außenpolitik eines kleinen Landes mit großer Geschichte am Rande Europas: 247<br />
+Dietrich Briesemeister (Berlin):<br />
+Die katholische Kirche in Portugal: 289<br />
+Michaël Studemund-Halévy (Hamburg):<br />
+Zwischen Rückkehr und Neuanfang: Juden in Portugal: 299</p>
+<p><span class="caps">III</span> Sprache, Kultur, Bildung und Wissenschaft</p>
+<p>Michael Scotti-Rosin (Bremen / Mainz):<br />
+Die portugiesische Sprache im 20. Jahrhundert: 319<br />
+Eberhard Gärtner (Leipzig):<br />
+Entstehung und Entwicklung der europäischen und der brasilianischen Varietät des Portugiesischen: 335<br />
+Jürgen Schmidt-Radefeldt (Rostock):<br />
+Zur dialektalen Gliederung und sprachlichen Heterogenität in den Grenzregionen Portugals: 353<br />
+Sybille Große (Potsdam):<br />
+Besonderheiten des brasilianischen Portugiesisch: 365<br />
+Annette Endruschat (Leipzig):<br />
+Die portugiesische Sprache in Afrika: 391<br />
+Petra Thiele (Berlin):<br />
+Die Lusokreolsprachen im Überblick: 419<br />
+Werner Thielemann (Berlin):<br />
+Acordo Ortográfico: Zauberformel oder endlose Querele?: 429<br />
+Christoph Petruck (Mannheim):<br />
+Galicisch: eine Varietät des Portugiesischen oder eine eigene Sprache?: 461<br />
+Sybille Große (Potsdam):<br />
+Die Gemeinschaft der Länder portugiesischer Sprache (<span class="caps">CPLP</span>): 471<br />
+Annette Endruschat (Leipzig):<br />
+Die Kulturpolitik Portugals: 485<br />
+Rosa Maria Sequeira (Lissabon):<br />
+Die Bedeutung der Universidade Aberta für die Berufsausbildung und die Verbreitung der portugiesischen Kultur: 503<br />
+Gesa Hasebrink (Freiburg i. Br.):<br />
+Quo vadis? Der portugiesische Roman nach der Nelkenrevolution: 515<br />
+Wilfried Floeck (Gießen):<br />
+Das Theaterwesen in Portugal: 531<br />
+Orlando Grossegesse (Braga):<br />
+Die portugiesische Dramatik seit der Nelkenrevolution: 545<br />
+Georges Güntert (Zürich):<br />
+Ein Futurist im Alltag: Fernando Pessoa und die portugiesische Moderne: 561<br />
+Júlio Conrado (Estoril):<br />
+Die portugiesische Lyrik seit der Nelkenrevolution: 577<br />
+Erwin Koller (Braga):<br />
+Moderne Medien in Portugal: 627<br />
+Anja Sieber (Paris):<br />
+Unsichtbares Kino oder Kino des Unsichtbaren? Grenzüberschreitungen des portugiesischen Films ab 1963: 637<br />
+Wolf Lustig (Mainz):<br />
+Portugal im Internet: 653<br />
+Dietrich Briesemeister (Berlin):<br />
+Das portugiesische Musikwesen: 663<br />
+Luciano Caetano da Rosa (Mainz):<br />
+Das «Fatum» des Fado in der Entwicklung der modernen portugiesischen Musik: 673<br />
+Dietrich Briesemeister (Berlin):<br />
+Portugiesische Architektur: 699<br />
+Barbara Freitag-Rouanet (Prag):<br />
+Städtebau im modernen Portugal am Beispiel Lissabons: 705<br />
+Gisela Rosenthal (Lissabon):<br />
+Portugiesische Kunst im 20. Jahrhundert: 725<br />
+Dietrich Briesemeister (Berlin):<br />
+Portugiesische Museen: 735<br />
+Dietrich Briesemeister (Berlin):<br />
+Archive und Bibliotheken in Portugal: 741<br />
+Dietrich Briesemeister (Berlin):<br />
+Universitäten, Akademien und wissenschaftliche Gesellschaften: 749<br />
+José Barata-Moura (Lissabon):<br />
+Leitgedanken zu einem Panorama der Philosophie in Portugal im 20. Jahrhundert: 759</p>
+<p>IV Kulturbeziehungen zwischen Portugal und Deutschland</p>
+<p>Fernanda Mota Alves / Fernanda Gil Costa (Lissabon):<br />
+Übersetzungen deutscher Literatur in Portugal vom 18. Jahrhundert bis zur Gegenwart: ein historischer Abriß: 789<br />
+Maria Teresa Dias Furtado (Lissabon):<br />
+Deutsche Literatur in Portugal: 801<br />
+Ray-Güde Mertin (Bad Homburg / Frankfurt am Main):<br />
+Lob und Preis auf portugiesisch: 813<br />
+Celina Miranda (Braga):<br />
+Deutschunterricht in Portugal: deutsche Sprache, schwere Sprache: 827<br />
+Michael Scotti-Rosin (Bremen / Mainz):<br />
+Portugiesischer Sprachunterricht in Deutschland: 831<br />
+Peter Hanenberg (Viseu):<br />
+Germanistik in Portugal: 847<br />
+Dietrich Briesemeister / Axel Schönberger (Berlin):<br />
+Geschichte der Lusitanistik in Deutschland: 857<br />
+Alfred Opitz (Lissabon):<br />
+Das Deutschlandbild in Portugal: 889<br />
+Dieter Offenhäußer (Köln):<br />
+Das Bild Portugals in Deutschland: 899</p>
+<p>Anschriften der Autoren: 939</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>940 Seiten</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/74-Axel_SchOenberger" class="tag multiline" popup="true">Axel Schönberger</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Mittwoch, 17. Februar 2010, 06:30 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 17. Februar 2010, 06:30 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

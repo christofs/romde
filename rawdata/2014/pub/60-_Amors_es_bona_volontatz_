@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/60-_Amors_es_bona_volontatz_' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>'Amors es bona volontatz' (Dissertation)</h2>
+<h3>Chapitres de la mystique dans la poésie des trou­ba­dours</h3>
+<hr>
+<abbr class='unapi-id' title='60'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Autor(en)</h4>
+<a href="/pers/37-Imre_G_bor_Majorossy" class="tag multiline" popup="true">Imre Gábor Majorossy</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Akadémiai</dd>
+<dt>Ort</dt>
+<dd>Budapest</dd>
+<dt>Hochschule</dt>
+<dd>ELTE BTK</dd>
+<dt>Ort der Hochschule</dt>
+<dd>Budapest</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2006
+</dd>
+<dt>Abgabedatum</dt>
+<dd>
+Februar
+2003
+</dd>
+<dt>Reihe</dt>
+<dd>Philosophiae doctores, ISSN 1587-7930; [47.]</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.akkrt.hu/main.php?folderID=875&prodID=31974&pdetails=1" target="_blank">http://www.akkrt.hu/main.php?folderID=875&prodID=31974&pdetails=1</a></dd>
+<dt>ISBN</dt>
+<dd>
+963-05-8321-6
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=963-05-8321-6&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Okzitanisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Ce livre expose brièvement la représentation de la pensée et de l&#8217;approche mystique dans quelques ouvrages troubadouresques. Il a pour but de démontrer que la poésie d&#8217;amour séculière des troubadours et la mystique de la poésie, ou du moins, de la mentalité religieuse étaient beaucoup plus proches l&#8217;une de l&#8217;autre que l&#8217;on ne pourrait le penser à première vue. Cependant, l&#8217;objectif principal est encore plus restreint : démontrer que la mystique était sans aucun doute présente dans la pensée des troubadours. Après avoir fourni une définition plus ample de la mystique, l&#8217;auteur n&#8217;entreprend pas de présenter tous les troubadours qui en font usage, mais plutôt d&#8217;en élire certains, les plus représentatifs, pour illustrer l&#8217;influence et l&#8217;inspiration communes. Hormis les analyses, le livre contient deux chapitres supplémentaires : l&#8217;un sur les arts poétiques de l&#8217;époque essentiel pour le propos et l&#8217;autre sur la manière de situer Saint Bernard et ses disciples dans l&#8217;histoire littéraire française.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>I. : Introduction<br />
+II. : Rapports, influences et interférences<br />
+II.1. : La confiance mystique : Jaufré Rudel<br />
+II.2. : Marcabru — troubadour mystique ?<br />
+II.3. : Le dévouement par le trobar clus : Raimbaut d’Aurenga<br />
+II.4. : Le troubadour prend congé : Giraut de Borneil<br />
+II.5. : Le troubadour de la Miels-de-Domna : Rigaut de Barbezieux<br />
+II.6. : La mystique juste avant la conversion : Folquet de Marselha<br />
+II.7. : La mystique du frug : Peire Cardenal<br />
+II.8. : Les chansons d’amour de Guiraut Riquier — à qui ?<br />
+II.9. : Poésie amoureuse dans la mystique de Saint Bernard de Clairvaux<br />
+<span class="caps">III</span>. : Les mœurs et les tendances moralisantes dans quelques arts poétiques et arts d’amour de l’époque<br />
+IV. : Excursus : La situation de Saint Bernard et de ses disciples dans l’histoire de la littérature française<br />
+V. : Conclusion</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>La publication du livre a été soutenue par le <em>Collegium Hungaricum</em> de Leuven.</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/37-Imre_G_bor_Majorossy" class="tag multiline" popup="true">Imre Gábor Majorossy</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Montag, 07. Dezember 2009, 07:49 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Montag, 07. Dezember 2009, 07:49 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

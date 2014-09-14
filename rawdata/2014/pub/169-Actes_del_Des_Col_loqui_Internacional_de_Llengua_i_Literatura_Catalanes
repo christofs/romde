@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/169-Actes_del_Des_Col_loqui_Internacional_de_Llengua_i_Literatura_Catalanes' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Actes del Desè Col.loqui Internacional de Llengua i Literatura Catalanes (Sammelband)</h2>
+<h3>Frankfurt am Main, 18-25 de setembre de 1994; Volum II</h3>
+<hr>
+<abbr class='unapi-id' title='169'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<a href="/pers/74-Axel_SchOenberger" class="tag multiline" popup="true">Axel Schönberger</a>
+<span class='tag multiline'>Tilbert Dídac Stegmann</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Publicacions de l´Abadia de Montserrat</dd>
+<dt>Ort</dt>
+<dd>Barcelona</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+1996
+</dd>
+<dt>Reihe</dt>
+<dd>Biblioteca Abat Oliba, Band 171</dd>
+<dt>ISBN</dt>
+<dd>
+84-7826-705-0
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=84-7826-705-0&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Katalanisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Medien-/Kulturwissenschaft, Fachdidaktik
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Katalanistik
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Inhalt</h4>
+<div class='textile'><p>Índex</p>
+<p>Literatura catalana després de la Guerra Civil (1939-1994) – segona part</p>
+<p>3 Comunicacions (segona part)</p>
+<p>Enric Balaguer (Universitat d’Alacant):<br />
+Imitació / traducció / transcreació en Poemes de l’alquimista (1952) de Josep Palau i Fabre: 7</p>
+<p>Mathilde Bensoussan (Universitat de Rennes II):<br />
+Cartes impertinents, de Maria Aurèlia Capmany: un feminisme ple d’humor: 19</p>
+<p>Eduard Fermín (Barcelona):<br />
+Josep Carner heterogeni: «Don Nadie», les aportacions d’un paradoxal D.N.I. a l’exili mexicà: 25</p>
+<p>Josep Ballester Roca / Laura Ballester Capella (Universitat de València):<br />
+La relació literària entre Joan Fuster i Carles Riba: 39</p>
+<p>Carme Morell (Palma):<br />
+Sobre el teatre de Josep M. Benet i Jornet i les darreres tendències de la dramatúrgia catalana: 57</p>
+<p>Dolors Madrenas Tinoco / Joan Miquel Ribera Llopis (Barcelona / Universitat Complutense de Madrid):<br />
+Narrativa i vida literària de postguerra: al voltant de Carles Sindreu (1900-1974): 77</p>
+<p>Raül-David Martínez Gili (Vimbodí):<br />
+Villalonga – Gide: anàlisi comparativa de L’Àngel Rebel i Els falsificadors de moneda: 115</p>
+<p>Francesc Massip / Montserrat Palau (Universitat de Tarragona):<br />
+L’Arqueta dels secrets: el teatre femení de Mercè Rodoreda: 129</p>
+<p>Maria Assumpció Bernal (Universitat de València):<br />
+Els mons peruchians: microestructures citatives i mecanismes de fabulació en les Narracions: 143</p>
+<p>Ane-Grethe Østergaard (Universitat d’Odense):<br />
+Absència i presència en un poema de Miquel Martí i Pol: 155</p>
+<p>Maria-Pau Cornadó i Teixidó (Universitat de Lleida):<br />
+El projecte poètic de Joan Margarit: 163</p>
+<p>Lluís Alpera (Universitat d’Alacant):<br />
+Una aportació interessant en l’obra d’Emili Rodríguez Bernabeu: la crítica literària: 181</p>
+<p>Relacions germano-catalanes</p>
+<p>Comunicacions</p>
+<p>Antoni Ferrando (Universitat de València):<br />
+Fortuna catalana d’una llegenda germànica: el tema de l’emperadriu d’Alemanya falsament acusada d’adulteri: 197</p>
+<p>Josep-David Garrido i Valls (Alacant):<br />
+L’aliança entre l’emperador Enric <span class="caps">VII</span> de Luxemburg i Frederic <span class="caps">III</span> de Sicília segons una crònica anònima catalana del segle XV: 217</p>
+<p>Eliseu Trenc Ballester (Université de la Sorbonne Nouvelle):<br />
+L’omnipresència alemanya a la impremta catalana de la segona meitat del segle <span class="caps">XIX</span>: 231</p>
+<p>Antònia Tayadella / Roger Friedlein (Universitat de Barcelona / Universitat Lliure de Berlín):<br />
+Presència de Jean Paul a la literatura catalana vuitcentista: 243</p>
+<p>Taula Rodona I: La literatura catalana actual</p>
+<p>Vicenç Llorca (Associació d’Escriptors en Llengua Catalana):<br />
+Entre la llum i la pluja: 273</p>
+<p>Oriol Izquierdo (Barcelona):<br />
+Nans i gegants: síndromes i mites a propòsit de la literatura catalana actual: 275</p>
+<p>Enric Sòria Parra (València):<br />
+Assaig en temps incerts: 283</p>
+<p>Isidor Cònsul (Centre Català del <span class="caps">PEN</span> Club):<br />
+Notes de sociologia editorial, 1975-1992: 301</p>
+<p>Jaume Pérez Montaner (Universitat de València):<br />
+Des de la perifèria: notes sobre la poesia dels vuitanta: 317</p>
+<p>Taula Rodona II: L’ensenyament del català als Països Catalans</p>
+<p>Antoni Maria Badia i Margarit (Universitat de Barcelona):<br />
+Presentació, crònica i avaluació: 329</p>
+<p>Miquel Reniu (Generalitat de Catalunya):<br />
+La llengua catalana avui: 339</p>
+<p>Rafael Alemany Ferrer (Universitat d’Alacant):<br />
+L’ensenyament del català al País Valencià: 347</p>
+<p>Joan Miralles i Monserrat (Universitat de les Illes Balears):<br />
+L’ensenyament de i en català a les Illes Balears: 355</p>
+<p>Joan Miquel Ribera Llopis (Universitat Complutense de Madrid):<br />
+Ensenyament i projecció del català a i des de Madrid: 363</p>
+<p>Gemma Avenoza (Universitat de Barcelona):<br />
+Informe sobre l’ensenyament del català a les universitats gallegues: 371</p>
+<p>Taula Rodona <span class="caps">III</span>: El català a la Comunitat Europea</p>
+<p>Antoni Montserrat i Moliner (Administrador a la Comissió Europea, Luxemburg):<br />
+La llengua catalana a les institucions europees: 379</p>
+<p>Lluís Caturla i Poch (Divisió de Traducció Espanyola del Consell de la Unió Europea, Brusseŀles):<br />
+El Consell de la Unió Europea i la llengua catalana: 399</p>
+<p>Aurelí Argemí (<span class="caps">CIEMEN</span>, Barcelona):<br />
+Les llengües en el marc de l’Europa Unida: 405</p>
+<p>Informe de la Generalitat de Catalunya</p>
+<p>Joan Colomines i Puig (Generalitat de Catalunya):<br />
+Sobre les perspectives del català a les universitats de fora de Catalunya: 417</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Zweiter Band der Akten des Internationalen Katalanistentages 1994.</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/74-Axel_SchOenberger" class="tag multiline" popup="true">Axel Schönberger</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Mittwoch, 17. Februar 2010, 06:31 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 17. Februar 2010, 06:31 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

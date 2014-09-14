@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+Professeur-e assistant-e en PTC tenure track (F/H) au rang de professeur-e associé-e à 100% en traductologie/Übersetzungswissenschaft
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Lausanne, Schweiz
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-09-30
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2015-08-01
+</p>
+<p class=''>
+<b>
+Gehalt:
+</b>
+selon qualifications et âge
+</p>
+<p class=''>
+<b>
+Arbeitsstunden:
+</b>
+100%
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.unil.ch/all" target="_blank">http://www.unil.ch/all</a>
+</p>
+</div>
+<p>La/Le titulaire sera en mesure de couvrir les différents aspects historiques et théoriques de la traductologie européenne moderne et assurera l’enseignement (en allemand et en français) de la traductologie au niveau Baccalauréat et Maîtrise universitaires. Elle/Il pourra faire valoir de capacités à travailler en équipe avec des représentants d’autres langues et cultures. Elle/Il participera également aux activités du Centre de Traduction Littéraire (www.unil.ch/ctl).</p>
+
+<p>Qualifications requises : Doctorat dans le domaine de la traductologie/Übersetzungswissenschaft, expérience de l’enseignement universitaire de la traductologie, publications et projets de recherche en traductologie, compétences linguistiques et littéraires en allemand, en français et dans une troisième langue enseignée à la Faculté des lettres de l’UNIL.</p>
+
+<p>Le dossier de candidature avec lettre de motivation, CV, liste des publications et trois références (adresses e-mail) est à adresser en 10 exemplaires à Mme Florence Parmelin, Université de Lausanne, Faculté des lettres, Section d’allemand, Anthropole, CH-1015 Lausanne. Prière d’envoyer conjointement une version électronique à : Florence.Parmelin@unil.ch</p>
+
+<p>Renseignements complémentaires : Prof. Irene Weber Henking, Irene.WeberHenking@unil.ch</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/3976-Irene_Weber_Henking">Irene Weber Henking</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

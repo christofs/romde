@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/1394-International_Yearbook_of_Futurism_Studies' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>International Yearbook of Futurism Studies (Zeitschriftenheft)</h2>
+<h3>Futurism in Eastern and Central Europe</h3>
+<hr>
+<abbr class='unapi-id' title='1394'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<a href="/pers/2297-GUenter_Berghaus" class="tag multiline" popup="true">Günter Berghaus</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2011
+</dd>
+<dt>Jahrgang</dt>
+<dd>1</dd>
+<dt>Nummer</dt>
+<dd>1</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.degruyter.com/view/j/futur?rskey=qd3hfZ&result=12&q" target="_blank">http://www.degruyter.com/view/j/futur?rskey=qd3hfZ&result=12&q</a>=</dd>
+<dt>ISSN</dt>
+<dd>2192-0281</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Moderne, Avant-Garde
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>The Futurist art movement, founded by F.T. Marinetti in 1909, had a worldwide impact and made important contributions to avant-garde movements in many countries and artistic genres. This yearbook is designed to act as a medium of communication amongst a global community of Futurism scholars. It has an interdisciplinary orientation and presents new research on Futurism across national borders in fields such as literature, fine arts, music, theatre, design, etc. Apart from essays and country surveys it contains reports, reviews and an annual bibliography of recent Futurism studies.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p><a href="http://www.degruyter.com/view/j/futur.2011.1.issue-1/issue-files/futur.2011.1.issue-1.xml" target="_blank">http://www.degruyter.com/view/j/futur.2011.1.issue-1/issue-files/futur.2011.1.issue-1.xml</a></p>
+<p>Table of Contents</p>
+<p>Editorial:<br />
+Aims and Functions of the International Yearbook<br />
+of Futurism Studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . IX</p>
+<p>Section 1:<br />
+Critical responses to exhibitions, conferences and publications<br />
+Giorgio Di Genova<br />
+The Centenary of Futurism: Lame Duck or Political Revisionism? . . . 3<br />
+Chris Michaelides<br />
+<span class="caps">FUTURISM</span> 2009: Critical Refl ections on the Centenary Year . . . . . 20<br />
+Antonio Saccoccio<br />
+A short presentation of Net.Futurism . . . . . . . . . . . . . . . . . . . . . . . . . . 32</p>
+<p>Section 2:<br />
+Country Surveys<br />
+Oleh S. Ilnytzkyj<br />
+Ukrainian Futurism: Re-Appropriating the Imperial Legacy . . . . . . . . 37</p>
+<p>Section 3:<br />
+Futurism Studies<br />
+Sonia de Puineuf<br />
+Quicksands of Typography: The Futurist Experience in<br />
+Central Europe during the 1920s . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61<br />
+Przemysław Strożek<br />
+“Marinetti is foreign to us”: Polish Responses to Italian Futurism,<br />
+1917–1923 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85<br />
+András Kappanyos<br />
+The Reception of Futurism in Nyugat and in the Kassák Circle<br />
+of Activists . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110<br />
+Marina Dmitrieva<br />
+“A spectre is haunting Europe – the spectre of Futurism”:<br />
+The Ukrainian Panfuturists and Their Artistic Allegiances . . . . . . . . 132<br />
+Ilona Gwóźdź-Szewczenko<br />
+Futurism: The Hidden Face of the Czech Avant-garde . . . . . . . . . . . 154<br />
+Emilia David Drogoreanu<br />
+Aesthetic Affi nities and Political Divergences Between Italian<br />
+and Romanian Futurism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 175<br />
+Irina Subotić<br />
+Zenitism / Futurism: Similarities and Differences . . . . . . . . . . . . . . . 201<br />
+Aija Brasliņa<br />
+Latvian Modernists in Berlin and Rome in the 1920s:<br />
+Encounters with secondo futurismo . . . . . . . . . . . . . . . . . . . . . . . . . . . 231<br />
+Marijan Dović<br />
+Anton Podbevšek, Futurism, and Slovenian Interwar Avant-garde<br />
+Literature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 262<br />
+Maria Elena Versari<br />
+Enlisting and Updating: Ruggero Vasari and the Shifting<br />
+Coordinates of Futurism in Eastern and Central Europe . . . . . . . . . . 277<br />
+Bela Tsipuria<br />
+H2SO4: The Futurist Experience in Georgia . . . . . . . . . . . . . . . . . . . 299<br />
+Irina Genova<br />
+The Hybrid Artistic Identity: Nicolay Diulgheroff and the<br />
+Second Phase of the Italian Futurist Movement . . . . . . . . . . . . . . . . . 323<br />
+Ilona Fried<br />
+Marinetti’s Visits to Budapest, 1931, 1932 and 1933:<br />
+Archival Documents and the Memoirs of Margit Gáspár . . . . . . . . . 343</p>
+<p>Section 4:<br />
+Bibliography<br />
+Günter Berghaus<br />
+Conferences Held on the Occasion of the Centenary of Futurism . . . 365<br />
+Günter Berghaus<br />
+A Bibliography of Publications Commemorating<br />
+100 Years of Futurism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 409</p>
+<p>Section 5:<br />
+Back Matter<br />
+List of Illustrations and Provenance Descriptions . . . . . . . . . . . . . . . . 439<br />
+Notes on Contributors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 443<br />
+Table of Contents</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/425-Redaktion_romanistik_de" class="tag multiline" popup="true">Redaktion romanistik.de</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 10. Mai 2012, 10:37 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 10. Mai 2012, 10:37 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

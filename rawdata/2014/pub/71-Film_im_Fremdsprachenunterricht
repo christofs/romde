@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/71-Film_im_Fremdsprachenunterricht' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Film im Fremdsprachenunterricht (Sammelband)</h2>
+<h3>Literarische Stoffe, interkulturelle Ziele, mediale Wirkung</h3>
+<hr>
+<abbr class='unapi-id' title='71'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<a href="/pers/48-Eva_Leitzke_Ungerer" class="tag multiline" popup="true">Eva Leitzke-Ungerer</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Ibidem</dd>
+<dt>Ort</dt>
+<dd>Stuttgart</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2009
+</dd>
+<dt>Auflage</dt>
+<dd>1</dd>
+<dt>Reihe</dt>
+<dd>Romanische Sprachen und ihre Didaktik</dd>
+<dt>ISBN</dt>
+<dd>
+978-3-89821-925-9
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-89821-925-9&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Italienisch, Spanisch, Englisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Fachdidaktik
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Film, Fremdsprachenunterricht, Literaturverfilmung, Episodenfilm, Kurzfilm, Dokumentarfilm, Sitcom, Musikvideoclip, Filmanalyse, kreative und handlungsorientierte Ansätze, Handlungsorientierung
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Die Publikation befasst sich mit dem Einsatz von Filmen im Französisch-, Italienisch-, Spanisch- und Englischunterricht. Ausgehend vom aktuellen fachdidaktischen Diskussionsstand werden in 22 Einzelbeiträgen theoretische Konzepte und unterrichtspraktische Vorschläge für die Behandlung klassischer und avantgardistischer Filme entwickelt. Bei den Literaturverfilmungen stehen die intermedialen Transformationsprozesse zwischen Buch und Film im Vordergrund, die den Schülern Gelegenheit zur Analyse der filmspezifischen Mittel geben. In einer zweiten Gruppe von Beiträgen wird untersucht, wie die filmbezogene Wahrnehmungsschulung, insbesondere das Sehverstehen, zur Förderung der inter- und transkulturellen Kompetenz der Schüler genutzt werden kann. Schließlich werden, über das klassische Spielfilmformat hinausgehend, die didaktisch-methodischen Möglichkeiten weiterer Filmgattungen wie Episodenfilm, Kurzfilm, Dokumentarfilm, Sitcom und Musikvideoclip diskutiert und damit neue Felder für den Film im Fremdsprachenunterricht erschlossen.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Inhaltsverzeichnis</p>
+<p><span class="caps">VORWORT</span></p>
+<p>EINFÜHRUNG<br />
+<span class="caps">EVA</span> <span class="caps">LEITZKE</span>-<span class="caps">UNGERER</span><br />
+Film im Fremdsprachenunterricht: Herausforderungen, Chancen, Ziele (11-32)<br />
+<span class="caps">GERHARD</span> <span class="caps">LAMPE</span><br />
+Bauformen audiovisuellen Erzählens – am Beispiel von Alfred Hitchcocks Die Vögel (33-57)</p>
+<p><span class="caps">TEIL</span> I: <span class="caps">FILM</span> <span class="caps">UND</span> <span class="caps">LITERATUR</span><br />
+<span class="caps">CAROLA</span> <span class="caps">SURKAMP</span><br />
+Literaturverfilmungen im Unterricht: Die Perspektive der Fremdsprachendidaktik (61-80)<br />
+<span class="caps">MARTINA</span> <span class="caps">BENDER</span><br />
+Dramatischer Text und Film. Didaktische Potenzen des intermedialen Übertragungsprozesses in ¡Ay, Carmela! von José Sanchis Sinisterra/Carlos Saura (81-06)<br />
+<span class="caps">FRANK</span> SCHÖPP<br />
+„Normalement, le livre est meilleur que le film“ – Literaturverfilmungen im Französischunterricht der Oberstufe am Beispiel von Je vais bien, ne t’en fais pas (97-116)<br />
+<span class="caps">ACHIM</span> <span class="caps">HESCHER</span><br />
+Racism, Intercultural Encounters and Political Correctness in Metin Hüseyin’s film Anita and Me. A Didactic Approach (117-136)<br />
+<span class="caps">DANIEL</span> <span class="caps">REIMANN</span><br />
+Italienische Jugendliteratur und ihre Verfilmung: Tre metri sopra il cielo und Notte prima degli esami (137-152)<br />
+<span class="caps">ANKE</span> <span class="caps">WORTMANN</span><br />
+Melodrama und Politik. Eine Lektüre von Viscontis Film Senso mit Studierenden der Romanistik (153-167)</p>
+<p><span class="caps">TEIL</span> II: <span class="caps">FILM</span> <span class="caps">UND</span> <span class="caps">INTERKULTURELLES</span> <span class="caps">LERNEN</span><br />
+<span class="caps">ADELHEID</span> <span class="caps">SCHUMANN</span><br />
+Interkulturelles Lernen mit Filmen im Fremdsprachenunterricht (171-185)<br />
+<span class="caps">INEZ</span> DE <span class="caps">FLORIO</span>-<span class="caps">HANSEN</span><br />
+Der italienische Film und sein Publikum: Überlegungen zu Rezeptionsästhetik und Inter-/Transkulturalität (187-204)<br />
+<span class="caps">STEFANO</span> <span class="caps">SASSO</span><br />
+Die italienische Gesellschaft der letzten vierzig Jahre in La meglio gioventù von Marco Tullio Giordana (205-219)<br />
+<span class="caps">ANDREAS</span> GRÜNEWALD<br />
+Sehen und Verstehen: Analyse referenzsemantischer Zeichen in Spielfilmen (221-240)<br />
+<span class="caps">GABRIELE</span> <span class="caps">BLELL</span> &amp; <span class="caps">CHRISTIANE</span> LÜTGE<br />
+Gendered Views &amp; Sounds: Zu Gender-Aspekten bei der Arbeit mit Teenage-Filmen im Fremdsprachenunterricht (241-257)<br />
+<span class="caps">URSULA</span> <span class="caps">VENCES</span><br />
+Bilder sagen mehr als Worte: Ein interkulturelles Filmprojekt mit Schülern aus Deutschland und Nicaragua (259-274)</p>
+<p><span class="caps">TEIL</span> <span class="caps">III</span>: <span class="caps">NEUE</span> <span class="caps">FILMGATTUNGEN</span> FÜR <span class="caps">DEN</span> <span class="caps">FREMDSPRACHENUNTERRICHT</span><br />
+<span class="caps">EVA</span> <span class="caps">BURWITZ</span>-<span class="caps">MELZER</span><br />
+Film Puzzles: Episodenfilme im Fremdsprachenunterricht (277-294)<br />
+<span class="caps">ULRIKE</span> C. <span class="caps">LANGE</span><br />
+Auf der Suche nach dem filmischen Erzähler: Paris je t’aime im Französischunterricht (295-307)<br />
+<span class="caps">ANDREA</span> RÖSSLER<br />
+Überraschende Begegnungen der kurzen Art: Zum Einsatz von Kurzspielfilmen im Fremdsprachenunterricht (309-323)<br />
+<span class="caps">HELENE</span> <span class="caps">DECKE</span>-<span class="caps">CORNILL</span><br />
+Story of a Beautiful Country: Ein Dokumentarfilm aus dem Neuen Alten Südafrika (327-342)<br />
+<span class="caps">NANCY</span> <span class="caps">GRIMM</span><br />
+The Corporation: Zum reflektiert-kritischen Einsatz von Dokumentarfilmen im Englischunterricht (343-358)<br />
+<span class="caps">UWE</span> KÜCHLER<br />
+Screening the Green, Greening the Screen: Umweltfilme im Fremdsprachenunterricht (359-378)<br />
+<span class="caps">MICHAEL</span> <span class="caps">FRINGS</span> &amp; <span class="caps">JENS</span> F. <span class="caps">HEIDERICH</span><br />
+Découvrir Saint-Denis à travers un clip du slameur Grand Corps Malade (379-397)<br />
+<span class="caps">JOCHEN</span> <span class="caps">WILLWER</span><br />
+Tout yeux, tout oreilles – Musikvideoclips zu Bénabar im Französischunterricht (399-417)<br />
+<span class="caps">RANDI</span> GUNZENHÄUSER &amp; <span class="caps">ANGELA</span> <span class="caps">HAHN</span><br />
+Sitcoms und Pragmatik (419-434)</p>
+<p><span class="caps">AUTORINNEN</span> <span class="caps">UND</span> <span class="caps">AUTOREN</span> (435-438)<br />
+ÜBERSICHT ÜBER <span class="caps">DIE</span> BEITRÄGE <span class="caps">NACH</span> <span class="caps">SPRACHEN</span> (439)</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/48-Eva_Leitzke_Ungerer" class="tag multiline" popup="true">Eva Leitzke-Ungerer</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Dienstag, 08. Dezember 2009, 07:46 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Dienstag, 08. Dezember 2009, 07:46 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

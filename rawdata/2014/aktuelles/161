@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+Fellowships für Innovationen in der Hochschullehre: Ausschreibung 2014
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-07-11
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.stifterverband.org/wissenschaft_und_hochschule/lehre/fellowships/ausschreibung_2014/index.html" target="_blank">http://www.stifterverband.org/wissenschaft_und_hochschule/lehre/fellowships/ausschreibung_2014/index.html</a>
+</p>
+</div>
+<p>Ziel des Programms ist es, Anreize für die Entwicklung und Erprobung neuartiger Lehr- und Prüfungsformate oder die Neugestaltung von Modulen und Studienabschnitten zu schaffen sowie den Austausch über Hochschullehre zu fördern.</p>
+
+<p>Die Baden-Württemberg Stiftung, die Caspar Ludwig Opländer Stiftung, die Joachim Herz Stiftung und der Stifterverband schreiben 2014 Fellowships für Innovationen in der Hochschullehre in folgenden Kategorien aus:</p>
+
+<p>- Junior-Fellowships für Doktorand/inn/en, Post-Doktorand/inn/en und wissenschaftliche Mitarbeiter/innen; Dotierung: 15.000 Euro
+<br />- Senior-Fellowships für Juniorprofessor/inn/en und Professor/inn/en; Dotierung: 25.000 Euro
+<br />- Tandem-Fellowships für Lehrende, die mit einem/einer Hochschuldidaktiker/in/ Lehr-/Lernforscher/in oder mit einem/einer Lehrenden aus einer anderen Fachrichtung kooperieren; Dotierung: 30.000 Euro</p>
+
+<p>Bei den Fellowships handelt es sich um eine individuelle, personengebundene Förderung, die den Fellows Freiräume und Ressourcen für die Durchführung der Entwicklungsvorhaben verschafft. Bei einem Tandem-Fellowship teilen sich zwei Personen die Förderung. Die Vergabe mehrerer Fellowships für ein einzelnes Entwicklungsvorhaben ist ausgeschlossen.</p>
+
+<p>Es wird erwartet, dass die Hochschule die Fellows aktiv unterstützt (zum Beispiel durch Freistellung für die Fellowtreffen und die Lehr-/Lernkonferenzen) und dass das Fellowship dazu beiträgt, eine dauerhafte fächernahe und/oder fächerübergreifende Diskussion über curriculare Entwicklungen und innovative Lehre an der Hochschule anregt. Die Projektförderung soll im Jahr 2015 beginnen; der Förderzeitraum bestimmt sich individuell nach dem Arbeitsplan des Projektes.</p>
+
+<p>Fellowships der Baden-Württemberg Stiftung
+<br />Die von der Baden-Württemberg Stiftung finanzierten Fellowships können nur an Personen vergeben werden, die an Hochschulen in Baden-Württemberg lehren. Ausdrücklich werden diejenigen zur Bewerbung aufgefordert, die auch für den Landeslehrpreis Baden-Württemberg von ihrer Hochschule nominiert worden sind oder die sich innerhalb ihrer Hochschule für den Landeslehrpreis bewerben. Die Fellowships der Baden-Württemberg Stiftung sind weder fachlich noch thematisch gebunden.</p>
+
+<p>Fellowships des Stifterverbandes für die Deutsche Wissenschaft
+<br />Die fünf vom Stifterverband finanzierten Fellowships sind weder regional noch fachlich oder thematisch gebunden.</p>
+
+<p>Fellowships der Caspar Ludwig Opländer Stiftung
+<br />Die zwei von der Caspar Ludwig Opländer Stiftung finanzierten Junior-Fellowships können nur an Bewerber/innen aus den Ingenieurwissenschaften oder Bewerber/innen aus MINT-Disziplinen, deren Entwicklungsvorhaben sich mit Aspekten des Klimawandels befassen.</p>
+
+<p>Fellowship der Joachim Herz Stiftung
+<br />Das von der Joachim Herz Stiftung finanzierte Junior-Fellowship kann nur an Bewerber/innen vergeben werden, die in folgenden oder verwandten Disziplinen tätig sind: Volks- und Betriebswirtschaftslehre, Rechtswissenschaften, Medizin, Chemie, Physik oder Biologie.</p>
+
+<p>Anträge können nur über die Hochschulleitung eingereicht werden. Es können Lehrende aller Disziplinen an staatlichen und privaten Hochschulen in Deutschland Bewerbungen einreichen. Ausgenommen sind Lehrbeauftragte. Mehrere Anträge aus einer Hochschule sind zulässig. Bewerbungsschluss ist der 11. Juli 2014.</p>
+
+<p>Über die Auswahl der Fellows entscheidet voraussichtlich bis Ende Oktober 2014 eine Jury, die mit Lehrenden und Studierenden verschiedener Fachrichtungen und Vertreter der Hochschuldidaktik besetzt ist. Maßgebliche Auswahlkriterien sind der zu erwartende Beitrag der geplanten Lehrinnovationen zur Weiterentwicklung der Lehre in der jeweiligen Disziplin, die angestrebte Verstetigung sowie das Transferpotenzial.</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

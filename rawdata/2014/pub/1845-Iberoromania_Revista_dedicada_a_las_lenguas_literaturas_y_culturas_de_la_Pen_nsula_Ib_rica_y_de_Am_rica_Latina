@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/1845-Iberoromania_Revista_dedicada_a_las_lenguas_literaturas_y_culturas_de_la_Pen_nsula_Ib_rica_y_de_Am_rica_Latina' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Iberoromania - Revista dedicada a las lenguas, literaturas y culturas de la Península Ibérica y de América Latina (Zeitschriftenheft)</h2>
+<h3>Dossier: ‘Melos’ y ‘opsis’ en el Siglo de Oro.  Ritmo, imagen y emoción en el teatro y en la poesía lírica</h3>
+<hr>
+<abbr class='unapi-id' title='1845'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<span class='tag multiline'>Tobias Brandenberger</span>
+<span class='tag multiline'>Rolf Eberenz</span>
+<span class='tag multiline'>Dieter Ingenschay</span>
+<a href="/pers/203-Susanne_Klengel" class="tag multiline" popup="true">Susanne Klengel</a>
+<a href="/pers/653-Volker_Noll" class="tag multiline" popup="true">Volker Noll</a>
+<span class='tag multiline'>Klaus Pörtl</span>
+<span class='tag multiline'>Michael Rössner</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+Dezember
+2012
+</dd>
+<dt>Jahrgang</dt>
+<dd>2012</dd>
+<dt>Nummer</dt>
+<dd>75-76</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.degruyter.com/view/j/iber-2012-75-76-issue-1/issue-files/iber-2012-75-76-issue-1.xml;jsessionid=EC4AF1A9A8B3B68CC04725B88559047D" target="_blank">http://www.degruyter.com/view/j/iber-2012-75-76-issue-1/issue-files/iber-2012-75-76-issue-1.xml;jsessionid=EC4AF1A9A8B3B68CC04725B88559047D</a></dd>
+<dt>ISSN</dt>
+<dd>1865-9039</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Spanisch, Katalanisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Sprachwissenschaft
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Editorial</p>
+<p>Profa. Dra. Susanne Klengel: Revista Iberoromania, Freie Universität Berlin,<br />
+ZI Lateinamerika-Institut, Rüdesheimer Str. 54–56, 14197 Berlin,<br />
+E-Mail: <a href="mailto:klengel@zedat.fu-berlin.de" target="_blank">klengel@zedat.fu-berlin.de</a></p>
+<p>Estimadas lectoras, estimados lectores:<br />
+    El número 75–76 de Iberoromania que les ofrecemos en el nuevo diseño de la casa editora de Gruyter versa sobre la importancia de los elementos musicales e icónicos –‘melos’ y ‘opsis’– en la literatura del Siglo de Oro. Los editores de este número doble monográfico, Wolfram Aichinger, Martina Meidl y Michael Rössner, contribuyen así a una discusión actual –que cobra cada vez más relevancia– sobre las intermedialidades en las artes, y nos recuerdan con razón los períodos históricos más lejanos que generalmente suelen quedar al margen de la reflexión contemporánea sobre la intermedialidad. El Siglo de Oro presenta, como lo demuestran los catorce artículos sobre la poesía y el teatro áureos de investigadores internacionales especializados en el tema, un campo particularmente rico para un análisis que focalice su atención en el ritmo, la imagen y las emociones producidas por dichas expresiones. Por lo tanto, encontrarán ustedes en este número relecturas exhaustivas de textos poéticos y dramáticos, pero también revisiones de posiciones críticas y reflexiones sobre el trabajo editorial de las fuentes literarias del Siglo de Oro. <br />
+    En la sección Artículos ofrecemos en el presente número tres estudios: el primero, de Pere Bescós Prat, trata sobre los distintos procedimientos del trabajo translatológico en tres traductores catalanes del siglo XV. El siguiente, escrito por Ricardo Fernández Romero, se dedica al análisis de la interrelación entre escritura autobiográfica y el medio de la fotografía, mientras que el último trabajo, de Enrique Téllez-Espinosa, presenta una relectura de la representación cinematográfica de la transición política en España en la obra de Pedro Almodóvar.<br />
+    En nombre del comité editorial de Iberoromania les deseo a ustedes, lectoras y lectores de este número, una lectura grata y fructífera.</p>
+<p>Susanne Klengel</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Editorial</p>
+<p><strong>Dossier: ‘Melos’ y ‘opsis’ en el Siglo de Oro. Ritmo, imagen y emoción en el teatro y en la poesía lírica</strong></p>
+<p>Wolfram Aichinger, Martina Meidl, Michael Rössner<br />
+‘Melos’ y ‘opsis’ en el Siglo de Oro. Prólogo</p>
+<p>A) La poesía</p>
+<p>Martina Meidl<br />
+Tiempo y duración en imagen y ritmo del primer petrarquismo español</p>
+<p>Angela Fabris<br />
+Forma dramática y métrica italianizante en El pastor de Fílida (1582) de Luis Gálvez de Montalvo</p>
+<p>Simon Kroll<br />
+El sonido de las metáforas gongorinas. Un análisis de la estructura sonora del comienzo de la Soledad segunda</p>
+<p>Christopher F. Laferl<br />
+Góngora, Espinosa Medrano y la defensa del hipérbaton</p>
+<p>B) El teatro</p>
+<p>Eva Reichenberger<br />
+Una mirada tipográfica sobre el estudio métrico y la edición del teatro áureo</p>
+<p>Francisco Domínguez Matito<br />
+El acento equívoco. Variantes sobre un motivo desde Lope a Moreto, pasando por Tirso y Calderón</p>
+<p>Marx Arriaga Navarro<br />
+Las estructuras rítmicas en Las paredes oyen; uso del ritmo acentual en el arte alarconiano</p>
+<p>Wolfram Aichinger<br />
+Imagen, imagen soñada y romance en Calderón. Algunas consideraciones generales</p>
+<p>Fausta Antonucci<br />
+La octava real entre épica y tragedia en las comedias de la Primera parte de Calderón</p>
+<p>Fátima López Pielow<br />
+Mecanismos discursivos y su manifestación textual a través del ritmo, la metáfora y el mito en el teatro de Calderón</p>
+<p>José Elías Gutiérrez Meza<br />
+La polimetría en la representación de la conquista y evangelización del Perú en La aurora en Copacabana de Calderón</p>
+<p>J. Enrique Duarte<br />
+‘Melos’ y ‘opsis’ en el auto sacramental</p>
+<p>Susana Hernández Araico<br />
+Música en el teatro de Sor Juana: mímesis, ‘mudanzas’ y malabarismo escénico</p>
+<p>C) Del teatro a la poesía</p>
+<p>Michael Rössner<br />
+‘Melos’ y ‘opsis’ de Don Juan: El burlador de Tirso y El estudiante de Salamanca</p>
+<p><strong>Artículos</strong></p>
+<p>Pere Bescós Prat<br />
+Aportacions a l’estudi de tres traductors catalans quatrecentistes: Ferran Valentí, Arnau d’Alfarràs i Aleix de Barcelona</p>
+<p>Ricardo Fernández Romero<br />
+La cámara oscura del yo. Metáforas fotográficas y autobiografía en España</p>
+<p>Enrique Téllez-Espiga<br />
+Una posmodernidad redentora: Madrid como liberación de Gloria en ¿Qué he hecho YO para merecer esto! de Pedro Almodóvar</p>
+<p><strong>Reseñas</strong></p>
+<p>Sarah H. Beckjord: Territories of History. Humanism, Rhetoric, and the Historical Imagination in the Early Chronicles of Spanish America (William Childers)</p>
+<p>Albrecht Buschmann: Max Aub und die Spanische Literatur zwischen Avantgarde und Exil (Mercedes Figueras)</p>
+<p>Martin Franzbach: Sozialgeschichte der kubanischen Literatur (1608–1958) (Beatrice Nickel)</p>
+<p>Yannick Llored: Juan Goytisolo. Le soi, le monde et la création littéraire (Marco Kunz)</p>
+<p>Pablo Palacio: Kurzgeschichten – Cuentos (Fernando Nina)</p>
+<p>Eva Stehlik: Thematisierung und Ästhetisierung von Gewalt im spanischen Gegenwartstheater (Klaus Pörtl)</p>
+<p><strong>Libros recibidos</strong></p>
+<p><strong>Autores que colaboran</strong></p>
+<p><strong>Manual para autores</strong></p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Dossier editado por Wolfram Aichinger, Martina Meidl, Michael Rössner.</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/2445-Georg_Wink" class="tag multiline" popup="true">Georg Wink</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 07. März 2013, 10:53 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 07. März 2013, 10:53 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

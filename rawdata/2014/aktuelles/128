@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+European Institutes for Advanced Study (EURIAS) Fellowship Programme
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+verschiedene Orte
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-06-05
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2015-09-15
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2016-07-15
+</p>
+<p class=''>
+<b>
+Gehalt:
+</b>
+siehe Text
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.eurias-fp.eu/types-fellowships" target="_blank">http://www.eurias-fp.eu/types-fellowships</a>
+</p>
+</div>
+<p>The European Institutes for Advanced Study (EURIAS) Fellowship Programme is an international researcher mobility programme offering 10-month residencies in one of the 16 participating Institutes: Berlin, Bologna, Budapest, Cambridge, Delmenhorst, Edinburgh, Freiburg, Helsinki, Jerusalem, Lyon, Marseille, Paris, Uppsala, Vienna, Wassenaar, Zürich. The Institutes for Advanced Study support the focused, self-directed work of outstanding researchers. The fellows benefit from the finest intellectual and research conditions and from the stimulating environment of a multi-disciplinary and international community of first-rate scholars.</p>
+
+<p>EURIAS Fellowships are mainly offered in the fields of the humanities and social sciences but may also be granted to scholars in life and exact sciences, provided that their proposed research project does not require laboratory facilities and that it interfaces with humanities and social sciences. The diversity of the 16 participating IAS offers a wide range of possible research contexts in Europe for worldwide scholars. Applicants may select up to three IAS outside their country of nationality or residence as possible host institutions.</p>
+
+<p>The Programme welcomes applications worldwide from promising young scholars (postdoc) as well as from leading senior researchers. The EURIAS selection process has proven to be highly competitive. In order to match the Programme standards, applicants have to submit a solid and innovative research proposal, to demonstrate the ability to forge beyond disciplinary specialisation, to show an international commitment as well as quality publications in high-impact venues.</p>
+
+<p>For the 2015-2016 academic year, EURIAS offers 44 fellowships (22 junior and 22 senior positions).</p>
+
+<p>All IAS have agreed on common standards, including the provision of a living allowance (in the range of € 26,000 for a junior fellow and € 38,000 for a senior fellow), accommodation (or a mobility allowance), a research budget, plus coverage of travel expenses.</p>
+
+<p>APPLICATION AND DEADLINE
+<br />– Applications are submitted online via www.eurias-fp.eu, where you will find detailed information regarding the content of the application, eligibility criteria, selection procedure, etc.
+<br />– Applications period April 15th → June 5th, 2014.
+<br />– The deadline for application is June 5th, 2014, 12 PM (noon) GMT. Late applications will not be considered.</p>
+
+<p>SELECTION PROCEDURE
+<br />– Scientific assessment by two international reviewers
+<br />– Pre-selection by the international EURIAS Scientific Committee
+<br />– Final selection by the IAS academic boards
+<br />– Publication of results (January 2015)</p>
+
+<p>CALENDAR OF ACTIONS
+<br />Launch of the call for applications → April 15th, 2014
+<br />Application deadline → June 5th, 2014
+<br />Results of the preselection by EURIAS Scientific Committee → Mid-November, 2014
+<br />Publication of IAS final selections → Mid-January, 2015
+<br />Arrival of fellows → September/October 2015</p>
+
+<p>ELIGIBILITY CRITERIA
+<br />Please check on the following pages :
+<br />- www.eurias-fp.eu/eligibility-requirements
+<br />- www.eurias-fp.eu/types-fellowships</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

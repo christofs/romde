@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/2201-Trivium_Deutsch_franzOesische_Zeitschrift_fUer_Geistes_und_Sozialwissenschaften' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Trivium: Deutsch-französische Zeitschrift für Geistes-und Sozialwissenschaften (Zeitschriftenheft)</h2>
+<h3>Nummer 15: Wissenschaft denkt in mehreren Sprachen</h3>
+<hr>
+<abbr class='unapi-id' title='2201'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+Dezember
+2013
+</dd>
+<dt>Jahrgang</dt>
+<dd>2013</dd>
+<dt>Nummer</dt>
+<dd>15</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://trivium.revues.org/4525" target="_blank">http://trivium.revues.org/4525</a></dd>
+<dt>ISSN</dt>
+<dd>1963-1820</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Sprachwissenschaft, Sprachpraxis
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Mehrprachigkeit
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Anliegen dieses Themenheftes ist es, Fragen heutiger Sprachpolitik und der sprachlichen Praxis in der Wissenschaft und im internationalem wissenschaftlichen Austausch zur Diskussion zu stellen. Im Zentrum der Aufmerksamkeit stehen dabei jene Kultur-, Sozial- und Geisteswissenschaften, die das Sinnreservoir einer Gesellschaft darstellen, ein Medium, in dem sie sich spiegelt, erklärt und ausrichtet. Diese Bereiche der Wissenschaft zeichnen sich gerade dadurch aus, dass ihr Gegenstand in der Sprache liegt und sprachlich geformt wird. Die Reflexion über Sprache führt daher in das Zentrum dieser Wissenschaften.</p>
+<p>Die meisten der in diesem Themenheft veröffentlichten Texte entstammen dem im Jahr 2005 von Fritz Nies herausgegebenen Tagungsband Europa denkt mehrsprachig / L’Europe pense en plusieurs langues. Wir danken dem Gunter Narr Verlag in Tübingen für die freundliche Genehmigung, die Texte in Übersetzung und zugleich auch in der Originalfassung an dieser Stelle zu publizieren.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Einleitung / Introduction</p>
+<p>Maurice Aymard</p>
+<p>Langues naturelles et langues savantes : les sciences humaines et sociales face à elles-mêmes, à leurs ambitions, à leurs exigences, à leurs pratiques / Natürliche Sprachen und Wissenschaftssprachen: Selbstverständnis, Anspruch, Anforderungen und Praktiken in den Geistes- und Sozialwissenschaften</p>
+<p>Jürgen Trabant</p>
+<p>Der eigenen Sprache bedürftig / Tributaire de sa propre langue</p>
+<p>Antoine Compagnon</p>
+<p>Passer d’une langue à l’autre donne des idées nouvelles / Der Wechsel von einer Sprache zur anderen erzeugt neue Ideen</p>
+<p>Walter Krämer</p>
+<p>Muttersprache: Motor kreativen Denkens / La langue maternelle, moteur de la créativité de la pensée</p>
+<p>Gerhard Stickel</p>
+<p>Plurilinguismus und Übersetzen: Investition in Europas Zukunft / Plurilinguisme et traduction : investir dans l’avenir de l’Europe</p>
+<p>Bernd Stiegler</p>
+<p>»Lost in translation«. Übersetzung und kultureller Dialog / « Lost in translation » : réflexions sur la traduction et le dialogue interculturel</p>
+<p>Barbara Cassin</p>
+<p>Penser en langues / In Sprachen denken</p>
+<p>Françoise Balibar, Philippe Büttgen, Jean-Pierre Cléro, Jacques Collette et Barbara Cassin</p>
+<p>Moment, instant, occasion / Der / das Moment, der Augenblick, die günstige Gelegenheit</p>
+<p>Alain Supiot</p>
+<p>Communiquer ou se comprendre ? / Kommunizieren oder einander verstehen?</p>
+<p>Konrad Ehlich</p>
+<p>Nationalsprachliche Wissenschaftspraxis &#8211; Grundlage effizienter Wissenschaft oder Relikt? / La pratique scientifique dans la langue nationale : fondement de l’efficacité de la science ou reliquat ?</p>
+<p>Harald Weinrich</p>
+<p>Sprache, das heißt Sprachen / La langue ? Non: les langues !</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/3627-Julie_Sentis" class="tag multiline" popup="true">Julie Sentis</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 12. Dezember 2013, 10:45 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 12. Dezember 2013, 10:45 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

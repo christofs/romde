@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/2414-_Autofiktion_im_Werk_Paul_Nizons' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>'Autofiktion' im Werk Paul Nizons (Monographie)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='2414'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Autor(en)</h4>
+<a href="/pers/3878-Anne_SchUelke" class="tag multiline" popup="true">Anne Schülke</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Aisthesis</dd>
+<dt>Ort</dt>
+<dd>Bielefeld</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2014
+</dd>
+<dt>Auflage</dt>
+<dd>1</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.aisthesis.de/titel/9783849810320.htm" target="_blank">http://www.aisthesis.de/titel/9783849810320.htm</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-3-8498-1032-0
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-8498-1032-0&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Autofiktion, Raumfiktion, Nizon Paul
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Paul Nizons Werk, so zeigt es Anne Schülke in einem Close reading entlang der Begriffe Autofiktion und Raumfiktion, besteht aus hybriden Textformen an den Gattungsgrenzen zwischen Roman, Journal und Essay. Als zentrales Analyseinstrument wird der Begriff Autofiktion eingeführt und diskutiert. Hierbei steht die Frage nach der Funktion des Autors im Vordergrund. Voraussetzung dieser Autorkonstruktion und Literaturproduktion ist die für Nizons Schreiben charakteristische Dynamik von Stillstand und Bewegung. Sie realisiert sich in einer räumlichen Oppositionsstruktur und etabliert Grenzen. Deren Überschreitung bringt allerdings keine Handlung in Gang, sondern stimuliert Wort- und Sprachspiele. Denn der begehrte Raum liegt nicht jenseits dieser Grenzen, sondern ist der literarische Text selbst.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'>Inhalt:
+1. Einleitung
+1.1 Einführung in das Werk und seine Rezeption
+1.2 Methoden und Gliederung
+1.3 Diskurs über Autofiktion
+1.4 Diskurs über Raumfiktion
+2. Autofiktion im Werk Paul Nizons
+2.1 Dissoziiertes Ich und gebrochene Weltwahrnehmung
+2.1.1 „Die gleitenden Plätze“ (1959)
+2.1.2 „Canto“ (1963)
+2.2 Das Ende der Geschichte(n)
+2.2.1 „Im Hause enden die Geschichten“ (1971)
+2.2.2 „Untertauchen“ (1972)
+2.2.3 „Stolz“ (1975)
+2.3 Nach dem Tod eines Schriftstellers
+2.3.1 „Das Jahr der Liebe“ (1981)
+2.3.2 „Am Schreiben gehen“ (1985)
+2.4 Roman eines Lebens – Die Journale
+2.4.1 Das Journal als Medium der Selbstvergewisserung
+2.4.2 Das Journal als Medium der Selbstanalyse
+2.4.3 Das Journal als Materiallager
+2.5 Figuren zwischen Stillstand und Bewegung: Marschierer
+2.5.1 „Im Bauch des Wals“ (1989)
+2.5.2 „Hund. Beichte am Mittag“ (1998)
+2.5.3 „Das Fell der Forelle“ (2005)
+3. Raumfiktion im Prosawerk Paul Nizons
+3.1 Bipolare Organisation des Raums
+3.2 Literarische Konfiguration des dynamischen Raums
+3.3 Raum der Ich-Konstitution
+4. Schluss
+5. Anhang
+5.1 Literaturverzeichnis
+5.2 Abbildungsnachweise
+Dank</div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/3878-Anne_SchUelke" class="tag multiline" popup="true">Anne Schülke</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Dienstag, 13. Mai 2014, 13:48 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Freitag, 16. Mai 2014, 11:09 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

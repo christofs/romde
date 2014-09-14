@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfP: Revista iMex: La Frontera Norte México-Estados Unidos
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ende:
+</b>
+2014-10-31
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.imex-revista.com/" target="_blank">http://www.imex-revista.com/</a>
+</p>
+</div>
+<p>En la Frontera Norte México-Estados Unidos, desde la últimas décadas, se llevan a cabo fenómenos culturales, políticos y económicos de dos civilizaciones que bien vale la pena investigar más a fondo. Más allá de su localización geográfica concreta, el significado de esta frontera se transfiere hacia las mentalidades de los habitantes de ambas naciones, dado que, en un sentido existencial y simbólico, ella marca la política, la cultura así como también el pensamiento y formas de comportamiento. 
+<br />La Frontera Norte se ha convertido en un mito contemporáneo que es percibido no sólo como una “herida abierta” (Gloria Anzaldúa) sino tambien como una fuente muy productiva para la reflexión y la inspiración artística. Por eso, la presencia de la frontera, tanto real como simbólica, en la vida cotidiana de ambas naciones da ocasión para meditar sobre la vida misma y la situación liminal y precaria en la que a menudo se vive. Además, de una manera más abstracta, la existencia de la Frontera Norte, y el Norte en general, invoca la necesaria reflexión sobre el desierto de la vida, el impacto de los sueños y el fracaso o el éxito de traspasar límites, sea por un acto físico, sea por una actitud mental, o sea simbólicamente, mediante palabras. En la conciencia de muchos se ha interiorizado esta frontera y su mera existencia permite descubrir verdades existenciales. 
+<br />Al mismo tiempo, en una perspectiva teórico-cultural, la Frontera Norte, a pesar de su aspecto fortificado conlleva en sí misma una cierta porosidad a partir de la cual vale la pena reflexionar en distintos planos (histórico, sociológico, cultural). El nomadismo espacial y cultural desemboca en la formación de un third space (Homi K. Bhabha) en la mente y la cultura de los innumerables migrantes que cruzan la frontera cada día y de los chicanos que actualmente ya representan más del 10 % de la población de los Estados Unidos. Así nace, en ambos lados de la frontera, una cultura deslocalizada y plural en un espacio dinámico, siendo el fruto de una movilidad personal y de intercambios interculturales comunicados por los individuos a través de la literatura, el cine y las artes visuales. Teniendo en cuenta esta situación, el número 8 de iMex se propone de tematizar la Frontera Norte desde una mirada transdisciplinaria, por ejemplo:</p>
+
+<p>•	La Frontera Norte: imaginarios y espacios colectivos: Se tomará en cuenta la vinculación de la Frontera Norte con sus múltiples connotaciones espaciales, es decir, la Frontera Norte como: el lugar de la utopía, el no lugar, el lugar que divide, el lugar de los sueños, el lugar de la muerte, el lugar de la esperanza. En este rubro se puede contemplar, por ejemplo, la vinculación entre graffiti y frontera o el análisis de la frontera a partir de la fotografía donde se muestre su caracterización como “espacio en movimiento”.</p>
+
+<p>•	Literatura y Frontera – La frontera de Cristal. El enfoque podrá orientarse hacia el impacto de la presencia de la Frontera Norte en los “clásicos” de la literatura mexicana, por ejemplo, Carlos Fuentes, y en la productividad del paradigma fronterizo en las obras más recientes de David Toscana, Cristina Rivera Garza, Rafael Saavedra, Eduardo Antonio Parra y otros escritores contemporáneos.</p>
+
+<p>•	Representaciones de la Frontera Norte en los medios audiovisuales y visuales. Tanto en la producción filmográfica contemporánea como en la música y en el internet puede hallarse el tema de la Frontera, tanto en producciones mexicanas como estadounidenses así como de otros países latinoamericanos. Se invita a analizar las diferentes propuestas en los medios más recientes.</p>
+
+<p>•	Frontera Norte y bilingüismo: Chicanos, arte y literatura. El movimiento chicano surgió como una consecuencia de los acontecimientos políticos y culturales de los años sesenta en Estados Unidos. Este apartado estará dedicado a su historia e influencia político-cultural en la zona fronteriza. Se trata, asimismo, de entender a los “sujetos polilógicos”, quienes a través de un sistema bicultural y bilingual han logrado conformar una identidad específica. </p>
+
+<p>•	Historia de la Frontera Norte, ¿una historia regional? El tema sugiere la imagen de la Frontera Norte como un lugar en el que se aglomeran diferentes idiosincracias dentro del amplio complejo geográfico que le es propio. Lo anterior, empero, más que significar una historia homogénea, nos obliga a pensar la Frontera Norte de acuerdo a su composición histórica, económica, geográfica y cultural. </p>
+
+<p>•	Taxonomía de las sociedades nómadas fronterizas. Migrantes, polleros y/o coyotes, policía fronteriza, Minute Man forman parte de la sociedad de la Frontera Norte. Bajo este rubro se podrán abordar las diferentes problemáticas que conlleva cruzar la frontera así como singularidades y generalidades en la conformación de las identidades de los “sujetos trashumantes”.</p>
+
+<p>•	Las ciudades fronterizas: Ciudades espejo, ciudades desiguales. Este apartado invita a la realización de artículos entorno a temas de economía, pero también sobre las  diferencias culturales en el contexto fronterizo urbano. Con base en lo anterior se recomienda investigar las diferencias en las ciudades colindantes de la frontera mexicana con la frontera estadounidense, por ejemplo, el caso paradigmático de las ciudades de San Diego-Tijuana (También los casos de El Paso–Ciudad Juárez, Brownsville– Matamoros, entre otras) en los casos de la literatura, el teatro y la música, la Frontera Norte, culturalmente hablando,  deja de ser  un “desierto árido” o un “territorio vacío”. </p>
+
+<p>•	La Frontera Norte o la “Narcozona”. La frontera como el lugar de contrabando por excelencia y con ello, el lugar idóneo para la formación de bandas criminales, cárteles de la droga, bandas de sicarios y trata de personas. Evidentemente, estos son los temas que más se han abordado en los últimos años, como fuentes podrán utilizarse materiales como: novelas, películas, fotoperiodismo, periodismo, ensayos, obras de teatro, narcocorridos, así como elementos que provienen de aquello nombrado como Narcocultura.</p>
+
+<p>•	Frontera Norte: violencia de género. La frontera como un lugar en el que las relaciones convencionales se modifican por diferentes razones, entre ellas, el trabajo de las mujeres inmersas en el trabajo de las maquiladoras. Lo anterior, por lo menos en el caso de Ciudad Juárez, ha desembocado en un alto número de crímenes que han quedado en la impunidad y que son reconocidos como feminicidios. En años recientes la denominada “Guerra contra el Narcotráfico”, ha tenido como consecuencia desdibujar la importancia del tema de los feminicidios en Ciudad Juárez, de ahí la relevancia de contar con un análisis actual sobre el tema.</p>
+
+<p>•	La Frontera Norte; alegoría de “La cortina de nopal”. Hacemos referencia a la frontera espinosa que aisla a México de un proceso global, aquella a través de la cual se crítica el autoelogio cultural del “ser” mexicano. En este sentido cabría preguntarnos qué caracteriza a la Frontera Norte, el ánimo nacionalista o globalizado en el que cotidianamente se ve inmersa,  y en qué sentido modifica también la forma de ser y estar en la Frontera Norte.</p>
+
+<p>•	Frontera Norte, el muro y el TLC. Paradójicamente el muro entre México y Estados Unidos se comenzó a construir en 1994 el mismo año en que entró en vigor el Tratado de Libre Comercio (TLC) o NAFTA  (North American Free Trade Agreement) por sus siglas en inglés. El título sugiere abordar el tema desde una perspectiva comparativa en los rubros económico y político.</p>
+
+<p>•	La Frontera Norte y la cultura fetichista mercantil. De acuerdo a la New Cultural History, desarrollada principalmente en los Estados Unidos, se podrán abordar temas como el consumo de los productos estadounidenses, conformándose la idea de “ser a través de lo que se posee”, ya sean autos, música, ropa o emblemas de la cultura pop entre otros. </p>
+
+<p>•	La Frontera Norte: racismo y migración. El tema va encaminado a analizar la fricción y convivencia que en esta región fronteriza se lleva a cabo cotidianamente en una sociedad mayoritariamente multiétnica. Asimismo, el análisis deberá abordar los rastros de encuentros y desencuentros (diferencias culturales) así como las políticas públicas que, algunas de las veces, también conducen a procesos de exclusión, hablamos entonces de migraciones desebles e indesebles.</p>
+
+<p>Invitamos a expertos en los campos de las ciencias de la cultura, la literatura y los medios, así como en sociología, historia y ciencias políticas a participar en iMex con sus contribuciones sobre los asuntos y planteamientos aquí bosquejados. Los artículos pueden enviarse hasta el 31 de octubre 2014, como fecha límite, en formato ‘Microsoft Word 97-2003’ o ‘rtf’, al correo electrónico de la Dra. Lizette Jacinto (historia, sociología, ciencias políticas) o al Prof. Frank Leinen (cultura, literatura, medios):
+<br />lizette.jacinto@uni-koeln.de
+<br />leinen@phil.hhu.de
+<br />	
+<br />Por regla general, los artículos no deberán exceder las 15-18 páginas o su equivalente de aproximadamente 5000 a 6000 palabras.
+<br /> 
+<br />Su manuscrito debería incluir:
+<br />•	un resumen que contenga hasta 200 palabras
+<br />•	información biográfica de hasta 10 líneas 
+<br />•	(empleo, principales áreas de investigación, publicaciones recientes)
+<br />•       5 palabras claves para identificar el contenido de su artículo</p>
+
+<p>Editores de iMex: Prof. Dr. Vittoria Borsò, Prof. Dr. Frank Leinen, Prof. Dr. Guido Rings, Dr. Yasmin Temelli 
+</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/3009-Yasmin_Temelli">Yasmin  Temelli</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/3740-Reto_ZOellner">Reto Zöllner</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

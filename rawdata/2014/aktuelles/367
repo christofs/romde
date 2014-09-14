@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfP: 14th International Pragmatics Conference (IPRA): “Adaptability”
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Antwerpen, Belgien
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-09-15
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2015-07-26
+</p>
+<p class='bottom'>
+<b>
+Ende:
+</b>
+2015-07-31
+</p>
+</div>
+<p>14th International Pragmatics Conference (IPRA) “Adaptability”</p>
+
+<p>Gudrun Held (Salzburg)
+<br />The pragmatics of tourist communication – strategies of adaptation</p>
+
+<p>As one of the most influential branches of global economy, tourism is established and maintained by an overwhelming amount of communication practises, which have not yet been in the focus of linguistic research. Apart from some studies in the discourse analytical perspective (cf. Thurlow/Jaworski 2010), neither the increasing variety of text genres often produced in multimodal dimensions nor the different strategies of representation and promotion of places as destinations have systematically attracted the attention of linguists. </p>
+
+<p>Being discursive in nature, however, the tourist industry is continuously creating and differentiating a cross-medial and mostly promotional text culture, which connects continents, cultures and people. It virtually moves the world, triggering multiple processes of transformation, so that a remote place is perceived as home, natural circumstances become special attractions, persons are presented as hosts or visitors; authentic identities and routines turn into extraordinary goods in a global event market, where vacation and travel function as desired consumption products. </p>
+
+<p>Tourist communication is thus responsible for what Urry 1990 calls “the tourist gaze”, i.e. the global perspective under which locations are “looked at” by streams of people “on the move”. Previously transformed into spectacular ‘sights’ by different symbolic enactments places become objects of imagination, rich of emotional charge, which in turn generate further communicative potential. Therefore, images as mental constructions and visuals as actual iconic reproductions play a fundamental role in tourist communication: they are connected to each other in a complex and constant relation of adaptation, variation and change. This communicative and multimodal textual area strongly influences language use, so that the “language of tourism” (Dann 1996) can be considered a variety with special features, which is worth studying from a pragmatic view-point. </p>
+
+<p>Starting from the assumption that the language of tourism displays special forms of adaptability, the panel aims to discuss different genres, textual practises and communication forms. The attention will be focused on variation and change, concerning both textual structures and the use of codes and modes, mainly considering how language and speech acts adapt to: 
+<br />- actors and agents (hosts vs. guests; and their cultures, ideologies, customs, beliefs, focus interests, life-styles, leisure-preferences, etc.)
+<br />- destination building and destination branding (image-components, geo-political positioning, market competition, reactions to political events and nature catastrophes; socio-cultural development; historical implications, stereotypes; etc.)
+<br />- traditional, emergent and innovative text-genres, text-forms and text-features;
+<br />- use in Old and New Media; effects of re-and cross-mediation; 
+<br />- intra-, inter-cultural and cross-medial campaigns 
+<br />- text-functions and communicative styles according to the interplay of information, persuasion and representation; 
+<br />- technologically enabled multimodality, semiotics and coding (design, visual, symbols, icons …);
+<br />- globalisation trends (‘non-places’; circuits, traffic/transportation means; transnational institutions and touristic infrastructures). </p>
+
+<p>Within these suggestions a special focus can be put on the specific role of language 
+<br />- in displaying its imagery potential;
+<br />- in the interaction and interface with other semiotic resources; 
+<br />- in processes of « languaging » (Dann 1996:184), lingua-culturing or linguistic landscaping;
+<br />- in conditions of language contact, language switching and translation, etc.</p>
+
+<p>All kinds of theoretical frameworks and methodological approaches to any form of tourist communication are welcome. Actual examples - possibly with visual support - should make the panel a colourful and lively journey into the multiplicity of tourist places and their different pragmatic rendering. </p>
+
+<p>Bibliography:
+<br />Santulli, Francesca/ Antelmi, Donella/ Held, Gudrun: Pragmatica della comunicazione turistica. Roma, Editori Riuniti 2007/ 20092.
+<br />Dann, Graham M.S.: The language of Tourism. A Sociolinguistic Perspective. Wallingford UK, CAB International 1996.
+<br />Thurlow, Crispin/ Jaworski, Adam: Tourism Discourse. Language and Global Mobility. Houndmills, Palgrave Macmillan 2010.
+<br />Urry, John: The Tourist Gaze. London, SAGE 1990.</p>
+
+<p>If you are interested in participating please send an abstract (tentative title, 200 – 300 words) to the following e-mail-address until September 15, 2014: gudrun.bachleitner-held@sbg.ac.at</p>
+
+<p>After internal reviewing, the panel contributions will have to be officially submitted to IPRA by October 15,2014.  At the conference, slots of 30 minutes (20 min talk, 10 min discussion) are intended. </p>
+
+<p>Univ.Prof.
+<br />Dr. Gudrun Bachleitner-Held
+<br />Fachbereich Romanistik
+<br />Universität Salzburg
+<br />Unipark Nonntal  3.315
+<br />Erzabt-Klotz-Strasse 1
+<br />5020 Salzburg
+<br />Tel. +43-662-8044-4456</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

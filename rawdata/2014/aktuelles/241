@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfP: Workshop für NachwuchswissentschaftlerInnen. Der Austausch/ L'échange (GIRAF/ IFFD) 
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Saarbrücken
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-08-01
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2015-02-19
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2015-02-20
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.giraf-iffd.eu" target="_blank">http://www.giraf-iffd.eu</a>
+</p>
+</div>
+<p>L’échange – Der Austausch</p>
+
+<p>7. Interdisziplinärer deutsch-französischer Workshop für NachwuchswissenschaftlerInnen
+<br />Interdisziplinäre Forschungsgemeinschaft Frankreich Deutschland (GIRAF-IFFD)</p>
+
+<p>19.-20. Februar 2015, Universität des Saarlandes, Saarbrücken</p>
+
+<p>Man spricht im Alltag häufig von Austausch in sehr unterschiedlichen Zusammenhängen (Meinungsaustausch, Warenaustausch, Handelsaustausch, etc.). Dies führt einerseits dazu, dass dieser Begriff zum einen häufig vorkommt und somit auf den ersten Blick vertraut wirkt, anderseits aber inhaltlich diffus und unspezifisch ist. In der Tat liegt in den vielfältigen Anwendungsbereichen dieses Begriffs zugleich seine Stärke wie seine Schwäche. Deshalb ist es aufschlussreich, ihn hinsichtlich eines interdisziplinären Forschungsansatzes zu untersuchen: Was genau meinen wir, wenn wir von Austausch sprechen? Wie manifestiert er sich und worin liegen seine jeweiligen Besonderheiten? Gibt es eine allgemeine Definition des Austauschs? Oder nur verschiedene Aspekte von gewissen Arten des Austauschs?   </p>
+
+<p>In der Anthropologie wird beispielsweise die Universalität des Austausches in Frage gestellt und der Unterschied zwischen Gabe und Tausch (Marcel Mauss) hervorgehoben. In der Soziologie spricht man von social exchange theory bzw. der communication theory of social exchange – Termini, die eine spezifische Art der Austauschtheorie bezeichnen. In Linguistik und Literaturwissenschaft ist der Austausch eine wesentliche Voraussetzung für die Kommunikation an sich. Der Sprechakt geschieht immer In-Beziehung und vollzieht sich durch den Austausch von Informationen. Bei der Übertragung des Sinngehaltes kommt dabei manchmal etwas an Sinn hinzu oder geht verloren – vgl. das Beispiel des Kinderspiels „Stille Post“. Auch in den Geschichtswissenschaften hat das Interesse am Austausch in den letzten Jahren zugenommen: Insbesondere der Ansatz des Kulturtransfers (Michel Espagne) wurde für neue historische Interpretationen fruchtbar gemacht. Reisen haben in diesem Kontext schon immer eine wichtige Rolle für den Prozess des Kulturtransfers gespielt (vgl. die Entdeckungsreisen des 15.-18. Jh.). Auch in den Naturwissenschaften (Biologie, Chemie, Physik, etc.) kommt dem Austausch eine zentrale Bedeutung zu: Die Prozesse des Lebens (Photosynthese, Stoffwechsel, etc.) vollziehen sich in einem ständigen Austausch mit ihrer Umwelt. Daher kann der Mensch auch nicht als isoliertes Wesen angesehen werden, sondern soll gemäß der psychosomatischen Medizin (Victor von Weizsäcker) vielmehr in seiner Gesamtheit – im ständigen Austausch von Leib und Seele – untersucht werden.</p>
+
+<p>Was sind die Unterschiede und Gemeinsamkeiten bei diesen verschiedenen Formen des Austauschs? Kann man trotz fundamental verschiedener Ansätze nicht doch einen gemeinsamen Nenner herausarbeiten, der sich jenseits der Grenzen der Disziplinen definieren lässt? Dieser Problematik und den sich hieraus ergebenden Fragestellungen möchte der deutsch-französische, interdisziplinäre Workshop nachgehen.</p>
+
+<p>Interdisziplinarität der Forschungsansätze und Beiträge aus verschiedenen Fachrichtungen sind willkommen: Philosophie, Psychologie, Medizin, Soziologie, Geschichte, Archäologie, Judaistik, Kunstgeschichte, Fotografie, Städtebau, Geografie, Literaturwissenschaft, Linguistik, Informatik, Natur- und Technikwissenschaften, Rechts- und Politikwissenschaft, etc.
+<br />Die Arbeitssprachen sind Französisch und Deutsch.
+<br />Die Vorträge sollten nicht länger als 20 Minuten dauern. Eine Publikation der Vorträge ist beabsichtigt. Nach Möglichkeit werden die Reise- und Übernachtungskosten sowie die Verpflegung vor Ort für die TeilnehmerInnen übernommen.
+<br />Bitte senden Sie Ihren Beitragsvorschlag (max. 500 Worte) und einen kurzen CV (ggf. mit Publikationsliste) bis spätestens 1. August 2014 an folgende Adresse: giraf.echange.austausch@gmail.com</p>
+
+<p>Für weitere Informationen über GIRAF-IFFD siehe auch die Webseite: http://www.giraf-iffd.eu
+<br />Auf Ihre Vorschläge freuen sich   
+<br />Maude Fagot und Silvia Richter </p>
+
+<p>-------------------</p>
+
+<p>L´échange / Der Austausch</p>
+
+<p>Septième Atelier interdisciplinaire franco-allemand pour jeunes chercheurs
+<br />Groupe Interdisciplinaire de Recherche Allemagne - France 
+<br />(GIRAF-IFFD)</p>
+
+<p>19-20 février 2015,  Université de la Sarre, Sarrebruck</p>
+
+<p>Au quotidien, le terme d’échange est souvent employé dans de très différents contextes (échanges d’idées, échange de marchandises, échanges commerciaux, etc.). Ce terme récurrent, s&#x27;il semble familier au premier abord, se distingue par son caractère vague et générique. Son emploi dans différents domaines constitue à la fois sa force et sa faiblesse. Dans une certaine mesure, ses caractéristiques en font un objet d´étude interdisciplinaire particulièrement intéressant: A quoi pense-t-on lorsque l´on parle d’échange ? Comment se manifeste-t-il concrètement et où ses spécificités se situent-elles? Y a-t-il une définition générale de l’échange ou existe-t-il des aspects qui ne se laissent pas réduire à un dénominateur commun ?</p>
+
+<p>En anthropologie par exemple, la question de l’universalité de l’échange est posée, ainsi que celle des différences entre le don et le troc (Marcel Mauss). En sociologie, les termes social exchange theory ou communication theory of social exchange définissent différents types d’échange. En linguistique ainsi qu’en littérature l’échange est en soi une condition préalable et incontournable pour la communication. L’acte de langage se déroule toujours dans une relation avec l’Autre et s’opère à travers un échange d’information. Dans la transmission du contenu, un aspect vient parfois s’ajouter ou disparaît - comme par exemple dans jeu pour enfant, le « Téléphone sans fil ». Dans le domaine de l’histoire également, la problématique de l’échange a pris de plus en plus d’importance : l’approche à travers le prisme du transfert culturel (Michel Espagne) a en particulier engendré de nouveaux travaux d´interprétation historique. Les voyages ont assurément depuis longtemps joué un rôle non négligeable dans le processus des transferts culturels (par exemple les voyages de découverte des XV° et XVIII° siècles). Dans les sciences naturelles (biologie, chimie, physique, etc.), l’échange occupe une place prépondérante : les mécanismes de la vie (photosynthèse,  métabolisme, etc.) sont des échanges constants avec l’environnement. De plus, l’Homme ne peut être considéré comme une créature isolée, et doit être compris dans sa totalité, en tant qu’échange constant entre corps et esprit, comme postulé dans la médecine psychosomatique (Victor von Weizäcker).</p>
+
+<p>	Quels sont les différences et points communs entre ces types d´échanges ? Malgré ces nombreux postulats, n’est-il pas possible de dégager un dénominateur commun qui soit définissable au-delà des frontières de chaque discipline ? C´est à cette problématique et aux questionnements qui en découlent qu´est dédié cet atelier interdisciplinaire de recherche franco-allemand.
+<br /> 
+<br />L’interdisciplinarité des approches de recherche et des contributions est exigée. Elles peuvent s’inscrire dans le domaine de la philosophie, de la psychologie, de la sociologie, de l’histoire, de l’archéologie, des études juives et hébraïques, de l’histoire de l’art, de la photographie, de l’architecture, de la littérature, de la linguistique, de l’informatique, des sciences naturelles et techniques, du droit, des sciences politiques, etc.</p>
+
+<p>Les langues de travail sont l’allemand et le français.</p>
+
+<p>Les interventions ne devront pas dépasser 20 minutes. Une publication des contributions est prévue. Vous trouverez toutes les informations sur le site de GIRAF-IFFD : http://www.giraf-iffd.eu </p>
+
+<p>Les frais de voyage et d’hébergement des participants seront pris en charge par les organisateurs dans la limite des fonds disponibles. </p>
+
+<p>Prière d’envoyer votre proposition de contribution (max. 500 mots), ainsi qu’un bref CV avant le 1er août 2014 à l’adresse suivante : giraf.echange.austausch@gmail.com</p>
+
+<p>Dans l’attente de vos propositions,</p>
+
+<p>Maude Fagot, Silvia Richter
+</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/3936-Maude_Fagot">Maude  Fagot</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/3740-Reto_ZOellner">Reto Zöllner</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

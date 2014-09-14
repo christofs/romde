@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Unterwegs zur Freundschaft. Acheminement vers l'amitié (Veranstaltungsprojekt)</h2>
+<h3>Internationales Kolloquium mit Fotoausstellung und Filmreihe</h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Freitag, 24. September 2010</dd>
+<dt>Projektende</dt>
+<dd>Sonntag, 26. September 2010</dd>
+<dt>Status</dt>
+<dd>abgeschlossen</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.freundschaft.uni-trier.de" target="_blank">www.freundschaft.uni-trier.de</a></dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Sprachübergreifend, Französisch, Italienisch, Luxemburgisch, Deutsch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Philosophie
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Freundschaft, Politik, Gemeinschaft
+</dd>
+</dl>
+<h4>Aktiv beteiligte Person(en)</h4>
+<p>(z.B. Kooperation, Mitarbeiter, Fellows)</p>
+<span class='tag multiline'>Katharina Münchberg</span>
+<span class='tag multiline'>Dietmar Heidemann</span>
+<p class='space-l'></p>
+<h4>Passiv beteiligte Person(en)</h4>
+<p>(z.B. Betreuer, Berater)</p>
+<span class='tag multiline'>Hans-Georg von Arburg</span>
+<span class='tag multiline'>Aleida Assmann</span>
+<span class='tag multiline'>Jan Assmann</span>
+<span class='tag multiline'>Guenter Bader</span>
+<span class='tag multiline'>Werner Hamacher</span>
+<span class='tag multiline'>Mario Hirsch</span>
+<span class='tag multiline'>Jean-Michel Maulpoix</span>
+<span class='tag multiline'>Georg Mein</span>
+<span class='tag multiline'>Jean-Luc Nancy</span>
+<span class='tag multiline'>Carlo Ossola</span>
+<span class='tag multiline'>Patricia Oster-Stierle</span>
+<span class='tag multiline'>Helmut Pfeiffer</span>
+<span class='tag multiline'>Joachim Seng</span>
+<span class='tag multiline'>Bernard Stiegler</span>
+<span class='tag multiline'>Samuel Strehle</span>
+<span class='tag multiline'>Robert Theis</span>
+<span class='tag multiline'>Claus Zittel</span>
+<span class='tag multiline'>Katharina Muenchberg</span>
+<a href="/pers/241-Christian_Reidenbach" class="tag multiline" popup="true">Christian Reidenbach</a>
+<span class='tag multiline'>Dietmar Heidemann</span>
+<span class='tag multiline'>Maria Moog-Grünewald</span>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><p>Freunde sein, das heißt: sich nahe sein. Freunde sein, heißt aber auch: sich fern sein. Freundschaft ist die Erfahrung eines engen Zusammenlebens, das immer auch diskontinuierlich, virtuell und offen ist. Freundschaften sind Orte der Intimität und Anwesenheit, die sich im sozialen Raum durch Exteriorität und Abwesenheit erfüllen.</p>
+<p>Kann die Freundschaft die Grundlage einer kommenden Gemeinschaft sein? Seit Aristoteles stellt sich in der Geschichte der Philosophie die Frage nach einem möglichen Zusammenhang von freundschaftlichem Zusammenleben und politischer Gemeinschaft. Der Fragende, der nach der Möglichkeit der Freundschaft fragt, ist unterwegs zur Freundschaft.</p>
+<p>Die interdisziplinäre Tagung <strong>Unterwegs zur Freundschaft</strong> diskutiert Konzepte der <em>Philia</em> als im Privaten wie im Politischen gelebte Modelle. Am europäischen Begegnungsort Luxembourg erwächst dieser Diskurs aus der Begegnung von Forschern aus Frankreich, Deutschland, Luxembourg und Italien. Eine Ausstellung mit Fotografien von Jürgen Escher sowie eine Filmreihe reflektieren das Thema aus der Perspektive der Künste.</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/241-Christian_Reidenbach" class="tag multiline" popup="true">Christian Reidenbach</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 17. Juni 2010, 12:57 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 17. Juni 2010, 12:57 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

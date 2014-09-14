@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfP: Object Fantasies / Objektfantasien / Fantaisies d'objets
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+München
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-07-31
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2014-10-07
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2014-10-09
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.kunstgeschichte.uni-muenchen.de/forschung/forsch_projekte/objekte/index.html" target="_blank">http://www.kunstgeschichte.uni-muenchen.de/forschung/forsch_projekte/objekte/index.html</a>
+</p>
+</div>
+<p>Object Fantasies. Forms &amp; Fictions
+<br />[deutsche Version unten / version française plus bas]</p>
+
+<p>October 7-9, 2015, Munich, Ludwig-Maximilians-Universität
+<br />Interdisciplinary Conference of the Junior Research Group “Premodern Objects. An Archaeology of Experience“ (Elite Network of Bavaria / Ludwig-Maximilians-Universität Munich)</p>
+
+<p>In modern understanding, the word “object” signifies something material, spatially defined and functionally determined. These notions are accentuated by the word objectivity, which defines an ideal, systematic mode of grasping objects as “subjects” that presumably operate neutrally and scientifically. In contrast, the Latin word “fantasia” has, since antiquity, signified an apparition or the ability to imagine something that can equally be an image, a concept or, also, an object. 
+<br />The conference takes the latter alternative meaning, that is, the non-objective experience of objects as well as recent positions of thing studies as the basis for inquiry into the creative act in the reception and construction of objects. How, for instance, do the object fantasies let the borders between object categories or objects and creatures blur? What role do they – equally nourished by illusion and experience – play in the perception and handling of material objects? To what degree do perceptions of and references to objects have a lasting effect on the conception and creation of other material objects or fictional objects in images and texts? And finally: What correlation exists between the creative handling of the objectual, the self-perception of subjects and the concrete and imaginary conditions of their social lives?</p>
+
+<p>The conference will pursue these as well as other lines of questioning of different formal as well as fictional possibilities in the creation of objects. Welcome are papers from all fields of human sciences on individual objects, object categories and systems, objects in images and texts, objects with images and script as well as object theories.</p>
+
+<p>The travel and accommodation costs of the speakers will be covered. The conference serves as a preparation for an anthology on the same topic. Working languages are English, German, French and Italian. Please send a one page abstract and a short CV by July 31, 2014 to objektfantasien@kunstgeschichte.uni-muenchen.de.</p>
+
+<p>For more information: http://www.kunstgeschichte.uni-muenchen.de/forschung/forsch_projekte/objekte/index.html</p>
+
+<p>* * * </p>
+
+<p>CFP Objektfantasien. Formen &amp; Fiktionen</p>
+
+<p>7.-9. Oktober 2015, München, Ludwig-Maximilians-Universität 
+<br />Interdisziplinäre Tagung der Nachwuchsforschergruppe „Vormoderne Objekte. Eine Archäologie der Erfahrung“ (Elitenetzwerk Bayern / Ludwig-Maximilians-Universität München)</p>
+
+<p>Das Wort ‚Objekt‘ bezeichnet im modernen Verständnis eine materielle, räumlich begrenzte und funktionell bestimmte Sache. Zugespitzt wird diese Auffassung im Objektivitätsbegriff, der einen idealen, systematischen Modus der Objekterfassung durch ‚Subjekte‘ definiert, welche dabei neutral-wissenschaftlich agieren sollen. ‚Fantasia‘ dagegen bezeichnet seit der Antike eine Erscheinung beziehungsweise das Vermögen, sich etwas vorzustellen, das genauso Bild, Konzept oder eben auch ‚Objekt‘ sein kann.</p>
+
+<p>Die Tagung nimmt diese alternative, ‚nicht-objektive‘ Objekterfahrung zusammen mit jüngsten Positionen der interdisziplinären Dingforschung als Ausgangspunkt, um allgemein nach dem Schöpferischen in der Rezeption und Konstruktion von Objekten zu fragen. Wie lassen Objektfantasien etwa die Grenzen zwischen Objektgattungen oder zwischen Objekten und Lebewesen verwischen? Welche Rolle spielen sie, gleichermaßen durch Illusionen und Erfahrungen genährt, bei der Wahrnehmung und Handhabung realer Objekte? Inwiefern wirken Objektvorstellungen und -referenzen bei der Konzeption und Gestaltung weiterer materieller Objekte oder aber auch von fiktiven Objekten in Bildern und Texten? Und schließlich: Welcher Zusammenhang besteht zwischen dem kreativen Umgang mit dem Objekthaften, dem Selbstverständnis der Subjekte und den konkreten und imaginären Bedingungen ihres gesellschaftlichen Lebens?</p>
+
+<p>Diesen und weiteren Fragen zu den unterschiedlichen, formalen wie fiktionalen Möglichkeiten der Gestaltung von Objekten möchte die Tagung nachgehen. Willkommen sind Beiträge aus allen Geistes- und Kulturwissenschaften zu einzelnen Objekten, Objektgattungen und -systemen, zu Objekten in Bildern und Texten, zu bebilderten und beschrifteten Objekten ebenso wie zu Objekttheorien.</p>
+
+<p>Reise- und Übernachtungskosten der Vortragenden werden übernommen. Die Tagung dient der Vorbereitung für einen Sammelband zum selben Thema. Die Arbeitssprachen sind Deutsch, Englisch, Französisch und Italienisch. Bitte senden Sie einen Abstract (eine Seite) und einen kurzen Lebenslauf bis zum 31.07.2014 an objektfantasien@kunstgeschichte.uni-muenchen.de.</p>
+
+<p>Mehr Information unter: http://www.kunstgeschichte.uni-muenchen.de/forschung/forsch_projekte/objekte/index.html</p>
+
+<p>* * *</p>
+
+<p>CFP Fantaisies d’objets. Formes &amp; fictions</p>
+
+<p>7-9 octobre 2015, Munich, Ludwig-Maximilians-Universität
+<br />Colloque interdisciplinaire du groupe de recherches junior « Objets prémodernes. Une archéologie de l’expérience » (Elite Network of Bavaria / Ludwig-Maximilians-Universität Munich)</p>
+
+<p>Le mot « objet » désigne au sens moderne une chose matérielle, limitée dans l’espace et fonctionnellement déterminée. Cette conception s’affirme particulièrement dans la notion d’objectivité, qui définit un mode idéal et systématique d’appréhension des objets par des « sujets » censés agir par là de façon neutre et scientifique. Par « fantasia » au contraire, on entend depuis l’Antiquité une apparition, ou bien la capacité à se représenter quelque chose qui peut être aussi bien une image, un concept ou, précisément, un « objet ».</p>
+
+<p>Le colloque prend pour point de départ cette expérience alternative ou « non objective » des objets, ainsi que les réflexions récentes des sciences humaines à leur propos, pour poser en général la question de l’acte créateur dans la réception et la création des objets. Comment les fantaisies d’objets, par exemple, brouillent-elles les limites entre divers genres d’objets, voire entre objets et êtres vivants ? Quel rôle, nourries d’illusions autant que d’expériences, jouent-elles dans la perception et dans l’usage des objets réels ? En quoi les représentations d’objets ou les références à des objets déterminent-elles la conception et la mise en forme de nouveaux objets matériels, ou bien d’objets fictifs dans les images et dans les textes ? Quels sont, enfin, les rapports entre la fréquentation créatrice de ce qui relève des objets, les conceptions que les sujets développent et entretiennent d’eux-mêmes, et les conditions tant concrètes qu’imaginaires de leur vie sociale ?</p>
+
+<p>Ces questions seront approfondies lors du colloque, parmi d’autres concernant les diverses possibilités formelles et fictionnelles de la création d’objets. Sont bienvenues les contributions issues de l’ensemble des sciences humaines portant sur des objets singuliers, des types ou des systèmes d’objets, les objets dans les images ou les textes, les objets supports d’images ou d’inscriptions, ou encore les théories de l’objet.</p>
+
+<p>Les frais de voyage et de logement des intervenants seront pris en charge. Le colloque servira la préparation d’un ouvrage collectif sur le même thème. Les langues de travail sont le français, l’allemand, l’anglais et l’italien. Merci de faire parvenir un résumé (une page) et un court CV d’ici au 31 juillet 2014 à objektfantasien@kunstgeschichte.uni-muenchen.de.</p>
+
+<p>Pour plus d’information : http://www.kunstgeschichte.uni-muenchen.de/forschung/forsch_projekte/objekte/index.html</p>
+
+<p>---
+<br />Eine Meldung von Romana Kaske.</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

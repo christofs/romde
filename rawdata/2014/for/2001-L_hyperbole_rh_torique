@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>L'hyperbole rhétorique (Veranstaltungsprojekt)</h2>
+<h3></h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Donnerstag, 05. September 2013</dd>
+<dt>Projektende</dt>
+<dd>Freitag, 06. September 2013</dd>
+<dt>Status</dt>
+<dd>abgeschlossen</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.francais.unibe.ch/content/agenda/colloque_hyperbole/index_fra.html" target="_blank">www.francais.unibe.ch/content/agenda/colloque_hyperbole/index_fra.html</a></dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Sprachwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Hyperbole, Rhetorik, Übertreibung
+</dd>
+</dl>
+<h4>Aktiv beteiligte Person(en)</h4>
+<p>(z.B. Kooperation, Mitarbeiter, Fellows)</p>
+<a href="/pers/2335-Andr_Horak" class="tag multiline" popup="true">André Horak</a>
+<span class='tag multiline'>Sascha Lüthy</span>
+<p class='space-l'></p>
+<h4>Passiv beteiligte Person(en)</h4>
+<p>(z.B. Betreuer, Berater)</p>
+<span class='tag multiline'>Marc Bonhomme</span>
+<span class='tag multiline'>Fernand Delarue</span>
+<span class='tag multiline'>Ruggero Druetta</span>
+<span class='tag multiline'>Suzanne Duval</span>
+<span class='tag multiline'>Anna Jaubert</span>
+<span class='tag multiline'>Catherine Kerbrat-Orecchioni</span>
+<span class='tag multiline'>Stéphane Macé</span>
+<span class='tag multiline'>Laurent Perrin</span>
+<span class='tag multiline'>Alain Rabatel</span>
+<span class='tag multiline'>Christine Rousseau</span>
+<span class='tag multiline'>Geneviève Salvan</span>
+<span class='tag multiline'>María Dolores Vivero García</span>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><p><strong><span class="caps">INTRODUCTION</span></strong></p>
+<p>S’inscrivant dans le cadre des recherches bernoises sur les figures référentielles, qui ont notamment conduit à la publication de <em>La Litote</em> (Horak, 2011) et des <em>Études pragmatico-discursives sur l’euphémisme</em> (Bonhomme, de La Torre &amp; Horak, 2012), ce colloque porte sur une figure que certains chercheurs dévalorisent et à laquelle peu d’études approfondies ont été consacrées jusqu’à présent : l’hyperbole. Pourtant, cette dernière joue un rôle primordial dans les discours, et elle donne lieu à de nombreuses questions qui n’ont pas encore obtenu de réponses satisfaisantes.<br />
+Ces interrogations concernent, d’une part, plusieurs aspects théoriques et définitoires de l’hyperbole. Quel est le rapport entre cette figure et l’exagération ? Tantôt l’hyperbole se confond avec une exagération discursive quelconque, tantôt elle apparaît comme une exagération particulière, plus ou moins signalée comme telle par le locuteur. Dans quelle mesure l’hyperbole se démarque-t-elle de l’euphémisme et de la litote ? Souvent, on voit dans la figure d’exagération un pôle opposé à l’euphémisme, malgré l’existence prouvée d’hyperboles euphémiques. De la même manière, l’hyperbole est aussi bien rapprochée qu’éloignée de la litote. En outre, est-elle une figure englobante qui inclut tous les tropes sauf l’ironie, ainsi que le soutient Perrin (1996) ? Ou convient-il de lui donner une définition plus restrictive ? L’exagération hyperbolique peut-elle agrandir et réduire, ou est-ce à la tapinose que l’on doit attribuer la minimisation ?</p>
+<p>D’autre part, les questions qui restent sans réponses claires se rapportent à l’actualisation de l’hyperbole. Quels sont les motifs et les conditions de réussite de celle-ci ? Amène-t-elle toujours « à la vérité » (Fontanier, 1977) ? N’y a-t-il pas également des hyperboles manipulatoires qui, selon les termes de Bonhomme (2005), visent une réception « inactivée » ou « empathique » ? La production hyperbolique est-elle marquée, comme celles de l’euphémisme et de la litote, par des reformulations, des indices prosodiques ou des signaux mimo-gestuels ? Dumarsais (1988) a-t-il raison lorsqu’il affirme que l’« hyperbole est ordinaire aux Orientaux » et que les « jeunes-gens en font plus souvent usage que les personnes avancées en âge » ? Autrement dit, peut-on repérer un lien immédiat entre les emplois de l’hyperbole et les identités socio-culturelles des locuteurs ? Enfin, quels sont les champs de prédilection de l’hyperbole ? La littérature, la politique, l’administration, la publicité, la politesse ou des domaines moins évidents ?<br />
+En résumé, les quatorze communications de ce colloque international, dont les participants proviennent de quatre pays (Suisse, France, Italie et Espagne), se proposent de combler d’importantes lacunes dans les recherches sur le discours hyperbolique.</p>
+<h2><span class="caps">PROGRAMME</span></h2>
+<h3>Jeudi 5 septembre 2013</h3>
+<p>08h45 : Accueil des participant-e-s</p>
+<p><em><strong>Session 1 : Approches théoriques et pragmatiques de l’hyperbole</strong></em></p>
+<p>Président de séance : Marc Bonhomme</p>
+<p>09h00 : Stéphane Macé (Université Stendhal Grenoble 3, France)<br />
+« Les sœurs ennemies : l’hyperbole et l’amplification dans la théorie rhétorique »</p>
+<p>09h35 : Catherine Kerbrat-Orecchioni (Université Lumière Lyon 2, <span class="caps">ICAR</span>, France)<br />
+« L’hyperbole : de l’approche rhétorique à l’approche interactionnelle »</p>
+<p>10h10 : Anna Jaubert (Université de Nice Sophia-Antipolis, <span class="caps">BCL</span>, <span class="caps">CNRS</span>, France)<br />
+« Ce qui est excessif est-il insignifiant ? »</p>
+<p>10h45 : Pause</p>
+<p>Présidente de séance : Anna Jaubert</p>
+<p>11h15 : Laurent Perrin (Université de Paris-Est Créteil, France)<br />
+« Hyperbole et éthos discursif du locuteur »</p>
+<p>11h50 : Geneviève Salvan (Université de Nice Sophia-Antipolis, <span class="caps">BCL</span>, <span class="caps">CNRS</span>, France)<br />
+« <em>Je n’exagère pas</em>… L’hyperbole exagère-t-elle toujours ? »</p>
+<p>12h25 : Déjeuner</p>
+<p>Présidente de séance : Catherine Kerbrat-Orecchioni</p>
+<p>14h15 : André Horak (Université de Berne, Suisse)<br />
+« Les niveaux d’exagérations hyperboliques »</p>
+<p>14h50 : Alain Rabatel (Université Claude Bernard Lyon 1, <span class="caps">ICAR</span>, France)<br />
+« Analyse énonciative des points de vue en confrontation dans les hyperboles hyper-assertées »</p>
+<p>15h25 : Pause</p>
+<p>Présidente de séance : Sascha Lüthy</p>
+<p>15h55 : Marc Bonhomme (Université de Berne, Suisse)<br />
+« La réception de l’hyperbole publicitaire »</p>
+<p>16h30 : Ruggero Druetta (Université de Turin, Italie)<br />
+« L’hyperbole performée : remarques à partir d’un corpus d’entretiens politiques » </p>
+<h3>Vendredi 6 septembre 2013</h3>
+<p><strong><em>Session 2 : Analyses de discours hyperboliques</em></strong></p>
+<p>Présidente de séance : Geneviève Salvan</p>
+<p>08h45 : Fernand Delarue (Université de Poitiers, France)<br />
+« Rhétorique et poésie : l’hyperbole à Rome au Ier siècle ap. J.-C. »</p>
+<p>09h20 : Christine Rousseau (Université Stendhal Grenoble 3, France)<br />
+« Le système superlatif dans les contes de fées du XVIIe siècle »</p>
+<p>09h55 : Suzanne Duval (Université Paris-Sorbonne, France)<br />
+« L’hyperbole apprivoisée : exagération et suffixation dans l’œuvre romanesque de Madeleine de Scudéry »</p>
+<p>10h30 : Pause</p>
+<p>Président de séance : André Horak</p>
+<p>11h00 : Sascha Lüthy (Université de Berne, Suisse)<br />
+« Le style hyperbolique dans les <em>Mémoires d’outre-tombe</em> de Chateaubriand »</p>
+<p>11h35 : María Dolores Vivero García (Université Autonome de Madrid, Espagne)<br />
+« L’hyperbole ironique, l’hyperbole caricaturale et l’insolite hyperbolique dans les chroniques humoristiques du journal <em>Le Monde</em> »</p>
+<p>12h10 : Clôture du colloque</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/2335-Andr_Horak" class="tag multiline" popup="true">André Horak</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Mittwoch, 03. Juli 2013, 22:04 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 03. Juli 2013, 22:04 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

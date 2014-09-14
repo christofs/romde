@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+Dozentur (Maître d’Enseignement et de Recherches) en Linguistique française avec intérêt marqué en diachronie
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Bern, Schweiz
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-09-15
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2015-08-01
+</p>
+<p class=''>
+<b>
+Arbeitsstunden:
+</b>
+66,6% / 8 SWS
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.jobs.unibe.ch/detail.asp?ID=6371&amp;KatID=11" target="_blank">http://www.jobs.unibe.ch/detail.asp?ID=6371&amp;KatID=11</a>
+</p>
+</div>
+<p>Institut de langue et littérature françaises, Université de Berne, Suisse: </p>
+
+<p>Dozentur (Maître d’Enseignement et de Recherches) en Linguistique française avec intérêt marqué en diachronie</p>
+
+<p>Aufgaben:
+<br />Le ou la titulaire du poste devra dispenser un enseignement (8h par semaine) qui comprend l’histoire de la langue et la linguistique française. Le ou la titulaire du poste travaillera en étroite collaboration avec la section de littérature. En outre, il est attendu du/ de la titulaire du poste une activité de recherche personnelle et une participation aux activités du Center for the Study of Language and Society (www.csls.unibe.ch).</p>
+
+<p>Anforderungen:
+<br />Les candidat-e-s doivent posséder le titre de docteur.
+<br />Outre une parfaite maîtrise de la langue française, langue d’enseignement, les candidat-e-s doivent faire preuve de bonnes connaissances en allemand ou être disposé-e-s à les acquérir au cours des deux premières années.</p>
+
+<p>Wir bieten:
+<br />L’université de Berne tend à augmenter la proportion de femmes dans les échelons les plus élevés de la carrière académique et encourage fortement les candidatures féminines.</p>
+
+<p>Les dossiers de candidature (curriculum vitae, liste de publications et des enseignements dispensés, liste des dossiers de financement présentés avec succès, précisions sur les responsabilités actuelles et sur la participation à des commissions universitaires) sont à adresser avant le 15 septembre 2014 par courrier électronique (pdf) à zsuzsanna.fenyes@rom.unibe.ch . Une feuille d’information est disponible sur demande à la même adresse.</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/1172-Benedicte_Vauthier">Benedicte Vauthier</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

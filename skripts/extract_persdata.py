@@ -26,8 +26,8 @@ import os
 def extract_persdata(file):
     soup = BeautifulSoup(open(file))
     basename = os.path.basename(file)
-    identifier = basename[:-5]
-    #print(identifier)
+    identifier = str(basename[:-5])
+    print(identifier)
 
     ### extract name 
     persname = soup.find('persname').text
@@ -54,12 +54,17 @@ def extract_persdata(file):
     website = str(website)
     print("website: " + website)
 
+    ### extract date person joined 
+    joindate = soup.find('joindate').text
+    joindate = str(joindate)
+    print("persname: " + joindate)
+
 
     
     #### put together results
-    rowstring = persname + "\t" + website + "\t" + persuni + " -- " + persadd
+    rowstring = identifier + "\t" + persname + "\t" + website + "\t" + persuni + " -- " + persadd + "\t" + joindate
     print(rowstring)
-    outputfile = "pers-data.csv"   
+    outputfile = "pers-data_v2.csv"   
     csv_output = open(outputfile, 'a', newline='\n') 
     csvwriter = csv.writer(csv_output)
     csvwriter.writerow([rowstring])

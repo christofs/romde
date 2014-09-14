@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/159-Die_Darstellung_von_Lust_und_Liebe_im_Heptam_ron_der_KOenigin_Margarete_von_Navarra' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Die Darstellung von Lust und Liebe im &quot;Heptaméron&quot; der Königin Margarete von Navarra (Dissertation)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='159'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Autor(en)</h4>
+<a href="/pers/74-Axel_SchOenberger" class="tag multiline" popup="true">Axel Schönberger</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Domus Editoria Europaea</dd>
+<dt>Ort</dt>
+<dd>Frankfurt am Main</dd>
+<dt>Hochschule</dt>
+<dd>Johann Wolfgang Goethe-Universität Frankfurt am Main</dd>
+<dt>Ort der Hochschule</dt>
+<dd>Frankfurt am Main</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+1993
+</dd>
+<dt>Abgabedatum</dt>
+<dd>
+Juni
+1992
+</dd>
+<dt>Reihe</dt>
+<dd>Franzistische Studien aus Wissenschaft und Unterricht, Band 1</dd>
+<dt>ISBN</dt>
+<dd>
+3-927884-30-8
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=3-927884-30-8&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Novellistik, Frankreich, 16. Jahrhundert
+</dd>
+</dl>
+<div class='col_8 last'>
+<h4>Betreuer</h4>
+<span class='tag multiline'>Stegmann, Tilbert Dídac</span>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Schlußbetrachtung</p>
+<p>Die wahrscheinlich unvollendete, vielleicht auch nur unvollständig überlieferte «Novellensammlung» ist mehr als nur eine Aneinanderreihung einzelner Novellen, sie ist ein Erziehungsbuch, dessen allgemeiner Anspruch weit über einen höfischen Leserkreis hinauszielt und auf dem Fundament des christlichen Glaubens bestimmte moralische und ethische Einstellungen und Verhaltensmuster zu etablieren sucht. Durch die Diskussion auf der Ebene der Rahmenhandlung und die Abfolge der einzelnen Geschichten wird ein Gesamtzusammenhang hergestellt, welcher bei der isolierten Betrachtung einzelner Novellen &#8211; sei es in der Lektüre oder in der Interpretation &#8211; kaum erkannt werden kann.<br />
+   Die an sich berechtigte Diskussion um die Frage nach den Quellen für das Heptaméron und dem Vorbildcharakter des Decameron läuft grundsätzlich Gefahr, die Eigenständigkeit des Heptaméron nicht in ganzem Ausmaße wahrzunehmen. Die Frage nach den literarischen oder tatsächlichen Quellen für die Erzählungen sowie die Frage ihrer tatsächlichen Echtheit haben eine geringere Bedeutung als der fiktive Anspruch auf ihren Wahrheitscharakter, der überzeugend von Anfang bis zum Ende aufrecht erhalten wird; es ist nicht wichtig, ob die Geschichten wahr sind, sondern ob sie dem zeitgenössischen Leser wahr zu sein scheinen. Hierdurch gewinnen sie für die Argumentationsketten der Erzähler an Wert und Überzeugungskraft. In diesem Zusammenhang ist es auch ein Verdienst der Quellenforschung, nachgewiesen zu haben, daß viele der Geschichten tatsächlich auf wahre Begebenheiten zurückgehen; dies zeigt, wie wichtig Margarete von Navarra die Exempelfunktion und der realitätsnahe bzw. <del>getreue Charakter ihrer Erzählungen war.<br />
+   Kontext, Intention und das avisierte Lesepublikum des Heptaméron sind von denen des Decameron grundverschieden. Die äußere Form des Decameron regte Margarete von Navarra zwar zu der Gestaltung einer Rahmenhandlung mit in ihr eingebetteten, scheinbar selbständigen Erzählungen an, findet im Heptaméron allerdings nur eben diese formale Entsprechung, einschließlich der ursprünglich geplanten Zahl von einhundert Erzählungen. Tatsächlich ist im Heptaméron der Rahmen das eigentlich wichtige, sinntragende Element; mit einer relativ großen Abstraktheit verzichtet er weitgehend auf detailgenaue Zustands</del> und Situationsbeschreibungen und konzentriert sich auf die Inhalte der Diskussion der Erzähler, die sich mit zentralen Fragen der damaligen Zeit befaßt. Die Geschichten haben für diese Diskussion zwar eine Exempelfunktion, sind aber gleichwohl keine exempla im mittelalterlichen Sinne, da sie nur scheinbar für sich selbst sprechen, in Wirklichkeit aber der Interpretation der Erzähler bedürfen, zuweilen auf der Erzählerebene einen entgegengesetzten oder auch in der Geschichte nicht besonders akzentuieren Sinn unterlegt bekommen und sich aus dem sukzessiven Kontext sowohl widerlegen als auch ergänzend aufeinander aufbauen. Hierbei ist die Erzählfunktion innerhalb der einzelnen Erzählungen oft als sekundäre Erzählfunktion in der Fiktion dem entsprechenden Erzähler der Rahmenhandlung zugeordnet, bisweilen tritt aber auch die auktoriale primäre Erzählfunktion der Verfasserin in Form von Wertungen und Kommentaren hervor. Eine thematisch angelegte Interpretation des Heptaméron nach einzelnen Motiven und Gesichtspunkten ist somit nur auf der Basis einer sukzessiven Analyse, welche den Stellenwert der einzelnen Erzählungen in und für die Rahmenhandlung herausarbeitet, möglich, während eine exemplarische Interpretation einzelner Novellen &#8211; womöglich sogar noch ohne die Berücksichtigung der unmittelbar hierzu gehörenden Rahmenhandlung &#8211; aufgrund des verschiedenen Stellenwertes der einzelnen Geschichten und Aussagen unter Vernachlässigung ihres Einbezugs in das Ganze fast automatisch Gefahr läuft, zu falschen Aussagen zu kommen. Das Heptaméron als ganzes ist weit mehr als die Summe seiner Teile.<br />
+   Die vorliegende Studie möchte einen Beitrag leisten, das zweifellos wichtigste Thema des Heptaméron &#8211; allerdings nicht sein einziges <del>, die Frage nach der Bewertung des Phänomens menschlicher Liebe und Lust vor dem Hintergrund eines zutiefst christlichen Weltbildes und damit verbunden die Suche nach einer neuen individuellen und gesellschaftlichen Norm für das Verhalten von Liebenden, durch eine zusammenhängende, ausführliche Interpretation der einzelnen Novellen unter diesem zentralen Gesichtspunkt zu beleuchten und die allmähliche Entwicklung entsprechender Kategorien negativer wie positiver Liebe im Text herauszuarbeiten.<br />
+   Obgleich das Heptaméron entgegen einer häufig vertretenen Meinung eine enge religionsthematische Verwandtschaft mit anderen Werken seiner Verfasserin aufweist, scheint es nicht angebracht, den geistigen Inhalt dieser Werke oder insbesondere der Korrespondenz Margaretes in den Text des Heptaméron zu inferieren. Das Heptaméron ist ein zwar unvollendetes, aber in sich abgeschlossen konzipiertes literarisches Werk, dessen aus gesellschaftlicher und literarischer Realität abgeleitete Sinnstrukturen sich allein in diesem Werk selbst und seiner immer verschiedenen Rezeption durch seine Leser bzw. Hörer konstituieren. So ist auch die Frage nach dem Verhältnis der Königin zur Reformation und zum Katholizismus von geringerer Relevanz als die Untersuchung des Stellenwertes der Religion im Heptaméron; im Rahmen eines absoluten christlichen Weltbildes werden hier &#8211; nach der Wertung seiner Verfasserin &#8211; menschliche Verfehlungen und Verirrungen gerade auch von Klerikern nicht zum Zwecke einer fundamentalen Religionskritik, sondern zum Aufzeigen von Mißständen und zum Modellieren eines positiven Gegenbildes katholischen Verhaltens und christlichen Liebens geschildert. Eindringlich wird die Vergänglichkeit irdischer, «fleischlicher» Liebe betont, den höchsten Stellenwert genießt zweifelsohne die mystische Liebe zu Gott und hiernach die platonische Liebe, ohne daß das durchgehend positiv gewertete Sakrament der Ehe und «fleischliche» Liebe in einer vor Gott geschlossenen Ehebeziehung hierdurch entwertet oder in Frage gestellt würden. Die Diskussionen und Wertungen haben zwar geistesgeschichtlich neben der Bibel u. a. den Platonismus, den Ficinismo und die Querelle des Femmes zur Voraussetzung, führen aber &#8211; trotz besonderer Betonung etwa des Neoplatonismus oder der Versdichtung La belle dame sans mercy an bestimmten Stellen &#8211; nicht zu einer eindeutigen Anlehnung bzw. Übernahme älterer Diskussionen, sondern laufen allmählich auf eine immer stärkere Betonung christlicher, in den Evangelien niedergelegter Werte und Inhalte hinaus. Dieses Vorgehen, welches der mittelalterlichen Tradition und dem Rekurs auf das vorbildhafte Leben der Heiligen prinzipiell die Botschaft der Evangelien und Lehrinhalte der Kirchenväter vorzieht, verbindet Margarete von Navarra in gewisser Weise mit dem Anspruch der zeitgenössischen Humanisten. Keineswegs aber werden im Heptaméron wichtige Elemente der christlichen Überlieferung wie z. B. die Einrichtung des Klosterlebens als solche in Frage gestellt oder nur die antiken Ausgangsverhältnisse als richtungsweisend anerkannt; die lebendige, durch die Jahrhunderte gewachsene Tradition des katholischen Glaubens und der Kirche wird von ihr nicht bekämpft, lediglich Aus</del> und Mißwüchse erregen ihr Mißfallen.<br />
+   Bereits die Sprachwahl läßt erkennen, welche Ziele sie mit ihrem Heptaméron verfolgt. Sie schreibt nicht in dem Latein der Humanisten einen gelehrten Traktat zur Verdeutlichung ihrer Aussagen, sondern sie wendet sich mit einem französischen Buch an ein potentiell größeres Lese- und Hörpublikum, nicht nur an die für sie sicherlich in erster Linie maßgebliche höfische Gesellschaft, sondern auch an Menschen anderer sozialer Schichten, die auch zur Genüge in ihren Geschichten eine Rolle spielen. Indem sie verschiedene mögliche, zueinander zum Teil konträre Positionen der Erzähler aufbaut, gibt sie ihren Lesern und Hörern die Möglichkeit, sich mit einem oder mehreren der devisants zu identifizieren. Im allmählichen Verlauf der Diskussion bilden sich anfangs noch leicht wechselnde Parteien, ein prozeßhafter, fließender Erkenntnisprozeß führt in einem leichten Erzählstil den jeweiligen Leser auf eine sanfte und angenehme Weise zu neuen Argumenten, Aspekten, Sichtweisen und möglicherweise Widerlegungen der Position, mit der er sich anfangs vielleicht am ehesten identifizierte. Der Wahrheitsanspruch und die spannende, fast «sensationell» zu nennende Thematik der Geschichten vor allem des ersten Tages dienen als Köder, um den Leser bei der Stange zu halten und allmählich in seiner eigenen gedanklichen Auseinandersetzung mit den behandelten Inhalten nachhaltig zu beeinflussen und zu prägen. Hierbei steht kein erhobener Zeigefinger, sondern &#8211; zum Schein &#8211; der Aspekt der Unterhaltung im Vordergrund; so wird das Geschichtenerzählen auf der Ebene der Rahmenhandlung mit dem Zwecke des Zeitvertreibs begründet, und auf den ersten Blick mag man dies auch für den Zweck des Heptaméron halten. Liest man aber aufmerksam den überlieferten Text in seiner Gesamtheit, so wird man gewahr, daß hier ein exponiertes Mitglied der höfischen Gesellschaft der damaligen Zeit versuchte, andere Menschen mit geschickter, verborgener Psychagogie über das Medium des geschriebenen Wortes zu einem langsamen Aufstieg auf eine neue Bewußtseinsebene zu führen und dulciter et suaviter bindende christliche Glaubenswerte und Verhaltensregeln durch Überzeugung und Autorität zu etablieren, wobei ein Rückgriff sowohl auf die Autorität der Heiligen Schriften als auch auf die Empirie der fiktiven Realität der Geschichten erfolgte. Letzter und höchster Bezugspunkt hierfür sind Gott und die christliche Religion, wobei das alleinige Vermittlungsmonopol der Kleriker zumindest implizit in Frage gestellt wird. Auch die Rolle des individuellen Gewissens und des gesellschaftlichen Rufes eines jeden einzelnen werden betont.<br />
+   Daß dieses Erziehungsprojekt letztendlich scheiterte und das Heptaméron vielfach mißverstanden wurde &#8211; als literarischer «Steinbruch» für erbauliche Geschichten, als Kampfschrift gegen die Kirche (etwa beim Prager Fenstersturz), als «unmoralisches Werk» einer ansonsten «unverdächtigen» Autorin <del>, dürfte wohl vor allem daran gelegen haben, daß einerseits das Werk zunächst nur in verstümmelter Form bekannt wurde und hierdurch eine falsche Rezeptionshaltung entstand und sich verfestigte, anderseits aber auch keine ausreichende allgemeine Sensibilisierung für das christliche Liebes</del> und Lebenskonzept der Königin unter ihren damaligen Lesern vorhanden war. So kam es, daß bis zum heutigen Tag die einzelnen Novellen zumeist mehr im Blickpunkt des Interesses standen als die Gesamtheit des Buches, und nur so ist es zu erklären, daß eines der herausragendsten literarischen Werke der französischen Literatur der Renaissance bis zum heutigen Tag im Urteil der Literaturgeschichtsschreibung ebenso wie im Kanon der französischen Schul- und Universitätslektüren eine eher untergeordnete, periphere Rolle spielt. Wenn Literaturwissenschaftler und Leser, Soziologen und Theologen durch die vorliegende Studie zur (erneuten) Lektüre und zum Studium des Heptaméron angeregt und motiviert werden können, so bietet sich ihnen die Chance, mit geschärftem Blick eine in der Literatur für die Wirklichkeit entworfene mögliche Stufe im Zivilisationsprozeß zu erkennen, welche ein in wesentlichen Punkten für beide Geschlechter bedingungslos gleiches, einheitlichen christlichen Kriterien gehorchendes moralisches Verhalten als Zielvorstellung zu etablieren suchte; in der Realität des damaligen gesellschaftlichen Entwicklungsprozesses spielte sie praktisch keine Rolle. Zu leicht vergißt der aus der Gegenwart Zurückblickende, daß vergangene Epochen nicht zwangsläufige Vorstufen seiner eigenen Zeit darstellen, sondern daß in ihnen lebendige, den Zwängen ihrer jeweiligen sozialen Figurationen zwar unterworfene, dennoch aber mit eigener Entscheidungsfreiheit versehene Menschen einen Entwicklungsprozeß in Gang brachten und hielten, der über die Jahrhunderte zu einer zunehmenden Säkularisierung und zu einem im 16. Jahrhundert kaum vorstellbaren gesamtgesellschaftlichen Bedeutungsverlust der christlichen Religion führte; der überzeugten Christin Margarete von Navarra erschien es aus ihrer damaligen Sicht ein erstrebenswertes Ziel, für eine Ausrichtung gesellschaftlichen Handelns und individuellen Liebens und Fühlens an den von ihr als absolut empfundenen Werten ihrer Religion einzutreten. Daß auch sie sich bereits der Schwierigkeiten bei der erzieherischen Vermittlung dieses Gedankengutes bewußt war, zeigt das grandiose pädagogische Experiment ihres vordergründig unterhaltsamen, tatsächlich aber den Leser im Wortsinne bildenden und verändernden Heptaméron.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Inhaltsverzeichnis</p>
+<p>0 Vorwort: 8</p>
+<p>1 Einleitung: 10</p>
+<p>2 Methodologische Überlegungen: 22</p>
+<p>3 Das Heptaméron: eine sukzessive, zusammenhängende Interpretation der einzelnen Novellen: 27</p>
+<p>3.1 Der Prolog und der erste Erzähltag: 27<br />
+3.1.1 Die erste Novelle (Symontault): 39<br />
+3.1.2 Die zweite Novelle (Oisille): 45<br />
+3.1.3 Die dritte Novelle (Saffredent): 50<br />
+3.1.4 Die vierte Novelle (Ennasuitte): 60<br />
+3.1.5 Die fünfte Novelle (Geburon): 67<br />
+3.1.6 Die sechste Novelle (Nomerfide): 70<br />
+3.1.7 Die siebte Novelle (Hircan): 72<br />
+3.1.8 Die achte Novelle (Longarine): 75<br />
+3.1.9 Die neunte Novelle (Dagoucin): 82<br />
+3.1.10 Die zehnte Novelle (Parlamente): 93<br />
+3.1.11 Schlußbetrachtung zum ersten Erzähltag: 136</p>
+<p>3.2 Der zweite Erzähltag: 140<br />
+3.2.1 Die elfte Novelle (Nomerfide): 140<br />
+3.2.2 Die zwölfte Novelle (Dagoucin): 143<br />
+3.2.3 Die dreizehnte Novelle (Parlamente): 150<br />
+3.2.4 Die vierzehnte Novelle (Symontault): 160<br />
+3.2.5 Die fünfzehnte Novelle (Longarine): 166<br />
+3.2.6 Die sechzehnte Novelle (Geburon): 179<br />
+3.2.7 Die siebzehnte Novelle (Oisille): 184<br />
+3.2.8 Die achtzehnte Novelle (Hircan): 185<br />
+3.2.9 Die neunzehnte Novelle (Ennasuitte): 193<br />
+3.2.10 Die zwanzigste Novelle (Saffredent): 207<br />
+3.2.11 Schlußbetrachtung zum zweiten Erzähltag: 211</p>
+<p>3.3 Der dritte Erzähltag: 217<br />
+3.3.1 Die einundzwanzigste Novelle (Parlamente): 218<br />
+3.3.2 Die zweiundzwanzigste Novelle (Geburon): 238<br />
+3.3.3 Die dreiundzwanzigste Novelle (Oisille): 247<br />
+3.3.4 Die vierundzwanzigste Novelle (Dagoucin): 251<br />
+3.3.5 Die fünfundzwanzigste Novelle (Longarine): 260<br />
+3.3.6 Die sechsundzwanzigste Novelle (Saffredent): 264<br />
+3.3.7 Die siebenundzwanzigste Novelle (Ennasuitte): 276<br />
+3.3.8 Die achtundzwanzigste Novelle (Symontault): 277<br />
+3.3.9 Die neunundzwanzigste Novelle (Nomerfide): 278<br />
+3.3.10 Die dreißigste Novelle (Hircan): 279<br />
+3.3.11 Schlußbetrachtung zum dritten Erzähltag: 284</p>
+<p>3.4 Der vierte Erzähltag: 291<br />
+3.4.1 Die einunddreißigste Novelle (Geburon): 291<br />
+3.4.2 Die zweiunddreißigste Novelle (Oisille): 294<br />
+3.4.3 Die dreiunddreißigste Novelle (Symontault): 298<br />
+3.4.4 Die vierunddreißigste Novelle (Nomerfide): 301<br />
+3.4.5 Die fünfunddreißigste Novelle (Hircan): 302<br />
+3.4.6 Die sechsunddreißigste Novelle (Ennasuitte): 307<br />
+3.4.7 Die siebenunddreißigste Novelle (Dagoucin): 313<br />
+3.4.8 Die achtunddreißigste Novelle (Longarine): 318<br />
+3.4.9 Die neununddreißigste Novelle (Saffredent): 320<br />
+3.4.10 Die vierzigste Novelle (Parlamente): 322<br />
+3.4.11 Schlußbetrachtung zum vierten Erzähltag: 330</p>
+<p>3.5 Der fünfte Erzähltag: 333<br />
+3.5.1 Die einundvierzigste Novelle (Saffredent): 334<br />
+3.5.2 Die zweiundvierzigste Novelle (Parlamente): 338<br />
+3.5.3 Die dreiundvierzigste Novelle (Geburon): 353<br />
+3.5.4 Die vierundvierzigste Novelle (Nomerfide): 359<br />
+3.5.5 Die fünfundvierzigste Novelle (Symontault): 361<br />
+3.5.6 Die sechsundvierzigste Novelle (Oisille): 364<br />
+3.5.7 Die siebenundvierzigste Novelle (Dagoucin): 367<br />
+3.5.8 Die achtundvierzigste Novelle (Ennasuitte): 369<br />
+3.5.9 Die neunundvierzigste Novelle (Hircan): 372<br />
+3.5.10 Die fünfzigste Novelle (Longarine): 378<br />
+3.5.11 Schlußbetrachtung zum fünften Erzähltag: 382</p>
+<p>3.6 Der sechste Erzähltag: 386<br />
+3.6.1 Die einundfünfzigste Novelle (Oisille): 387<br />
+3.6.2 Die zweiundfünfzigste Novelle (Symontault I): 389<br />
+3.6.3 Die dreiundfünfzigste Novelle (Ennasuitte): 390<br />
+3.6.4 Die vierundfünfzigste Novelle (Saffredent): 398<br />
+3.6.5 Die fünfundfünfzigste Novelle (Nomerfide): 399<br />
+3.6.6 Die sechsundfünfzigste Novelle (Hircan): 401<br />
+3.6.7 Die siebenundfünfzigste Novelle (Parlamente): 404<br />
+3.6.8 Die achtundfünfzigste Novelle (Symontault II): 408<br />
+3.6.9 Die neunundfünfzigste Novelle (Longarine): 411<br />
+3.6.10 Die sechzigste Novelle (Geburon): 417<br />
+3.6.11 Schlußbetrachtung zum sechsten Erzähltag: 420</p>
+<p>3.7 Der siebente Erzähltag: 423<br />
+3.7.1 Die einundsechzigste Novelle (Saffredent): 423<br />
+3.7.2 Die zweiundsechzigste Novelle (Longarine): 429<br />
+3.7.3 Die dreiundsechzigste Novelle (Dagoucin): 432<br />
+3.7.4 Die vierundsechzigste Novelle (Parlamente): 436<br />
+3.7.5 Die fünfundsechzigste Novelle (Geburon): 444<br />
+3.7.6 Die sechsundsechzigste Novelle (Ennasuitte): 445<br />
+3.7.7 Die siebenundsechzigste Novelle (Symontault): 446<br />
+3.7.8 Die achtundsechzigste Novelle (Nomerfide): 449<br />
+3.7.9 Die neunundsechzigste Novelle (Hircan): 451<br />
+3.7.10 Die siebzigste Novelle (Oisille): 455<br />
+3.7.11 Schlußbetrachtung zum siebten Erzähltag: 472</p>
+<p>3.8 Der achte Erzähltag: 475<br />
+3.8.1 Die einundsiebzigste Novelle (Parlamente): 475<br />
+3.8.2 Die zweiundsiebzigste und letzte Novelle (Dagoucin): 478<br />
+3.8.3 Schlußbetrachtung zum Fragment des achten Erzähltags: 482</p>
+<p>4 Amor versus Caritas: 484<br />
+4.1 Die zwei hauptsächlichen Liebeskategorien im Heptaméron: 486<br />
+4.1.1 Margaretes positive Liebeskonzeption: «Göttliche» Liebe (caritas): 486<br />
+4.1.1.1 Die Darstellung von Subjekt und Objekt der Liebe: 491<br />
+4.1.1.2 Die Ursachen der Liebe: 494<br />
+4.1.1.3 Die Umstände der Liebe: 495<br />
+4.1.1.4 Das Ziel der Liebe: 496<br />
+4.1.1.5 Folgen der Liebe: 497<br />
+4.1.2 Margaretes negative Liebeskonzeption: «Tierhafte» Liebe (concupiscentia): 498</p>
+<p>5 Schlußbetrachtung: 502</p>
+<p>6 Bibliographie: 508<br />
+A Textausgaben des Heptaméron: 508<br />
+B Sekundärliteratur: 509</p>
+<hr /></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Gefördert durch ein Doktoranden-Stipendium der Studienstiftung des deutschen Volkes</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/74-Axel_SchOenberger" class="tag multiline" popup="true">Axel Schönberger</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Mittwoch, 17. Februar 2010, 05:43 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 17. Februar 2010, 05:43 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

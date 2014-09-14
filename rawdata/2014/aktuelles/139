@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+Fachdidaktik der romanischen Sprachen (Französisch, Italienisch, Spanisch)
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Würzburg
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-05-30
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2014-10-01
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2016-09-30
+</p>
+<p class=''>
+<b>
+Gehalt:
+</b>
+E 13 (50%)
+</p>
+<p class='bottom'>
+<b>
+Arbeitsstunden:
+</b>
+Deputat 9 SWS
+</p>
+</div>
+<p>Am Institut für Neuphilologie / Romanistik der Julius-Maximilians-Univeristät Würzburg ist zum 1. 10. 2014 die Stelle einer Lehrkraft für besondere Aufgaben (E 13, 50%) in der Fachdidaktik zu besetzen. Die Stelle ist zunächst bis September 2016 befristet, sie kann danach in die unbefristete Vollzeitstelle einer Akademischen Rätin/ eines Akademischen Rats im Beamtenverhältnis auf Lebenszeit überführt werden. </p>
+
+<p>Einstellungsvoraussetzungen: Einschlägiger Studienabschluss und Nachweis der nötigen Sprachkenntnisse. Promotion und Schulerfahrung (Referendariat plus 3 Jahre) sind dringend erwünscht, eine spätere Entfristung ist nur möglich, wenn Promotion und Schulerfahrung vorliegen.</p>
+
+<p>Aufgabengebiete: Fachdidaktische Betreuung der Studierenden der drei Schulsprachen Französisch, Spanisch und Italienisch. Die Aufgaben umfassen den fachdidaktischen Unterricht, die Betreuung der Schulpraktika und die Teilnahme an den Staatsexamensprüfungen.</p>
+
+<p>Ihre Bewerbung mit den üblichen Unterlagen schicken Sie bitte bis zum 30. Mai 2014 per Email an brigitte.burrichter@uni-wuerzburg.de
+</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/2319-Brigitte_Burrichter">Brigitte Burrichter</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

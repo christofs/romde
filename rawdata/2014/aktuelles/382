@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+Curtius und Picht. Zwei Familien, vier Generationen
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+ Marbach
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2014-09-18
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2014-09-19
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.dla-marbach.de/aktuelles/tagungen/index.html#c9107715" target="_blank">http://www.dla-marbach.de/aktuelles/tagungen/index.html#c9107715</a>
+</p>
+</div>
+<p>Die Familien Curtius und Picht, auf komplexe Weise miteinander verbunden, haben über drei Generationen deutsche Bildungspolitik und Wissenschaftsgeschichte geprägt: von Ernst Curtius, dem Ausgräber von Olympia, bis zu Georg Picht, dem Rektor am Birklehof. In Marbach wird das Familienarchiv für die Forschung erschlossen. Die intellektuellen Netzwerke werden im Rahmen der aus Mitteln der Robert Bosch Stiftung finanzierten Tagung von Experten zum ersten Mal in der Öffentlichkeit vorgestellt.</p>
+
+<p> Deutsches Literaturarchiv Marbach, Tagungsraum 2-3 </p>
+
+<p>PROGRAMM</p>
+
+<p>Donnerstag, 18. September 2014</p>
+
+<p>14.00 Uhr
+<br />Ulrich Raulff, Marbach
+<br />Begrüßung</p>
+
+<p>Sektion 1: Bildungsgeschichte
+<br />Moderation: Marcel Lepper</p>
+
+<p>14.45 Uhr 
+<br />Wilfried Nippel, Berlin
+<br />Ernst Curtius. Altertumswissenschaftler und Wissenschaftsorganisator</p>
+
+<p>15.30 Uhr 
+<br />Ernst-Peter Wieckenberg, München
+<br />Portraet Friedrich Curtius: Briefe an seine Tochter</p>
+
+<p>16.15 Uhr 
+<br />Kaffeepause</p>
+
+<p>Sektion 2: Europäische Philologien
+<br />Moderation: Barbara Picht</p>
+
+<p>16.30 Uhr 
+<br />Wolfgang Asholt, Osnabrück
+<br />Wesen und Funktion der französischen Kultur und Literatur fuer Ernst Robert Curtius (1914-1932)</p>
+
+<p>17.15 Uhr 
+<br />Anne Kraume, Potsdam
+<br />Gelebtes Leben. Philologie und Geschichte bei Ernst Robert Curtius und Américo Castro</p>
+
+<p>19.30 Uhr 
+<br />Gemeinsames Abendessen</p>
+
+<p>Freitag, 19. September 2014</p>
+
+<p>Sektion 3: Publizistik und Politik
+<br />Moderation: Barbara Picht</p>
+
+<p>09.30 Uhr 
+<br />Gangolf Hübinger, Frankfurt (Oder)
+<br />Georg Picht und Ralf Dahrendorf. Zur intellektuellen Gründung der Bundesrepublik</p>
+
+<p>10.15 Uhr 
+<br />Archivmaterial und Diskussion
+<br />Zu Werner Picht</p>
+
+<p>11.00 Uhr 
+<br />Kaffeepause</p>
+
+<p>Sektion 4: Erziehung und Habitus
+<br />Moderation: Anne Kraume</p>
+
+<p>11.15 Uhr 
+<br />Teresa Löwe-Bahners, New York
+<br />Greda und Georg,Heidelberg und Hinterzarten - une éducation maternelle</p>
+
+<p>12.00 Uhr 
+<br />Ende der Tagung</p>
+
+<p>Konzept
+<br />Dr. Anne Kraume, Dr. Marcel Lepper und Dr. Barbara Picht</p>
+
+<p>Kontakt
+<br />Dr. Marcel Lepper – Leiter des Forschungsreferats – Leiter der Arbeitsstelle Geschichte der Germanistik, Deutsches Literaturarchiv Marbach – E-Mail: lepper@dla-marbach.de
+<br />Sekretariat: Birgit Wollgarten – Tel.: 07144 - 848 - 175 – Fax.: 07144 - 848 - 179 – E-Mail: forschung@dla-marbach.de
+</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/40-Anne_Kraume">Anne Kraume</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/3740-Reto_ZOellner">Reto Zöllner</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

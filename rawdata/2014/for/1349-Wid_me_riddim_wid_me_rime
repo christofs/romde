@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Wid me riddim wid me rime (Veranstaltungsprojekt)</h2>
+<h3>Cultural Flows in Caribbean and South Asian Poetry and Performance</h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Donnerstag, 12. April 2012</dd>
+<dt>Projektende</dt>
+<dd>Samstag, 14. April 2012</dd>
+<dt>Status</dt>
+<dd>abgeschlossen</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.uni-heidelberg.de/md/transculturality/widmiriddim.pdf" target="_blank">http://www.uni-heidelberg.de/md/transculturality/widmiriddim.pdf</a></dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Sprachwissenschaft, Medien-/Kulturwissenschaft, Sprachpraxis
+</dd>
+</dl>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><p>Programm:</p>
+<p>Thursday, 12.04.2012_</p>
+<p>I. Heritage and Cultural Memory</p>
+<p>16.30 Carribean-English Passages in Poetry: Rituals of Ancestry across the Black Atlantic (Birgit Neumann/Jan Rupp)</p>
+<p>17.10 Forms of Exile: Self-Analysis and Self-Positioning in Derek Walcott, Anthony McNeill, and Fred D&#8217;Aguiar (Timo Müller)</p>
+<p>19.30 <strong>Round-Table Discussion</strong> Concepts of Cultural Contact: Literature and Transculturalit</p>
+<p>Friday, 13.04.2012</p>
+<p>II. Musical Forms, Poetry and Performance</p>
+<p>10.50 Poet and the Roots: Redefining Identity in the Carribean Diaspora (David Bousquet)</p>
+<p>11.30 From Jamaica to Mecca: Transculturation in the Music and Poetry of Poetic Pilgrimage (Ana Sobral)</p>
+<p>13.10 Tato&#8217;s-ao: Guillén, Langston, and the Afro-Spanglish Poetics of Tato Laviera (Juan Flores)</p>
+<p>13.50 Performing a Digital Caribeno/a Diaspora: El Puerto Rican Embassy and Levente no (Tomás Urayoán Noel)</p>
+<p>14.50 Jamaican Dancehall Artist Vybz Kartel: &#8216;Pretty like a Colouring Book&#8217; (Patrick Helber)</p>
+<p>15.30 British Bhangra: Pasts, Presents, and Futures? (Rajinder Dudrah)</p>
+<p>18.00 <strong>Poetry Reading by Daljit Nagra</strong></p>
+<p>Saturday, 14.04.2012</p>
+<p>III. Genre and Form</p>
+<p>10.50 &#8216;in a two-directional (at least) field&#8217; (Ron Silliman): An Exploration of debbie tucker green&#8217;s Dramatic-Poetics (Deirdre Osborne)</p>
+<p>11.30 Derek Walcott&#8217;s Poetic Drama: A Form of Creolization and Creolization of Forms (Marija Bergarn)</p>
+<p>IV. Gender and the Body</p>
+<p>13.00 Embodying Desire and Sexuality across Borders: Diasporic Indian Women&#8217;s Poetry in English (Arnrita Mehta)</p>
+<p>13.40 Rewriting the Body &#8211; Rewriting the Nation: Negotiating Spaces of Cultural Belonging in South Asian Diasporic Women&#8217;s Poetry (Sonja Lehmann)</p>
+<p>V. Tradition and Innovation</p>
+<p>14.40 &#8216;Feminist Fables&#8217;: Theorizing Subversive Mythology in the Poetry of Suniti Namjoshi (Debashree Dattaray)</p>
+<p>15.20 Between Tradition and Innovation: Redistricting the Literary Imagination (Silvio A. Torres-Saillant)</p>
+<p>16.00 <strong>Final Discussion</strong></p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Vom Donnerstag, den 12. April 15 Uhr bis Samstag, den 14. April 2012 findet im <strong>Internationalen Wissenschaftsforum Heidelberg</strong> (Hauptstraße 242) das internationale Symposium <strong>„Wid me riddim wid me rime – Cultural Flows in Caribbean and South Asian Poetry and Performance“</strong> statt. Gerahmt wird die Tagung durch eine öffentliche Podiumsdiskussion im Heidelberg Center for American Studies (Hauptstraße 120, 12.4.2012, 19.30 Uhr) zum Thema „Concepts of Cultural Contact: Literature and Transculturality“ sowie durch eine öffentliche Lesung des britisch-südasiatischen Dichters Daljit Nagra (Anglistisches Seminar, Kettengasse 12, Raum 108, 13.04.2012, 18.00 Uhr). Tagung und Rahmenprogramm werden von Dr. Anne Brüske (Transcultural Studies) und Dr. Caroline Lusin (Anglistisches Seminar) organisiert.</p></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/2203-Tjark_Hecker" class="tag multiline" popup="true">Tjark Hecker</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 12. April 2012, 23:18 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 12. April 2012, 23:18 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

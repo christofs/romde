@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Revolution der Medien, Evolution der Literaturwissenschaft? (Veranstaltungsprojekt)</h2>
+<h3></h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Freitag, 02. Dezember 2011</dd>
+<dt>Status</dt>
+<dd>laufend</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Digitale Methoden, Digitale Edition, Datenbanken, Open Access, Wissenschaftliches Bloggen
+</dd>
+</dl>
+<h4>Aktiv beteiligte Person(en)</h4>
+<p>(z.B. Kooperation, Mitarbeiter, Fellows)</p>
+<a href="/pers/13-Christof_SchOech" class="tag multiline" popup="true">Christof Schöch</a>
+<a href="/pers/4-Lars_Schneider" class="tag multiline" popup="true">Lars Schneider</a>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><p>(Voir ci-dessous pour l&#8217;appel à contributions en français)</p>
+<h3>Revolution der Medien, Evolution der Literaturwissenschaft?</h3>
+<p>In vieler Hinsicht ist der akademische Alltag von den Auswirkungen der digitalen Medienrevolution geprägt. Zahlreiche Aktivitäten werden mit elektronischen Anwendungen ausgeführt, sei es die Kommunikation mit Kollegen, die Recherche von Informationen, die Beschaffung von Forschungsliteratur, das Verfassen von Texten oder die Verwaltung bibliographischer Daten. Diese Technologien erleichtern einerseits die Arbeit, machen sie schneller, bequemer und/oder nachhaltiger. Sie verändern sie aber auch bis in die Methodik hinein, eröffnen neue Horizonte, setzen neue Grenzen. Dies gilt insbesondere, wenn die digitalen Medien und Anwendungen unseren wissenschaftlichen Umgang mit den Untersuchungsgegenständen selbst verändern: wenn computer­gestützte Forschungs­methoden eingesetzt und digital vorliegende Forschungsdaten verarbeitet werden, können alte Fragen anders bearbeitet und neue Fragen aufgeworfen werden. Erst dann kann man davon sprechen, dass die Revolution der Medien auch eine wirkliche Evolution der Literaturwissenschaft mit sich bringt, dass sich am Ende der Gutenberg-Galaxie ein neues Aufschreibesystem konstituiert.</p>
+<p>Innerhalb der frankoromanistischen Literaturwissenschaft ist dieser medial initiierte Wandel noch nicht vollzogen. Er stößt teilweise auf methodisch oder grundsätzlich begründete Zurückhaltung, und seine sichtbaren Anzeichen lassen noch keine bestimmte Richtung erkennen. Es scheint aber kaum vorstellbar, dass die digitale Revolution der Medien die literaturwissenschaftliche Methodik und das Selbstverständnis des Faches in den kommenden Jahren nicht beeinflussen wird. Stabile Trends in der Forschungslandschaft – man denke insbesondere an die stetig zunehmende Zusammenarbeit von Forschern über disziplinäre, sprachliche, geographische und mediale Grenzen hinweg – werden nicht nur von Entwicklungen im Bereich der digitalen Medienlandschaft herausgefordert, sondern auch durch neue elektronische forschungsunterstützende Anwendungen, Dienste und Infrastrukturen erleichtert und gefördert.</p>
+<p>In diesem Kontext gilt es, die Chancen und Risiken der aktuellen Situation zu erkennen um die weitere Entwicklung kritisch zu begleiten, sie an die spezifischen Bedürfnisse und Interessen der eigenen Disziplin anzupassen und damit in eine produktive Richtung zu lenken. Die durch die digitalen Medien initiierte Evolution der Literaturwissenschaft folgt keiner Vorsehung. Folglich muss sie aus der wissenschaftlichen Praxis heraus verstanden und beurteilt werden. Vor diesem Hintergrund möchte die Sektion zweierlei leisten: Einerseits soll eine kritische Bestandsaufnahme der aktuellen Entwicklung in den vielfältigen Bereichen vorgenommen werden, in denen der Einsatz computer-gestützter Forschungsmethoden und die Verarbeitung digitaler Forschungsdaten im Begriff ist, die Literaturwissenschaft nachhaltig und tiefgreifend zu verändern. Im Vordergrund stehen soll hier der Austausch über den Stand der Dinge in bedeutenden Projekten in verschiedenen Kernbereichen digitaler literaturwissenschaftlicher Forschungsmethoden, auch über die Grenzen Deutschlands hinaus und insbesondere in Frankreich. Zudem sollen methodische Überlegungen, Verfahren und Ergebnisse einzelner Forschungsprojekte aus der deutsch-sprachigen Frankoromanistik vorgestellt und analysiert werden. Hier ist das Ziel, ein Bewusstsein für bestehende Anstrengungen zu bilden und Impulse für zukünftige Projekte zu geben.</p>
+<p>Als relevante Bereiche sollen die folgenden besonders hervorgehoben werden:</p>
+<p>- Editionsphilologie im elektronischen Medium: Manuskript-Edition, genetische Textedition, Digitalisierung von Texten, Online-Publikation, Standards wie die Text Encoding Initiative, Editions-Tools wie <span class="caps">TUSTEP</span>.</p>
+<p>- Qualitative und quantitative Analyse literarischer Texte: statistische Analyse umfangreicher Textkorpora, computergestützte Analysen zu Textsemantik oder Metrik, data/text mining, korpuslinguistische Verfahren in der Literaturwissenschaft.</p>
+<p>- Wissenschaftliche Kommunikation im Internet: Online-Publikation von Forschungsergebnissen, Open Access Zeitschriften, akademische Blogs, Informations- und Rezensionsportale, Open Peer Review, urheberrechtliche Fragen, Initiativen im Verlagswesen.</p>
+<p>Weiterhin mögliche Themen sind die visuelle Aufbereitung von Forschungsergebnissen (Grafiken, Karten), die Online-Publikation von Forschungsdaten sowie die kollaborative Nutzung von virtuellen Forschungs­infrastrukturen.</p>
+<p>Bei der Auseinandersetzung mit diesen Bereichen können die folgenden Fragen und Problemfelder berücksichtigt werden: Wie verändern sich literaturwissenschaftliche Methoden, wenn mit digital vorliegenden Daten und mit digitalen Mitteln der Analyse, Kontextualisierung und Visualisierung gearbeitet werden kann? Welche spezifischen Anforderungen stellt eine im Kern hermeneutische und kontextualisierende Disziplin an elektronische Rechercheinstrumente, und inwiefern erscheinen diese realisierbar? In welcher Beziehung stehen digitale Methoden und Arbeitsbereiche zur Frankoromanistik, aber auch zu benachbarten Disziplinen wie der Germanistik, der Linguistik, der Bibliothekswissenschaft? Wie möchte die Frankoromanistik als Disziplin mit Entwicklungen umgehen, die sich teils außerhalb der eigenen Disziplin, teils außerhalb des deutsch-sprachigen Bereichs abzeichnen? Indem diese Aspekte der digitalen Methoden und Tools für den Bereich der Frankoromanistik gesammelt und diskutiert werden, möchte die Sektion ein Bewusstsein für aktuelle Entwicklungen im Bereich der digitalen Methoden in der frankoromanistischen Literaturwissenschaft schaffen und eine Diskussion über die zukünftige Rolle digitaler Methoden und Tools in der Frankoromanistik anstoßen.</p>
+<p>Die Vortragssprachen der Sektion werden Deutsch und/oder Französisch sein. Vorschläge für Beiträge von höchstens 500 Wörtern werden bis zum [15. Januar] <strong>28. Februar</strong> 2012 erbeten und können per Email an die Sektionsleiter geschickt werden.</p>
+<p>Sektionsleitung / Kontakt<br />
+Dr. Christof Schöch (Univ. Würzburg): <a href="mailto:christof.schoech@uni-wuerzburg.de" target="_blank">christof.schoech@uni-wuerzburg.de</a><br />
+Dr. Lars Schneider (<span class="caps">LMU</span> München): <a href="mailto:Lars.Schneider@romanistik.uni-muenchen.de" target="_blank">Lars.Schneider@romanistik.uni-muenchen.de</a></p>
+<h3>Révolution des médias, évolution des études de lettres?</h3>
+<p>Le quotidien académique est modifié par la révolution des médias à plus d’un titre. De nombreuses activités sont effectuées à l’aide de logiciels électroniques, que ce soit la communication entre collègues, la recherche d’informations, la commande de livres, la rédaction de textes ou la gestion des données bibliographiques. D’une part, ces technologies facilitent le travail, le rendant plus rapide, plus confortable et plus durable. D’autre part, ils le modifient jusqu’à la méthodologie, ouvrant de nouveaux horizons et traçant de nouvelles limites. Ceci est le cas surtout quand les médias et outils numériques transforment le traitement scientifique des objets de recherche. La recherche par ordinateur et le traitement des données numérisées permettent de nouvelles solutions aux problèmes existants et provoquent de nouvelles questions. Dans ce cas, la révolution des médias entraîne une véritable évolution des lettres et un nouveau système d’écriture s’annonce à la fin de la Galaxie Gutenberg.</p>
+<p>Dans la philologie des langues romanes, cette mutation ne s’est pas encore produite. Elle est en partie rejetée pour des raisons méthodiques ou fondamentales, et ses indices visibles n’indiquent pas encore de direction définie. Pourtant, il est certain que la révolution des médias va influencer la méthodologie et l’identité de la discipline pendant les prochaines années. La coopération interdisciplinaire et internationale toujours croissante, le développement du paysage médiatique, les nouvelles applications de recherche et les nouveaux services et infrastructures numériques provoqueront et favoriseront de nouvelles tendances dans la recherche.</p>
+<p>Dans ce contexte, il importe de prendre conscience des chances et des risques des mutations actuelles, d’observer de manière critique la direction qu’elles prennent et de les adapter aux besoins et aux intérêts de la discipline, c’est-à-dire de les influencer de manière productive. L’évolution des études de lettres initiée par la révolution des médias n’obéit à aucune règle providentielle. Par conséquent, elle doit être comprise et jugée dans les faits. Sur cette trame, l’atelier aimerait apporter deux contributions : d’une part, il s’agit d’établir un inventaire critique de la situation actuelle dans les domaines où la recherche par ordinateur et le traitement des dates numérisées sont en passe de modifier profondément et durablement les lettres. Ici l’échange sur l’état des choses dans de projets importants tant en Allemagne qu’en France sera central. D’autre part, il s’agira de présenter et d’analyser des réflexions méthodiques, des procédés et des résultats des projets individuels. L’objectif consiste à prendre conscience des efforts actuels et d’encourager la mise en œuvre de nouveaux projets.</p>
+<p>L’atelier pourra traiter les thèmes suivants :<br />
+- Édition numérique : édition de manuscrits, édition génétique, numérisation de textes, publication en ligne, standards comme la Text Encoding Initiative, logiciels d’édition comme <span class="caps">TUSTEP</span>.<br />
+- Analyse qualitative et quantitative de textes littéraires : analyse statistique de corpus, analyse de la sémantique et de la métrique de textes, data/text mining, procédés de la linguistique des corpus appliqués au domaine des lettres.<br />
+- Communication scientifique sur le web : publication en ligne des résultats de recherche, journaux en accès libre, blogues académiques, portails d’information et de comptes rendus, open peer review, questions concernant le droit d’auteur, initiatives dans l’édition.</p>
+<p>D’autres sujets possibles sont la visualisation des résultats de recherche (graphiques, cartes), la publication en ligne des données de recherche ou l’utilisation collective des infrastructures virtuelles.<br />
+Le traitement de cet ensemble de thématiques pourra adresser, par exemple, les questions et problématiques suivantes : comment la méthodologie est-elle modifiée par l’emploi de nouveaux moyens d’analyse, de contextualisation et de visualisation ? Quelles sont les exigences d’une discipline herméneutique et contextualisante à l’égard des instruments de recherche électroniques ? Dans quelle mesure ces exigences sont-elles réalisables ? Quelle est la relation entre les méthodes et les domaines d’activités numériques et la philologie des langues romanes d’un côté, les disciplines voisines comme la philologie allemande, la linguistique et la science de l’information et des bibliothèques de l’autre ? Quelle est l’attitude de la philologie des langues romanes face aux développements qui se passent en partie à l’extérieur de la discipline, en partie à l’extérieur de la zone linguistique allemande ? L’atelier vise à résumer et à discuter ces aspects des médias numériques pour attirer l’attention sur les développements récents des méthodes numériques dans la philologie des langues romanes et pour initier le débat sur le rôle futur des méthodes et outils numériques dans cette discipline.</p>
+<p>Les langues de la conférence seront l&#8217;allemand et le français.</p>
+<p>Les propositions de contribution, d’un maximum de 500 mots, sont à envoyer aux organisateurs de l’atelier jusqu’au 15 janvier 2012 au plus tard.</p>
+<p>Organisation / contact :<br />
+Dr. Christof Schöch (Univ. de Würzburg), <a href="mailto:christof.schoech@uni-wuerzburg.de" target="_blank">christof.schoech@uni-wuerzburg.de</a><br />
+Dr. Lars Schneider (Univ. de Munich), <a href="mailto:Lars.Schneider@romanistik.uni-muenchen.de" target="_blank">Lars.Schneider@romanistik.uni-muenchen.de</a></p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Sektion auf dem Frankoromanistentag 2012, Leipzig, 19.-22.9.2012. Für weitere Informationen, siehe <a href="http://www.francoromanistes.de/frankoromanistentag" target="_blank">http://www.francoromanistes.de/frankoromanistentag</a> und <a href="http://www.uni-leipzig.de/~frt2012/" target="_blank">http://www.uni-leipzig.de/~frt2012/</a></p>
+<p>Atelier au congrès de l&#8217;Association des francoromanistes allemands (<span class="caps">FRV</span>-<span class="caps">AFRA</span>), Leipzig, 19-22 septembre 2012. Pour plus de renseignements, voir <a href="http://www.francoromanistes.de/frankoromanistentag" target="_blank">http://www.francoromanistes.de/frankoromanistentag</a> et <a href="http://www.uni-leipzig.de/~frt2012/" target="_blank">http://www.uni-leipzig.de/~frt2012/</a></p>
+<p><strong>Fristverlängerung für Vortragsvorschläge: 28.2.2012!</strong></p>
+<h2>Zeitplan (Stand 12.6.2012)</h2>
+<p>Donnerstag, 20.9.<br />
+9:00-9:45: Begrüßung und Einführung<br />
+9:45-10:30: Gudrun Gersmann (Paris/Köln): Vom Nutzen und Nachteil des Bloggens für die Wissenschaft<br />
+10:30-11:30: Kaffeepause<br />
+11:00-11:45: Lilian Landes (München): Rezensionen neu gedacht: Wissenschaftliche Kommunikationskultur<br />
+im Netz als Chance<br />
+12:00-13:00: Plenarvortrag<br />
+13:00-14:30: Mittagspause<br />
+14:30-15:15: Anne Baillot (Berlin): Les corpus français sont-ils allemands? Éditer des textes de la Prusse<br />
+frédéricienne en Allemagne<br />
+15:15-16:00: Delphine Dufour (Lyon FR): L’enjeu numérique dans l’édition de la correspondance de<br />
+Marceline Desbordes-Valmore<br />
+16:00-16:30:Kaffeepause<br />
+16:30-17:15: Anne-Sophie Bories (Paris FR / Leeds UK): Octosyllabe et décasyllabe chez Raymond<br />
+Queneau<br />
+17:15-18:00: Christof Schöch (Würzburg): Corneille, Molière, Racine et les autres: nouvelles approches<br />
+stylométriques au théâtre classique<br />
+18:00-20:00: Mitgliederversammlung<br />
+20:00: Lesung</p>
+<p>Freitag, 21.9.<br />
+9:00-9:45: Dietrich Scholler (Bochum/Mainz): Wege und Formen literaturwissenschaftlicher Online-Periodika<br />
+9:45-10:30: Thomas Stöber (München): Auf dem Weg zum digitalen Schreibtisch? Integrierte<br />
+Arbeitsumgebungen für die Wissenschaft und die Rolle der Bibliotheken<br />
+10:30-11:00: Kaffeepause<br />
+11:00-11:45: Isabel Rio Novo/ Célia Vieira (Ismai PT): E-poeticae – Textes de théorisation littéraire en ligne<br />
+12:00-14:30: Mittagspause<br />
+14:30-15:15: Glenn Roe (Chicago <span class="caps">USA</span> / Oxford UK): « Que ce ne soit point un labyrinthe tortueux » :<br />
+L’édition numérique de l’Encyclopédie<br />
+15:15-16:00: (12) Klaus-Dieter Ertler &amp; Martina Semlak (Graz AT): Die Gattung der frankophonen<br />
+„Spectators“ im Spiegel der zeitgenössischen Medienrevolution<br />
+16:00-16:30: Kaffeepause<br />
+16:30-17:15: (13) Annette Keilhauer (Erlangen-Nürnberg): Perspectives des Gender Studies dans l`ère de la<br />
+digitalisation<br />
+17:15-18:00: Suzan van Dijk (La Haye DK): Women Writers in History: Genèse et évolution d’un<br />
+collaboratoire digitalisé<br />
+18:00-20:00: Table ronde<br />
+20:00: Abschlussbankett</p></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/13-Christof_SchOech" class="tag multiline" popup="true">Christof Schöch</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 04. Oktober 2012, 10:51 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 04. Oktober 2012, 10:51 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

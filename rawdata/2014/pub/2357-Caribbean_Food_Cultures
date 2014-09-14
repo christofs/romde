@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/2357-Caribbean_Food_Cultures' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Caribbean Food Cultures (Sammelband)</h2>
+<h3>Culinary Practices and Consumption in the Caribbean and Its Diasporas</h3>
+<hr>
+<abbr class='unapi-id' title='2357'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Transkript</dd>
+<dt>Ort</dt>
+<dd>Bielefeld</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2014
+</dd>
+<dt>Reihe</dt>
+<dd>Postcolonial Studies</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.transcript-verlag.de/978-3-8376-2692-6/caribbean-food-cultures" target="_blank">http://www.transcript-verlag.de/978-3-8376-2692-6/caribbean-food-cultures</a></dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Medien-/Kulturwissenschaft, Literaturwissenschaft
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>»Caribbean Food Cultures« approaches the matter of food from the perspectives of anthropology, sociology, cultural and literary studies. Its strong interdisciplinary focus provides new insights into symbolic and material food practices beyond eating, drinking, cooking, or etiquette. The contributors discuss culinary aesthetics and neo/colonial gazes on the Caribbean in literary documents, audiovisual media, and popular images. They investigate the negotiation of communities and identities through the preparation, consumption, and commodification of »authentic« food. Furthermore, the authors emphasize the influence of underlying socioeconomic power relations for the reinvention of Caribbean and Western identities in the wake of migration and transnationalism.<br />
+The anthology features contributions by renowned scholars such as Rita De Maeseneer and Fabio Parasecoli who read Hispano-Caribbean literatures and popular culture through the lens of food studies.</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Hg. v. Wiebke Beushausen, Anne Brüske, Ana-Sofia Commichau, Patrick Helber, Sinah Kloß</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/175-Anne_BrUeske" class="tag multiline" popup="true">Anne Brüske</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 27. März 2014, 18:16 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Montag, 31. März 2014, 21:38 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

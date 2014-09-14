@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/193-EinfUehrung_in_die_portugiesische_Sprachwissenschaft' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Einführung in die portugiesische Sprachwissenschaft (Monographie)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='193'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Autor(en)</h4>
+<a href="/pers/77-Annette_Endruschat" class="tag multiline" popup="true">Annette  Endruschat</a>
+<span class='tag multiline'>Jürgen Schmidt-Radefeldt</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Narr</dd>
+<dt>Ort</dt>
+<dd>Tübingen</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2008
+</dd>
+<dt>Auflage</dt>
+<dd>2</dd>
+<dt>Reihe</dt>
+<dd>Studienbücher</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.narr.de/details.php?p_id=16428" target="_blank">http://www.narr.de/details.php?p_id=16428</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-3-8233-6428-3
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-8233-6428-3&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Portugiesisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Sprachwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Sprachwissenschaft, Lehrbuch
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Obwohl fast 200 Millionen Menschen Portugiesisch sprechen, ist das Wissen um die globale Verbreitung und die diversen Sprachkontakte, die Traditionen und vor allem die faszinierenden Besonderheiten dieser romanischen Sprache wenig präsent &#8211; wer weiß schon, dass Portugiesisch auf vier Kontinenten gesprochen wird und einen “persönlichen Infinitiv” oder einen Konjunktiv Futur hat? Wer zudem nach Grundlagen der linguistischen Beschreibung des Portugiesischen sucht, vermisst eine moderne Gesamtdarstellung. Diese Lücke schließt das vorliegende Buch, das in Verbreitung und Verwendung, in die Varietäten des Portugiesischen, in seine Sprachgeschichte, Phonetik/Phonologie, Morphosyntax, Semantik, Pragmatik und in die Diskursanalyse der gesprochenen Sprache einführt. Es richtet sich gleichermaßen an Lehrende wie Studierende, vermittelt die Grundlagenliteratur sowie weiterführende Lektüre. Ergänzt wird jedes Kapitel durch gezielte Aufgabenstellungen für Lehrveranstaltungen.</p>
+<p>„Das Buch stellt eine sehr gute Einführung in die Sprachwissenschaft dar &#8230;, ist trotz aller Fachterminologie gut lesbar und vermittelt einen guten, umfassenden Einblick in diese Weltsprache.“<br />
+Patrick Saulheimer in Lusorama</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p><a href="http://www.ulb.tu-darmstadt.de/tocs/129547727.pdf" target="_blank">http://www.ulb.tu-darmstadt.de/tocs/129547727.pdf</a></p>
+<p>Inhalt</p>
+<p>Vorwort<br />
+9<br />
+Abkürzungen und Abbildungsverzeichnis<br />
+12</p>
+<p>1 Weltsprache Portugiesisch<br />
+13<br />
+1.1<br />
+Aktuelle Situation des Portugiesischen<br />
+13<br />
+1.2<br />
+Entdeckungsfahrten und Expansion des Portugiesischen<br />
+16<br />
+1.2.1 Afrika<br />
+16<br />
+1.2.2 Indien und Asien<br />
+19<br />
+1.2.3 Amerika<br />
+20<br />
+1.3<br />
+Stellung des Portugiesischen in der Romania<br />
+21</p>
+<p>2 Geschichte der portugiesischen Sprache<br />
+25<br />
+2.1<br />
+Periodisierung<br />
+25<br />
+2.2<br />
+Die Begriffe Substrat, Superstrat und Adstrat<br />
+26<br />
+2.3<br />
+Die präromanische Epoche<br />
+27<br />
+2.4<br />
+Romanisierung<br />
+29<br />
+2.5<br />
+Der Einfall der Germanen<br />
+29<br />
+2.6<br />
+Die Besetzung der Halbinsel durch die Araber<br />
+30<br />
+2.7<br />
+Die Anfänge des Portugiesischen<br />
+31<br />
+2.8<br />
+Sprachliche Entwicklungen<br />
+32<br />
+2.8.1 Das Vulgärlatein<br />
+32<br />
+2.8.2 Das iberische Romanisch<br />
+34<br />
+2.8.3 Das Galego-Portugiesische<br />
+35<br />
+2.8.4 Das &#8216;Mozarabische&#8217; &#8211; eine romanische Varietät<br />
+35<br />
+2.8.5 Das Altportugiesische<br />
+36<br />
+2.9<br />
+Erste sprachliche Zeugnisse<br />
+43<br />
+2.10 Sprachbewusstsein und frühe Sprachbeschreibungen<br />
+48<br />
+2.10.1 Sprachdialoge und Sprachtraktate<br />
+48<br />
+2.10.2 Erste Grammatiken<br />
+50<br />
+2.10.3 Erste Wörterbücher<br />
+51</p>
+<p>3 Semiotik<br />
+53<br />
+3.1<br />
+Semiotik versus Semiologie<br />
+53<br />
+3.2<br />
+Zur Geschichte der Semiotik<br />
+54<br />
+3.3<br />
+Zeichentheorien<br />
+56<br />
+3.3.1 Charles S. Peirce<br />
+56<br />
+3.3.2 Charles W. Morris<br />
+58<br />
+3.3.3 Ferdinand de Saussure<br />
+59<br />
+3.4<br />
+Kommunikation und Semiotik<br />
+61<br />
+3.4.1 Kommunikationstheorie<br />
+61<br />
+3.4.2 Semiotik des Theaters<br />
+65<br />
+3.4.3 Semiotik der Werbung<br />
+67<br />
+3.4.4 Weitere semiotische Anwendungsmöglichkeiten<br />
+69</p>
+<p>4 Phonematik und Graphematik<br />
+71<br />
+4.1<br />
+Phonematik: Phonetik und Phonologie<br />
+71<br />
+4.2<br />
+Allgemeine Phonetik<br />
+72<br />
+4.2.1 Interdisziplinarität der Phonetik<br />
+72<br />
+4.2.2 Artikulation<br />
+73<br />
+4.3<br />
+Phonetik des Portugiesischen<br />
+75<br />
+4.3.1 Das Lautsystem des Portugiesischen (segmentelle Phonetik)<br />
+75<br />
+4.3.2 Akzent, Silbe, Intonation (supra-segmentale Phonetik)<br />
+78<br />
+4.3.3 Satzphonetik<br />
+81<br />
+4.3.4 Transkription<br />
+82<br />
+4.4<br />
+Phonologie des Portugiesischen<br />
+83<br />
+4.5<br />
+Neuere Entwicklungen in der Phonologie<br />
+86<br />
+4.6<br />
+Graphematik<br />
+88<br />
+4.6.1 Kurzer Abriss der Geschichte der Orthographie<br />
+88<br />
+4.6.2 Die aktuelle Orthographienorm<br />
+93</p>
+<p>5<br />
+Morphologie<br />
+95<br />
+5.1<br />
+Wörter und Wortformen<br />
+95<br />
+5.1.1 Wortarten<br />
+96<br />
+5.1.2 Morpheme, Morphe und Allomorphe<br />
+97<br />
+5.1.3 Morphologische Segmentierung<br />
+98<br />
+5.1.4 Klassifizierung der Morpheme<br />
+99<br />
+5.2<br />
+Wortbildung<br />
+101<br />
+5.3<br />
+Flexion<br />
+104<br />
+5.3.1 Deklination<br />
+104<br />
+5.3.2 Konjugation<br />
+106<br />
+5.3.3 Komparation<br />
+108<br />
+5.3.4 Suppletion und Defektivität<br />
+109</p>
+<p>6<br />
+Syntax<br />
+112<br />
+6.1<br />
+Grammatik und Grammatikalität<br />
+112<br />
+6.2<br />
+Syntaxtheorien<br />
+113<br />
+6.3<br />
+Satz und Satzglieder (Traditionelle Syntax)<br />
+115<br />
+6.3.1 Satz versus Äußerung<br />
+115<br />
+6.3.2 Bildung von Sätzen<br />
+116<br />
+6.3.3 Satzglieder und syntaktische Funktionen<br />
+117<br />
+6.3.4 Satzgliedfolge<br />
+118<br />
+6.4<br />
+Konstituenten (Strukturelle Syntax)<br />
+123<br />
+6.4.1 Konstituentenanalyse<br />
+124<br />
+6.4.2 Formale Darstellung der Konstituenten<br />
+124<br />
+6.5<br />
+Rektion und Valenz (Dependenzgrammatik)<br />
+125<br />
+6.6<br />
+Phrasenstrukturgrammatik (Generative Syntax)<br />
+129<br />
+6.7<br />
+Optimalitätstheoretische Syntax<br />
+130</p>
+<p>7 Lexikologie und Lexikographie<br />
+133<br />
+7.1<br />
+Lexikologie<br />
+133<br />
+7.1.1 Wortschatz und Lexikon<br />
+133<br />
+7.1.2 Einheiten des Wortschatzes<br />
+135<br />
+7.1.3 Lexikalisierung<br />
+135<br />
+7.1.4 Entlehnungen<br />
+136<br />
+7.1.5 Kontrastive Lexikologie<br />
+142<br />
+7.1.6 Lexikologischer Wandel<br />
+143<br />
+7.2<br />
+Lexikographie<br />
+144<br />
+7.2.1 Makrostruktur, MikroStruktur, Lemma<br />
+144<br />
+7.2.2 Typen von Wörterbüchern<br />
+146<br />
+7.2.3 Portugiesische einsprachige Lexikographie<br />
+147<br />
+7.2.4 Portugiesische zweisprachige Lexikographie<br />
+150<br />
+7.2.5 Corpuslinguistik und Lexikographie<br />
+151</p>
+<p>8 Semantik<br />
+155<br />
+8.1<br />
+Bedeutung<br />
+155<br />
+8.2<br />
+Semasiologie versus Onomasiologie<br />
+157<br />
+8.3<br />
+Traditionelle Semantik<br />
+157<br />
+8.3.1 Homonymie und Polysemie<br />
+158<br />
+8.3.2 Paradigmatische semantische Relationen<br />
+160<br />
+8.3.3 Syntagmatische Beziehungen im Wortschatz<br />
+162<br />
+8.4<br />
+Strukturale Semantik<br />
+164<br />
+8.4.1 Sem, Semem, Klassem<br />
+164<br />
+8.4.2 Wortfelder<br />
+165<br />
+8.4.3 Lexikalische Solidaritäten<br />
+165<br />
+8.5<br />
+Kognitive Semantik<br />
+166<br />
+8.5.1 Kognitive Linguistik<br />
+167<br />
+8.5.2 Prototypensemantik<br />
+171<br />
+8.6<br />
+Bedeutungswandel<br />
+173</p>
+<p>9 Pragmalinguistik<br />
+176<br />
+9.1<br />
+Pragmatische Dimensionen<br />
+176<br />
+9.1.1 Referenz und Deixis<br />
+176<br />
+9.1.2 Universalpragmatik und Konversationsmaximen<br />
+180<br />
+9.2<br />
+Theorie der Sprechakte<br />
+183<br />
+9.2.1 Komponenten eines Sprechakts<br />
+183<br />
+9.2.2 Klassifikation der Sprechakte<br />
+187<br />
+9.2.3 Indirekte Sprechakte<br />
+190<br />
+9.3<br />
+Dialoganalyse und Textlinguistik<br />
+192<br />
+9.3.1 Interaktion und Dialogsequenzen<br />
+192<br />
+9.3.2 Diskursanalyse<br />
+196<br />
+9.3.3 Gesprächstypen und Sprachcorpora<br />
+197<br />
+9.3.4 Diskurseinheiten und Beschreibungsbegriffe<br />
+198</p>
+<p>10 Sprache und Gesellschaft<br />
+202<br />
+10.1 Soziolinguistik<br />
+202<br />
+10.1.1 Bilinguismus und Diglossie<br />
+202<br />
+10.1.2 Sprach(en)politik<br />
+204<br />
+10.2 Varietätenlinguistik<br />
+204<br />
+10.2.1 Sprache als Diasystem<br />
+205<br />
+10.2.2 Die offene Liste der Varietäten<br />
+209</p>
+<p>11<br />
+Weiterentwicklung des Portugiesischen außerhalb Portugals<br />
+231<br />
+11.1 Portugiesisch &#8211; eine plurizentrische Sprache?<br />
+231<br />
+11.2 Das brasilianische Portugiesisch<br />
+233<br />
+11.2.1 Entstehung des brasilianischen Portugiesisch<br />
+233<br />
+11.2.2 Variationslinguistik<br />
+235<br />
+11.2.3 Sprachliche Besonderheiten im BP<br />
+237<br />
+11.3 Portugiesisch in Afrika<br />
+240<br />
+11.3.1 Zum Status des Portugiesischen<br />
+240<br />
+11.3.2 Sprachliche Besonderheiten<br />
+241<br />
+11.4 Portugiesischbasierte Kreolsprachen<br />
+245<br />
+11.4.1 Mischsprachen, Pidgins, Kreolsprachen<br />
+245<br />
+11.4.2 Entstehungshypothesen<br />
+246<br />
+11.4.3 Allgemeine sprachliche Merkmale von Kreolsprachen<br />
+247<br />
+11.4.4 Verbreitung portugiesischbasierter Kreolsprachen<br />
+248<br />
+11.4.5 Das kabuverdianu<br />
+249</p>
+<p>12<br />
+Bibliographie<br />
+252</p>
+<p>13<br />
+Sachregister &#8211; Index rerum (deutsch-portugiesisch)<br />
+288</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>überarbeitete Neuauflage</p>
+<p>Rezension von: Dietmar Osthus, Duisburg-Essen<br />
+Erschienen in: Romanische Forschungen</p>
+<p>»Insgesamt liegt hier eine in der akademischen Lehre schon jetzt unverzichtbare Einführung vor: Eine zeitgemäße einführende Darstellung von Methoden und Inhalten (nicht nur) der portugiesischen Sprachwissenschaft, der kontinuierlich aktualisierte Neuauflagen nur zu wünschen sind&#8230;.«</p>
+<p>Rezension von: Silja Helber, Oberstenfeld<br />
+»„Für die Zwischenprüfung ist das Buch gut geeignet, doch auch bei der Examensvorbereitung ist es gut als Nachschlagewerk (Sachregister) verwendbar.“&#8230;«</p>
+<p>Rezension von: Isabelle Mensel<br />
+Erschienen in: PhiN. Philologie im Netz, Ausgabe Nr. 50/ 2009<br />
+»Ein Werk, das in die Handbibliothek eines jeden Portugiesisch-Studierenden gehört – und natürlich in diejenige eines jeden Lusitanophilen&#8230;.«</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/77-Annette_Endruschat" class="tag multiline" popup="true">Annette  Endruschat</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Montag, 04. Januar 2010, 12:42 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Montag, 04. Januar 2010, 12:42 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

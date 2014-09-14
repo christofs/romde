@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfP: Sektion des 20. Hispanistentags: &quot;Spaltsätze in der hispanophonen Welt: strukturelle und variationelle Probleme&quot;
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Heidelberg
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-10-31
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2015-03-18
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2015-03-22
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/iaz/20ht/sektionen/sw_es.html#36" target="_blank">http://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/iaz/20ht/sektionen/sw_es.html#36</a>
+</p>
+</div>
+<p>Die sog. Spaltsätze (eng. &quot;clefts&quot;; sp. &quot;oraciones hendidas&quot; oder &quot;escindidas&quot;) sind in den letzten Jahrzenten nach dem Aufschwung syntaktisch orientierter Studien über Informationsstruktur — welche auch im Rahmen der deutschen Romanistik ein besonderes Echo gefunden haben— zu einem der zentralen Forschungsgegenstände der Hispanistik geworden. Aus diesem Grund erscheint es uns attraktiv ein Treffen von Forschern zu organisieren, die an dieser Konstruktion des Spanischen interessiert sind, um die Diskussion zu ihren formalen und funktionalen Problemen weiterzuführen sowie um ihre verschiedenen Verwendungen zu identifizieren und in der Variation im Spanischen präziser zu lokalisieren.</p>
+
+<p>Meist gilt die Satzspaltung — zusammen mit der Modifizierung der kanonischen Satzgliedanordnung und der Suprasegmentalia (Gabriel 2007)— als ein Fokalisierungsverfahren, wobei oft aufgezeigt wurde, dass Spaltsätze nicht immer einer fokalen Verwendung entsprechen (Dufter 2009). Die am besten beschriebenen Satzspaltungstypen — Spaltsätze (&quot;es Juan el que cantó&quot;), Sperrsätze (&quot;el que cantó es Juan&quot;) und invertierte Spaltsätze (&quot;Juan es el que cantó&quot;)— werden mit anderen Konstruktionen in Verbindung gesetzt, die laut der Real Academia Española (NGLE 2009) v.a. zwei Konstruktionstypen umfassen: den in der traditionellen spanischen Grammatik &quot;que galicado&quot; genannten wie bei &quot;fue entonces que…&quot; anstatt von &quot;fue entonces cuando…&quot; (der von vielen Linguisten für etwas anderes als eine Variante von Spältsätzen gehalten wird: Brucart 1994) und die sog. Pseudo-Konditionalsätze des Typs &quot;si lo hice fue por ti&quot;. Daraus ergibt sich eine Konstellation von miteinander verbundenen, aber nicht immer äquivalenten Konstruktionen, deren funktionale Grenzen (und deren formale Eigenschaften) in einigen Fällen noch nicht beschrieben worden sind.</p>
+
+<p>Auf variationslinguisticher Ebene stellen sich ferner noch andere Fragen, wie etwa folgende: Wie verhält sich auf diatopischer, diastratischer und diaphasischer Ebene das &quot;que galicado&quot;, das anscheinend in einigen Ländern Hispanoamerikas zum Regionalstandard gehört bzw. als tertiär-dialektales Phänomen gelten kann? Wie lassen sich die verschiedenen Verwendungen von Spaltsätzen diskurstraditionell erklären (z. B. bei einem Satz, dessen gespaltene Konstituente nur ‘am Textanfang’ eine Lesart als Informationsfokus bekommen kann, wie &quot;Fue a finales del siglo XVIII cuando tuvo lugar en Francia la revolución que tantas consecuencias tendría para la creación de la Europa moderna&quot;, Bosque &amp; Gutiérrez-Rexach 2009: 704-705)?</p>
+
+<p>All diese strukturellen und variationellen Probleme können ebenfalls diachron behandelt werden: So steht heute schon fest, dass das &quot;que galicado&quot; nicht nur ‘galicado’ bzw. auf französischen Einfluss zurückzuführen ist, sondern dass es auch auf eine vernakuläre Tendenz des Spanischen und anderer romanischer Sprachen zurückgeht, die gleichzeitig Cuervos Hypothese über die soziale Verbreitung dieser Konstruktion, die durch eine Art &quot;change from above&quot; erklärt wird, widerlegt.</p>
+
+<p>Neben den bisher erwähnten Problemen können u.a. ein paar Phänomene, die in einer oder mehreren Dimensionen der Sprachvariation zu betrachten sind, aufgelistet und zur Diskussion gestellt werden:</p>
+
+<p>- &quot;Es que&quot; bei &quot;¿Por qué no comes? Es que no me gusta&quot;. Die Diskussion über diese Konstruktionen, die mehrmals als mündlich-markiert beschrieben und sogar für interaktionelle Diskursmarker gehalten wurden (Porroche 1998; Fuentes Rodríguez 2009), wurde auch schon aus der Perspektive der Generativen Syntax (vgl. Fernández Laborans 1992, die von einem Nullexpletiv in der Position der fokalisierten Konstituente spricht), sowie diachron aus der Grammatikalisierungstheorie (Dufter 2008) angeregt.</p>
+
+<p>- Satzspaltung im Zusammenhang mit Interrogationsfoki: &quot;¿qué es lo que has hecho?&quot; Dieses Phänomen kommt im Spanischen relativ selten (und niemals in der Distanzsprache) vor und bringt oftmals eine gewisse Emphase mit sich, die z.B. im französischen Äquivalent &quot;Qu´est-ce que tu as fait?&quot; nicht zu finden ist. Nichtsdestotrotz wurde es mehrmals für das karibische Spanisch beschrieben (Toribio 2002), in dem es kuriose Lexikalisierungsprozesse ausgelöst hat, wie bei der Grußformel &quot;¿qué es la qué? /¿qué es la que está pa’(sando)?&quot; in der Jugendsprache Puerto Ricos (Sherwood 2007).</p>
+
+<p>- Fokalisierende ser-Konstruktionen (FSK) des Typs &quot;yo vivo es en Caracas&quot; (Sedano 1988): Trotz der traditionellen Annahme, dass diese Konstruktionen entweder auf eine Mischung von Sperrsätzen und Konstruktionen mit in situ-Fokus zurückgehen (&quot;él quiere frutas&quot; + &quot;lo que quiere es frutas&quot; = &quot;él quiere es frutas&quot;, Cuervo 1955[1867]: 453) oder aus Sperrsätzen als eine Art reduzierte Variante abzuleiten sind (Albor 1986), deuten neue Studien zum Thema auf wichtige strukturelle Unterschiede zwischen den FSK und den Sperrsätzen hin, die die genetischen Beziehungen zwischen den beiden Konstruktionen widerlegen (Méndez Vallejo 2012, 2013). Darüber hinaus ist der Einfluss von soziolinguistischen Faktoren (Alter, Geschlecht, soziale Schicht…) auf die Realisierung von FSK für einige Gegenden noch zu klären, sowie ihre geographische Verbreitung selbst genauer abzugrenzen: in welchem Maß sind diese Konstruktionen z. B. in Ecuador zu finden (Kany 1969[1945]: 303)?</p>
+
+<p>Es werden alle Vortragsvorschläge aufgenommen, die synchrone oder diachrone Probleme der Spaltsätze oder der damit verbundenen Konstruktionen in einer oder in mehreren Varietäten des Spanischen behandeln, wobei eine typologische (auch romanische bzw. iberoromanische), kontrastive oder theoretische Perspektivierung ebenfalls möglich ist. Bei unserer Sektion wird ebenfalls besonderer Wert auf neue empirische Studien auf der Basis von diachronen oder soziolinguistischen Korpora gelegt.
+<br /> 
+<br />INVITED SPEAKERS:</p>
+
+<p>- Mercedes Sedano (Universidad Central de Caracas): “Diacronía de las construcciones con verbo ser focalizador” 
+<br />- Andreas Dufter (LMU München): “Sobre el rendimiento funcional de las oraciones hendidas en español: un enfoque comparativo”
+<br />- Anna-Maria De Cesare &amp; Rocío Agar Marco (Universität Basel): “Rethinking the taxonomy of clefts based on Spanish, Italian and French data”
+<br />-  Dunia  Catalina  Méndez  Vallejo  (Princeton  University):  “Estatus  dialectal  y  estructura  sintáctica  del  ser focalizador”
+<br />- Sonja Higuera (FAU Erlangen-Nürnberg): “La cláusula con verbo ser focalizador en la comunidad latina de Núremberg”
+<br />- Daniel Sáez Rivera (Universidad Complutense de Madrid): “El que falsamente galicado: historiografía y construcción de la norma en la historia del español”</p>
+
+<p>BIBLIOGRAPHIE:</p>
+
+<p>Albor, H.R. (1986): “Uso e interpretación de ser en construcciones galicadas y en Él necesita es descansar”.
+<br />Thesaurus XLI, 173-186.
+<br />Bosque, I. (1999): “On focus vs. wh-movement: The case of Caribbean Spanish. Sophia Lingüística 44-45, 1-32. Bosque, I. y Gutiérrez-Rexach, J. (2009): Fundamentos de sintaxis formal. Madrid: Akal.
+<br />Brucart, J. M. (1994): “Syntactic variation and grammatical primitives in generative grammar”. A. Briz y M.
+<br />Pérez  Saldaña  (eds.),  Categories  and  functions.  An  open  debate.  Lynx  Series:  Universidad  de
+<br />Valencia/University of Minnesota, 443-469.
+<br />Cuervo, J. R. (1955[1867]): Apuntaciones críticas sobre el lenguaje bogotano. Bogotá: Instituto Caro y Cuervo. Curnow, J. y Travis, C. (2003): “The emphatic es construction of Colombian Spanish”. Proceedings of the 2003
+<br />Conference of the Australian Linguistic Society, 1-11.
+<br />Dufter, A. (2008): “Evolución pragmática de las oraciones hendidas en español: el papel de los usos no focalizadores”. C. Company Company y J. Moreno de Alba (eds.), Actas del VII Congreso Internacional de la Asociación de Historia de la Lengua Española. Madrid: Arco Libros, 1763-1779.
+<br />Dufter, A. (2009): “Clefting and Discourse Organization: Comparing Germanic and Romance”. A. Dufter y D.
+<br />Jacob (eds.), Focus and Background in Romance Languages. Amsterdam: John Benjamins, 83-121
+<br />Fernández Laborans, M. J. (1992) : “La oración del tipo: es que…”. Verba 19, 223-239.
+<br />Fuentes Rodríguez, C. (2009): Diccionario de conectores y operadores del español. Madrid: Arco Libros.
+<br />Gabriel,  C.  (2007):  Fokus  im  Spannungsfeld  von  Phonologie  und  Syntax.  Eine  Studie  zum  Spanischen.
+<br />Frankfurt: Vervuert.
+<br />Kany, C. E. (1969[1945]): Sintaxis hispanoamericana. Madrid: Gredos.
+<br />Méndez Vallejo, D. C. (2012): “On the syntax of the Focalizing ser (‘to be’) structure in the Spanish of Bucaramanga”. R. File-Muriel y R. Orozco (eds.), Colombian varieties of Spanish. Madrid/Frankfurt: Iberoamericana/Vervuert.
+<br />Méndez Vallejo, D. C. (2013): Focalizing ser (‘to be’) in Colombian Spanish. An empirical study of a diallectally-marked syntactic phenomenon in Spanish. Lambert Academic Publishing.
+<br />Moreno Cabrera, J. C. (1999): “Las funciones informativas: las perífrasis de relativo y otras construcciones perifrásticas”. I. Bosque y V. Demonte (coords.), Gramática descriptiva del español actual, III tomo. Madrid: Espasa, 4245-4302.
+<br />NGLE — Real Academia Española y Asociación de academias de la lengua española (2009): Nueva Gramática
+<br />de la Lengua Española. Madrid: Espasa Calpe.
+<br />Porroche Ballesteros, M. (1998): “Sobre algunos usos de que, si y es que como marcadores discursivos”. M. A.
+<br />Martín Zorraquino y E. Montolío (coords.): Los marcadores del discurso. Teoría y análisis. Madrid: Arco
+<br />Libros, 229-242.
+<br />Sedano, M. (1988): “Yo vivo es en Caracas: un cambio sintáctico”. R. Hammond y M. Resnick (eds.): Studies in
+<br />Caribbean Spanish Dialectology. Washington: Georgetown University Press, 115-123.
+<br />Sherwood, M. (2007): «¿Qué es la que?». El Nuevo Día (20 Mayo 2007). &lt; http://maiasherwood.com/vale- decir/indice/116-que-es-la-que&gt; [14.1.2014]
+<br />Toribio, Almeida Jacqueline (2002): «Focus on Clefts in Dominican Spanish». James F. Lee et al. (eds.), Structure, Meaning and Acquisition in Spanish. Somerville, M.A: Cascadilla Press
+</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/4083-Miguel_Guti_rrez_Mat_">Miguel Gutiérrez Maté</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

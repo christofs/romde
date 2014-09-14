@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/1480-Cr_tica_gen_tica_y_edici_n_de_manuscritos_hisp_nicos' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Crítica genética y edición de manuscritos hispánicos (Sammelband)</h2>
+<h3>Aportaciones a una &quot;poética de transición entre estados&quot;</h3>
+<hr>
+<abbr class='unapi-id' title='1480'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<a href="/pers/1172-Benedicte_Vauthier" class="tag multiline" popup="true">Benedicte Vauthier</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Ediciones Universidad Salamanca</dd>
+<dt>Ort</dt>
+<dd>Salamanca</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2012
+</dd>
+<dt>Reihe</dt>
+<dd>Estudios filológicos</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.eusal.es/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=16558&category_id=204&option=com_virtuemart&Itemid=78&lang=es" target="_blank">http://www.eusal.es/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=16558&category_id=204&option=com_virtuemart&Itemid=78&lang=es</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-84-9012-073-6
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-84-9012-073-6&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Spanisch, Französisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Editionswissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+manuscritos hispánicos contemporéaneos, archivos, edición, Critique génétique
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Crítica genética y edición de manuscritos contemporáneos. Aportaciones a una «poética de transición entre estados» reúne artículos de renombrados teóricos de crítica textual y de crítica genética europeos e hispanoamericanos, además de los análisis de filólogos hispánicos, también autores de ediciones críticas y/o responsables de archivos literarios. En el marco de dos encuentros internacionales centrados en los problemas que plantea la edición de manuscritos de trabajo (llamados también antetexto o dossier genético) hispánicos contemporáneos, los investigadores buscaron tender un puente entre dos orillas: España e Hispanoamérica; entre diversas épocas: de la Edad Media al siglo <span class="caps">XXI</span>, y sobre todo, a reanudar el diálogo entre diversas tradiciones filológicas nacionales (crítica textual española, filologia d’autore italiana, _historisch-kritische Edition alemana, critique génétique francesa) que, en parte, siguen viviendo de espaldas.</p>
+<p>Dotado de preliminares donde se anuda el diálogo entre los participantes, el volumen se estructura luego en cuatro partes: «Crítica genética: orígenes, recepción y arraigo», «De la autografoteca al archivo cultural», «Historias de autores y de editores: de la edición crítica a la edición genética», «Genética electrónica y manuscrito», encabezadas por una muy sugerente máquina de trovar del poeta Guillermo Carnero, en la que el autor reflexiona sobre su taller de escritura.</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/1172-Benedicte_Vauthier" class="tag multiline" popup="true">Benedicte Vauthier</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Mittwoch, 11. Juli 2012, 19:28 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 11. Juli 2012, 19:28 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Handbook of International Futurism Ed. by Günter Berghaus  Walter de Gruyter, Berlin/New York 2015 (allg. Publikationsprojekt)</h2>
+<h3></h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Freitag, 01. Januar 2010</dd>
+<dt>Projektende</dt>
+<dd>Dienstag, 01. Dezember 2015</dd>
+<dt>Status</dt>
+<dd>laufend</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Italienisch, Katalanisch, Portugiesisch, Rumänisch, Spanisch, Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Modernism, Avant-Garde
+</dd>
+</dl>
+<h4>Aktiv beteiligte Person(en)</h4>
+<p>(z.B. Kooperation, Mitarbeiter, Fellows)</p>
+<a href="/pers/2297-GUenter_Berghaus" class="tag multiline" popup="true">Günter Berghaus</a>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><p>Provisional List of Contributors:</p>
+<p>1.	Historiography of Futurism Studies &#8211; Günter Berghaus, Senior Research Fellow, University of Bristol<br />
+2.	The Politics of Futurism &#8211; Aleš Erjavec, Professor of Visual Culture, Scientific Research Centre of the Slovenian Academy of Sciences and Arts, Institute of Philosophy, Ljubljana<br />
+3.	Italian Futurism in the Fine Arts &#8211; Giorgio Di Genova, Professor of Contemporary Art, Academy of Fine Arts, Rome<br />
+4.	Italian Futurist Literature &#8211; Luca Somigli, Associate Professor of Italian Studies, University of Toronto<br />
+5.	Russian Futurism in the Fine Arts &#8211; Christina Lodder, Professor of Art History, University of St. Andrews<br />
+6.	Russian Futurist Literature &#8211; Henryk Baran, Professor of Slavic Studies Program, University at Albany (<span class="caps">SUNY</span>)<br />
+7.	Women Futurists in Italy and on the International Scene &#8211; Lucia Re, Professor of Italian, University of California, Los Angeles<br />
+8.	Architecture &#8211; Michelangelo Sabatino,  Assistant Professor, Gerald D. Hines College of Architecture, University of Houston<br />
+9.	Ceramics &#8211; Matteo Fochessati, Curator, Wolfson Collection, Genoa <br />
+10.	Cinema &#8211; Wanda Strauven, Associate Professor of Film Studies, University of Amsterdam<br />
+11.	Cuisine &#8211; Claudia Salaris, Independent Scholar, Rome<br />
+12.	Dance &#8211; Patrizia Veroli, Adjunct Professor of Dance History, University of Rome <br />
+13.	Fashion Design &#8211; Franca Zoccoli, Independent Scholar, Rome<br />
+14.	Furniture, Decorative Arts and Interior Design &#8211; Silvia Barisione, Curator, Wolfsonian-<span class="caps">FIU</span> Museum, Genoa<br />
+15.	Graphic Design and Typography &#8211; Stephen J. Bury, Andrew W. Mellon Chief Librarian at the Frick Art Reference Library<br />
+16.	Music &#8211; Daniele Lombardi, Musician, Author and Professor at &#8220;G. Verdi&#8221; Conservatory in Milano<br />
+17.	Photography &#8211; Marta Braun, Professor at School of Image Arts, Ryerson Polytechnic University, Toronto<br />
+18.	Radio and Sound Art &#8211; Margaret Fisher, Independent Researcher, Emeryville/CA <br />
+19.	Theatre &#8211; Sarah Dadswell, Honorary Fellow in Russian and Asian Theatre, University of Exeter; Domenico Pietropaolo, Professor of Drama and Italian Literature, University of Toronto<br />
+20.	Visual Poetry and Artist&#8217;s Books &#8211; John White, Emeritus Professor and Senior Research Fellow, King&#8217;s College London</p>
+<p>21.	Argentina &#8211; Rosa Sarabia, Professor of Latin American Studies, University of Toronto<br />
+22.	Armenia &#8211; Krikor Beledian, Maître de Conférences (Langue et littérature arménienne), <span class="caps">INALCO</span>, Paris<br />
+23.	Belgium &#8211;  Bart van den Bossche, Associate Professor of Italian Literature, Katholieke Universiteit Leuven<br />
+24.	Brazil &#8211; Jorge Schwartz, Professor of Spanish-American Literature and Literary Theory, University São Paulo, director of the Lasar Segall Museum <br />
+25.	Bulgaria &#8211; Giuseppe Dell&#8217;Agata, Professor Emeritus, University of Pisa <br />
+26.	Chile &#8211; Patricio Lizama Améstica, Professor of Hispanic Literature, Pontificia Universidad Católica de Chile, Santiago de Chile<br />
+27.	China &#8211; Yi Zheng, Senior Research Fellow, University of Sydney Department of Chinese Studies <br />
+28.	Czech Republic and Slovakia &#8211; Alena Pomajzlová, Research Fellow in Art History, Masarykova univerzita, Seminář dějin umění<br />
+29.	Denmark &#8211; Torben Jelsbak , Senior Lecturer in Danish Literature, University of Copenhagen, Department of Scandinavian Studies and Linguistics; and Per Stounbjerg, Professor of  Scandinavian Studies, Department of Aesthetics and Communication, University of Aarhus<br />
+30.	Egypt &#8211; Isabella Camera D&#8217;Afflitto, Professor of Arab Language and Literature at University of Rome &#8220;La Sapienza&#8221; <br />
+31.	Estonia &#8211; Tiit Hennoste, Assistant Professor of Estonian Literature and Language, University of Tartu <br />
+32.	Finland &#8211; Hannu Riikonen, Professor of Comparative Literature, University of Helsinki<br />
+33.	France &#8211; Willard Bohn, Distinguished  Professor Emeritus of French and Comparative Literature, Illinois State University<br />
+34.	Georgia &#8211; Bela Tsipuria, Professor of Comparative Literature, Ilia State University, Tbilisi<br />
+35.	Germany &#8211; Irene Chyträus-Auerbach, Researcher, Internationale Zentrum für Kultur und Technikforschung, Universität Stuttgart<br />
+36.	Great Britain &#8211; Jonathan Black, Research Fellow, Kingston University<br />
+37.	Greece &#8211; Chris Michaelides, Curator of Italian and Modern Greek Books, British Library, London<br />
+38.	Hungary &#8211; András Kappanyos, Senior Research Fellow, Hungarian Academy&#8217;s Institute of Literary Studies, Budapest, and Assistant Professor of Hungarian  Literature, University of Miskolc<br />
+39.	Japan &#8211; Pierantonio Zanotti, Associate Professor of East Asian Studies, Ca&#8217; Foscari University, Venice<br />
+40.	Latvia &#8211; Aija Brasliņa, Head of Collections and Research Department (Eighteenth to First Half of the Twentieth Century), Latvian National Museum of Art<br />
+41.	Lithuania &#8211; Ramute Rachlevičiūte, Lithuanian Academy of Art, Vilnius <br />
+42.	Mexico &#8211; Sergio Delgado, Assistant Professor of Romance Languages and Literatures, Harvard University<br />
+43.	Netherlands &#8211; Ton van Kalmthout, Senior Researcher, Huygens Instituut (<span class="caps">KNAW</span>), Den Haag <br />
+44.	Peru &#8211; Miroslav Lauer Holoubek, Professor of Latin American Literature, Universidad San Martín de Porres, Lima<br />
+45.	Poland &#8211; Przemysław Strożek, Assistant Professor at Special Collections, Institute of Art at Polish Academy of Sciences, Warsaw<br />
+46.	Portugal &#8211; Nuno Júdice, Professor of Portuguese Literature , Universidade Nova de Lisboa<br />
+47.	Romania &#8211; Irina Cărăbaş, Researcher, Art History Institute, Bucharest<br />
+48.	Spain &#8211; Andrew A. Anderson, Professor of Spanish, University of Virginia<br />
+49.	Sweden &#8211; Jesper Olsson, Assistant Professor, Department of Culture and Communication, Linköping University<br />
+50.	Switzerland &#8211; Paul-André Jaccard, Professor of Art History, Institut Suisse pour l&#8217;Étude de l&#8217;Art, Lausanne <br />
+51.	Ukraine &#8211; Oleh S. Ilnytzkyj, Professor of Ukrainian Culture, Language and Literature, University of Alberta <br />
+52.	Uruguay &#8211; Hugo Achugar, professor of Spanish, Department of Modern Languages and Literature, University of Miami <br />
+53.	Turkey &#8211; Duygu Köksal, Associate Professor, Ataturk Institute for Modern Turkish History, Boğaziçi University <br />
+54.	<span class="caps">USA</span> &#8211; Ara H. Merjian, Assistant Professor of Italian, New York University<br />
+55.	Venezuela &#8211; Giovanna Montenegro, Researcher in Comparative Literature, University of California at Davis<br />
+56.	Yugoslavia and its Republics &#8211; Irina Subotić, Professor Emeritus, formerly curator at the Museum of Contemporary Art and National Museum in Belgrade, Professor at the Faculty of Architecture in Belgrade and at the Academy of Arts in Novi Sad; Janez Vrečko, Professor of  Slovenian Literature, Department of Comparative Literature and Literary Theory, University of Ljubljana; Marijana Erstić, Professor of Croatian Philology, Department of Language, Literature and Media, University of Siegen</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>The Handbook is intended to offer a synthesis of the state of scholarship regarding the international radiation of Futurism and its influence in some twenty-five countries and twelve artistic disciplines. It acknowledges the great achievements in the visual and literary arts of Italy and Russia, yet at the same time treats Futurism as an international, multidisciplinary phenomenon that left a lasting mark on most aspects of the 20th C avant-garde. It will offer guidance to readers relatively unfamiliar with the reactions to Futurism in a given country or discipline and unlikely to speak many languages beside English. It will both be concerned with artists who were actively involved in the movement and with those who during a brief yet important phase in their career absorbed Futurist ideas and stylistic devices. These artists will be presented in the context of their national traditions, their international connections and the media in which they were predominantly active.  However, the Handbook is not a biographical dictionary. It will function as a kind of geographical encyclopaedia of Futurism and address all genres and media in which the movement exercised a particularly noteworthy influence.</p></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/2297-GUenter_Berghaus" class="tag multiline" popup="true">Günter Berghaus</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 07. Juni 2012, 11:05 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 07. Juni 2012, 11:05 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

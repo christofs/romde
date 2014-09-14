@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/780-PhiN_Philologie_im_Netz_' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>PhiN (Philologie im Netz) (Zeitschriftenheft)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='780'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<a href="/pers/100-Paul_G_vaudan" class="tag multiline" popup="true">Paul Gévaudan</a>
+<a href="/pers/111-Hiltrud_Lautenbach" class="tag multiline" popup="true">Hiltrud Lautenbach</a>
+<a href="/pers/101-Peter_Schneck" class="tag multiline" popup="true">Peter Schneck</a>
+<a href="/pers/184-Dietrich_Scholler" class="tag multiline" popup="true">Dietrich Scholler</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+April
+2011
+</dd>
+<dt>Jahrgang</dt>
+<dd>15</dd>
+<dt>Nummer</dt>
+<dd>56</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://web.fu-berlin.de/phin/" target="_blank">http://web.fu-berlin.de/phin/</a></dd>
+<dt>ISSN</dt>
+<dd>1433-7177</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Spanisch, Italienisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Sprachwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Inhalt</h4>
+<div class='textile'><h1>Aufsätze</h1>
+<ul>
+	<li><strong>Christophe Gérard</strong>: Création lexicale, sens et textualité: théories et analyses [1–30]</li>
+	<li><strong>Eva Maria Loos</strong>: El español del chat de diversión – ¿promotor virtual del panhispanismo? [31–52]</li>
+	<li><strong>Hartmut Nonnenmacher</strong>: Fußball, Medien und Populärkultur im Erzählwerk von Gonzalo Suárez [53–65]</li>
+	<li><strong>Martina Stemberger</strong>: Tourismen, Terrorismen oder Die Unmöglichkeit einer Insel: Die Neuvermessung der Welt nach Houellebecq [66–102]</li>
+</ul>
+<h1>Rezensionen</h1>
+<ul>
+	<li><strong>Inga Baumann</strong>: Stephan Leopold (2009): Die Erotik der Petrarkisten. Poetik, Körperlichkeit und Subjektivität in romanischer Lyrik Früher Neuzeit. München: Fink. [103–113]</li>
+	<li><strong>Beatrice Nickel</strong>: Pierre de Ronsard (2010): Amoren für Marie. Le Second Livre des Amours. Das zweite Buch der Amoren mit den Sonetten und Madrigalen für Astrée. Französisch-deutsche Ausgabe, übers. v. G. Holzer, hg. und kommentiert v. C. Fischer. Berlin: Elfenbein. [114–115]</li>
+	<li><strong>Gerhard Poppenberg</strong>: Don W. Cruickshank (2009): Don Pedro Calderón. Cambridge: University Press. [116–118]</li>
+	<li><strong>Marcus Steinbrenner</strong>: Markus Messling / Ute Tintemann (Hg.) (2009): &#8220;Der Mensch ist nur Mensch durch Sprache&#8221;. Zur Sprachlichkeit des Menschen. München: Fink. [119–127]</li>
+	<li><strong>Yvonne Stork</strong>: Dietrich Busse (2009): Semantik. Paderborn: Fink. (= <span class="caps">LIBAC</span> – Linguistik für Bachelor) [128–131]</li>
+</ul>
+<h1>Forum</h1>
+<ul>
+	<li><strong>Barbara Puschmann-Nalenz</strong>: Portrait of an Author: Ian McEwan and His Works in Reviews [132–143]</li>
+</ul></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/1199-Lisa_Zeller" class="tag multiline" popup="true">Lisa Zeller</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 21. April 2011, 16:46 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 21. April 2011, 16:46 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

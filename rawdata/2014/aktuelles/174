@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfP: Université d'été Ferney-Voltaire 2014: Les réseaux
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Ferney-Voltaire, Frankreich
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-06-02
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2014-08-25
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2014-05-28
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://ferney2014.sciencesconf.org/resource/page/id/1" target="_blank">http://ferney2014.sciencesconf.org/resource/page/id/1</a>
+</p>
+</div>
+<p>Cette année l’Université d’été de Ferney Voltaire se tiendra du 25 au 28 août 2014 autour de la thématique des réseaux.</p>
+
+<p>Si l’étude et l’analyse de réseaux sont largement mobilisées en sociologie, leur arrivée dans d’autres champs disciplinaires des SHS offre des points de vue renouvelés sur la manière d’appréhender des systèmes complexes d’interactions, de flux ou d’organisation et de déterminer les logiques transversales qui les régissent. Ces dernières années voient fleurir quantité d’événements autour de ces thématiques, témoignant d’un engouement grandissant de la part du monde de la recherche. Nous aimerions inscrire notre événement dans cette dynamique féconde, en donnant la parole aux doctorants et jeunes chercheurs confrontés à l’analyse de réseaux dans leurs travaux.</p>
+
+<p>Notre ambition est principalement d’échanger sur les outils et les enjeux méthodologiques de la notion de « réseaux » et de son usage dans la recherche contemporaine appartenant ou non aux sciences humaines et sociales.</p>
+
+<p>Nous proposons, à titre d’exemple, les thématiques suivantes :
+<br />• la dimension spatiale des réseaux : l’usage de l’analyse spatiale dans l’étude des réseaux, l’étude des flux et des déplacements transnationaux/transfrontaliers, la représentation des réseaux dans le temps
+<br />• les stratégies et pratiques de constitution et entretien des réseaux (réseaux professionnels, réseaux virtuels, etc.)
+<br />• les réseaux des élites et du pouvoir : cliques et monopoles autour de fonctions politiques, perméabilité des cercles d’élites
+<br />• les réseaux économiques, les systèmes d’échange et ses différents acteurs (élites commerciales, villes, pays), la circulation des biens - matériels et immatériels - dans un espace mondialisé
+<br />• les transferts et pratiques culturels croisés, la circulation des idées, les échanges épistolaires 
+<br />• les réseaux clandestins, cercles maçonniques, réseaux de résistance ou d’entraide, parcours et relations d’opposants politiques.</p>
+
+<p>Proposer une communication
+<br />Les communications, d’une durée de 20 minutes en français, feront ensuite l’objet d’une publication papier, éditée par l’université de Louvain-la-neuve. Durant cette université d’été, une réflexion collective sera engagée autour de la formation de cet ouvrage.</p>
+
+<p>Les propositions peuvent être soumises jusqu’au lundi 2 juin 12h à l’aide du formulaire suivant : https://docs.google.com/forms/d/1otKs2tVRcSmzJsI9SxUfl_P7bYq_065k9ue1c8GrXBA/edit#</p>
+
+<p>Prise en charge des participants
+<br />L’hébergement et une partie des repas seront pris en charge pour les personnes sélectionnées. Des ateliers sont prévus au cours de la semaine sur la manipulation d’outils logiciels, le tout dans un cadre agréable propice aux échanges et à la constitution de nouveaux réseaux !</p>
+
+<p>Contact
+<br />Comité d’organisation : Maria Uzcategui, Mario Cuxac, Andrea Cavaletto, Rosemonde Letricot (ED 483 - LARHRA UMR 5190)
+<br />Pour tout renseignement : contactferney2014@gmail.com</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

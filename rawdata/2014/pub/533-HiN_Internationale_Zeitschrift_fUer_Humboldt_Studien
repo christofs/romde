@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/533-HiN_Internationale_Zeitschrift_fUer_Humboldt_Studien' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>HiN - Internationale Zeitschrift für Humboldt-Studien (Zeitschriftenheft)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='533'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<a href="/pers/136-Ottmar_Ette" class="tag multiline" popup="true">Ottmar Ette</a>
+<span class='tag multiline'>Eberhard Knobloch</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+Oktober
+2010
+</dd>
+<dt>Jahrgang</dt>
+<dd>XI</dd>
+<dt>Nummer</dt>
+<dd>21</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.hin-online.de" target="_blank">http://www.hin-online.de</a></dd>
+<dt>ISSN</dt>
+<dd>1617-5239</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Spanisch, Englisch, Deutsch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Wissenschaftsgeschichte, Literaturwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Humboldt
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p><strong>Carolin Schulz: „Ein scharfsinniger Kopf aus Berlin!“ Ein unveröffentlichtes Empfehlungsschreiben für Leopold von Buch</strong></p>
+<p>Im Zusammenhang mit einer geplanten Wiederveröffentlichung des Bandes Die Jugendbriefe Alexander von Humboldts 1787-1799 durch den Akademie Verlages im Andenken an die kürzlich verstorbene Mitherausgeberin Ilse Jahn sollen in loser Folge bisher unpublizierte Briefe aus der Jugendzeit Alexander von Humboldts in der Rubrik Von Humboldts Hand erscheinen. Der folgende Brief Alexander von Humboldts an den Göttinger Arzt Christoph Girtannersteht am Anfang dieser Reihe, welche sukzessive versucht, neuere Erkenntnisse der Alexander-von-Humboldt-Forschungsstelle in Bezug auf die Jugendbriefe zu publizieren.</p>
+<p><strong>Carolina Depetris: El orientalismo como episteme: Frédéric de Waldeck y las ruinas mayas</strong></p>
+<p>Uno de los misterios más persistentes en América ha sido dilucidar el origen de los pueblos vernáculos y de sus edificios. Resolver ese misterio ha sido objetivo de numerosos viajeros. Entre 1832 y 1836, siguiendo la estela de viajeros como Alejandro de Humboldt, un supuesto barón checo, Frédéric de Waldeck, consigue vender al gobierno mexicano una empresa exploratoria por las ruinas mayas de Palenque y Uxmal. De esta expedición deja testimonio en numerosos diarios que permanecen inéditos hasta la fecha, y en el libro Voyage pittoresque et archéologique dans la Province d’ Yucatán (1838). En estos escritos ensaya algunas explicaciones sobre el origen de los mayas y, en sus disquisiciones y supuestos, hace continuas referencias al trabajo de Humboldt. Este trabajo de Carolina Depetris se presenta su segunda gran hipótesis: aquella que vincula a Yucatán con la India a través de un modo de interpretar y representar la realidad americana que tiene en el orientalismo europeo su episteme definitiva.</p>
+<p><strong>Ottmar Ette: Réflexions européennes sur deux phases de mondialisation accélérée chez Cornelius de Pauw, Georg Forster, Guillaume-Thomas Raynal et Alexandre de Humboldt</strong></p>
+<p>La lecture de Georg Forster (Reise um die Welt) et de Cornelius de Pauw (Recherches philosophiques sur les Américains) montre que les réflexions philosophiques sur l’Amérique effectuées sous le signe de la globalité et tenant compte de deux phases de mondialisation accélérée, qui doivent être nettement différenciées l’une de l’autre, sont toujours également des réflexions philosophiques sur l’Europe, son rôle dans le monde, dans l’histoire du monde et dans le commerce mondial. L’Histoire des deux Indes de Guillaume-Thomas Raynal reprends avec des formulations presque inchangées le discours sur la signification éminente pour l’histoire du monde de la découverte de l’Amérique. Il élargit de façon programmatique la perspective des Indes occidentales avec celle des Indes orientales et donne au commerce une place importante et même décisive pour les bouleversements qui avaient transformé le monde de façon si fondamentale depuis la fin du XVe siècle. Le discours sur les régions extra-européennes et en particulier sur l’Amérique avait au seuil du XIXe siècle commencé à se transformer de façon fondamentale avec la Voyage dans les Régions équinoxiales du Nouveau Continent, publié entre 1805 et 1838 par Alexander von Humboldt. Humboldt avait développé dans ce cadre depuis 1805 une quantité incroyable d’études les plus diverses qui en tant que science globalisée et globalisante discutaient sans cesse ses propres résultats de recherche dans une perspective transdisciplinaire et comparative à un niveau mondial.</p>
+<p><strong>Eberhard Knobloch: Nomos und physis – Alexander von Humboldt und die Tradition antiker Denkweisen und Vorstellungen</strong></p>
+<p>Ohne die Fürsorge eines makedonischen Vaters für die Erziehung seines Sohnes Septimius wäre es sehr viel schwieriger, etwas über die pythagoreischen Wurzeln des Denkens Alexander von Humboldts zu sagen: zehn der dreiundzwanzig Fragmente, die Hermann Diels in seine Ausgabe der Fragmente der Vorsokratiker für den Pythagoreer Philolaos aufgenommen hat, stammen aus der Anthologie des spätantiken Johannes Stobaios aus dem makedonischen Stoboi für dessen Sohn (Diels 1912, Nr. 32). Im Beitrag von Eberhard Knobloch soll vier Fragen nachgegangen werden: 1. Humboldt und Philolaos aus Kroton (‚die Pythagoreer’), 2.Aristoteles vs. Philolaos: Haben oder Sein, 3. Humboldts Wissenschaftstheorie als Transformation des Pythagoreismus, 4. Humboldts Wissenschaftspraxis.</p>
+<p><strong>Miguel-Ángel Puig-Samper, Sandra Rebok: Charles Darwin and Alexander von Humboldt: An exchange of looks between two famous naturalists</strong></p>
+<p>We have always thought, in Newton’s phrase, that an emerging scientist stands on the shoulders of a previous giant of science in order to be able to see further into the discovery of new laws, or simply to increase his knowledge. Today we can look at a case in point, and observe the phenomenon where one giant climbs on the shoulders of another, still living, to go further in the fields of science. This comparison of mutual observations is perhaps particularly topical at this moment, when we are commemorating not only the bicentenary of Darwin’s birth but also the death of Humboldt 150 years ago in 1859. This exchange of looks, furthermore, helps us to catch a glimpse of how these two scholars perceived each other. Miguel-Ángel Puig-Samper´s and Sandra Rebok´s article shall give a detailed analysis of the different levels of contact between the two individuals, both in their actual contact, personally or through their correspondence, as well as in their meeting of ideas.</p>
+<p><strong>Georg Schifko: Jules Vernes literarische Thematisierung der Kanarischen Inseln als Hommage an Alexander v. Humboldt</strong></p>
+<p>Der vorliegende Artikel zeigt auf, dass Jules Vernes einzige und sehr kurze belletristische Thematisierung der Kanarischen Inseln ihn als Vertreter des Wissenschaftsromans, und ebenso als großen Bewunderer des Gelehrten Alexander v. Humboldt ausweisen.</p>
+<p><strong>Antonio Carlos Vitte, Roberison Wittgenstein Dias de Silveira: Alexander von Humboldt y la génesis de la geografía física moderna</strong></p>
+<p>El artículo de Antonio Carlos Vitte y Roberison Wittgenstein Dias da Silveira discute la formación de los conceptos de la naturaleza, espacio y morfología en la obra de Alexander von Humboldt y sus impactos en la formación de la geografía física moderna. Influenciado por las reflexiones de Kant en la Crítica del Juicio, por los trabajos de Goethe y de Schelling, Humboldt desenvolverá una nueva interpretación y representación para la naturaleza en la superficie terrestre, donde el concepto de espacialidad será fundamental para la explicación de los fenómenos de la naturaleza. La Geografía Física moderna se estructura a partir de un complejo cruzamiento de influencias, tanto estéticas cuanto instrumentales desarrolladas por Humboldt, donde el principio de la conexión será importante para la invención artística y científica del concepto de paisaje geográfica.</p>
+<p><strong>In Erinnerung an Ilse Jahn (1922-2010)</strong></p>
+<p>Ingo Schwarz: Eine Alexander-von-Humboldt-Forscherin mit Profil: Ilse Jahn (1922-2010).</p>
+<p>Romy Werther und Ingo Schwarz: Ilse Jahn: Schriften zur Alexander-von-Humboldt-Forschung – Eine Auswahlbibliographie.</p>
+<p><strong>Ilse Jahn: Die anatomischen Studien der Brüder Humboldt unter Justus Christian Loder in Jena</strong></p>
+<p>Die folgende Publikation ist eine der frühen Schriften Ilse Jahns über Alexander von Humboldt und zu Unrecht weitgehend in Vergessenheit geraten. Hier beschrieb sie eine wichtige Zeitetappe im Leben des jungen Naturwissenschaftlers Alexander von Humboldt: seine Studien während seiner Aufenthalte in Jena im Jahr 1797 bei Justus Christian Loder (1753-1832), der seit 1778 Professor der Medizin, Anatomie und Chirurgie an der Universität von Jena war</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p><strong>Carolin Schulz:</strong> „Ein scharfsinniger Kopf aus Berlin!“ Ein unveröffentlichtes Empfehlungsschreiben für Leopold von Buch</p>
+<p><strong>Carolina Depetris:</strong> El orientalismo como episteme: Frédéric de Waldeck y las ruinas mayas</p>
+<p><strong>Ottmar Ette:</strong> Réflexions européennes sur deux phases de mondialisation accélérée chez Cornelius de Pauw, Georg Forster, Guillaume-Thomas Raynal et Alexandre de Humboldt</p>
+<p><strong>Eberhard Knobloch:</strong> Nomos und physis – Alexander von Humboldt und die Tradition antiker Denkweisen und Vorstellungen</p>
+<p><strong>Miguel-Ángel Puig-Samper, Sandra Rebok:</strong> Charles Darwin and Alexander von Humboldt: An exchange of looks between two famous naturalists</p>
+<p><strong>Georg Schifko:</strong> Jules Vernes literarische Thematisierung der Kanarischen Inseln als Hommage an Alexander v. Humboldt</p>
+<p><strong>Antonio Carlos Vitte, Roberison Wittgenstein Dias de Silveira:</strong> Alexander von Humboldt y la génesis de la geografía física moderna</p>
+<p><strong>Ingo Schwarz:</strong> Eine Alexander-von-Humboldt-Forscherin mit Profil: Ilse Jahn (1922-2010)</p>
+<p><strong>Romy Werther, Ingo Schwarz:</strong> Ilse Jahn: Schriften zur Alexander-von-Humboldt-Forschung – Eine Auswahlbibliographie</p>
+<p><strong>Ilse Jahn:</strong> Die anatomischen Studien der Brüder Humboldt unter Justus Christian Loder in Jena</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p><em>Auch als <span class="caps">PDF</span>-Druckversion verfügbar unter <a href="http://www.hin-online.de" target="_blank">www.hin-online.de</a></em></p>
+<p>HiN ist ein halbjährlich erscheinendes Periodikum der Universität Potsdam und der Alexander-von-Humboldt-Forschungsstelle (Berlin-Brandenburgische Akademie der Wissenschaften).</p>
+<p>Als Ergänzung zur Zeitschrift verweisen wir auf das Projekt der Universität Potsdam <em>avhumboldt.de. Humboldt Informationen online</em>, die Informationsplattform zu Alexander von Humboldt im Netz: <a href="http://www.avhumboldt.de" target="_blank">www.avhumboldt.de</a></p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/186-Tobias_Kraft" class="tag multiline" popup="true">Tobias Kraft</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Samstag, 04. Dezember 2010, 11:11 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Samstag, 04. Dezember 2010, 11:11 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

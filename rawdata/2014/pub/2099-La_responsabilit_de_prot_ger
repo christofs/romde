@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/2099-La_responsabilit_de_prot_ger' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>La responsabilité de protéger (Sammelband)</h2>
+<h3>Peacekeeping, diplomatie, littérature et médias répondant aux défis humanitaires</h3>
+<hr>
+<abbr class='unapi-id' title='2099'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<a href="/pers/99-Ursula_Mathis_Moser" class="tag multiline" popup="true">Ursula Mathis-Moser</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Innsbruck University Press</dd>
+<dt>Ort</dt>
+<dd>Innsbruck</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2011
+</dd>
+<dt>Auflage</dt>
+<dd>1</dd>
+<dt>Reihe</dt>
+<dd>canadiana oenipontana 11</dd>
+<dt>ISBN</dt>
+<dd>
+978-3-902719-77-5
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-902719-77-5&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Englisch, Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Friedensforschung, Konfliktforschung, Medien-/Kulturwissenschaft, Literaturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Responsibility to Protect, Friedenssicherung, Diplomatie, Medien, Literatur, Kongress, Innsbruck, 2009
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>La &#8220;responsabilité de protéger&#8221; (R2P) est la tentative de combattre l&#8217;impuissance et la passivité de la communauté internationale en cas de crises et de catastrophes humanitaires, c&#8217;est-à-dire d&#8217;intervenir en cas de génocide et de crime contre l&#8217;humanité, et dans le pire des cas, d&#8217;intervenir même contre la volonté de l&#8217;État concerné. Se référant à l&#8217;origine au &#8220;Peacekeeping&#8221;, le projet R2P qui s&#8217;est développé avec l&#8217;importante participation du Canada, met également à contribution d&#8217;autres secteurs comme la diplomatie, les médias at la littérature. <br />
+Les 19 contributions de ce volume qui éclairent le concept et l&#8217;histoire de sa réalisation comprennent aussi bien des prises de position pour une nouvelle conception de la souveraineté que des études de cas sur des situations politiques explosives (Soudan, Afghanistan). De plus, au-delà de la responsabilité manifeste des instances politiques et diplomatiques, les textes rassemblés abordent la responsabilité des médias en tant que sources d&#8217;information, et l&#8217;apport de la littérature qui, bien au-delà d&#8217;une écriture &#8220;documentaire&#8221;, propose des stratégies et des scénarios pour résoudre des conflits.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><h3>Preface &#8211; Préface<br />
+<em>Ursula Mathis-Moser</em></h3>
+<h3>The Responsibility to Protect<br />
+<em>Thomas Spielbüchler</em></h3>
+<h3>The Opening of the Symposium<br />
+<em>John Barrett</em></h3>
+<h3>Peacekeeping and Diplomacy &#8211; Peacekeeping et diplomatie</h3>
+<p><em>Ramesh Takur</em><br />
+The Responsibility to Protect: Retrospect and Prospect</p>
+<p><em>Jean-François Thibault</em><br />
+La responsabilité de protéger: une dtte pour la communauté internationale?</p>
+<p><em>James V. Arbuckle</em><br />
+R2P vs. Domestic Jurisdiction: The Last Refuge of Scoundrels</p>
+<p><em>Franz Eder</em><br />
+&#8220;Spirits that I&#8217;ve cited, my commands now ignore&#8221;: R2P and International Society</p>
+<p><em>Noemi Gal-Or</em><br />
+The Responsibility to Protect and International Trusteeship: Plus ça change plus c&#8217;est la même chose?</p>
+<p><em>George Melnyk</em><br />
+Canada and Afghanistan: Peacemaking as Counterinsurgency Warfare &#8211; A Conflict in Terms</p>
+<p><em>Thomas Starlinger</em><br />
+The Comprehensive Approach &#8211; A Way to Operationalize It in (Post-)Conflict Scenarios</p>
+<p><em>Deborah Goodwin</em><br />
+Finding New Ways: Protection and Stabilization Issues</p>
+<h3>Literature and Media &#8211; Littérature et médias</h3>
+<p><em>Piet Defraeye</em><br />
+Twice at Peril &#8230; The Rwandan Genocide in Cultural Discourse: A Survey with Special Focus on Gil Courtemanche&#8217;s <em>Un dimanche à la piscine à Kigali</em></p>
+<p><em>Hans-Jürgen Lüsebrink</em><br />
+Fictionnaliser la responsabilité civique &#8211; approches théoriques, défic interculturels, écritures transculturelles</p>
+<p><em>Maria-Benedita Basto</em><br />
+La politique de la littérature ou des lettres pour transformer: production de savoirs démocratiques et subversion des identités politiques en Afrique subsaharienne</p>
+<p><em>Charles Djungu-Simba K.</em><br />
+Impact des cultures littéraires locales dans le processus de résolution des conflits dans la région des Grands Lacs d&#8217;Afrique (Burundi, Réublique démocratique du Congo et Rwanda)</p>
+<p><em>Yves Chemla</em><br />
+Haiti, de la mise en scène littéraire à la déconstruction des paradigmes</p>
+<p><em>Susanne Kirchhoff</em><br />
+Whose Truth? Framing Processes in War Reporting</p>
+<h3>Young Reseachers&#8217; Forum &#8211; Forum des jeunes chercheurs</h3>
+<p><em>Adrian Knapp</em><br />
+&#8220;[U]sing doom and horror to reaffirm life&#8221;: Guilt and Victimhood in Uwem Akpan&#8217;s &#8220;My Parents&#8217; Bedroom&#8221;</p>
+<p><em>Nicoletta Dolce</em><br />
+<em>Territoires occupés</em> de Christiane Frenette: le courage et l&#8217;aporie de témoigner dans les rues du monde</p>
+<p><em>Nathan Hauthaler</em><br />
+On the Responsibility to Protect and Its Emancipation from Humanitarian Intervention</p>
+<p><em>Johannes Langer</em><br />
+The Responsibility to Protect and the Case of Darfur: An Inadequate Concept</p>
+<p><em>Beate Wegscheider</em><br />
+The United Nations Conflict Management in Sudan</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/99-Ursula_Mathis_Moser" class="tag multiline" popup="true">Ursula Mathis-Moser</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Dienstag, 08. Oktober 2013, 17:34 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Dienstag, 08. Oktober 2013, 17:34 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

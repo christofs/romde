@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Jean Echenoz: La fiction, la langue (Veranstaltungsprojekt)</h2>
+<h3></h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Freitag, 24. Mai 2013</dd>
+<dt>Projektende</dt>
+<dd>Samstag, 25. Mai 2013</dd>
+<dt>Status</dt>
+<dd>abgeschlossen</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Jean Echenoz, Ästhetik, zeitgenössische Literatur
+</dd>
+</dl>
+<h4>Aktiv beteiligte Person(en)</h4>
+<p>(z.B. Kooperation, Mitarbeiter, Fellows)</p>
+<span class='tag multiline'>Gérard Berthomieu</span>
+<span class='tag multiline'>Françoise Rullier</span>
+<p class='space-l'></p>
+<h4>Passiv beteiligte Person(en)</h4>
+<p>(z.B. Betreuer, Berater)</p>
+<span class='tag multiline'>Joëlle DUCOS</span>
+<span class='tag multiline'>Didier ALEXANDRE</span>
+<span class='tag multiline'>Alexandre GEFEN</span>
+<span class='tag multiline'>Elisa BRICCO</span>
+<span class='tag multiline'>Christelle REGGIANI</span>
+<span class='tag multiline'>Jacques DÜRRENMATT</span>
+<span class='tag multiline'>Sophie JOLLIN-BERTOCCHI</span>
+<span class='tag multiline'>Isabelle SERCA</span>
+<span class='tag multiline'>Bruno BLANCKEMAN</span>
+<span class='tag multiline'>Pierre SCHOENTJES</span>
+<span class='tag multiline'>Agnès FONTVIEILLE-CORDANI</span>
+<span class='tag multiline'>Frank WAGNER</span>
+<span class='tag multiline'>Cécile NARJOUX</span>
+<span class='tag multiline'>Claire Stolz</span>
+<span class='tag multiline'>Sophie Milcent-Lawson</span>
+<span class='tag multiline'>Éric Pellet</span>
+<span class='tag multiline'>Alexandru MATEI</span>
+<span class='tag multiline'>Catherine RANNOUX-WESPEL</span>
+<a href="/pers/2740-Caroline_Surmann" class="tag multiline" popup="true">Caroline Surmann</a>
+<span class='tag multiline'>Florence LECA-MERCIER</span>
+<span class='tag multiline'>Laurent SUSINI</span>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><p>Dans un de ses plus récents entretiens, accordé à Jean Guiloineau , Jean Echenoz rappelle que son univers romanesque s’est construit aussi loin d’une « production traditionnelle » que d’une « littérature expérimentale », la première incapable de répondre à l’exigence d’un renouvellement des formes du récit, la seconde impuissante à satisfaire, selon la formule même de l’auteur, un « désir de fiction ». Et à l’idée selon quoi prévaudraient dans ses romans « l’écriture, le jeu avec le langage et la forme du récit » quand l’intrigue ne serait qu’un « fil rouge sans importance », il répond que si l’attirent « le mouvement et la scansion de l’écriture, le rythme et la sonorité, le regard et la perspective, bref tout ce qu’écrire peut laisser espérer », le support de l’intrigue n’est jamais pour lui un « prétexte », mais le facteur premier qui lui permet de « construire un récit dans lequel et avec lequel jouer ». Suivant une logique analogue, interrogé sur la gageure que représenterait Ravel, donné pour un roman sur le vide, Jean Echenoz déclare ne pas se reconnaître entièrement dans cette « géographie du vide » par quoi on a voulu caractériser son œuvre – mais se dit pourtant tenté par la formule flaubertienne du « livre sur rien ». Sans renoncer à croire, au demeurant, qu’il pût y avoir dans ce rien même matière à romanesque, et à soutenir que la vertu du roman demeure dans « le suspens et le mouvement ».<br />
+	Bref, conclut l’auteur, et c’est le moins qu’on puisse dire, « je suis un peu ambivalent »…..<br />
+	C’est cette ambivalence même que le présent colloque voudrait interroger, et la coexistence de postulations de prime abord aussi contradictoires. Et afin que cette interrogation demeure totalement ouverte, c’est à la simple parataxe (la fiction, la langue…), et à ses multiples possibilités, que l’intitulé du programme a été confié. <br />
+On peut choisir de penser que la fiction se construit contre, malgré, ou en dépit de la langue si l’on estime que la force de l’invention relègue au second plan la pesée critique des langages du roman, de leurs formes, de leurs lieux, de leur elocutio, et que l’accent mis sur le style ne freinerait en rien l’emportement du romanesque. <br />
+On peut choisir de penser au contraire que la fiction se fait par la langue, voire grâce à elle, à charge de démontrer alors comment peut naître un intérêt proprement romanesque qui trouverait sa ressource dans le regard sur l’outil même, plus que dans ce qu’il nous permettrait de regarder. <br />
+« De toute(s) façon(s) », en usant de l’adverbe favori de Jean Echenoz, la fiction doit se penser avec la langue, et l’élaboration de l’une en même temps que la critique de l’autre. <br />
+Quelles sont les formules que se donne cette conjonction paradoxale ? <br />
+Quelles sont les difficultés et les limites de l’entreprise, quels sont les conditions et les moyens de sa réussite ? <br />
+Comment ces tensions peuvent-elles s’équilibrer, et s’acclimater à une conception une de l’œuvre ? <br />
+En quoi peuvent-elles aider, au-delà de ce que le romancier partage avec l’esthétique de son temps (ce qu’on a appelé un « style de groupe », et les romanciers de Minuit en offrent un), à définir une manière Echenoz ? <br />
+Quels en sont, du Méridien de Greenwich au récent 14, les invariants repérables et les variations ? <br />
+Peuvent-elles éclairer les choix successifs de différents types de récit, du roman d’aventure à la biographie romanesque, en passant par une gamme combien diverse de modèles et d’emprunts ? <br />
+En quoi peuvent-elles expliquer la construction d’un romanesque nouveau ? <br />
+Et ce romanesque, quel est-il ? <br />
+Etc. <br />
+Voilà quelques-unes des questions qu’il sera possible d’envisager.</p>
+<p>Pour tenter d’y répondre, les coorganisateurs de ce colloque ont tenu à associer à des chercheurs que leurs habitudes portent à interroger en priorité l’elocutio (stylisticiens comme poéticiens ou narratologues), des chercheurs plutôt habitués à interroger l’inventio, spécialistes d’une esthétique et d’une histoire des lieux et formes du roman.</p>
+<p>*SÉLECTION <span class="caps">BIBLIOGRAPHIQUE</span> *<br />
+<span class="caps">AMMOUCHE</span>-<span class="caps">KREMERS</span>, M., <span class="caps">HILLENAAR</span>, H., dir., Jeunes auteurs de Minuit, Amsterdam, Atlanta, Rodopi, 1994<br />
+<span class="caps">BESSARD</span>-<span class="caps">BANQUI</span>, O., Le Roman Ludique : Echenoz, Toussaint, Chevillard, Villeneuve d’Ascq, Presses Universitaires du Septentrion, 2003.<br />
+<span class="caps">BLANCKEMAN</span>, B., Les récits indécidables : Jean Echenoz, Hervé Guibert, Pascal Quignard, Villeneuve d’Ascq, Presses Universitaires du Septentrion, 2000.<br />
+JÉRUSALEM, C., Jean Echenoz : géographies du vide, Publications de l’Université de Saint-Étienne, 2005.<br />
+JÉRUSALEM, C., <span class="caps">VRAY</span>, J.B., dir., Jean Echenoz : « une tentative modeste de description du monde », Publications de l’Université de Saint-Étienne, 2006.<br />
+Siècle 21, n° 17 (automne-hiver 2010). <br />
+(Rassemblées par Agnès Castiglione, ce numéro réunit, outre un entretien de Jean Echenoz avec Jean Guiloineau, quelques-unes des communications prononcées lors des Rencontres de Chaminadour de septembre 2009. Contributions d’Agnès Castiglione, Bruno Blanckeman, Dominique Viart, Christine Jérusalem, et Gérard Titus-Carmel. p.113-171)</p>
+<p><strong><span class="caps">PROGRAMME</span></strong><br />
+Colloque international des 24 &amp; 25 mai 2013<br />
+Proposé par l’EA 4509, Sens, Texte, Informatique, Histoire (directrice : Pr. Joëlle <span class="caps">DUCOS</span> ; composante 2, « Sciences du Texte Moderne », responsable : Pr. Delphine <span class="caps">DENIS</span>)<br />
+Avec la collaboration de :<br />
+L’EA 4503, Littérature Française XIXe-XXIesiècles (composante 2 : XXe-XXIe siècles ; responsable : Pr. Didier <span class="caps">ALEXANDRE</span>)<br />
+Le <span class="caps">SCE</span> de Paris-Sorbonne (directeur : Yann <span class="caps">MIGOUBERT</span>)<br />
+La Bibliothèque littéraire Jacques Doucet (directrice : Isabelle <span class="caps">DIU</span>)<br />
+Enseignants-chercheurs responsables de la manifestation :<br />
+Gérard <span class="caps">BERTHOMIEU</span> (<span class="caps">UFR</span> de Langue française, Université de Paris-Sorbonne)<br />
+Françoise <span class="caps">RULLIER</span> (Département de <span class="caps">FLE</span>, Université <span class="caps">PSUAD</span>)</p>
+<p>JOURNÉE DU <span class="caps">VENDREDI</span> 24 <span class="caps">MAI</span><br />
+9h-18h, en Sorbonne, Salle J 636 (Esc. G, 3e étage)<br />
+9h-9h20 &#8211;  Accueil des participants ; allocution de Mme le Professeur Joëlle <span class="caps">DUCOS</span>.<br />
+9h20-9h50 &#8211;  Conférencier invité : Didier <span class="caps">ALEXANDRE</span> (Université de Paris-Sorbonne): Images du romanesque dans l’oeuvre de Jean Echenoz<br />
+9h50-10h &#8211;  Discussion<br />
+10h-11h : séance 1 (Président de séance : Didier <span class="caps">ALEXANDRE</span>)<br />
+10h-10h25-  Alexandre <span class="caps">GEFEN</span> (<span class="caps">CNRS</span>):  Echenoz biographe du vide<br />
+10h25-10h50 &#8211; Elisa <span class="caps">BRICCO</span> (Université de Gênes): Des Éclairs de Jean Echenoz ou les avatars d’un style<br />
+10h50-11h &#8211;  Discussion<br />
+11h-11h15 : pause<br />
+11h15-12h45 : séance 2 (Présidente de séance : Christelle <span class="caps">REGGIANI</span>)<br />
+11h15-11h40 &#8211;  Jacques DÜRRENMATT (Université de Paris-Sorbonne): « À part ça, je hais les points de suspension »<br />
+11h40-12h05 &#8211; Sophie <span class="caps">JOLLIN</span>-<span class="caps">BERTOCCHI</span> (Université de Versailles Saint-Quentin-en-Yvelines)<br />
+L’imprévisible dans la phrase d’Echenoz (Cherokee, L’Équipée Malaise)<br />
+12h05-12h30 &#8211;  Isabelle <span class="caps">SERCA</span> (Université de Toulouse le Mirail): La phrase de 14<br />
+12h30-12h45-  Discussion<br />
+<del>-</del>&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+14h30-15h &#8211; Conférencier invité : Bruno <span class="caps">BLANCKEMAN</span> (Université Sorbonne Nouvelle): Contraction, décontraction : l’invention d’un style<br />
+15h-15h10 : Discussion<br />
+15h10-16h10 : séance 3 (Président de séance : Bruno <span class="caps">BLANCKEMAN</span>)<br />
+15h10-15h35 &#8211;  Pierre <span class="caps">SCHOENTJES</span> (Université de Gand): L’ironie d’Echenoz : des chiffres et des lettres<br />
+15h35-16h &#8211; Agnès <span class="caps">FONTVIEILLE</span>-<span class="caps">CORDANI</span> (Université de Lyon II): Je m’en vais : l’humour arctique de Jean Echenoz<br />
+16h-16h10 &#8211;  Discussion<br />
+16h10-16h25 : pause<br />
+16h25-17h40 : séance 4 (Président de séance : Pierre <span class="caps">SCHOENTJES</span>)<br />
+16h25-16h50 &#8211;  Frank <span class="caps">WAGNER</span> (Université de Rennes II): Le canard-lapin, sauce Echenoz<br />
+16h50-17h15 &#8211;  Christelle <span class="caps">REGGIANI</span> (Université de Lille <span class="caps">III</span>): Fictions temporelles dans les biographies de Jean Echenoz<br />
+17h15-17h40 &#8211; Discussion et bilan de la journée<br />
+18h-19h15 : inauguration de l’exposition en Sorbonne de manuscrits de Jean Echenoz<br />
+(exposition organisée par la Bibliothèque littéraire Jacques Doucet)<br />
+19h30-20h30 : lecture publique en Salle Louis Liard<br />
+d’extraits d’oeuvres de Jean Echenoz par la Compagnie Les Livreurs<br />
+(lecture organisée par le <span class="caps">SCE</span> de Paris-Sorbonne)<br />
+Ces manifestations se dérouleront en présence de l’auteur</p>
+<p>JOURNÉE DU <span class="caps">SAMEDI</span> 25 <span class="caps">MAI</span><br />
+9h30-17h, en Sorbonne, Salle des Actes (Centre administratif)<br />
+9h30-11h : séance 1 (Président de séance : Jacques DÜRRENMATT)<br />
+9h30-9h55 &#8211; Cécile <span class="caps">NARJOUX</span> (Université de Paris-Sorbonne): « Tant pis, allons-y, courons », ou la grande « machine » narrative de Jean Echenoz<br />
+9h55-10h20-  Claire Stolz (Université de Paris-Sorbonne): 14, roman : L’Histoire comme si Echenoz y était<br />
+10h20-10h45 &#8211; Sophie Milcent-Lawson (Université de Lorraine): « Sophistiquer le désordre » : Glissements métonymiques et subterfuges rhétoriques chez Jean Echenoz<br />
+10h45-11h &#8211;  Discussion<br />
+11h-11h15 : pause<br />
+11h15-12h20 : séance 2 (Présidente de séance : Elisa <span class="caps">BRICCO</span>)<br />
+11h15-11h40 &#8211;  Éric Pellet (Université de l’Est Parisien): Stylistique de l’incongruité<br />
+11h40-12h05 &#8211; Alexandru <span class="caps">MATEI</span> (Université de Bucarest):  Jean Echenoz : Morales de la langue littéraire<br />
+12h05-12h20 &#8211; Discussion<br />
+<del>-</del>&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+14h-15h30 : séance 3 (Président de séance : Frank Wagner)<br />
+14h-14h25 Catherine <span class="caps">RANNOUX</span>-<span class="caps">WESPEL</span> (Université de Poitiers): Echenoz : changements de régime<br />
+14h25-14h50 &#8211;  Caroline <span class="caps">SURMANN</span> (Université de Paris-Sorbonne): L’écriture visuelle d’Echenoz (à propos des Grandes Blondes)<br />
+14h50-15h15 &#8211;  Florence <span class="caps">LECA</span>-<span class="caps">MERCIER</span> (Université de Paris-Sorbonne): Anamorphoses des Grandes Blondes<br />
+15h15-15h30 &#8211; Discussion<br />
+15h30-15h45 : pause<br />
+15h45-17h : séance 4 (Présidente de séance : Claire <span class="caps">STOLZ</span>)<br />
+15h45-16h10 &#8211;  Françoise <span class="caps">RULLIER</span> (Université <span class="caps">PSUAD</span>):  Echenoz et le cercle narratif<br />
+16h10-16h35 &#8211; Laurent <span class="caps">SUSINI</span> (Université de Paris-Sorbonne): La Vénus au griffon : Ravel au labyrinthe<br />
+16h35-17h &#8211; Gérard <span class="caps">BERTHOMIEU</span> (Université de Paris-Sorbonne): « De toute(s) façon(s) »<br />
+17h-17h30 &#8211; Discussion et bilan du colloque</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/2740-Caroline_Surmann" class="tag multiline" popup="true">Caroline Surmann</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 09. Mai 2013, 13:37 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 09. Mai 2013, 13:37 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

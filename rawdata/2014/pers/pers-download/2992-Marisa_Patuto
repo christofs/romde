@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='users show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='row-fluid'>
+<div class='span8'>
+<h2>Dr. Marisa Patuto</h2>
+<dl class='attribute_listing'>
+<dt>Sprachen</dt>
+<dd>
+<a href="/pers?q=Italienisch">Italienisch</a>
+<a href="/pers?q=Franz%C3%B6sisch">Französisch</a>
+<a href="/pers?q=Englisch">Englisch</a>
+<a href="/pers?q=Lateinisch">Lateinisch</a>
+</dd>
+<dt>Fachgebiete</dt>
+<dd>
+<a href="/pers?q=Sprachwissenschaft">Sprachwissenschaft</a>
+</dd>
+<dt>Forschungsfelder</dt>
+<dd>
+<a href="/pers?q=Bilinguismus">Bilinguismus</a>
+<a href="/pers?q=Soziolinguistik">Soziolinguistik</a>
+<a href="/pers?q=Kreolistik">Kreolistik</a>
+<a href="/pers?q=Spracherwerb">Spracherwerb</a>
+<a href="/pers?q=Generative+Grammatik">Generative Grammatik</a>
+</dd>
+<dt>Publikationen</dt>
+<dd>
+<ul class='article_listing'>
+<li><a href="/pub/1803-Der_Erwerb_des_Subjekts_in_Nicht_Nullsubjektsprachen">Marisa Patuto: Der Erwerb des Subjekts in (Nicht-)Nullsubjektsprachen. Die Rolle des Spracheneinflusses und der Sprachdominanz bei bilingual deutsch-italienisch, deutsch-spanisch und französisch-italienisch aufwachsenden Kindern.  Tübingen 2012.</a></li>
+</ul>
+</dd>
+</dl>
+<h3>weitere Details</h3>
+<div class='textile'><p><strong><span class="caps">SHORT</span> <span class="caps">ACADEMIC</span> <span class="caps">AND</span> <span class="caps">SCIENTIFIC</span> <span class="caps">PROFILE</span></strong><br />
+Marisa Patuto graduated in Foreign Languages and Literatures at the University of Wuppertal in 2008. She got a PhD in Romance Linguistics at the University of Wuppertal in 2012. She passed a period of study abroad at the University of Pavia with a scholarship of the Erasmus-program (2005-2006). In 2010 she has been a visiting scholar at the University of Pavia thanks to the teaching staff mobility of the Erasmus-program. From 2009 to 2012 she has been a researcher at the department of Romance Linguistics of the University of Wuppertal (sponsor: Prof. Dr. Natascha Müller).<br />
+Her research interests cover the fields of pragmatics and syntax in early bilingual language acquisition. Her scientific production, published in several international journals, is especially focused on the acquisition of subjects in German and Romance languages within the generative and minimalistic framework. It has been particularly investigated whether the language combination and the syntactic properties of subjects play a crucial role for the acquisition of (null)-subjects in the involved target systems. A research monograph based on her PhD work has been currently published by Gunter Narr with the title “Der Erwerb des Subjekts in (Nicht-)Nullsubjektsprachen: Die Rolle des Spracheneinflusses und der Sprachdominanz bei deutsch-italienisch, deutsch-spanisch und französisch-italienisch aufwachsenden Kindern” [“The acquisition of subjects in (null)-subject languages: the role of cross-linguistic influence and of language dominance in bilingual German-Italian, German-Spanish and French-Italian children”], where she proposes an analysis of target-deviant subject realisations and omissions from a pragmatic and syntactic perspective.<br />
+Other research subjects, not all concerning the syntax-pragmatics interface, include:</p>
+<ul>
+	<li>the syntax and pragmatics of subjects in bilingual acquisition</li>
+	<li>the pro-drop parameter in a cross-linguistic perspective</li>
+	<li>code-switching in early bilingual language acquisition (especially, its grammatical and psychological motivation)</li>
+	<li>the grammar and argument structure of verbs in German and Romance languages</li>
+	<li>sociolinguistic and creolistic studies</li>
+</ul>
+<p><strong><span class="caps">ACADEMIC</span> <span class="caps">TITLES</span></strong><br />
+April 2009 &#8211; July 2012<br />
+PhD researcher in Linguistics at the Department of Romance Linguistics and Literature of the University of Wuppertal.</p>
+<p><strong><span class="caps">EDUCATION</span></strong><br />
+October 2008 &#8211; July 2012<br />
+PhD (<em>summa cum laude</em>) in Romance Linguistics at the University of Wuppertal<br />
+Thesis title: &#8220;Der Erwerb des Subjekts in (Nicht-)Nullsubjektsprachen: Die Rolle des Spracheneinflusses und der Sprachdominanz bei deutsch-italienisch, deutsch-spanisch und französisch-italienisch aufwachsenden Kindern&#8221; [&#8220;The acquisition of subjects in (null)-subject languages: the role of cross-linguistic influence and of language dominance in bilingual German-Italian, German-Spanish and French-Italian children&#8221;]. <br />
+Date of the defense: May 7, 2012<br />
+Supervisors: Prof. Dr. Natascha Müller and Prof. Dr. Aafke Hulk</p>
+<p>October 2008 &#8211; June 2009<br />
+MA Degree (<em>magna cum laude</em>) in Germanic Linguistics at the University of Düsseldorf, &#8220;DaF &#8211; Deutsch als Fremdsprache&#8221; [&#8220;German as L2&#8221;].</p>
+<p>October 2003 &#8211; June 2008<br />
+MA Degree (<em>magna cum laude</em>) in Foreign Languages and Literatures (French, English and Italian) at the University of Wuppertal. Title of the thesis in Romance Linguistics: &#8220;Frühkindliche Zweisprachigkeit: Der Erwerb des Subjekts durch bilingual französisch-italienisch und deutsch-italienisch aufwachsende Kinder&#8221; [&#8220;Early bilingualism: the acquisition of subjects in bilingual German-Italian and French-Italian children&#8221;].<br />
+Supervisors: Prof. Dr. Natascha Müller and Prof. Dr. Joachim Jacobs</p>
+<p>August 1994 &#8211; June 2003<br />
+Städtisches-Leibniz Gymnasium, Remscheid (Germany). High School Graduation (2,3).</p>
+<p><strong><span class="caps">RESEARCH</span> <span class="caps">EXPERIENCE</span></strong><br />
+March 2010<br />
+Visiting scholar at the Department of Theoretic and Applied Linguistics of the University of Pavia (sponsor: Prof. Dr. Marina Chini).</p>
+<p>April 2009 &#8211; July 2012<br />
+Researcher in Romance Linguistics at the University of Wuppertal (sponsor: Prof. Dr. Natascha Müller).</p>
+<p><strong><span class="caps">PUBLICATIONS</span></strong><br />
+Patuto, M. (2012). <em>Der Erwerb des Subjekts in (Nicht-)Nullsubjektsprachen: Die Rolle des Spracheneinflusses und der Sprachdominanz bei bilingual deutsch-italienisch, deutsch-spanisch und französisch-italienisch aufwachsenden Kindern</em>. Tübingen: Narr.</p>
+<p>Patuto, M. (2012). Die Syntax-Pragmatik-Schnittstelle: Der Subjekterwerb im bilingualen Individuum. <em>Bavarian Working Papers in Linguistics</em> 1, 52-67.</p>
+<p>Arnaus Gil, L./ Eichler, N./ Jansen, V./ Patuto, M./ Müller, N. (2012). The Syntax of Code-Switching and the Left Periphery of DPs: Mixed DPs Containing an Adjective. Evidence from Bilingual Child Language. In: Geeslin, K./ Díaz-Campos, M. (Eds.), <em>Proceedings of the 14th Hispanic Linguistics Symposium</em>. Somerville, MA: Cascadilla Proceedings Project, 242-257.</p>
+<p>Schmitz, K./ Patuto, M./ Müller, N. (2012). The null-subject parameter at the interface between syntax and pragmatics. Evidence from bilingual German-Italian, German-French and Italian-French children. <em>First Language</em> 32 (1-2), 205-238.</p>
+<p>Repetto, V./ Patuto, M./ Müller, N. (2011). Crescere bilingui dalla nascita: una risorsa o uno svantaggio? <em>Romanistik in der Geschichte und Gegenwart</em>, 17 (1), 3-33.</p>
+<p>Patuto, M./ Repetto, V./ Müller, N. (2011). Delay and acceleration in bilingual first language acquisition: really the same source?. In: Rinke, E./ Kupisch, T. (Eds.), <em>The Development of Grammar: Language Acquisition and Diachronic Change. In honour of Jürgen M. Meisel</em>. Amsterdam, Philadelphia: Benjamins, 231-261.</p>
+<p>Müller, N./ Patuto, M. (2009). Really competence-driven cross-linguistic influence in bilingual first language acquisition? The role of the language combination. In: Bernardini, P./ Egerland, V./ Granfeld, J.(Eds.), <em>Mélanges plurilingues offerts à Suzanne Schlyter à l’occasion de son 65ème anniversaire</em>. Études de Lund 85. Språk- och litteraturcentrum Lund: Lund Universitet, 299-319.</p>
+<p>Patuto, M./ Hager, M./ Arnaus Gil, L./ Eichler, N./ Jansen, V./ Schmeißer, A./ Müller, N. Multilingual speech: code-switching in bilingual children. In: Koll-Stobbe, A./ Knospe, S. (Eds.), <em>Proceedings of Language Contact in Times of Globalization (<span class="caps">LCTG</span> 3)</em>. Frankfurt a. M.: Lang, in press.</p>
+<p>Eichler, N./ Patuto, M. The acquisition of subjects and the representation of gender in bilingual German-French, German-Italian, German-Spanish and French-Italian children: the irrelevance of language dominance. In: Guijarro-Fuentes, P./ Schmitz, K./ Müller, N. (Eds.), <em>French at the crossroads: the role of interfaces in acquisition</em>. Bristol: Multilingual Matters, accepted for publication.</p>
+<p>Müller, N./ Arnaus Gil, L./ Eichler, N./ Hager, M./ Jansen, V./ Patuto, M./ Repetto, V. <em>Code-Switching: Spanisch, Französisch, Italienisch. Eine Einführung</em>. Tübingen: Narr, in prep.</p>
+<p>Müller, N./ Arnaus Gil, L./ Eichler, N./ Jansen, V./ Müller, J./ Patuto, M./ Schmeißer, A. Language dominance as a bilingual strategy. In: Silva-Corvalán, C./ Treffers-Daller, J. (Eds.), <em>On Language Dominance and Bilingual Ability</em>. Cambridge: Cambridge University Press, in prep.</p>
+<p><strong><span class="caps">CONFERENCE</span> <span class="caps">AND</span> <span class="caps">WORKSHOP</span> <span class="caps">PRESENTATIONS</span></strong><br />
+<em>The syntax of subjects in bilingual language acquisition</em>. Abstract selected for oral presentation at the &#8220;9th Workshop on Syntax and Semantics (WoSS9)&#8221;, University of Siena, November 15-16, 2012.</p>
+<p><em>The effect of cross-linguistic influence and priming in early bilingualism: the acquisition of subjects in German-Italian, German-Spanish and French-Italian children</em>. Abstract selected for oral presentation at the &#8220;Sorbonne-Nouvelle University Graduate Linguistics Symposium (<span class="caps">SNUGLS</span> 2012)&#8221;, University of Paris <span class="caps">III</span> Sorbonne-Nouvelle, May 5, 2012.</p>
+<p><em>Theoretische und empirische Evidenz von Spracheneinfluss im bilingualen Erstspracherwerb</em>. Abstract selected for oral presentation at the &#8220;1. Nachwuchstagung der Graduate School Empirical and Applied Linguistics: Linguistik zwischen Empirie und Theorie&#8221;, University of Münster, September 26-27, 2011.</p>
+<p><em>Multilingual speech: the case of code-switching in bilingual children</em>. Abstract selected for oral presentation at the &#8220;Language Contact in Times of Globalization (LCTG3)&#8221;, University of Greifswald, June 30-July 2, 2011.</p>
+<p><em>The syntax-pragmatics interface in early bilingualism: The acquisition of subjects and the role of language dominance in German-Italian, German-Spanish and French-Italian children</em>. Abstract selected for oral presentation at the &#8220;4th Young Linguists in Dialogue Conference (YLD4)&#8221;, University of Wrocław, May 14-15, 2011.</p>
+<p><em>Die Syntax-Pragmatik-Schnittstelle: Der Subjekterwerb im bilingualen Individuum</em>. Abstract selected for oral presentation at the &#8220;1. Diskussionsforum in Bayern: Schnittstellen&#8221;, University of Bamberg, March 24-25, 2011.</p>
+<p><em>The acquisition of subjects in early bilingualism: the role of language dominance and cross-linguistic influence</em>. Invited talk. University of Lund, October 26, 2010.</p>
+<p><em>Der Subjekterwerb und die Repräsentation von Genus bei deutsch-französischen, deutsch-italienischen und französisch-italienischen Kindern: Die Unabhängigkeit von Sprachdominanz</em>. Abstract selected for oral presentation at the &#8220;7. Frankoromanistentag&#8221;, University of Duisburg-Essen, September 30, 2010.</p>
+<p><em>The acquisition of subjects in bilingual German-Italian and German-Spanish children</em>. Invited talk at the &#8220;16. Wuppertaler Linguistisches Kolloquium: Languages in Contact&#8221;, University of Wuppertal, May 26-28, 2010.</p>
+<p><em>The Acquisition of Subjects in German-Italian and German-Spanish Bilingual Children</em>. Poster at the &#8220;36th Incontro di Grammatica Generativa&#8221;, University Bicocca of Milan, Febrary 25-27, 2010.</p>
+<p><em>Der Erwerb des Subjekts durch bilingual deutsch-italienisch und deutsch-spanisch aufwachsende Kinder: Die Rolle des Spracheneinflusses und der Sprachkombination</em>. Invited talk. University of Freiburg, February 11, 2010.</p>
+<p><em>Intra-sententiales Code-switching im bilingualen Erstspracherwerb: Die Distribution von lexikalischen und funktionalen Kategorien und die Rolle der Sprachdominanz</em>. Abstract selected for oral presentation at the &#8220;37. Österreichische Linguistik-Tagung: Sprachkontakt und Mehrsprachigkeit als Herausforderung für Soziolinguistik und Systemlinguistik&#8221;, University of di Salzburg, December 5-8, 2010.</p>
+<p><em>The Acquisition of Subjects in Bilingual Italian-German, Spanish-German and Italian-French children</em>. Invited talk at the &#8220;International Symposium on Bilingualism 7&#8221;, University of Utrecht, July 7-9, 2009.</p>
+<p><em>Null Subjects and Frequency</em>. Invited talk at the &#8220;15. Wuppertaler Linguistisches Kolloquium: Frequency and Language Development&#8221;, University of Wuppertal, June 6-8, 2008.</p>
+<p><strong><span class="caps">CONFERENCE</span> <span class="caps">AND</span> <span class="caps">WORKSHOP</span> <span class="caps">ORGANIZATION</span></strong><br />
+April 12-14, 2012 &#8211; University of Wuppertal (scientific and organizing committee)<br />
+&#8220;Diskurs, Grammatik und Informationsstruktur&#8221;, International Conference</p>
+<p>October 3-5, 2005 &#8211; University of Wuppertal (organizing committee)<br />
+&#8220;Der spanische Bürgerkrieg&#8221;, International Conference (direction: Prof. Dr. Ursula Link-Heer)</p>
+<p>October 31 &#8211; November 2, 2005 &#8211; University of Wuppertal (organizing committee)<br />
+&#8220;Literarische Gendertheorie: Proust/Colette&#8221;, International Conference (direction: Prof. Dr. Ursula Link-Heer)</p>
+<p><strong><span class="caps">TEACHING</span> <span class="caps">EXPERIENCE</span></strong><br />
+2011<br />
+History of French and Italian Linguistics. Department of Romance Linguistics, University of Wuppertal</p>
+<p>2010<br />
+Le français actuel: les variations linguistiques et sociolinguistiques. Department of Romance Linguistics, University of Wuppertal</p>
+<p>2009<br />
+French-based creoles. Department of Romance Linguistics, University of Wuppertal<br />
+La grammaire du verbe. Department of Romance Linguistics, University of Wuppertal</p>
+<p>2008<br />
+Le français actuel: les variations linguistiques et sociolinguistiques. Department of Romance Linguistics, University of Wuppertal</p>
+<p><strong><span class="caps">LANGUAGES</span></strong><br />
+German: native speaker<br />
+Italian: native speaker<br />
+English: academic proficiency in all four modularities<br />
+French: academic proficiency in all four modularities<br />
+Latin: academic proficiency<br />
+Spanish: good listening, moderate reading</p></div>
+</div>
+<div class='span4'>
+<dl>
+<dt>Hochschule / Institution</dt>
+<dd>Universität Wuppertal</dd>
+<dt>Adresse</dt>
+<dd>
+Italien
+</dd>
+<dt>Status bei romanistik.de</dt>
+<dd>
+<a href="/pers?search%5Badmin_is%5D=false" class="tag">Mitglied</a>
+</dd>
+<dt>Erstellungsdatum</dt>
+<dd>Dienstag, 29. Januar 2013, 16:34 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Montag, 16. Juni 2014, 23:58 Uhr</dd>
+</dl>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

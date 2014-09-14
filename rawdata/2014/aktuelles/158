@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfA: Was macht das Museum mit (der) Literatur? Musealisierung und Ausstellung von Literatur
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-06-21
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://interferenceslitteraires.be/node/313" target="_blank">http://interferenceslitteraires.be/node/313</a>
+</p>
+</div>
+<p>Interférences littéraires/Literaire interferenties 2014
+<br />Themenheft: Was macht das Museum mit (der) Literatur? Musealisierung und Ausstellung von Literatur
+<br />Verantwortliche des Themenhefts: Marie-Clémence Régnier (Université Paris-Sorbonne)</p>
+
+<p>Aufgrund der ihr eigenen Veröffentlichungs- und Verbreitungsmodalitäten entwickelte sich die Literatur traditionellerweise am Rande des musealen Raums, der aus historischer und institutioneller Sichtweise anderen künstlerischen (Malerei, Fotografie etc.) und wissenschaftlichen (Geschichte, Naturwissenschaften u.ä.) Praktiken vorbehalten war. Dennoch kam es immer wieder zu diversen Wechselwirkungen zwischen den beiden Bereichen, entweder in Form von Darstellungen des musealen Raums in literarischen Texten, als Beitrag der Literatur zum künstlerischen Leben (insbesondere im Bereich der Kritik) oder aber durch die Ausstellung von Literatur im Museum.</p>
+
+<p>Bis heute konzentrierte sich die auf das Wechselverhältnis von Museum und Literatur spezialisierte Forschung auf die literarischen Reflexionen von Museum und musealem Raum. Zu verweisen wäre hier insbesondere auf die der Kunstkritik von Schriftstellern gewidmeten Arbeiten, auf Beiträge von Schriftstellern zu Ausstellungskatalogen bzw. auf literarische Werke zu bestimmten Museen wie das Musée du Louvre von Théophile Gautier oder Brock Clarkes Roman An Asonist’s Guide to Writer’s Homes in New England: A Novel. Ebenfalls zu nennen wären die Arbeiten zur Aneignung des Sammel- und Ausstellungsgestus durch Schriftsteller – so z.B. das Themenheft „La littérature exposée“ der Zeitschrift Littérature (2010) – im halbprivaten oder persönlichen Kontext (Dominique Pety 2003; Bertrand Bourgeois 2009).</p>
+
+<p>Einige wenige Arbeiten beschäftigen sich mit Literatur als Ausstellungsobjekt; die Frage der Aneignung von Literatur durch die museale Umgebung wird jedoch nicht gestellt. Philippe Hamons Artikel „Le Musée et le texte“, bereits 1995 publiziert, gilt nach wie vor als Referenz in diesem Bereich, allerdings vor allem in den der Literatur verwandten Disziplinen (Depoux 2006). Schriftsteller-Häuser und Schriftsteller-Museen sind ebenfalls Thema der Forschung (z. B. Hoover-Biggers 2002 und Hendrix 2012), insbesondere aus patrimonialer und historischer Perspektive in der angelsächsischen Tradition: Musealisierung der (Geburts-)häuser ebenso wie die dazu erschienenen Publikationen stehen im Zentrum dieser Forschungen. In den seltensten Fällen jedoch wird der literarische Status dieser Orte hinterfragt.</p>
+
+<p>Die Musealisierung der Literatur weist mehrere Facetten auf, die es zu identifizieren und historisch zu verorten gilt. Einige Beispiele sind in dieser Hinsicht besonders interessant: Neben den Schriftsteller-Häusern könnte man die Archives et Musée de la littérature in Brüssel, das Deutsche Literaturarchiv Marbach/Schiller-Nationalmuseum (in Friedrich Schillers Geburtsstadt) oder das Nationalmuseum für moderne chinesische Literatur in Peking nennen. Auch Ausstellungen wie „Victor Hugo. L’homme-océan“ (2002) in der französischen Nationalbibliothek ebenso wie ungewohnte Experimente, die Schriftsteller zu Akteuren des Museums machen (so war Jean-Philippe Toussaint 2012 in die Ausstellung „Livre/Louvre“ impliziert, und Orhan Pamuk realisierte das „Museum der Unschuld“ auf der Basis seines gleichnamigen 2008 erschienenen Romans) sind in Betracht zu ziehen.</p>
+
+<p>In diesem aktuellen Forschungskontext stellt sich das von Interférences littéraires/Literaire interferenties vorgeschlagene Themenheft zur Aufgabe, die Frage nach dem zukünftigen Status der Literatur zu beleuchten, wenn sie zum Ausstellungsobjekt wird. Es soll darum gehen, eine erste Kartographie der durch die Musealisierung von Literatur vom 19. bis zum 21. Jahrhundert hervorgerufenen Effekte zu erstellen — und zwar sowohl was den Diskurs als auch die Praktiken anlangt. Ebenso geht es darum, die Modalitäten eines Prozesses zu analysieren, der als „opération tendant à extraire, physiquement et conceptuellement, une chose de son milieu naturel ou culturel d’origine et à lui donner un statut muséal, la transformer en musealium ou muséalie, objet de musée, soit à la faire entrer dans le champ du muséal“ (Desvallées &amp; Mairesse 2011) zu verstehen ist. Ein solches Phänomen versteht sich nicht von selbst. Es bedeutet das Aufeinandertreffen nicht nur von zwei Bereichen, sondern auch von deren Vertretern, die im Rahmen der Interaktionen von ihren eigenen Zwecken bestimmt sind; dieser Austausch beeinflusst den Status von Literatur und setzt die Schaffung von spezifischen Ausstellungsdispositiven im musealen Raum voraus.</p>
+
+<p>Das Themenheft setzt sich zum Ziel, die Problematik von Literatur und Museum auf offene Art und Weise aufzugreifen. In keinster Weise soll also das Thema auf bestimmte Institutionen oder eine spezielle Form der Musealisierung (temporäre oder virtuelle Ausstellungen, immersive Szenographie, traditioneller Ausstellungsmodus mittels Vitrinen usw.) zugeschnitten behandelt werden. Es soll im Gegenteil um die Reflexion zu den derzeit praktizierten Ausstellungsformen von Literatur im Museum gehen.</p>
+
+<p>Als sichtbare und emblematische Figur im literarischen Leben stehen der Schriftsteller bzw. die Schriftstellerin im Zentrum der Überschneidungspunkte von Museum und Literatur. Er ist gleichzeitig Objekt und Akteur dieser Interaktionen. Hinsichtlich der Konstruktion der Schriftstellerfigur muss die Frage gestellt werden, in welchem Maß und auf welche Weise biographisch bzw. monographisch orientierte Ausstellungen in diese Richtung arbeiten. Die Idee des Schriftstellerhauses ist größtenteils Ausdruck eines Resakralisierungsprozesses des Schriftstellers, der die museale Vereinnahmung seiner Repräsentationen zugrunde liegt (anthropologischer Wert des Reliquienkults, Biographisierung seines Werkes, Betonung einer besonderen Arbeitsmethode, Hinterfragen des Status „großer Schriftsteller“). Im speziellen Fall von noch lebenden Schriftstellern gewidmeten Ausstellungen oder solchen, die an einer Ausstellung mitarbeiten, möglicherweise sogar als Kurator, stellt sich die Frage, welche Bedeutung diese Ausstellungserfahrung im Werk einnimmt. Wie positionieren sich die Schriftsteller bezüglich der Ausstellung ihres Werks und der Ausstellungserfahrung? Welche Rolle spielen sie (oder überträgt man ihnen)?
+<br />Die Wechselbeziehungen zwischen Museum und Literatur können sich auch als Übernahme von Modellen artikulieren. In diesem Zusammenhang stellt sich die Frage, wie und mit welchem Ziel sich ein Ausstellungskonzept an bestimmten Modellen des literarischen Diskurses orientiert (z.B. durch die Imitation der narrativen Sequentialität in der Szenographie von Kapiteln oder Sektionen; durch anthologische Präsentation der Werke). Von der anderen Seite her betrachtet, kann es interessant sein, die Übernahme von musealen Kodes in der Literatur zu betrachten (Rekurs auf das Modell der Porträtgalerie oder auf in einer bestimmten Reihe erschienenen Alben). Tendieren die diversen Übernahmeformen nicht insgesamt zur Musealisierung unserer Vorstellung von Literatur, d.h. letztlich zu einer Konsolidierung fester, historisch bedingter und durch die Institution Schule sanktionierte Repräsentationsformen von Literatur? In welcher Art und Weise kann das Museum die Literatur entsprechend einem autonomen Konstruktionsmodell von Literatur – jenseits von institutionellen und medialen Zwängen – beeinflussen? Welche Spuren findet man davon in den Museen selbst oder in den Ausstellungen bzw. in der „Vermarktung“ einer Ausstellung via Radio, Fernsehen, Internet usw.</p>
+
+<p>In Anbetracht dieser Problemstellungen muss eine weitere Frage aufgeworfen werden: kann (und soll) das Museum, wie von Régis Debray in einem kürzlich publizierten Artikel (2013) beleuchtet, als Medium oder als Mediations-Raum der Literatur im sozialen Raum betrachtet werden? Was sagen die Wechselwirkungen zwischen Literatur und Museum über unsere Sichtweise von Literatur und deren Konstruktion aus? Wo stehen wir mit unseren Lektüre-Praktiken und unserem traditionell auf die Schreibpraxis ausgerichteten Interpretationsgestus von Texten: ist es möglich, dass eine Ausstellung unser Verständnis von an Text und Buch gebundene Literatur unterläuft? Wenn ja, in welchem Ausmaß und auf welche Weise? Wodurch unterscheidet sich das Museum von einem Lektüre-Kabinett oder einer Bibliothek, die gewissermaßen als Aufbewahrungsort literarischer Reihen nach musealem Vorbild bezeichnet werden könnte? Ist der Ausstellungs-Gestus das einzige Unterscheidungsmerkmal zwischen Museen und Bibliotheken? Und was passiert, wenn letztere ihr eigenes Ausstellungsprogramm entwickeln wie beispielsweise die Pierpont Morgan Bibliothek oder die französische Nationalbibliothek? Wird Literatur durch das Phänomen der Musealisierung einer breiteren Leserschaft im öffentlichen Raum zugänglich gemacht?</p>
+
+<p>All diese Fragen laufen letztlich auf das Problem der Adaptierung und Anpassung der großteils logozentrischen literarischen Kodes an die museographischen Kodes hinaus, die auf einem sensitiven und auf die materielle Dimension der (Ausstellungs-)Objekte ausgerichteten Zugang basieren. Wo ist demzufolge die eigentlich paradoxe „museale Eigenheit“ von Literatur zu verorten? Wie sind die Auswahlkriterien (patrimonialer, visueller und spektakulärer Natur) eines bestimmten Objekts oder einer Thematik zu bestimmen, und wie sind die Repräsentationen der Literatur als solche zu betrachten? Sind bestimmte literarische Praktiken oder Genres (Märchen) museumsgeeigneter als andere (Poesie)? Nach welchen Parametern? Handelt es sich bei manchen Genres um solche, die sich besser für Illustrationen eignen bzw. für eine Adaptation in einen anderen künstlerischen Bereich, der leichter „ausstellbar“ ist (Malerei, Kino, Theater)? Wie steht es um die litarischen Netzwerke und musealisierten literarischen Bewegungen, wenn man an die Ausstellung „Bohème“ im Grand Palais 2013 in Paris oder aber an das Haus des Malers Ary Scheffer, das ebenfalls in Paris in das „Musée de la vie romantique“ umgewandelt wurde, denkt? Begünstigen mediales Charisma, die plastische Dimension theoretischer und ästhetischer Überlegungen oder bestimmte an den Schaffensprozess bzw. an den Lebensstil gebundene Repräsentationen von Schriftstellern ihre Musealisierung?</p>
+
+<p>Die oben skizzierten Reflexionsachsen sollen dazu führen, die Konzepte, Objekte, Bedingungen und technischen museographischen Mittel zu erforschen, mittels derer die Musealisierung von Literatur stattfindet. Somit soll der Einfluß dieser Vorgänge und Prozesse auf die Repräsentation dessen, was man im weitesten Sinne „das Literarische“ nennen könnte, erfaßt werden.</p>
+
+<p>Pluridisziplinäre bzw. interdisziplinäre Beiträge, die die Problematik aus soziologischer, literaturwissenschaftlicher, kulturhistorischer, kunsthistorischer und/oder museologischer Sicht behandeln, ebenso wie komparatistische Ansätze in Bezug auf nationale (Sprach-) werden bevorzugt in Betracht gezogen. Die Länge der Beiträge liegt zwischen 30.000 und 50.000 Zeichen (inkl. Fußnoten und Leerzeichen). Die Beiträge ebenso wie ein Resumé von ca. 300 Wörtern und eine Kurzbiographie (institutionelle Anbindung, Forschungsschwerpunkte) sind vor dem 21. Juni 2014 an Marie-Clémence Régnier (marieclemenceregnier@hotmail.com) und an David Martens (david.martens@arts.kuleuven.be) zu adressieren. Das Ergebnis des Auswahlverfahrens wird spätestens am 30. Juni bekanntgegeben, die Endversion der Artikel muss am 1. November 2014 eingereicht werden.</p>
+
+<p>Auswahlbibliographie :
+<br />Bertrand Bourgeois : Poétique de la maison-musée dans la seconde moitié du dix-neuvième siècle (1847-1898). Paris, L’Harmattan, 2009.
+<br />Peter Braun : Dichterhaüser. München, Deutscher Taschenbuch Verlag, 2003.
+<br />Interférences littéraires/Literaire interferenties 2014
+<br />Michel Butor, Olivier Mériel &amp; Danielle Molinari : Dans l’intimité de Victor Hugo à Hauteville House. Paris, Paris-Musées, 1998.
+<br />Brock Clarke : An Arsonist’s Guide to Writers’ Homes in New England: A Novel. Chapel Hill, Algonquin Books, 2007.
+<br />Jean Davallon : L’exposition à l’oeuvre. Stratégies de communication et médiation symbolique. Paris, L’Harmattan, 1999.
+<br />Marie-Odile de Bary : „Les différentes formes de muséographie: de l’exposition traditionnelle au centre d’interprétation.’’ In : Manuel de Muséographie. Hg. v. Marie-Odile de Bary &amp; Jean-Michel Tobelem. Paris, Seguier, 1998, S.195-203.
+<br />Anneliese Depoux : „De l’espace littéraire à l’espace muséal : la muséographisation de Joachim du Bellay”. In : Communication et langages (150), Paris, 2006, S. 93-103.
+<br />André Desvallées &amp; François Mairesse : Dictionnaire encyclopédique de muséologie, „Muséalisation’’. Paris, Armand Colin, 2011.
+<br />Elizabeth Emery : Photojournalism and the Origins of the French Writer House Museum (1881-1914). Privacy, Publicity, and Personality. Farnham, Ashgate, 2012.
+<br />Daniel Fabre : „L’auteur et ses lieux”. In : Le Débat. Paris, Gallimard (115), 3/2001.
+<br />Théophile Gautier : Le Musée du Louvre. Paris, Citadelles &amp; Mazenod, 2011.
+<br />Philippe Hamon : Expositions, littérature et architecture au XIXe siècle. Paris, José Corti, 1989.
+<br />Philippe Hamon : “Le Musée et le texte”. In : Revue d’histoire littéraire de la France. Paris (95) 1/1995.
+<br />Harald Hendrix (u.a.) : Writers’ Houses and the Making of Memory. New-York/Oxford, Routledge, 2012.
+<br />Yves Jeanneret : Penser la trivialité. La vie triviale des êtres culturels, Ballan-Miré, Hermès-Lavoisier, 2008.
+<br />Shirley Hoover Biggers : British Author House Museums and Other Memorials: A Guide to Sites in England, Ireland, Scotland and Wales. Jefferson, Mcfarland &amp; Co Inc Pub, 2002.
+<br />Paul Kahl &amp; Constanze Breuer : „ … ein Tempel der Erinnerung an Deutschlands großen Dichter”. In : Das Weimarer Schillerhaus 1847–2007. Gründung und Geschichte des ersten deutschen Literaturmuseums. Jena, Verlag Vopelius, 2011.
+<br />François Mairesse : Le Musée, temple du spectaculaire : pour une histoire du projet muséal. Lyon, Presses universitaires de Lyon, 2002.
+<br />Kate Marsh : Writers and Their Houses: A Guide to the Writers’ Houses of England, Scotland, Ireland. London, Hamish Hamilton, 1993.
+<br />Catherine Martin-Payen : „Muséographe, quel métier ? “ In : Muséologue, muséographe, expographe, scénographe : Un seul métier à plusieurs. La Lettre de l’OCIM (88), 2003.
+<br />Dominique Pety : Les Goncourt et la collection. De l’objet d’art à l’art d’écrire. Genève, Droz, coll. „Histoire des idées et critique littéraire”, 2003.
+<br />Olivia Rosenthal &amp; Lionel Ruffel : „La littérature exposée.“ In : Littérature (160), 2010.
+<br />Marie-Eve Riel : „La fabrication et la conservation posthumes des figures d’auteurs : le cas des lieux littéraires et des maisons à visiter. “ In : „Fictions du champ littéraire”, GREMLIN (ed.). Montréal, Cahiers „Discours social” ( XXXIV), 2010.
+<br />Anne Trubek : A Skeptic’s Guide to Writers’ Houses. Philadelphia, University of Pennsylvania Press, 2010.</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/3874-Marie_Cl_mence_R_gnier">Marie-Clémence Régnier</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

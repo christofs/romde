@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/2244-Las_figuras_del_mal_en_2666_de_Roberto_Bola_o' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Las figuras del mal en 2666 de Roberto Bolaño (Dissertation)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='2244'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Autor(en)</h4>
+<a href="/pers/3679-Arndt_Lainck" class="tag multiline" popup="true">Arndt Lainck</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>LIT</dd>
+<dt>Ort</dt>
+<dd>Münster</dd>
+<dt>Hochschule</dt>
+<dd>Universität Göttingen</dd>
+<dt>Ort der Hochschule</dt>
+<dd>Universität Göttingen</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2014
+</dd>
+<dt>Abgabedatum</dt>
+<dd>
+Oktober
+2012
+</dd>
+<dt>Reihe</dt>
+<dd>LIT Ibéricas</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.lit-verlag.de/isbn/3-643-12368-8" target="_blank">http://www.lit-verlag.de/isbn/3-643-12368-8</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-3-643-12368-8
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-643-12368-8&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Spanisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Roberto Bolaño, 2666, Spanischsprachige Literatur
+</dd>
+</dl>
+<div class='col_8 last'>
+<h4>Betreuer</h4>
+<span class='tag multiline'>Tobias Brandenberger</span>
+<a href="/pers/176-Enrique_Rodrigues_Moura" class="tag multiline" popup="true">Enrique Rodrigues-Moura</a>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>El presente trabajo indaga en la temática y los motivos del mal en 2666 (2004). El mal, como motivo central de la novela, es una constante en la obra de Roberto Bolaño, pero no es hasta su obra definitiva, la novela 2666, que se hace legible una verdadera teoría del mal que sistematiza sus reflexiones acerca de la fenomenología del mal. Cuando se conceptualiza éste no como instante de una transgresión, sino como un momento de visibilidad de algo estructural, el mal viene a ser una brújula que puede ser muy indicativa de nuestros deseos, de un fracaso en el dominio de estos deseos y de la estructura que los formó. Con una visión «sintomática» del mal, Bolaño ha abierto nuevos caminos y ha tratado de decir lo que aún no se ha dicho, o se ha dicho poco, mediante su capacidad de sensibilizar al lector para que reflexione sobre la inmanencia del mal en nuestra cultura.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Índice<br />
+I. Introducción <br />
+1. ¿Cómo leer a Bolaño? <br />
+2. La modernidad del mal <br />
+3. Aproximación a la poética de Bolaño <br />
+II. 2666 <br />
+1. &#8220;La parte de los críticos&#8221; <br />
+1.1. À la recherche du mal <br />
+1.2. Las reglas del juego <br />
+1.3. La amenaza al idilio <br />
+1.4. Pisando los talones del engaño aurático del arte <br />
+1.5. Las convulsiones del progreso y la recuperación de «lo real» <br />
+2. &#8220;La parte de Amalfitano&#8221; <br />
+2.1. Las relaciones de Amalfitano y Lola <br />
+2.2. De las figuras geométricas y la moraleja de los ready-mades <br />
+2.3. La voz que Amalfitano oye <br />
+2.4. La gloria de Lonko Kilapán en su tiempo y &#8220;la tercera pata de<br />
+la mesa humana&#8221; <br />
+3. &#8220;La parte de Fate&#8221; <br />
+3.1. Los sueños y realidades de la lectura <br />
+3.2. La pista de la incongruencia de las palabras <br />
+3.3. Las raíces de la cuestión santateresina <br />
+3.4. Efectos visuales de lo sagrado <br />
+4. &#8220;La parte de los crímenes&#8221; <br />
+4.1. Los protagonistas del mal <br />
+4.2. La sociedad de Santa Teresa <br />
+4.3. Las visiones dolorosas de Florita Almada <br />
+4.4. ¿Cómo se lee el mal? <br />
+4.5. El lugar de la violencia en la modernidad <br />
+4.6. La composición epistemológica del mal <br />
+4.7. Los límites del mal y una evaluación axiológica de la empatía <br />
+4.8. Las prácticas del mal <br />
+4.9. El estatus ambiguo del concepto de víctima <br />
+4.10. La cualidad mítica del mal <br />
+4.11. La invisibilidad del mal <br />
+4.12. Los despojos del mal <br />
+5. &#8220;La parte de Archimboldi&#8221; <br />
+5.1. Del progreso al fondo del mar <br />
+5.2. El arte y la moral <br />
+5.3. Masturbación y la utopía de la literatura <br />
+5.4. El relativismo en la cultura y la moraleja de las apariencias <br />
+5.5. El asesino bueno <br />
+5.6. El arte y la vida son antipositivistas <br />
+5.7. Un legado de tres sabores <br />
+<span class="caps">III</span>. Conclusión <br />
+IV. Bibliografía <br />
+1. Obras de Bolaño <br />
+2. Bibliografía secundaria sobre Bolaño <br />
+3. Otros</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/3679-Arndt_Lainck" class="tag multiline" popup="true">Arndt Lainck</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Mittwoch, 22. Januar 2014, 21:23 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 22. Januar 2014, 21:23 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

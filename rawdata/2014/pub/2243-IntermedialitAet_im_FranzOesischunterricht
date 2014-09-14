@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/2243-IntermedialitAet_im_FranzOesischunterricht' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Intermedialität im Französischunterricht (Sammelband)</h2>
+<h3>Grundlagen und Anwendungsvielfalt</h3>
+<hr>
+<abbr class='unapi-id' title='2243'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<a href="/pers/48-Eva_Leitzke_Ungerer" class="tag multiline" popup="true">Eva Leitzke-Ungerer</a>
+<span class='tag multiline'>Christiane Neveling</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Ibidem</dd>
+<dt>Ort</dt>
+<dd>Stuttgart</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2013
+</dd>
+<dt>Auflage</dt>
+<dd>1</dd>
+<dt>Reihe</dt>
+<dd>Romanische Sprachen und ihre Didaktik Band 47</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.ibidemverlag.de/Reihen-Schriftenreihen-Institutsreihen/Romanische-Sprachen-und-ihre-Didaktik/product-1569.html" target="_blank">http://www.ibidemverlag.de/Reihen-Schriftenreihen-Institutsreihen/Romanische-Sprachen-und-ihre-Didaktik/product-1569.html</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-3-8382-0445-1
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-8382-0445-1&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Fachdidaktik, Literaturwissenschaft, Medien-/Kulturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Intermedialität, Französischunterricht, Literaturverfilmung, Comic, Hörbuch, digitale Medien
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Intermedialität meint das Überschreiten von Mediengrenzen. Im Zentrum steht die Frage, inwiefern sich durch die spezifische mediale Erscheinungsform der interagierenden Werke neue Bedeutung konstituiert. <br />
+Das aus der Literaturwissenschaft stammende Konzept wird von den Autorinnen und Autoren des vorliegenden Sammelbandes in Bezug auf seine Relevanz für den kompetenzorientierten Fremdsprachenunterricht untersucht; der Fokus liegt dabei auf dem Französischunterricht. <br />
+Die zehn Einzelbeiträge greifen beliebte ‚Inter-Medien’ wie Comic, Literaturverfilmung oder Hörbuch auf und analysieren darüber hinaus intermediale Bezüge zwischen Literatur, Film, Musik, bildender Kunst und Werbung sowie die Interaktion von konventionellen und digitalen Medien. Der Band gibt ferner eine konzeptionelle Einführung in die Thematik und präsentiert zahlreiche innovative Aufgabenformate für die Unterrichtspraxis.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Inhaltsverzeichnis: Eva Leitzke-Ungerer &amp; Christiane Neveling: Vorwort, mit Vorstellung der Beiträge / Eva Leitzke-Ungerer: Intermedialität – Anmerkungen zum literaturwissenschaftlichen Konzept und zum fremdsprachendidaktischen Potenzial / Corinna Koch: Die spezifischen Merkmale der Medienkombination bande dessinée und ihr Potenzial für den Französischunterricht / Jochen Willwer: Das Hörbuch im Französischunterricht: Möglichkeiten und Grenzen eines ‚Inter-Mediums’ / Martina Bender: Eine revolutionäre Nacht in drei Versionen: La fuite de Varennes im Französischunterricht der Oberstufe / Christophe Losfeld: La Guerre des boutons en cours de français langue étrangère : Réflexions sur la portée d’adaptations cinématographiques / Michael Schneider: Der Zuschauer als Gefangener des Mediums: Theater in filmischer Aufzeichnung im Französischunterricht / Christine Michler: Intermediale Bezüge von Lyrik und Malerei: Rimbauds Vénus Anadyomène und Verlaines Nascità di Venere im Französischunterricht / Daniel Reimann: « Quand reverrai-je … ? » Von Ulysse bis Notre Dame de Paris: Inter- und transmediale Szenarien für einen kompetenzorientierten Französischunterricht / Regina Schleicher: Politische und geschichtliche Themen im Französischunterricht: Aspekte der Intermedialität im inhaltsorientierten Unterricht / Joachim Sistig: Twitterarische Indiskretionen und automobile Paradoxien: Kreative und intermediale Schreibanlässe im Französischunterricht / Christina Bertelmann: « Indignez-vous ! » Zur intermedialen Dimension des Pamphlets und seiner kritisch-konstruktiven Behandlung im Französischunterricht der Sekundarstufe II</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Akten der gleichnamigen Sektion des Frankoromanistentags Leipzig September 2012</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/48-Eva_Leitzke_Ungerer" class="tag multiline" popup="true">Eva Leitzke-Ungerer</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Mittwoch, 22. Januar 2014, 21:24 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 22. Januar 2014, 21:24 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

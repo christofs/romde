@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/1736-L_xico_de_la_Ciencia_tradici_n_y_modernidad' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Léxico de la Ciencia: tradición y modernidad (Sammelband)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='1736'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<span class='tag multiline'>Graça Rio-Torto</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>LINCOM</dd>
+<dt>Ort</dt>
+<dd>München</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2012
+</dd>
+<dt>Reihe</dt>
+<dd>LINCOM Academic Reference Books 3</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://lincom-shop.eu/shop/article_11135%2520ISBN%25209783862887002/LARB-03%3A-Léxico-de-la-Ciencia%3A-tradición-y-modernidad.html" target="_blank">http://lincom-shop.eu/shop/article_11135%2520ISBN%25209783862887002/LARB-03%3A-Léxico-de-la-Ciencia%3A-tradición-y-modernidad.html</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-3-86288-700-2
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-86288-700-2&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Spanisch, Katalanisch, Portugiesisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Sprachwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Fachsprachen, Lexikologie, Lexikographie, Historische Sprachwissenschaft
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Los ensayos publicados en este libro son fruto de la investigación de los miembros de la Red Temática “Lengua y Ciencia” (<a href="http://dfe.uab.cat/lenguayciencia/" target="_blank">http://dfe.uab.cat/lenguayciencia/</a>) que se reunieron en la Universidad de Coimbra (28-30.10.2009) para reflexionar sobre los problemas teóricos y metodológicos que conlleva la elaboración de acervos lexicales, según técnicas antiguas y artesanales o digitales.</p>
+<p>La primera parte está dedicada a las prácticas lexicográficas digitales, a los proyectos en curso de bases de datos informatizadas, sus problemas teóricos y metodológicos. La segunda parte se centra el análisis lexicográfico y metalexicográfico del <span class="caps">DRAE</span> y sus repercusiones en otros inventarios lexicográficos. La tercera parte describe diversos léxicos de especialidad (medicina, albeitería, matemática, botánica, arquitectura, electroestática, tecnificación doméstica).</p>
+<p>En los textos de este volumen se subrayan las dimensiones conservadora e innovadora de los fundamentos y/o de las prácticas lexicográficas. Los datos analizados, de innegable relevancia patrimonial, lingüística y cultural, proporcionan una visión polifónica de diversos léxicos de especialidad de las lenguas castellana, catalana y portuguesa, en las varias épocas de su transcurso histórico.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Graça <span class="caps">RIO</span>-<span class="caps">TORTO</span>, Introducción y presentación</p>
+<p>I. Bases de datos lexicográficas en elaboración: problemas y métodos</p>
+<p><span class="caps">MARIA</span> <span class="caps">JESUS</span> <span class="caps">MANCHO</span> <span class="caps">DUQUE</span>, El Diccionario de la Ciencia y de la Técnica del Renacimiento: Fases Avanzadas (<span class="caps">DICTER</span>)</p>
+<p>LLUÍS <span class="caps">CIFUENTES</span>, Hacia un nuevo Vocabulario del catalán técnico medieval</p>
+<p><span class="caps">JOANA</span> ÁLVAREZ, Diccionari de Textos Catalans Antics (Dicionário de Textos Catalães Antigos)</p>
+<p>II. Lexicografía y metalexicografía del Diccionario de la Lengua Castellana de la <span class="caps">RAE</span></p>
+<p>FÉLIX <span class="caps">SAN</span> <span class="caps">VICENTE</span> y <span class="caps">HUGO</span> <span class="caps">LOMBARDINI</span>, Hiperestructura del <span class="caps">DRAE</span> (1780-2001): aspectos formales y terminológicos</p>
+<p><span class="caps">GLORIA</span> CLAVERÍA, <span class="caps">CAROLINA</span> JULIÀ y <span class="caps">JOAN</span> <span class="caps">TORRUELLA</span>, El Diccionario de la Lengua Castellana de la <span class="caps">RAE</span> (4.ª ed., 1803) y el Nuevo diccionario francés­español de A. de Capmany (1805)</p>
+<p>III. Léxicos de especialidad en repertorios y diccionarios</p>
+<p><span class="caps">ANASTASIO</span> <span class="caps">ROJO</span>, Archivos: terminología fuera de los diccionarios</p>
+<p><span class="caps">BERTHA</span> GUTIÉRREZ <span class="caps">RODILLA</span> y <span class="caps">CARLOS</span> GARCÍA JÁUREGUI, Repertorios lexicográficos “escondidos” del Renacimiento: el glosario médico de Bartolomé Hidalgo de Agüero</p>
+<p>MARÍA <span class="caps">NIEVES</span> SÁNCHEZ y CONCEPCIÓN VÁZQUEZ, El diccionario de Ruyzes de Fontecha: la tradición del léxico médico medieval</p>
+<p>MÒNICA <span class="caps">VIDAL</span>, <span class="caps">JUAN</span> GUTIÉRREZ y <span class="caps">CECILIO</span> <span class="caps">GARRIGA</span>, Léxico español de la ciencia y léxico de las matemáticas en el siglo <span class="caps">XVIII</span></p>
+<p><span class="caps">ALEXANDRA</span> <span class="caps">SOARES</span> <span class="caps">RODRIGUES</span>, El léxico de albeitería en el Vocabulario portuguez e latino de Bluteau (1712-1728)</p>
+<p><span class="caps">JULIA</span> <span class="caps">PINILLA</span> y <span class="caps">BRIGITTE</span> LÉPINETTE, Análisis de un léxico escondido. El Diccionario añadido por M. J. Suárez Núñez a su traducción del Art du cirier (1762) de H. L. Duhamel du Monceau</p>
+<p><span class="caps">NATIVIDAD</span> <span class="caps">GALLARDO</span> y <span class="caps">CARMEN</span> <span class="caps">NAVARRO</span>, Comprobaciones lexicográficas en los vocabularios de Medicina y Geografía durante el siglo <span class="caps">XVIII</span></p>
+<p><span class="caps">PILAR</span> DÍEZ DE <span class="caps">REVENGA</span> y <span class="caps">MIGUEL</span> ÁNGEL <span class="caps">PUCHE</span>, Los repertorios lexicográficos españoles sobre minería</p>
+<p><span class="caps">ROSA</span> MUÑOZ y JOSÉ R. <span class="caps">BERTOMEU</span>, La terminología química en los diccionarios de medicina y farmacia durante la primera mitad del siglo <span class="caps">XIX</span></p>
+<p>DÁMARIS <span class="caps">MEDRANO</span>, Aproximación al léxico evolucionista en español: el origen de las especies de Charles Darwin</p>
+<p><span class="caps">RUI</span> <span class="caps">ABEL</span> <span class="caps">PEREIRA</span>, Glossário de Termos Botânicos: análise lexical</p>
+<p><span class="caps">ANA</span> <span class="caps">LOBO</span> <span class="caps">PUGA</span>, La versión castellana del Libro <span class="caps">XVII</span> del De Proprietatibus Rerum, de Bartolomé Ánglico (ms. 30037 add. de la BL). Problemas del lenguaje botánico medieval</p>
+<p><span class="caps">MARTA</span> SÁNCHEZ <span class="caps">ORENSE</span>, La pervivencia del léxico antiguo en la tratadística militar renacentista</p>
+<p><span class="caps">SORAYA</span> <span class="caps">SALICIO</span>, Fundamentos arquitectónicos en el Renacimiento hispano: estudio léxico</p>
+<p>JOSÉ <span class="caps">ANTONIO</span> <span class="caps">MORENO</span>, Notas sobre el vocabulario de la electrostáctica en el siglo <span class="caps">XVIII</span>: los primeros generadores de electricidad</p>
+<p><span class="caps">ALBA</span> <span class="caps">MARCOS</span>, Aproximación al léxico de la tecnificación doméstica en el español moderno</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Tagungsakten &#8220;Lengua y Ciencia&#8221;, Coimbra 2009</p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/425-Redaktion_romanistik_de" class="tag multiline" popup="true">Redaktion romanistik.de</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Mittwoch, 16. Januar 2013, 10:49 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Mittwoch, 16. Januar 2013, 10:49 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

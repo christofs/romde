@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+DAAD Förderungen Frankreich (PROCOPE)
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Deutschland und Frankreich
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-05-15
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2015-01-01
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2016-12-31
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="https://www.daad.de/hochschulen/kooperation/20285.de.html?s=1&amp;projektid=57095494" target="_blank">https://www.daad.de/hochschulen/kooperation/20285.de.html?s=1&amp;projektid=57095494</a>
+</p>
+</div>
+<p>Abkommen
+<br />Das Programm PROCOPE ist ein bilaterales Forschungsförderungsprogramm, das 1986 zwischen dem DAAD und der französischen Regierung vereinbart wurde.</p>
+
+<p>Wer sind die Geldgeber?
+<br />Die Mittel zur Durchführung des Programms erhält der DAAD aus dem Haushalt des Bundesministeriums für Bildung und Forschung (BMBF). Auf französischer Seite wird das Programm durch das Ministerium für auswärtige Angelegenheiten und für Hochschule und Forschung gefördert.</p>
+
+<p>Welche Ziele hat das Programm?
+<br />Ziel des Programms ist die Intensivierung der Kooperation zwischen französischen und deutschen Forschergruppen, die gemeinsam an einem spezifischen wissenschaftlichen Vorhaben arbeiten. Das Programm PROCOPE sieht hierbei die Förderung der Mobilität vor. Ein besonderes Gewicht liegt dabei auf der Fortbildung und Spezialisierung des wissenschaftlichen Nachwuchses. In der Antragstellung (Projektbeschreibung) sind konkrete Ziele zu nennen (Anzahl und Status der Geförderten).
+<br />Forschungskooperationen, die als Anbahnungsmaßnahmen für umfangreichere Vorhaben, etwa zur Vorbereitung eines Antrags bei einer europäischen oder deutschen Forschungsförderungseinrichtung geplant sind, sind ausdrücklich erwünscht.</p>
+
+<p>Welche Zielgruppen werden gefördert?
+<br />Wissenschaftler/innen, Hochschullehrer/innen, Studierende (Ba-chelor/Diplom/Magister), Graduierte (Master), Doktoranden, Postdoktoranden</p>
+
+<p>Wer kann sich bewerben?
+<br />Antragsberechtigt auf deutscher Seite sind Hochschullehrer/-innen und promovierte Wissenschaftler/-innen für ihre deutschen Hochschulen und außeruniversitären Forschungseinrichtungen. Das Programm steht für alle Fachdisziplinen offen.</p>
+
+<p>Welche Antragsvoraussetzungen gelten?
+<br />Antragsvoraussetzung ist ein konkretes wissenschaftliches Forschungsvorhaben von hoher Qualität, an dem die Partner aus beiden Ländern gemeinsam und möglichst komplementär arbeiten wollen. Es genügt nicht, wissenschaftliche Fragestellungen allgemeiner Art aufzubereiten, derer sich die beiden Forscher-gruppen annehmen wollen.
+<br />Die Grundfinanzierung des Projekts (Personal- und Sachkosten auf beiden Seiten) muss gesichert sein.
+<br />Der deutsche Förderantrag kann nur dann berücksichtigt werden, wenn eine Parallelbewerbung des französischen Kooperationspartners vorliegt. Der ausländische Partner muss seine Kooperationsbereitschaft dokumentieren, indem er in seinem Parallelantrag seinen eigenen wissenschaftlichen Beitrag im Rahmen des gemeinsamen Projekts eindeutig darlegt. Dies muss er auch dann tun, wenn er keine eigene Finanzierung beantragt. Die gleichen Bedingungen gelten umgekehrt für den französischen Antrag.</p>
+
+<p>Wie lange wird ein Projekt gefördert?
+<br />Der Gesamtförderungszeitraum eines Projektes beträgt bis zu 2 Jahre. Soll die Kooperation im dritten Jahr fortgesetzt werden, kann ein förmlicher Verlängerungsantrag gestellt werden – eine Förderung des dritten Projektjahres kann allerdings nur in Ausnahmefällen erfolgen.
+<br />Für den Fall, dass der Antragsteller die Hochschule zwischenzeitlich verlässt, muss sichergestellt werden (z.B. durch schriftliche Bestätigung der Hochschule), dass das Projekt weitergeführt wird.
+<br />Die Bewilligung für das zweite Projektjahr erfolgt jeweils unter dem Vorbehalt, dass dem DAAD die entsprechenden Haushaltsmittel durch den Geldgeber zur Verfügung gestellt werden.</p>
+
+<p>Welche Maßnahmen werden gefördert?
+<br />Aus Mitteln des Programms PROCOPE werden Förderpauschalen für Aufenthalte am Partnerinstitut, die im Zuge der projektgebundenen Zusammenarbeit entstehen, gezahlt. Mit der Förderpauschale sind sämtliche Ausgaben im Rahmen der Mobilität und des Aufenthaltes abgedeckt.
+<br />Förderungswürdig sind kurzzeitige Aufenthalte von Wissenschaftler/innen und Doktoranden. Die Höchstförderungsdauer für Wissenschaftler beträgt 1 Monat pro Aufenthalt, für Studierende, Graduierte und Doktoranden 2 Monate pro Aufenthalt. In der Projektbeschreibung ist zu dokumentieren, nach welchen Kriterien die geförderten Personen ausgewählt wurden.
+<br />Es wird davon ausgegangen, dass der Antragsteller über die Förderpauschalen hinausgehende zuwendungsfähige Ausgaben, beispielsweise für die Grundausstattung der Arbeitsplätze (Geräteanschaffungen, Rechenzeiten, Materialaufwendungen, Dokumentationen, Vervielfältigungs- und Druckkosten sowie Personal-kosten) zur Durchführung des Projektes zur Verfügung stellt.</p>
+
+<p>Was wird nicht gefördert?
+<br />Die Förderpauschalen beinhalten nicht:
+<br />- Zu dem selben Thema bestehende, von anderer Seite bereits finanzierte Projekte der deutsch-französischen Kooperation in Forschung und Technologie, die auch den Personenaustausch einschließen
+<br />- reine Ausbildungsvorhaben
+<br />- bilaterale Kooperationen, die in Wirklichkeit nur ein Ausschnitt aus anderweitig finanzierten multilateralen Kooperationen darstellen
+<br />- Sprachkurse
+<br />- Individualstipendien
+<br />- Projektbezogene Nebenkosten (Rechenzeiten, Materialaufwendungen, Dokumentationen, Vervielfältigungs- u. Druckkosten)
+<br />- Kosten für die Grundausstattung von Arbeitsplätzen u. Geräteanschaffungen sowie Personalkosten
+<br />- reine Seminarveranstaltungen
+<br />- Kongressteilnahmen</p>
+
+<p>Welche Auswahlkriterien gibt es?
+<br />Über die Förderung der Anträge entscheidet im Oktober 2014 eine binationale
+<br />Kommission aus Hochschullehrerinnen und –lehrern verschiedener Fachrichtungen. Entscheidende Kriterien für die Auswahl sind:</p>
+
+<p>- Die Qualität des Projektes (hier besonders: Klarheit der Projektziele und Methodik)
+<br />- Wissenschaftlicher Stellenwert des Projektes (Aktualität der Thematik und Innovationsgrad des Projektes).
+<br />- Durchführbarkeit des Forschungsprojektes (darunter insbesondere: finanzielle Grundsicherung, Vorarbeiten und angemessene Planung der gegenseitigen Besuche)
+<br />- Projektrelevante Kompetenz der beiden Forschergruppen
+<br />- Komplementarität der Forschergruppen in dem gemeinsamen Vorhaben (methodisch, inhaltlich, apparativ etc.)
+<br />- Angemessene Beteiligung von Nachwuchswissenschaftlerinnen und - wissenschaftlern</p>
+
+<p>Weitere Kriterien sind:</p>
+
+<p>- Wissenstransfer zwischen der deutschen und der ausländischen Gruppe
+<br />- Wissenschaftliche und/oder ggf. industrielle Verwertbarkeit der Projektergebnisse
+<br />- Mehrwert (fachlich, institutionell, überfachlich) durch die Kooperation mit dem ausländischen Partner</p>
+
+<p>Was ist bei der Antragstellung zu beachten?</p>
+
+<p>Bitte beachten Sie den zusätzlichen Leitfaden zur Antragstellung 2015.
+<br />Leitfaden_zur_Antragstellung_2015.doc</p>
+
+<p>Das maximale Antragsvolumen der deutschen Gruppe beträgt pro Projekt und Jahr 6.000 Euro.</p>
+
+<p>Wie hoch sind die Fördersätze?
+<br />Die Förderpauschalen für Kooperationen mit Frankreich errechnen sich automatisch mit Hilfe der Berechnungstabelle, in die Sie lediglich den Ort und die Anzahl der Tage pro Aufenthalt eingeben müssen.
+<br />Die Pauschalen sind in ihrer Höhe verbindlich und nicht veränderbar!</p>
+
+<p>Zu Ihrer Information sind hier die Fördersätze aufgeführt:</p>
+
+<p>Kategorie I
+<br />Hochschullehrer/-innen, promovierte Wissenschaftler/-innen Förderung Aufenthalt
+<br />in Frankreich nach Region
+<br />pro Tag 1.-14.T.
+<br />Paris 119 E, Straßburg 91 E, übrige 112 E
+<br />pro Tag 15.-31. T.
+<br />Paris 71 E, Straßburg 55 E, übrige 67 E
+<br />Mobilität Frankreich 175 E</p>
+
+<p>Kategorie II-Studierende, Graduierte, Doktoranden</p>
+
+<p>pro Tag
+<br />(1.-14.T) (15.-20.T) (ab.d.21.T.) (ab.d.2. Monat)
+<br />Paris 89 € 54 € 1.607 € 1.125 €
+<br />Straßburg68 € 41 € 1.228 € 1.125 €
+<br />übrige 84 € 50 € 1.515 € 1.125 €</p>
+
+<p>Mobilität Frankreich 125 €</p>
+
+<p>Was gilt für erneute bzw. Mehrfachbewerbungen?
+<br />Erneute Bewerbungen im Rahmen von PROCOPE sind nach einer Pause von einem Jahr vor einem neuen evtl. Förderbeginn möglich. Eine Mehrfachbewerbung für eine geplante gleichzeitige Förderung in verschiedenen PPPs mit unterschiedlichen Ländern ist ebenfalls möglich.</p>
+
+<p>Wann ist Antragsschluss?
+<br />Antragsschluss für Neu- und Folgeanträge für das 3. Projektjahr ist der 15. Mai 2014</p>
+
+<p>Wann beginnt die Förderung?
+<br />Förderungsbeginn ist der 1. Januar 2015.</p>
+
+<p>Wo wird der Antrag eingereicht ?
+<br />Bitte nutzen Sie den Link zum DAAD-Portal (portal.daad.de/irj/portal)</p>
+
+<p>Siehe hierzu auch die Anlage „Leitfaden zur Antragstellung 2015“</p>
+
+<p>Wer ist Ihre Ansprechpartnerin im DAAD?
+<br />Manuela Schenk
+<br />Ref. 312 – Iberische Halbinsel, Frankreich, Benelux-Länder
+<br />Kennedyallee 50
+<br />53175 Bonn
+<br />Tel.: 0228 / 882-251
+<br />Fax: 0228 / 882-9251
+<br />E-mail : schenk@daad.de
+<br />www.daad.de/hochschulen/kooperation/20285.de.html</p>
+
+<p>Wer sind die Ansprechpartner in Frankreich?
+<br />Jolanta Lewandowska
+<br />Attaché pour la science et la technologie
+<br />Botschaftsattaché für Wissenschaft und Technologie
+<br />Ambassade de France en République Fédérale d&#x27;Allemagne
+<br />Französische Botschaft
+<br />Pariser Platz 5
+<br />D-10117 Berlin
+<br />Tél. : +49 30 590 03 9255
+<br />Fax: +49 30 590 03 9265
+<br />Mél : jolanta.lewandowska@diplomatie.gouv.fr
+<br />www.campusfrance.org/fr/phc</p>
+
+<p>Hinweis:
+<br />Der französische Partner muss seine Bewerbung ebenfalls online einreichen.
+<br />Es können nur parallel eingereichte und vollständige Bewerbungen berücksichtigt werden. </p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

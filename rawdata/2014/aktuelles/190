@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfA: L’Esprit créateur, ‘Qu’importe Roland Barthes ?’
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-09-08
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://espritcreateur.umn.edu/about.htm" target="_blank">http://espritcreateur.umn.edu/about.htm</a>
+</p>
+</div>
+<p>Appel à contribution pour articles dans un numéro spécial de L’Esprit créateur
+<br />Sujet du numéro :  ‘What’s so great about Roland Barthes ?’ (‘Qu’importe Roland Barthes ?’)
+<br />Éditeurs invités: Thomas Baldwin, Katja Haustein, Lucy O’Meara (University of Kent)
+<br />Date de soumission des propositions d’articles : 8 septembre 2014</p>
+
+<p>Près de cent ans après sa naissance, l’œuvre de Roland Barthes (1915–1980) se diffuse encore dans l’imagination culturelle. Romanciers, poètes, critiques littéraires, traducteurs, philosophes, photographes et artistes parlent toujours de Barthes. La grande force de son œuvre réside sans doute dans sa pluralité radicale : tout au long de sa carrière, Barthes a écrit, dans de nombreux formats, à propos d’un large éventail de sujets : du Tour de France à la mort de l’auteur, de Marx à Lao-Tseu, des pâtes à Proust, de la sémiologie à la prière. Se devine cependant, derrière ces fréquentes fluctuations, la permanence d’une direction : Barthes s’impose en gardien infatigable de la critique de l’idéologie, du refus de la médiocrité des généralisations, de la productivité du texte, de l’importance particulière de l’individu dans la réponse critique. Ses écrits constituent une pierre angulaire de l’édifice de la pensée structuraliste et poststructuraliste, et ses derniers textes offrent une exploration profonde de la vie quotidienne examinée, de manière souvent émouvante, à travers ses aspects affectifs, sociaux, pratiques et créatifs.</p>
+
+<p>De quelles manières la présence de Barthes est-elle encore pertinente dans la théorie culturelle et littéraire ? Quelle est l’importance théorique et créatrice de son œuvre, et comment ses innovations formelles peuvent-elles inspirer les critiques, les écrivains ou les traducteurs ? Comment, par exemple, les approches barthésiennes du « texte » et de la « critique » influencent-elles notre regard sur son œuvre et, plus généralement, nos propres expériences de lecture et de travail critique ? Selon Barthes, le texte constitue un processus de travail et de production – et non de consommation – à l’intérieur duquel le créateur du texte rejoint le lecteur. Le travail du critique se révèle également producteur et créateur : il s’agit moins de découvrir des vérités cachées à propos d’auteurs ou de leurs œuvres, encore moins d’identifier leurs diverses influences, ou de fabriquer une reproduction du texte, mais plutôt de rassembler écarts et points de rencontre linguistiques à travers un processus de réécriture. En effet, pour Barthes, le critique n’agit pas en traducteur, en exécuteur ou en interprète des variations qui subsistent dans un texte donné, mais bien en opérateur de ses propres variations sur ce texte. En sus des exégèses herméneutiques et programmatiques de son œuvre, quelles sortes de travaux les textes de Barthes peuvent-ils engendrer ou alimenter ? En ce sens, comment peut-on réécrire et opérer Barthes plus de trente ans après sa mort ?</p>
+
+<p>Nous invitons les chercheurs en sciences humaines et sciences sociales à soumettre une proposition d’article montrant comment l’œuvre de Barthes informe leur propre production littéraire ainsi que leur travail théorique et critique, et discutant des différentes manières dont on peut, aujourd’hui, penser avec Barthes.</p>
+
+<p>Les propositions d’articles de 400 mots, en vue d’un article de 6000 mots (en anglais ou français), devront nous parvenir avant le 8 septembre 2014 à cette adresse : k.m.haustein@kent.ac.uk.</p>
+
+<p>Les propositions seront choisies par les éditeurs courant octobre 2014. Les articles sélectionnés seront à rendre au plus tard avant le 2 février 2015. La date de publication du numéro spécial est fixée à décembre 2015.</p>
+
+<p>* * * * * </p>
+
+<p>Call for Abstracts for article contributions to a special issue of L’Esprit créateur
+<br />Issue topic: ‘What’s so great about Roland Barthes?’
+<br />Guest Editors: Thomas Baldwin, Katja Haustein, Lucy O’Meara (University of Kent)
+<br />Submission date for abstracts: 8 September 2014</p>
+
+<p>Almost one hundred years after his birth, the work of Roland Barthes (1915–1980) continues to circulate in the cultural imagination. Novelists, poets, literary critics, translators, philosophers, photographers and artists are still talking about Barthes. The great power of Barthes’s work resides, perhaps, in its radical plurality: throughout his career he wrote in a variety of textual forms and on a wide range of subjects, from the Tour de France to the death of the author, from Marx to Lao Tzu, from pasta to Proust, from semiology to prayer. Yet beneath this frequent variation we find enduring purpose: Barthes is a consistent advocate of the critique of ideology; of the refusal of middlebrow generalization; of the productivity of text; of attention to the critical response of the individual. His writings were keystones in the building of structuralist and post-structuralist thought, and his late work constitutes a probing and often moving exploration of everyday life, in its affective, social, practical and creative aspects. </p>
+
+<p>In which ways is Barthes still relevant to cultural and literary theory? What is the theoretical and creative significance of his work, and how can his formal innovations inspire critics, writers, or translators? How, for example, do Barthes’s approaches to ‘text’ and ‘critique’ bear upon our engagements with his writing and upon our own practices of reading and criticism more generally? For Barthes, the text is a process of work and production – rather than consumption – in which the producer of the text and the reader are brought together. The task of the critic is similarly productive and creative: it is not to discover hidden truths about authors or their works, still less to pinpoint their influences; nor is it to produce a replica of the text. It is, rather, to bring about linguistic circulation and contact through processes of rewriting. Indeed, according to Barthes, the critic is not an interpreter, executor or performer of the variations that subsist in a given text, but an operator of his or her own variations on it. Beyond the stimulation of hermeneutic and programmatic exegeses of his oeuvre, what kind of work can Barthes’s texts be made to do or help us do? How, indeed, do we rewrite and operate on Barthes more than thirty years after his death? </p>
+
+<p>We welcome academics from research backgrounds across the Humanities and the Social Sciences to submit abstracts for contributions that show how Barthes’s work informs their own literary production or their critical and theoretical practice, and that discuss how we can think with Barthes today. </p>
+
+<p>Please send your 400-word abstracts for a 6000-word article (in English or French) by 8 September 2014 to: k.m.haustein@kent.ac.uk.</p>
+
+<p>The editors’ decisions regarding abstracts will be communicated during October 2014. The deadline for selected articles will be 2 February 2015. The publication date of the special issue is December 2015.</p>
+
+<p></p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/959-France_Allemagne_regards_et_objets_crois_es' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>France - Allemagne, regards et objets croisées (Sammelband)</h2>
+<h3>La littérature allemande vue de France. La littérature française vue d’Allemagne</h3>
+<hr>
+<abbr class='unapi-id' title='959'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<span class='tag multiline'>Didier Alexandre</span>
+<a href="/pers/78-Wolfgang_Asholt" class="tag multiline" popup="true">Wolfgang Asholt</a>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Verlag</dt>
+<dd>Narr</dd>
+<dt>Ort</dt>
+<dd>Tübingen</dd>
+<dt>Publikationsdatum</dt>
+<dd>
+
+2011
+</dd>
+<dt>Auflage</dt>
+<dd>1</dd>
+<dt>Reihe</dt>
+<dd>edition lendemains, 24</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.narr-shop.de/index.php/literaturwissenschaften/reihen/edition-lendemains.html" target="_blank">http://www.narr-shop.de/index.php/literaturwissenschaften/reihen/edition-lendemains.html</a></dd>
+<dt>ISBN</dt>
+<dd>
+978-3-8233-6660-7
+(
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-8233-6660-7&amp;kataloge=SWB&amp;kataloge=BVB&amp;kataloge=NRW&amp;kataloge=HEBIS&amp;kataloge=HEBIS_RETRO&amp;kataloge=KOBV&amp;kataloge=GBV&amp;kataloge=DDB" popup="true">im KVK suchen</a>
+)
+</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Deutsch-französische Literaturbeziehungen, Komparatistik, Deutschlandbild, Frankreichbild
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Un lieu commun de la critique littéraire oppose l&#8217;histoire littéraire de la France, perçue comme un continuum presque exempt de ruptures ou de temps faibles, et portée par des écoles ou des « pléiades » de créateurs, à d&#8217;autres littératures européennes, dominées par une figure majeure qui en produit la synthèse : c&#8217;est le cas, de manière tout à fait caractéristique, de Goethe pour l&#8217;Allemagne. « Nous n&#8217;avons pas (notre) Goethe, disent les Français, mais voyez le bataillon serré de nos classiques ».</p>
+<p>Le colloque d&#8217;Osnabrück s&#8217;est proposé d&#8217;interroger la construction et la transmission de l&#8217;idée de littérature en France et en Allemagne, en prenant pour point de départ cette asymétrie.</p>
+<p>L&#8217;un des volets sera consacré à l&#8217;image de Goethe en France, avec une attention particulière portée la commémoration du centenaire en 1932.</p>
+<p>L&#8217;autre porte sur l&#8217;image de la littérature française du XIXe siècle par la critique allemande. Les influences directes entre poètes et essayistes (Benjamin et Adorno face à la littérature française) ayant fait l&#8217;objet de nombreuses études, on privilégiera la critique des universitaires romanistes, y compris les comparatistes, tels que Friedrich, Curtius, Auerbach, et celle des grandes revues.</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p><a href="http://d-nb.info/1014555868" target="_blank">http://d-nb.info/1014555868</a></p>
+<p>Table des matières</p>
+<p>Introduction &#8230; vii</p>
+<h2>1. L&#8217;Allemagne vue à travers la figure de Goethe et la France vue par la philologie nazie</h2>
+<p><strong>Didier Alexandre</strong> (Paris IV &#8211; Sorbonne)<br />
+Le centenaire de Goethe : Regards croisés sur le monde actuel &#8230; 1</p>
+<p><strong>Marc Décimo</strong> (Orléans)<br />
+De Michel Bréal, lecteur de Goethe, aux relations franco-allemandes du point de vue philologique des années 1850 à 1932 &#8230; 15</p>
+<p><strong>Bernard Le Drezen</strong> (Paris IV &#8211; Sorbonne)<br />
+Un Goethe classique et socialiste : les <em>Nouvelles conversations</em> de Blum &#8230; 31</p>
+<p><strong>Frank-Rutger Hausmann</strong> (Freiburg i.Br.)<br />
+La France vue par les romanistes allemands entre 1933 et 1945 &#8230; 47</p>
+<h2>2. Le XIXe siècle vu de France et d&#8217;Allemagne</h2>
+<p><strong>Michel Murat</strong> (Paris IV &#8211; Sorbonne)<br />
+La destinée de Novalis en France &#8230; 69</p>
+<p><strong>Claude Pierre Pérez</strong> (Aix-en-Provence)<br />
+Le Romantisme allemand vu par les <em>Cahiers du Sud</em> &#8230; 83</p>
+<p><strong>Markus Messling</strong> (Potsdam)<br />
+France &#8211; Allemagne : philologie hégémonique vs. philologie érudite ? A propos des traditions différentes de la culture textuelle &#8230; 93</p>
+<p><strong>Wolfgang Asholt</strong> (Osnabrück)<br />
+Philologie idéaliste ou Histoire littéraire : l&#8217;exemple de Victor Klemperer &#8230; 111</p>
+<h2>3. Lectures de poésie française</h2>
+<p><strong>Robert Kahn</strong> (Rouen)<br />
+« Quand le ciel bas et lourd pèse comme un couvercle » : le « Baudelaire » d&#8217;Erich Auerbach &#8230; 129</p>
+<p><strong>Christoph König</strong> (Osnabrück)<br />
+Le français de Paul Valéry dans les poèmes tardifs en allemand de Rilke &#8230; 137</p>
+<p><strong>Thierry Roger</strong> (Paris IV &#8211; Sorbonne)<br />
+Hugo Friedrich lecteur de la poésie française du XIXe siècle &#8230; 153</p>
+<h2>4. Les romanistes et la littérature contemporaine en France</h2>
+<p><strong>Thomas Hunkeler</strong> (Fribourg)<br />
+D&#8217;un regard doublement décalé &#8211; les littératures française et allemande selon Gonzague de Reynold &#8230; 171</p>
+<p><strong>Claudine Delphis</strong> (Paris <span class="caps">VII</span>)<br />
+L&#8217;enseignement de la littérature française à la fin du XIXe et au début du XXe siècle : l&#8217;exemple de l&#8217;université de Leipzig (1892-1914) &#8230; 181</p>
+<p><strong>Ursula Bähler</strong> (Zürich)<br />
+Sur l&#8217;imaginaire littéraire et national du jeune Curtius : <em>Ferdinand Brunetière, Die literarischen Wegbereiter</em> et <em>Maurice Barrès</em> &#8230; 197</p>
+<p><strong>Kai Nonnenmacher</strong> (Ratisbonne)<br />
+Karl Vossler et la littérature française. La responsabilité politique dans la philologie néo-idéaliste &#8230; 225</p>
+<h2>Annexe</h2>
+<p><strong>Karl Vossler</strong><br />
+Les cultures romanes et l&#8217;esprit allemand (trois conférences de Brême en 1925) <br />
+avec une introduction de <strong>Benedetto Croce</strong> et une postface de <strong>Hugo Friedrich</strong>.<br />
+trad. par Brigitte Hébert &#8230; 241</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Tagungsprogramm:<br />
+<a href="http://www.romanistik.de/aktuelles/newsartikel/article/france-allemagne-regards-et-objets-croises-la-litterature-allemande-vue-de-la-france-la-lit/" target="_blank">http://www.romanistik.de/aktuelles/newsartikel/article/france-allemagne-regards-et-objets-croises-la-litterature-allemande-vue-de-la-france-la-lit/</a></p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/78-Wolfgang_Asholt" class="tag multiline" popup="true">Wolfgang Asholt</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Samstag, 10. September 2011, 14:08 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Samstag, 10. September 2011, 14:08 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

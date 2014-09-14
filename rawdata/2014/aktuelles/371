@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+Universitätsprofessur (W2/W 3) für „Französische Literaturwissenschaft”
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Essen
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-08-28
+</p>
+<p class=''>
+<b>
+Gehalt:
+</b>
+W2/W3
+</p>
+<p class=''>
+<b>
+Arbeitsstunden:
+</b>
+100%
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.academics.de/jobs/professur_w2_w3_franzoesische_literaturwissenschaft_104106.html" target="_blank">http://www.academics.de/jobs/professur_w2_w3_franzoesische_literaturwissenschaft_104106.html</a>
+</p>
+</div>
+<p>An der Universität Duisburg-Essen ist in der Fakultät für Geisteswissenschaften zum nächstmöglichen Zeitpunkt folgende Professur zu besetzen:</p>
+
+<p>Universitätsprofessur (Bes.-Gr. W 2/W 3) für „Französische Literaturwissenschaft”</p>
+
+<p>Der/Die zukünftige Stelleninhaber/in soll das Fach in seiner ganzen Breite in Forschung und Lehre vertreten und sich an den Studiengängen (BA/MA Lehramt, BA-/MA-2-Fach-Studiengänge, BA/MA Kulturwirt, MA Urbane Kultur, Gesellschaft und Raum) beteiligen. Erwünscht wird ein Schwerpunkt auf dem Gebiet der Postcolonial Studies sowie - zur Unterstützung und Beteiligung an der Lehre im Spanischen - auch im Bereich der spanischen Literaturwissenschaft. Notwendig ist weiterhin die Fähigkeit zur wissenschaftlichen Auseinandersetzung mit Themen und Fragestellungen, die insbesondere in der Lehrerausbildung relevant sind.</p>
+
+<p>Erwartet werden Publikationen in referierten Fachzeitschriften sowie Erfahrungen bei der Durchführung selbst eingeworbener Drittmittelprojekte, insbesondere DFG-geförderter Projekte.</p>
+
+<p>Für die Professur gilt
+<br />Die Einstellungsvoraussetzungen richten sich nach § 36 Hochschulgesetz NRW.</p>
+
+<p>Die Universität Duisburg-Essen verfolgt das Ziel, die Vielfalt ihrer Mitglieder zu fördern (s. http://uni-due.de/diversity). Sie strebt die Erhöhung des Anteils der Frauen am wissenschaftlichen Personal an und fordert deshalb einschlägig qualifizierte Frauen nachdrücklich auf, sich zu bewerben. Bei gleicher Qualifikation werden Frauen nach Maßgabe des Landesgleichstellungsgesetzes bevorzugt berücksichtigt. </p>
+
+<p>Bewerbungen geeigneter Schwerbehinderter und Gleichgestellter i. S. des § 2 Abs. 3 SGB IX sind erwünscht.</p>
+
+<p>Bewerbungen mit den üblichen Unterlagen (die Anforderungen an die Bewerbungsunterlagen entnehmen Sie bitte der Erweiterung des Ausschreibungstextes unter http://www.uni-due.de/stellenmarkt/professuren_ude.shtml) sind innerhalb eines Monats nach Erscheinen der Anzeige zu richten an den Dekan der Fakultät für Geisteswissenschaften der Universität Duisburg-Essen, Herrn Univ.-Prof. Dr. Dirk Hartmann, Universitätsstraße 2, 45141 Essen.</p>
+
+<p>Weitere Informationen zu den Stellen und deren Einbettung in die Universität Duisburg-Essen sowie in die Fakultät für Geisteswissenschaften finden Sie unter https://www.uni-due.de/geisteswissenschaften/.</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/1449-Dietmar_Osthus">Dietmar Osthus</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

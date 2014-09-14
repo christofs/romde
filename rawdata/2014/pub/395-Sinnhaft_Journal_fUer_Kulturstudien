@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/395-Sinnhaft_Journal_fUer_Kulturstudien' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Sinnhaft. Journal für Kulturstudien (Zeitschriftenheft)</h2>
+<h3>Themenheft: Strategien des Entziehens</h3>
+<hr>
+<abbr class='unapi-id' title='395'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<a href="/pers/10-Daniel_Winkler" class="tag multiline" popup="true">Daniel Winkler</a>
+<span class='tag multiline'>Karin Harrasser</span>
+<span class='tag multiline'>Marie-Noelle Yazdanpanah</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+Juli
+2010
+</dd>
+<dt>Jahrgang</dt>
+<dd>13</dd>
+<dt>Nummer</dt>
+<dd>22</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.loecker.at/sites/dynamic.pl?sid=&action=shop&item=197&group=13" target="_blank">http://www.loecker.at/sites/dynamic.pl?sid=&action=shop&item=197&group=13</a>, <a href="http://www.sinnhaft.at/" target="_blank">http://www.sinnhaft.at/</a></dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Medien-/Kulturwissenschaft, Literaturwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Benjamin Walter, Lafargue Paul, McLuhan Marshall, Agamben Giorgio
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>Editorial</p>
+<p>Die aktuelle sinnhaft fragt nach aktuellen Ausprägungen der Figur des Entziehens in der Kunst, der Popularkultur und der Theorie; nach Logiken und Techniken und Wissensformen des Entziehens; nach den Chancen und Problemen dieser Figur als Orientierungsmarke des Agierens; nach ihren gesellschaftlich-emanzipativen sowie psychisch-regressiven Seiten; nach ihren transgressiven wie traumatisierenden Effekten.</p>
+<p>Als wir 2008 mit der Redaktion des vorliegenden Heftes begannen, glaubten wir eine gewisse Lähmung feststellen zu können: Individuelle Lebensentwürfe und politisches Agieren schien in unseren Breitengraden zunehmend in sich selbst zu kreisen. Der gefühlte Sieg des Kapitals, so schien es, hatte jede Utopie ausgetrieben und als linke Widerstandsstrategie blieb nur noch die Schwundstufe der Negation, der Rückzug übrig. Dieser Eindruck verstärkte sich für uns KulturarbeiterInnen 30 +, da wir erlebt hatten, dass residuelle Orte und gesellschaftliche Nischen zunehmend enger und rarer geworden waren. Außerdem hatten die letzten Jahre deutlich gezeigt, dass Strategien der Subversion, dass die Gegenkulturen der 60-er und 70-er Jahre längst neoliberal kolonisiert und zu Marketingstrategien verkommen waren.</p>
+<p>Und dann kam sie doch: Die Störung (einst Hoffnungsträgerin der Marxschen Maschinenstürmer) und zwar in Form einer Wirtschaftskrise, die nicht so einfach re-integriert werden konnte. Unmengen von Kapital wurden vernichtet, keynesianische und andere Wirtschaftstheorien der staatlichen Regulierung wurden aus der Mottenkiste geholt und die »natürliche« Dynamik des Marktes, die in den letzten Jahren so massiv den Rückbau staatlicher Versorgungsanstalten argumentativ gestützt hatte, kam in Verruf.</p>
+<p>Aber hat die Krise tatsächlich eine Repolitisierung nach sich gezogen? Vorderhand ja: Staatliche oder überstaatliche Wirtschaftspolitik besteht nicht mehr nur darin, die Entfaltung des freien Marktes zu gewährleisten, die Gewerkschaften der Autobauindustrie treten wieder medial in Erscheinung, einige Fabriken wurden von der Arbeiterschaft übernommen und zuletzt haben auch endlich die Studierenden begonnen zu streiken. Man kann sich aber des Eindrucks nicht erwehren, dass der im doppelten Sinn aufgebrachte Aktivismus nicht in Richtung eines Generalstreiks tendiert, sondern dass es in den meisten Fällen darum geht, den Zustand vor der Krise, wiederherzustellen. Anlass für die aktuellen Proteste ist also die Störung eines Status quo in Form von bürgerlichen Sicherheiten und Bequemlichkeiten, die als selbstverständlich aufgefasst werden. Das Ziel scheint zu sein, sich das Recht auf einen (erneuten) Rückzug ins Private zu erstreiten. Und das macht durchaus Sinn: Sich ins Private zurückziehen kann man – ist man nicht so konsequent und radikal wie Melvilles Bartleby – nämlich nur, wenn existentielle Probleme gelöst sind, wenn der Arbeitsplatz gesichert und das Bankkon- to halbwegs gefüllt ist.</p>
+<p>Nie schien Paul Lafargues Plädoyer für ein Recht auf Faulheit deshalb so paradox wie heute: Der Mangel an Arbeit im (vielleicht nicht mehr ganz so reichen) Westen, ein Effekt der Verlagerung der Produktion in Niedriglohnländer, bestraft auf der einen Seite diejenigen weniger Privilegierten und Ausgebildeten, die gerne arbeiten würden durch sozialen Ausschluss bzw. Ausschluss von Konsum und produziert auf der anderen Seite immer mehr reiche Opfer des Burn-out-Syndroms (und auch weiterhin: immer mehr Millionäre).</p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>- Editorial S. 8 <br />
+- Heide Hammer und Stephanie Kiessling: Sinnlose Verweigerungen S. 12 <br />
+– Holger Schulze: Das häusliche Leben S. 30 <br />
+– Karin S. Wozonig: Kunst oder Leben. Betty Paoli über Literatur und Entsagung S. 44 <br />
+– Thomas Ballhausen: Im Süden. Dreizehn Fragmente zur Technik des Rückzugs S. 56 <br />
+– Antonia von Schöning: Archiv des Entziehens. Anmerkungen zur Atlas Group S. 62 <br />
+– Katja Rothe: Die Schule des Entzugs. Walter Benjamins Radio-Kasperl S. 74 <br />
+– Odin Kroeger: Zur Kritik des Entzugs als politischer Praxis S. 90 <br />
+– Sebastian Gießmann: Orte der Kulturwissenschaften: The McLuhan Program in Culture and Technology S. 104 <br />
+– Paul Lafargue: Das Recht auf Faulheit S. 108 <br />
+– Klaus Neundlinger: Der Entzug der Natur. Zu Paul Lafargues Polemik gegen die Lohnarbeit S. 116 <br />
+– Impressum S. 122</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p>Bibliotheksbestand:<br />
+<a href="http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-85409-536-1" target="_blank">http://www.ubka.uni-karlsruhe.de/kvk.html?SB=978-3-85409-536-1</a></p></div>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/10-Daniel_Winkler" class="tag multiline" popup="true">Daniel Winkler</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 12. August 2010, 14:57 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 12. August 2010, 14:57 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+<link href='http://romanistik.de/export/259-Translation_Studies' rel='unapi-server' type='application/xml'>
+
+</head>
+<body class='publications show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Translation Studies (Zeitschriftenheft)</h2>
+<h3></h3>
+<hr>
+<abbr class='unapi-id' title='259'></abbr>
+<div class='row-fluid'>
+<div class='span8'>
+<h3>Allgemeine Angaben</h3>
+<h4>Herausgeber</h4>
+<span class='tag multiline'>Kate Sturge</span>
+<span class='tag multiline'>Michaela Wolf</span>
+<p class='space-l'></p>
+<dl class='attribute_listing'>
+<dt>Publikationsdatum</dt>
+<dd>
+Januar
+2010
+</dd>
+<dt>Jahrgang</dt>
+<dd>3</dd>
+<dt>Nummer</dt>
+<dd>1</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.informaworld.com/smpp/title~db=all~content=g917369682~tab=toc" target="_blank">http://www.informaworld.com/smpp/title~db=all~content=g917369682~tab=toc</a></dd>
+<dt>ISSN</dt>
+<dd>1478-1700</dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Französisch, Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Literaturwissenschaft, Medien-/Kulturwissenschaft, Sprachpraxis
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Übersetzung, Kulturübersetzung
+</dd>
+</dl>
+<div class='col_8 last'>
+<hr>
+<h4>Exposé</h4>
+<div class='textile space-l'><p>This new journal explores promising lines of work within the discipline of Translation Studies, placing a special emphasis on existing connections with neighbouring disciplines and the creation of new links.</p>
+<p>Translation Studies aims to extend the methodologies, areas of interest and conceptual frameworks inside the discipline, while testing the traditional boundaries of the notion of “translation” and offering a forum for debate focusing on historical, social, institutional and cultural issues that are strongly rooted in the text level, but also go far beyond it.</p>
+<p><a href="http://www.informaworld.com/smpp/title~db=all~content=t762290979~tab=summary" target="_blank">http://www.informaworld.com/smpp/title~db=all~content=t762290979~tab=summary</a></p></div>
+<h4>Inhalt</h4>
+<div class='textile'><p>Sociology of literature, sociology of translation: The reception of Irène Némirovsky&#8217;s Suite française in France and Britain<br />
+Angela Kershaw<br />
+Pages 1 – 16</p>
+<p>Pseudotranslation in the fiction of Akutagawa Ryūnosuke<br />
+Thomas O. Beebee; Ikuho Amano<br />
+Pages 17 – 32</p>
+<p>Reading multimodal translational webs: Dialogue of the visual and the verbal in Vanity Fair&#8217;s publication of Chronicle of a Death Foretold<br />
+Anna Fochi<br />
+Pages 33 – 46</p>
+<p>What happens if we think that translating is a wave?<br />
+Ubaldo Stecconi<br />
+Pages 47 – 60</p>
+<p>Medieval literature through the lens of translation theory: Bridging the interpretive gap<br />
+Lynne Long<br />
+Pages 61 – 77</p>
+<p>Reading from the outside: The uses of translation for Virginia Woolf&#8217;s “common reader”<br />
+Jennifer Raterman<br />
+Pages 78 – 93</p>
+<p>Translation Studies Forum: Cultural translation<br />
+Mary Louise Pratt;  Birgit Wagner;  Ovidi Carbonell i Cortés;  Andrew Chesterman; Maria Tymoczko<br />
+Pages 94 – 110</p>
+<p>Book reviews<br />
+Angelo Bottone;  M. Teresa Caneda Cabrera;  Reine Meylaerts; Anne Markey<br />
+Pages 111 – 125</p>
+<p>Notes on contributors<br />
+Pages 126 – 128</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<p>keine</p>
+</div>
+<div class='space-l'></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/134-Doris_Bachmann_Medick" class="tag multiline" popup="true">Doris Bachmann-Medick</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 18. Februar 2010, 23:20 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Donnerstag, 18. Februar 2010, 23:20 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

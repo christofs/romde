@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfP: Contrastivica 2014: Deutsch-iberische Tagung zur kontrastiven Linguistik / Encuentros ibero-germánicos de lingüística contrastiva / Encontros íbero-germânicos de linguística contrastiva
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Valencia, Spanien
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-05-15
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2014-10-06
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2014-10-08
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.uv.es/contrastivica/" target="_blank">http://www.uv.es/contrastivica/</a>
+</p>
+</div>
+<p>Los encuentros ibero-germánicos Contrastivica llegan en 2014 a su tercera edición con la celebración del congreso internacional, dedicada a la temática &quot;Sprachen und Kulturen vermitteln zwischen Spanien, Portugal und Deutschland: Kontrastive Linguistik und Fremdsprachenforschung in Zeiten transkultureller kommunikativer Kompetenz&quot;.</p>
+
+<p>Este evento reunirá del 6 al 8 de octubre de 2014 en la Universitat de València a germanistas y expertos universitarios en Alemán como Lengua Extranjera de la Península Ibérica y Centroeuropa con romanistas y expertos universitarios en Español y Portugués (Gallego y Catalán) como Lengua Extranjera de Alemania, Austria y Suiza.</p>
+
+<p>Los docentes españoles y portugueses de alemán y los profesores germanohablantes de español y portugués tienen un ámbito común de acción: la lingüística contrastiva hispano-alemana y luso-alemana. El papel de esta colaboración transnacional se revela como fundamental en la respuesta que el mundo académico debe ofrecer a los retos surgidos en la última década: por una parte, con el desarrollo de nuevas herramientas y propuestas metodológicas para la enseñanza de lenguas extranjeras (y la traducción) y, por otra, con la emergencia de un mercado laboral cada vez más globalizado que impone la necesidad de formar competencialmente a los futuros titulados para que sean capaces de interactuar de manera eficiente en contextos diversos y multilingües.</p>
+
+<p>En Contrastivica 2014, germanistas y romanistas tendrán la ocasión de exponer durante tres días aquellos proyectos o líneas de investigación contrastivas que puedan ser de mutuo provecho, así como de establecer contacto con otros investigadores.</p>
+
+<p>La exposición de las contribuciones admitidas tendrá forma de ponencia (20 minutos + 10 minutos de discusión). Se admitirán ponencias sobre cualquier aspecto de la lingüística contrastiva hispano-alemana o luso-alemana y sus implicaciones didácticas.
+<br /> 
+<br />El plazo para la presentación de temas de ponencias está abierto hasta el 15 de mayo de 2014. Envíe su propuesta en formato WORD con su nombre completo y título académico, su filiación universitaria, el título de la ponencia y una breve exposición de no más de 500 palabras a:
+<br />Dr. habil. Ferran Robles i Sabater: ferran.robles@uv.es
+<br />Dª Anna Gil Bisquert: anna.gil@uv.es </p>
+
+<p>Las comunicaciones seleccionadas por el comité científico se publicarán en formato libro. En dicha selección se seguirá el proceso de revisión por pares ciegos para garantizar la calidad de la publicación y su inclusión en una colección especializada de una editorial de reconocido prestigio.</p>
+
+<p>Han confirmado su asistencia como ponentes plenarios:
+<br />Prof. Dr. Johannes Kabatek (Universität Zürich),
+<br />Prof. Dr. Eva Eckkrammer (Universität Mannheim),
+<br />Prof. Dr. Andreu Castell Vicente (Universitat Rovira i Virgili),
+<br />Prof. Dr. José Antonio Calañas Continente (Universitat de València).</p>
+
+<p>Más información en: http://www.uv.es/contrastivica</p>
+
+<p>Comité científico
+<br />Prof. Dr. Herbert Josef Holzinger (Universitat de València). Coordinador del comité.
+<br />Prof. Dr. Cecilia López Roig (Universitat de València). Coordinadora del comité.
+<br />Dr. Vicente Álvarez Vives (Universität Paderborn)
+<br />Prof. Dr. Andreu Castell Vicente (Universitat Rovira i Virgili)
+<br />Prof. Dr. Annette Endruschat (Universität Regensburg)
+<br />Prof. Dr. Matthias Heinz (Universität Salzburg)
+<br />Dr. Elia Hernández Socas (Universität Leipzig)
+<br />Prof. Dr. Johannes Kabatek (Universität Zürich)
+<br />Prof. Dr. Reinhard Kiesler (Universität Würzburg)
+<br />Prof. Dr. Andre Klump (Universität Trier)
+<br />Prof. Dr. María del Carmen Mellado Blanco (Universidade de Santiago de Compostela)
+<br />Prof. Dr. Fabio Mollica (Università degli Studi di Milano)
+<br />Dr. Ramona Schröpf (Fachhochschule Dortmund)
+<br />Prof. Dr. Bernd Sieberg (Universidade de Lisboa)
+<br />Dr. Encarnación Tabares Plasencia (Universität Leipzig)
+<br />Prof. Dr. Aina Torrent-Lenzen (Fachhochschule Köln/Universität Wien)</p>
+
+<p>Comité organizador
+<br />Dr. habil. Ferran Robles i Sabater (Universitat de València). Coordinador académico.
+<br />Prof. Dr. Daniel Reimann (Universität Duisburg-Essen)
+<br />Prof. Dr. Raúl Sánchez Prieto (Universidad de Salamanca)
+<br />Anna Gil Bisquert (Universitat de València). Secretaria.</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/3851-Ferran_Robles_Sabater">Ferran Robles Sabater</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

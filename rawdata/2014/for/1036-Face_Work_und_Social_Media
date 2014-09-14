@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='projects show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class=''><a href="/aktuelles">Aktuelles</a></li>
+<li class='active'><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='span12'>
+<h2>Face Work und Social Media (Veranstaltungsprojekt)</h2>
+<h3></h3>
+<hr>
+<div class='row-fluid'>
+<div class='span8'>
+<h4>Allgemeine Angaben</h4>
+<dl class='attribute_listing'>
+<dt>Projektbeginn</dt>
+<dd>Donnerstag, 23. Mai 2013</dd>
+<dt>Projektende</dt>
+<dd>Samstag, 25. Mai 2013</dd>
+<dt>Status</dt>
+<dd>abgeschlossen</dd>
+<dt>Weiterführender Link</dt>
+<dd><a href="http://www.uni-hildesheim.de/index.php?id=7583" target="_blank">http://www.uni-hildesheim.de/index.php?id=7583</a></dd>
+<dt>Thematik nach Sprachen</dt>
+<dd>
+Spanisch, Französisch, Italienisch, Sprachübergreifend
+</dd>
+<dt>Disziplin(en)</dt>
+<dd>
+Sprachwissenschaft
+</dd>
+<dt>Schlagwörter</dt>
+<dd>
+Politeness, Face Work, Pragmatik, Höflichkeit, Social Media
+</dd>
+</dl>
+<h4>Aktiv beteiligte Person(en)</h4>
+<p>(z.B. Kooperation, Mitarbeiter, Fellows)</p>
+<a href="/pers/1294-Kristina_Bedijs" class="tag multiline" popup="true">Kristina Bedijs</a>
+<a href="/pers/786-Christiane_Maass" class="tag multiline" popup="true">Christiane Maaß</a>
+<span class='tag multiline'>Gudrun Held</span>
+<p class='space-l'></p>
+<hr>
+<h4>Exposé</h4>
+<div class='textile'><p>Politeness und Face Work sind in der linguistischen Pragmatik mittlerweile fest etablierte Konzepte. Politeness-Theorien gehen davon aus, dass jedes Individuum einerseits Bedürfnisse des „positive face“ nach Anerkennung und sozialer Integration, andererseits Bedürfnisse des „negative face“ nach Autonomie und persönlicher Freiheit hat und diese als soziale Ansprüche in jede Kommunikation einbringt und neu verhandelt. Der kommunikative Austausch ist daher zu einem Großteil von Handlungen geprägt, die das eigene oder das fremde Face betreffen. Diesen Prozess bezeichnet man als Face Work. Strategien der Höflichkeit und Unhöflichkeit sind somit immer mit Face Work verbunden.</p>
+<p>In den letzten Jahren ist die Frage nach der Höflichkeit in computervermittelter Kommunikation ins Blickfeld der Forschung gerückt – beispielsweise in Analysen von E-Mail- und Chatkommunikation. Bislang noch nicht untersucht ist hier das Feld der Kommunikation im Bereich der Social Media. Hierzu zählen Kommunikationsformen wie Foren, Blogs, Twitter und soziale Netzwerke, die es Internetnutzern ermöglichen, ohne großen technischen Aufwand eigene Inhalte zu erstellen. Andere Nutzer haben die Möglichkeit, auf diese Beiträge zu reagieren, wodurch häufig eine dialogähnliche Kommunikationsstruktur entsteht, die sich allerdings gegenüber der Face-to-face-Situation in einigen wesentlichen Punkten unterscheidet: (Quasi-)Asynchronität der Kommunikationssituation, Pseudonymität, fehlende physische Kopräsenz, keine Möglichkeit, über den Körper oder die Stimme nonverbale Signale zu vermitteln. Trotz dieser einschränkenden Faktoren ist zu beobachten, dass die Teilnehmer in den Social Media sprachliche Strategien entwickeln, die eine gerade auf der Beziehungsebene fein ausdifferenzierte Kommunikation ermöglichen. Face Work und Politeness spielen dabei eine besondere Rolle, umso mehr, da sich nicht alle gewohnten Strategien aus Face-to-face-Situationen problemlos auf die computervermittelte Kommunikation übertragen lassen und zum Beispiel zu den sprachlichen Ausdrucksformen neue visuelle Mittel ins Spiel kommen.</p>
+<p>Die Tagung „Face Work und Social Media“ stellt daher die Kommunikation in sozialen Onlineformaten in den Mittelpunkt. Es soll untersucht werden, ob und wie die Nutzer spezifische sprachliche Strategien für die phatische und im weiteren Sinne pragmatische Seite der Kommunikation entwickeln, ob besondere Zwänge der Formate einen anderen Umgang mit Face Work notwendig machen, ob neue Strategien von den Nutzern möglicherweise sogar reflektiert eingesetzt werden.</p>
+<p>Einige denkbare Fragestellungen für Vorträge wären beispielsweise:</p>
+<ul>
+	<li>Behalten die bekannten Theorien der Politeness in Social Media ihre Gültigkeit oder müssen die Modelle unter Berücksichtigung medienspezifischer Besonderheiten neu überdacht werden?</li>
+	<li>Werden Politeness-Strategien aus der Offline-Kommunikation übernommen?</li>
+	<li>Welche Neuerungen bietet das Face Work in Social Media? Worauf sind diese zurückzuführen?</li>
+	<li>Welche konkreten sprachlichen Mittel kommen in Social Media zum Einsatz? Gibt es qualitative oder quantitative Unterschiede zu anderen Kommunikationssituationen?</li>
+	<li>Wie werden die Regeln der Politeness und des Face Work in Social Media verhandelt? Werden Kommunikationsregeln in Form von Netiquette festgeschrieben, reflektiert und beachtet? Wie wird mit Verstößen umgegangen? Welche Formen von Metadiskussion gibt es? Wo und auf welche Weise manifestieren sich stillschweigende Übereinkünfte?</li>
+</ul>
+<p>Theoretische Zugänge sind ebenso erwünscht wie konkrete empirische Analysen. Das Forschungsinteresse der Organisatorinnen liegt bei den romanischen Sprachen. Entsprechende Beitragsvorschläge sind daher in besonderer Weise willkommen.</p>
+<p>Abstracts (ca. 500 Wörter) werden bis zum 31.12.2011 an Kristina Bedijs (bedijs[a]uni-hildesheim.de), Gudrun Held (Gudrun.Bachleitner-Held[a]sbg.ac.at) y Christiane Maaß (maassc[a]uni-hildesheim.de) erbeten. Tagungssprache ist Englisch, Beiträge zu anderen Einzelsprachen sind aber willkommen.</p>
+<p>Da das Thema ein höchst aktuelles Forschungsdesiderat darstellt, werden die Beiträge vorab publiziert. Der gemeinsame Band soll auf der Tagung vorgestellt werden. Detaillierte Hinweise zur Publikation erfolgen mit der Mitteilung über die Annahme der Beitragsvorschläge.</p></div>
+<hr>
+<h4>Anmerkungen</h4>
+<div class='textile'><p><strong><span class="caps">ACHTUNG</span>: Call for Abstracts endet am 31.12.2011!</strong></p></div>
+</div>
+<div class='span4'>
+<dl class='attribute_listing'>
+<dt>Ersteller des Eintrags</dt>
+<dd><a href="/pers/1294-Kristina_Bedijs" class="tag multiline" popup="true">Kristina Bedijs</a></dd>
+</dl>
+<dl class='attribute_listing'>
+<dt>Erstellungsdatum</dt>
+<dd>Donnerstag, 24. November 2011, 08:16 Uhr</dd>
+<dt>Letzte Änderung</dt>
+<dd>Montag, 28. November 2011, 21:26 Uhr</dd>
+</dl>
+<p>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

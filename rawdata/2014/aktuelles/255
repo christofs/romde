@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='text/html;charset=utf-8' http-equiv='Content-Type'>
+<title></title>
+<link href="/assets/application-4db242d7bf888b6c734e79692dfd5937.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/print-7d895924937f7abc22973cefbe3d0559.css" media="print" rel="stylesheet" type="text/css" />
+<script src="/assets/application-ecadcd6eb137c4eab555241585eed26a.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Y23heZUK+4Vmx/RwHh//8QVqmojY5yB7kEunKIl+3ZY=" name="csrf-token" />
+
+</head>
+<body class='news_articles show'>
+<!-- .container -->
+<!-- %header -->
+<!-- = link_to root_path, :class => 'logo' do -->
+<!-- = image_tag("logo_white.png", :alt => "romanistik.de") -->
+<div class='navbar navbar-fixed-top navbar-inverse'>
+<nav class='navbar-inner'>
+<a href="/" class="brand">&nbsp;</a>
+<ul class='nav'>
+<li class='active'><a href="/aktuelles">Aktuelles</a></li>
+<li class=''><a href="/for">Forschung</a></li>
+<li class=''><a href="/mittelbau">Mittelbau</a></li>
+<li class=''><a href="/verbaende">Verbände</a></li>
+<li class=''><a href="/romanistikde">Über romanistik.de</a></li>
+</ul>
+<ul class='nav pull-right'>
+<!-- %li -->
+<!-- %form.navbar-search -->
+<!-- %input.search-query{:type => 'text', :placeholder => 'suchen'} -->
+<li>
+<a href="/login"><!-- %i.icon-white.icon-lock -->
+anmelden
+</a></li>
+<li>
+<a href="/suche"><i class='icon-white icon-search'></i>
+</a></li>
+</ul>
+</nav>
+</div>
+<div id='main' role='main'>
+<div class='container'>
+<div class='content'>
+<div class='row-fluid'>
+<div class='span12'>
+<div class='page-header'>
+<h3>
+CfP: Subsektion des 20. Deutschen Hispanistentags &quot;Historiographie der Sprachwissenschaft und Gedächtnis der modernen Linguistik&quot;
+</h3>
+</div>
+<div class='well'>
+<p class=''>
+<b>
+Ort:
+</b>
+Heidelberg
+</p>
+<p class=''>
+<b>
+Frist:
+</b>
+2014-11-01
+</p>
+<p class=''>
+<b>
+Beginn:
+</b>
+2015-03-18
+</p>
+<p class=''>
+<b>
+Ende:
+</b>
+2015-03-22
+</p>
+<p class='bottom'>
+<b>
+URL:
+</b>
+<a href="http://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/iaz/20ht/sektionen/sw_de.html#31" target="_blank">http://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/iaz/20ht/sektionen/sw_de.html#31</a>
+</p>
+</div>
+<p>Historiographie der Sprachwissenschaft und Gedächtnis der modernen Linguistik</p>
+
+<p>Gerda Haßler (Potsdam) und María Luisa Calero Vaquera (Córdoba)</p>
+
+<p>Forschungen zur Geschichte der Sprachwissenschaft haben in Spanien und Deutschland eine unterschiedliche Intensität, können aber dennoch als in beiden Ländern etabliert betrachtet werden. Trotzdem werden sie von nicht mit ihnen befassten Linguisten häufig kaum zur Kenntnis genommen, was mitunter ein kurzes Gedächtnis ihrer Arbeiten bedingt. Im Normalfall objektbezogener Forschung wird sich der einzelne Wissenschaftler der Geschichte und Tradition der von ihm behandelten Fragestellungen nicht bewusst. Konfrontation mit dieser Geschichte kann sogar zu einem “historiographischen Paradoxon” führen, das sich aus dem Verhältnis der beiden folgenden Tatsachen ergibt: (1) Aussagen über Sprache sind frei von zeitlicher Verankerung, sofern sie objektbezogen argumentativ von Belang sind. (2) Die Historiographie der Sprachwissenschaft gelangt zu Aussagen, deren Wahrheitswert indifferent gegenüber dem objektbezogen argumentativen Wert im wissenschaftlichen Denken ist. So falsch es ist, dass das Kastilische sich vor dem Latein auf der iberischen Halbinsel entwickelt habe, so ist doch die Tatsache, dass dies festgestellt wurde, eine wis¬senschaftshistorische Wahrheit, die auf Zeithorizonte, Argumentationen und Absichten verweist. Für den Historiographen sind alle Annäherungsweisen an den Gegenstand relevant. Die Geschichte wird nicht als bloße kumulative Entwicklung bis hin zur gegenwärtigen Lage der Disziplin betrachtet und man versucht zu vermeiden, die Vergangenheit als Legitimation der Gegenwart zu benutzen. Ein objektbezogen arbeitender Wissenschaftler blickt ziel- und interessengeleitet in die Forschungsgeschichte zurück und konstruiert einen Forschungsstand als Ausgangspunkt, dessen historische Tiefenperspektive nicht interessiert. Unter dieser Perspektivierung entsteht ein Retrospektionshorizont, der für bestimmte Schulen und Epochen charakteristische Gemeinsamkeiten aufweisen kann. </p>
+
+<p>In der Sektion soll versucht werden, die beiden Betrachtungsweisen, die des Historiographen und die des nicht wissenschaftshistorisch arbeitenden Linguisten, zusammenzuführen. Dabei soll deutlich werden, dass die Kenntnisnahme historiographischen Arbeitens Gewinn für die heutige linguistische Forschung erbringt und dass andererseits die Beschäftigung mit aktuellen Problemen der Linguistik für die Bearbeitung von Themen der Geschichte der Sprachwissenschaft unerlässlich ist. </p>
+
+<p>Besondere Beachtung sollten dabei Faktoren finden, die den Wandel der linguistischen Arbeitsgebiete und Fragestellungen bedingen: z. B. Bildung und Auflösung von Schulen, verstärkte Integration linguistischer Forschungen in die einzelphilologische Disziplin der Hispanistik und Auflösung disziplinärer Grenzen, Akzeptanz und Zurückweisung wissenschaftspolitischer Anforderungen. Der Blick auf Varietäten außerhalb Spaniens, damit auch Kontakt mit anderen Philologien und Ausrichtungen der Sprachwissenschaft, sollte ebenfalls berücksichtigt werden. Schließlich sollte auch der über den Themenbereich der Normierung vermittelte Kontakt zwischen der Sprachgeschichte und der Geschichte der Sprachwissenschaft Beachtung finden.</p>
+
+<p>Interessenten richten bitte ein Abstract von 200-300 Wörtern bis zum 1. November 2014 an die beiden Sektionsleiterinnen:
+<br /> 
+<br />Prof. Dr. Gerda Haßler 
+<br />Universität Potsdam
+<br />Institut für Romanistik
+<br />Am Neuen Palais 10, Haus 19
+<br />14469 Potsdam (Alemania)
+<br />hassler@uni-potsdam.de</p>
+
+<p>Profª Dra. Mª Luisa Calero Vaquera
+<br />Área de Lingüística General
+<br />Departamento de Ciencias del lenguaje
+<br />Facultad de Filosofía y Letras, U. de Córdoba
+<br />Plaza del Cardenal Salazar, s/n
+<br />14071 Córdoba  (España)
+<br />mlcalero@uco.es
+</p>
+<div class='space-l'>
+<p>
+<b>Beitrag von:</b>
+<a href="/pers/103-Gerda_Hassler">Gerda Haßler</a>
+</p>
+<p>
+<b>Redaktion:</b>
+<a href="/pers/13-Christof_SchOech">Christof Schöch</a>
+</p>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class='container'>
+<p>
+Romanistik.de ist eine unabhängige Initiative mit Unterstützung des Deutschen Romanistenverbandes, der Kurt Ringger-Stiftung und der AG Rom – Vereinigung der romanistischen Fachverbände.
+</p>
+<p>
+<a href="/romanistikde/kontakt-ansprechpartner/">Kontakt</a>
+|
+<a href="/romanistikde/impressum/">Impressum</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Datenschutzerklärung</a>
+|
+<a href="/romanistikde/haftungsausschlussdatenschutz/">Haftungsausschluss</a>
+|
+<a href="/romanistikde/agb/">Allgemeine Geschäftsbedingungen</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5210857-2']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
